@@ -1,0 +1,405 @@
+{
+ "note": "One entry per topic already used on Facebook or LinkedIn. Do not reuse a topic key, or its headline figures, within 12 weeks. date null = published before this ledger existed; treat it as recent. Add an entry for every post you queue.",
+ "entries": [
+  {
+   "key": "draw-interest",
+   "channels": [
+    "fb",
+    "li"
+   ],
+   "date": null,
+   "title": "Interest on funded draws",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "equity-cushion",
+   "channels": [
+    "fb",
+    "li"
+   ],
+   "date": null,
+   "title": "The equity cushion",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "personal-guarantee",
+   "channels": [
+    "fb",
+    "li"
+   ],
+   "date": null,
+   "title": "Personal guarantees",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "business-purpose",
+   "channels": [
+    "fb",
+    "li"
+   ],
+   "date": null,
+   "title": "Business-purpose loans",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "securities",
+   "channels": [
+    "fb",
+    "li"
+   ],
+   "date": null,
+   "title": "Loans and securities rules",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "day-count",
+   "channels": [
+    "fb"
+   ],
+   "date": null,
+   "title": "Day-count conventions",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "exit-plan",
+   "channels": [
+    "fb"
+   ],
+   "date": null,
+   "title": "The exit plan",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "interest-reserve",
+   "channels": [
+    "fb"
+   ],
+   "date": null,
+   "title": "Interest reserves",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "fragmentation-83-percent",
+   "channels": [
+    "fb"
+   ],
+   "date": null,
+   "title": "Market fragmentation (83%)",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "foreclosure-timeline",
+   "channels": [
+    "fb"
+   ],
+   "date": null,
+   "title": "Foreclosure timelines",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "minimum-interest",
+   "channels": [
+    "fb"
+   ],
+   "date": null,
+   "title": "Minimum interest",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "dscr-2025-shift",
+   "channels": [
+    "fb"
+   ],
+   "date": null,
+   "title": "DSCR market shift in 2025",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "ltv-arv-ltc",
+   "channels": [
+    "fb"
+   ],
+   "date": null,
+   "title": "LTV, ARV and LTC",
+   "figures": [],
+   "sources": []
+  },
+  {
+   "key": "draw-inspection",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-07",
+   "title": "Draw inspections: what stands between a draw request and the money",
+   "figures": [
+    "$100 to $500 per draw",
+    "four to six draws",
+    "$90,000 holdback example, $400 to $2,000 total inspections"
+   ],
+   "sources": []
+  },
+  {
+   "key": "market-size",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-07",
+   "title": "Market size: SFR Analytics vs Forecasa",
+   "figures": [
+    "SFR Analytics $97.3B (2024), $121.2B (2025)",
+    "Forecasa $109.8B (2024)",
+    "241,701 loans (2023), 276,909 (2024)"
+   ],
+   "sources": [
+    {
+     "publisher": "SFR Analytics",
+     "title": "2025 private lending year in review",
+     "url": "https://newsletter.sfranalytics.com/p/2025-private-lending-year-in-review",
+     "date": null
+    },
+    {
+     "publisher": "HousingWire",
+     "title": "Private lending in 2025: A market in transition",
+     "url": null,
+     "date": null
+    }
+   ]
+  },
+  {
+   "key": "rtl-delinquency-kbra",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-07",
+   "title": "Delinquent does not mean lost (KBRA RTL pools)",
+   "figures": [
+    "5.9% rated / 7.2% unrated 60+ days delinquent, foreclosure, bankruptcy or REO at 22 months",
+    "about 3% foreclosure, bankruptcy or REO",
+    "cumulative net losses under 0.1%"
+   ],
+   "sources": [
+    {
+     "publisher": "KBRA",
+     "title": "Laying the Foundation: The Evolution of RTL Lending (press release)",
+     "url": null,
+     "date": "2026"
+    }
+   ]
+  },
+  {
+   "key": "points-vs-payoff-timing",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-08",
+   "title": "Points versus payoff timing",
+   "figures": [
+    "$200,000, 2 points = $4,000",
+    "payoff at 3 months: fee is 40% of income; 6 months: 25%; 12 months: 14% (computed)"
+   ],
+   "sources": []
+  },
+  {
+   "key": "flip-timeline-161-days",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-08",
+   "title": "A typical flip takes 161 days; term and extension pricing",
+   "figures": [
+    "161 days purchase to resale, Q2 2026",
+    "$2,000 a month interest on $200,000 at 12% interest-only (computed)"
+   ],
+   "sources": [
+    {
+     "publisher": "ATTOM",
+     "title": "Q2 2026 U.S. Home Flipping Report",
+     "url": "https://www.attomdata.com/news/market-trends/flipping/home-flipping-profits-continue-gradual-two-year-decline/",
+     "date": "2026-10-01"
+    }
+   ]
+  },
+  {
+   "key": "borrower-divide",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-08",
+   "title": "Most borrowers use one lender; a small group does the volume",
+   "figures": [
+    "nearly 88% of borrowers use a single lender in a year",
+    "4+ loans a year: 9-11% of borrowers, 29-39% of volume, 38-44% of transactions"
+   ],
+   "sources": [
+    {
+     "publisher": "Forecasa via AAPL",
+     "title": "The Borrower Divide Shaping Lending Today",
+     "url": "https://aaplonline.com/articles/market-trends/the-borrower-divide-shaping-lending-today/",
+     "date": "2026-05-13"
+    }
+   ]
+  },
+  {
+   "key": "dscr-explained",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-09",
+   "title": "DSCR in plain English",
+   "figures": [
+    "lenders generally require 1 to 1.5, most common minimum 1.25",
+    "$2,500 / $2,000 = 1.25 (example)"
+   ],
+   "sources": [
+    {
+     "publisher": "SuperMoney",
+     "title": "DSCR loan",
+     "url": "https://www.supermoney.com/encyclopedia/dscr-loan",
+     "date": "2026-04-08"
+    },
+    {
+     "publisher": "DSCR Authority",
+     "title": "How DSCR Is Calculated",
+     "url": "https://dscrauthority.com/learn/how-dscr-is-calculated/",
+     "date": "2026-05-21"
+    }
+   ]
+  },
+  {
+   "key": "foreclosure-h1-2026",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-09",
+   "title": "Foreclosure activity first half of 2026",
+   "figures": [
+    "227,548 properties with filings, +21%",
+    "164,566 starts, +18%",
+    "27,983 REO, +33%"
+   ],
+   "sources": [
+    {
+     "publisher": "ATTOM",
+     "title": "Mid-Year 2026 U.S. Foreclosure Market Report",
+     "url": "https://www.attomdata.com/news/market-trends/foreclosures/2026-mid-year-foreclosure-market-report/",
+     "date": "2026-07-16"
+    }
+   ]
+  },
+  {
+   "key": "interest-only-vs-amortizing",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-09",
+   "title": "Why private loans are usually interest-only",
+   "figures": [
+    "$200,000 at 12%: $2,000 interest-only vs $2,057.23 amortizing",
+    "$57.23 principal in month one",
+    "balance $199,274.24 after 12 payments, down $725.76 (0.36%)"
+   ],
+   "sources": [
+    {
+     "publisher": "Fit Small Business",
+     "title": "What Hard Money Loans Are and How They Work",
+     "url": "https://fitsmallbusiness.com/hard-money-loan/",
+     "date": "2025-05-27"
+    },
+    {
+     "publisher": "FlipperForce",
+     "title": "Fix-and-Flip Hard Money Loans: Terms, Draw Process & What to Expect",
+     "url": "https://flipperforce.com/how-to-flip-houses/chapter-3-getting-funding-for-your-flip-projects/fix-and-flip-hard-money-loans-explained",
+     "date": null
+    }
+   ]
+  },
+  {
+   "key": "lien-waivers-conditional-unconditional",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-10",
+   "title": "Conditional vs unconditional lien waivers around a draw",
+   "figures": [
+    "conditional waiver takes effect when payment clears; unconditional takes effect when signed"
+   ],
+   "sources": [
+    {
+     "publisher": "Corpay",
+     "title": "Construction Lien Waivers: Conditional vs Unconditional Explained",
+     "url": "https://www.corpay.com/resources/blog/construction-lien-waiver",
+     "date": "2026-06-11"
+    }
+   ]
+  },
+  {
+   "key": "wire-fraud-ic3-2025",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-11",
+   "title": "Real estate wire fraud: FBI IC3 2025 figures and verification steps",
+   "figures": [
+    "12,368 real estate fraud complaints, $275.1 million losses in 2025 (up from about $173 million in 2024)"
+   ],
+   "sources": [
+    {
+     "publisher": "ALTA",
+     "title": "Latest FBI Cybercrime Report Shows Real Estate Fraud Losses Rising",
+     "url": "https://www.alta.org/news-and-publications/press-release/Latest-FBI-Cybercrime-Report-Shows-Real-Estate-Fraud-Losses-Rising-Reinforcing-Need-for-Strong-Consumer-Safeguards",
+     "date": "2026-04-10"
+    },
+    {
+     "publisher": "HousingWire",
+     "title": "FBI cybercrime losses: real estate fraud hits $275M",
+     "url": "https://www.housingwire.com/articles/fbi-cybercrime-losses-real-estate-fraud-hits-275m/",
+     "date": "2026-04-10"
+    },
+    {
+     "publisher": "National Association of REALTORS",
+     "title": "Protect your money from mortgage closing scams",
+     "url": "https://www.nar.realtor/financing-credit/protect-your-money-from-mortgage-closing-scams-when-buying-a-home",
+     "date": "2019-11-20"
+    },
+    {
+     "publisher": "ALTA HomeClosing101",
+     "title": "Stop fraud",
+     "url": "https://hc101.alta.org/stop-fraud",
+     "date": null
+    }
+   ]
+  },
+  {
+   "key": "title-date-down",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-11",
+   "title": "Title policy as a snapshot; date-downs before each draw",
+   "figures": [
+    "title continued down to each disbursement date",
+    "mechanic's lien priority can relate back to first work in some states"
+   ],
+   "sources": [
+    {
+     "publisher": "Pillsbury Winthrop Shaw Pittman",
+     "title": "Keeping Your Place in Line: Title Insurance Protections for Construction Loan Disbursements",
+     "url": "https://gravel2gavel.com/title-insurance-construction-loan-disbursements",
+     "date": "2017-05-18"
+    }
+   ]
+  }
+ ]
+}

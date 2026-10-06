@@ -3,26 +3,9 @@
 Run from repo root:  python3 tools/weeks/2026-10-06.py [key ...]"""
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
-from gfx_lib import shell, panel, stat_card, render, ARROW_R
+from gfx_lib import shell, panel, stat_card, step_cards, render, ARROW_R, CHK
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-CHK = ('<svg width="26" height="26" viewBox="0 0 26 26"><circle cx="13" cy="13" r="12" fill="rgba(201,168,76,.12)" stroke="#C9A84C" stroke-width="1.6"/>'
-       '<path d="M7.5 13.4 L11.4 17.2 L18.6 9.2" fill="none" stroke="#E2C265" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>')
-
-
-def step_cards(items, top=272, h=206, step=327, w=290):
-    """items: (number, title, description, pill_or_None). Description max 2 lines when a pill is present."""
-    b = ""
-    for i, (n, t, d, pill) in enumerate(items):
-        x = 68 + i * step
-        b += (f'<div class="card" style="left:{x}px;top:{top}px;width:{w}px;height:{h}px">'
-              f'<div class="num">{n}</div><div class="ctitle">{t}</div><div class="cdesc">{d}</div>'
-              + (f'<div class="pill">{pill}</div>' if pill else '') + '</div>')
-        if i < len(items) - 1:
-            b += ARROW_R.format(x=x + w + 4, y=top + h // 2 - 10)
-    return b
-
-
 # ------------------------------------------------------------ FB Thu 5:27p: flip timeline (ATTOM Q2 2026)
 def gfx_flip():
     X0, W = 88, 904

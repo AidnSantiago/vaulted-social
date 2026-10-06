@@ -10,6 +10,7 @@ The model must not do day-of-week, daylight-saving or UTC arithmetic in its head
              (copy channelService + dueAt out of Buffer's list_posts result; "facebook"/"linkedin" also work)
 --now        Defaults to the real current time. Everything is computed in America/New_York.
 --cap        Scheduled posts a channel may hold at once (Buffer free plan: 10 per channel).
+--extend-days N  Rehearsals only: move the end of the window N days later.
 --schedule   Optional override of a channel's weekly slots, in the shape Buffer's get_channel returns as
              postingSchedule: [{"day": "mon", "times": ["17:27"], "paused": false}, ...].
              Buffer is the source of truth. If get_channel shows different times than SLOTS below, pass them here.
@@ -80,11 +81,12 @@ def main():
     ap.add_argument("--queue", required=True)
     ap.add_argument("--now")
     ap.add_argument("--cap", type=int, default=10)
+    ap.add_argument("--extend-days", type=int, default=0, help="push the end of the window out by N days (rehearsals only)")
     ap.add_argument("--schedule", action="append", default=[])
     a = ap.parse_args()
 
     now = parse_dt(a.now).astimezone(ET) if a.now else datetime.now(ET)
-    end = window_end(now)
+    end = window_end(now) + timedelta(days=a.extend_days)
     sched = {k: dict(v) for k, v in SLOTS.items()}
     for item in a.schedule:
         ch, path = item.split("=", 1)
