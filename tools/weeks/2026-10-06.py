@@ -100,10 +100,11 @@ def gfx_dscr():
             b += (f'<div class="abs mono" style="left:{xx - 100:.1f}px;top:{Y + 66}px;width:200px;text-align:center;font-size:16px;color:#A5B2C3">{lab}</div>'
                   + (f'<div class="abs" style="left:{xx - 140:.1f}px;top:{Y + 90}px;width:280px;text-align:center;font-size:14.5px;color:#8A9BB0">{sub}</div>' if sub else ''))
     b += panel(792, 88, "ASK EACH LENDER", "Lenders define income and payments a little differently. Ask which costs they count.", 470)
-    foot = ("Sources: SuperMoney, DSCR Loans (updated Apr 2026); Agora Real Estate, DSCR Loans (Jul 2025). "
-            "Formulas vary by lender (net operating income or rent, divided by debt service or PITIA). Example is illustrative.")
+    foot = ("Sources: SuperMoney, DSCR Loan (updated Apr 8, 2026): lenders generally require 1 to 1.5, most common minimum 1.25. "
+            "DSCR Authority, How DSCR Is Calculated (May 21, 2026): residential lenders divide gross rent by PITIA, commercial lenders divide net operating income by debt service. "
+            "Sources differ on typical minimums. Example is illustrative.")
     return shell("DSCR in plain English:", "income &divide; debt payments.",
-                 "Debt service coverage ratio: how lenders test a rental property.", b, foot, 906)
+                 "Debt service coverage ratio: how lenders test a rental property.", b, foot, 898)
 
 
 # ------------------------------------------------------------ FB Fri 5:27p: interest-only vs amortizing

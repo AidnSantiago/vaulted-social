@@ -16,7 +16,7 @@ Typical use (see tools/weeks/*.py and tools/examples/*.py):
 
 Rules of thumb (learned the hard way):
 - Headline lines must fit one line each (about 38 characters at 43px serif).
-- Keep every element inside the 1080 frame; render() prints OUT OF FRAME if anything leaves it.
+- Keep every element inside the 1080 frame. render() prints WARN lines (text overlap, text at a box edge, a line drawn over text, out of frame). Fix them all.
 - Always open the PNG and look at it. Check for overlaps, orphaned words, cramped text.
 """
 import os
@@ -86,12 +86,79 @@ def stat_card(x, y, w, h, big, caption, small="", big_size=46):
     return s + '</div>'
 
 
+CHECK_JS = """() => {
+  const issues = [];
+  const rects = [];
+  const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+  let n;
+  while ((n = walker.nextNode())) {
+    const t = n.textContent.trim();
+    if (!t) continue;
+    const el = n.parentElement;
+    if (!el || el.closest('style')) continue;
+    const cs = getComputedStyle(el);
+    if (cs.visibility === 'hidden' || cs.display === 'none') continue;
+    const range = document.createRange();
+    range.selectNodeContents(n);
+    for (const r of range.getClientRects()) {
+      if (r.width < 1 || r.height < 1) continue;
+      rects.push({l: r.left, t: r.top, r: r.right, b: r.bottom, text: t.slice(0, 30), el});
+    }
+  }
+  // 1) text touching other text
+  for (let i = 0; i < rects.length; i++) for (let j = i + 1; j < rects.length; j++) {
+    const a = rects[i], b = rects[j];
+    if (a.el === b.el) continue;
+    const ox = Math.min(a.r, b.r) - Math.max(a.l, b.l), oy = Math.min(a.b, b.b) - Math.max(a.t, b.t);
+    if (ox > 2 && oy > 3) issues.push('TEXT OVERLAP: "' + a.text + '" with "' + b.text + '"');
+  }
+  // 2) text too close to the frame edge
+  for (const a of rects) if (a.l < 40 || a.r > 1040 || a.t < 30 || a.b > 1052) issues.push('TIGHT MARGIN: "' + a.text + '"');
+  // 3) text running to or past the edge of the card, panel or bar it sits in
+  for (const a of rects) {
+    let p = a.el;
+    while (p && p !== document.body) {
+      const cs = getComputedStyle(p);
+      if (p.classList.contains('card') || p.classList.contains('panel') || (cs.backgroundImage !== 'none' && cs.borderRadius !== '0px')) {
+        const r = p.getBoundingClientRect();
+        if (a.l < r.left + 6 || a.r > r.right - 6 || a.t < r.top + 3 || a.b > r.bottom - 3) issues.push('TEXT AT EDGE OF ITS BOX: "' + a.text + '"');
+        break;
+      }
+      p = p.parentElement;
+    }
+  }
+  // 4) a thin line or bar drawn on top of text (later in the page than the text)
+  const lines = [...document.querySelectorAll('body *')].filter(e => {
+    const r = e.getBoundingClientRect(), cs = getComputedStyle(e);
+    const thin = (r.width <= 5 && r.height > 20) || (r.height <= 5 && r.width > 20);
+    const visible = cs.borderLeftWidth !== '0px' || cs.borderTopWidth !== '0px' || (cs.backgroundColor !== 'rgba(0, 0, 0, 0)');
+    return thin && visible && e.tagName !== 'svg' && !e.closest('svg');
+  });
+  for (const ln of lines) {
+    const lr = ln.getBoundingClientRect();
+    for (const a of rects) {
+      if (a.el === ln || ln.contains(a.el)) continue;
+      const after = !!(a.el.compareDocumentPosition(ln) & Node.DOCUMENT_POSITION_FOLLOWING);
+      const ox = Math.min(a.r, lr.right) - Math.max(a.l, lr.left), oy = Math.min(a.b, lr.bottom) - Math.max(a.t, lr.top);
+      if (after && ox > 1 && oy > 3) issues.push('LINE DRAWN OVER TEXT: "' + a.text + '"');
+    }
+  }
+  // 5) anything outside the frame
+  document.querySelectorAll('body *').forEach(e => {
+    const r = e.getBoundingClientRect();
+    if (r.width > 0 && (r.right > 1080.5 || r.bottom > 1080.5 || r.left < -0.5)) issues.push('OUT OF FRAME: ' + e.className + ' ' + (e.textContent || '').slice(0, 24));
+  });
+  return [...new Set(issues)];
+}"""
+
+
 def render(pages, root, scale=2):
     """pages: list of (path relative to root, builder function). Writes PNGs (2160x2160 at scale 2).
-    Also writes a .html next to a temp dir (not kept in the repo)."""
+    Prints 'WARN <file>: ...' lines for layout problems (overlaps, text at a box edge, lines over text, out of frame).
+    Fix every warning, then open the PNG and look at it. Returns {relative path: [warnings]}."""
     import tempfile
     tmp = tempfile.mkdtemp(prefix="vgfx_")
-    out = []
+    report = {}
     with sync_playwright() as p:
         br = p.chromium.launch(args=["--no-sandbox"])
         for rel, build in pages:
@@ -100,14 +167,14 @@ def render(pages, root, scale=2):
             pg = br.new_page(viewport={"width": 1080, "height": 1080}, device_scale_factor=scale)
             pg.goto("file://" + html_path)
             pg.wait_for_timeout(250)
-            bad = pg.evaluate("""() => [...document.querySelectorAll('body *')].filter(e => {const r=e.getBoundingClientRect(); return r.width>0 && (r.right>1080.5 || r.bottom>1080.5 || r.left<-0.5)}).map(e => e.className + ' ' + (e.textContent||'').slice(0,30))""")
-            if bad:
-                print(rel, "OUT OF FRAME:", bad[:5])
+            issues = pg.evaluate(CHECK_JS)
             dest = os.path.join(root, rel)
             os.makedirs(os.path.dirname(dest), exist_ok=True)
             pg.screenshot(path=dest)
             pg.close()
-            out.append(dest)
+            report[rel] = issues
             print("rendered", rel)
+            for i in issues:
+                print("  WARN", rel + ":", i)
         br.close()
-    return out
+    return report
