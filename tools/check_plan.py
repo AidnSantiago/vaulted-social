@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Check a weekly plan file against the house rules before anything is pushed or queued.
 
-    python3 tools/check_plan.py plans/2026-10-12.json [--schedule fb=/tmp/fb.json] [--schedule li=/tmp/li.json]
+    python3 tools/check_plan.py plans/2026-10-12.json [--skip-images] [--schedule fb=/tmp/fb.json] [--schedule li=/tmp/li.json]
 
 Prints FAIL (must fix) and WARN (look at it) lines, then OK or NOT OK. Exit code 1 when NOT OK.
 
@@ -70,7 +70,8 @@ def numbers_in(text):
         tok = m.group(0).rstrip(",.")
         n = norm_num(tok)
         small_plain = ("$" not in tok and "%" not in tok and "." not in tok and len(n) <= 2)
-        if small_plain:
+        is_year = bool(re.fullmatch(r"(19|20)\d\d", n)) and "$" not in tok and "%" not in tok
+        if small_plain or is_year:
             continue
         out.append((tok, n))
     return out
@@ -81,6 +82,7 @@ def main():
     ap.add_argument("plan")
     ap.add_argument("--schedule", action="append", default=[])
     ap.add_argument("--ledger", default=os.path.join(ROOT, "ledger.json"))
+    ap.add_argument("--skip-images", action="store_true", help="text stage: do not require the PNG files to exist yet")
     a = ap.parse_args()
 
     fails, warns = [], []
@@ -187,7 +189,9 @@ def main():
             if m.group(1) != f"{slot:%Y-%m-%d}" or m.group(2) != f"{slot:%H%M}" or m.group(3) != ch:
                 F(i, "image path date, time and channel must match the slot")
             full = os.path.join(ROOT, img)
-            if not os.path.exists(full):
+            if a.skip_images:
+                pass
+            elif not os.path.exists(full):
                 F(i, "image file not found: " + img)
             elif png_size(full) != (2160, 2160):
                 F(i, f"image must be 2160x2160, got {png_size(full)}")
