@@ -102,6 +102,12 @@ def main():
     if os.path.exists(a.ledger):
         ledger = json.load(open(a.ledger)).get("entries", [])
     cutoff = datetime.now(ET) - timedelta(weeks=12)
+    # ledger entries dated inside this plan's own week are this plan's posts, recorded after queueing; they are not reuse
+    ws = plan.get("week_start") or ""
+    try:
+        we = (datetime.fromisoformat(ws) + timedelta(days=6)).strftime("%Y-%m-%d")
+    except Exception:
+        ws, we = "9999-12-31", "0000-01-01"
 
     seen_slots, seen_topics = set(), {}
     for i, p in enumerate(posts, 1):
@@ -135,6 +141,8 @@ def main():
             if e.get("key") != topic:
                 continue
             d = e.get("date")
+            if d and ws <= d <= we:
+                continue
             try:
                 recent = (d is None) or datetime.fromisoformat(d).replace(tzinfo=ET) > cutoff
             except Exception:
@@ -166,8 +174,8 @@ def main():
             if "\n\n" not in text:
                 W(i, "use short paragraphs separated by blank lines")
         else:
-            if not (60 <= n <= 140):
-                F(i, f"LinkedIn posts are 60-140 words; this has {n}")
+            if not (75 <= n <= 100):
+                F(i, f"LinkedIn posts are 75-100 words; this has {n}")
             bad = sorted({c for c in text if c in LI_RESERVED or c in APOSTROPHES})
             if bad:
                 F(i, f"LinkedIn text contains characters to avoid: {bad}")
