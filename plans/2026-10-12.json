@@ -6,7 +6,7 @@
    "slot_local": "2026-10-12T17:27:00-04:00",
    "topic": "weighted-average-ltv",
    "kind": "evergreen",
-   "text": "Your three loans average 63 percent LTV. Is your portfolio really that safe?\n\nSay you hold a $600,000 loan at 75 percent LTV, a $100,000 loan at 55 percent and a $150,000 loan at 60 percent. The simple average is 63.3 percent.\n\nWeighted average LTV multiplies each LTV by its loan balance, adds those up ($595,000), then divides by the total balance ($850,000). The answer is 70.0 percent.\n\nThe $600,000 loan is about 71 percent of your balance, so it pulls the number up. Track the weighted figure, not the simple one.\n\nvaultedonline.com",
+   "text": "Three loans can average 63 percent LTV and still carry 70 percent. How?\n\nSay you hold a $600,000 loan at 75 percent LTV, a $100,000 loan at 55 percent and a $150,000 loan at 60 percent. The simple average is 63.3 percent.\n\nWeighted average LTV multiplies each LTV by its loan balance, adds those up ($595,000), then divides by the total balance ($850,000). The answer is 70.0 percent.\n\nThe $600,000 loan is about 71 percent of your balance, so it pulls the number up. Track the weighted figure, not the simple one.\n\nvaultedonline.com",
    "alt": "Worked example: three loans of $600,000 at 75 percent LTV, $100,000 at 55 percent and $150,000 at 60 percent have a simple average LTV of 63.3 percent but a balance-weighted average of 70.0 percent.",
    "image": "images/2026-10-12/1727-fb-weighted-ltv.png",
    "sources": [
@@ -56,7 +56,7 @@
    "slot_local": "2026-10-13T09:15:00-04:00",
    "topic": "loss-payee-mortgagee-clause",
    "kind": "evergreen",
-   "text": "What does it mean when a lender is the loss payee on an insurance policy?\n\nA loss payee is the party entitled to the insurance payout if a claim is made. A mortgagee clause entitles a named mortgagee, the lender, to be paid for damage or loss to the property.\n\nPicture a $240,000 loan and a fire that causes $90,000 of damage. Because the lender is named, the insurer pays the lender for that loss, even though the policy is the borrower's. That is 37.5 percent of the balance.\n\nCheck that your name is on the policy.\n\nvaultedonline.com",
+   "text": "What does it mean when a lender is the loss payee on an insurance policy?\n\nA loss payee is the party entitled to the insurance payout if a claim is made. A mortgagee clause entitles a named mortgagee, the lender, to be paid for damage or loss to the property.\n\nPicture a $240,000 loan and a fire that causes $90,000 of damage. Because the lender is named, the insurer pays the lender for that loss, even though the policy is the borrower's. That is 37.5 percent of the balance.\n\nPayout amounts depend on the policy.\n\nvaultedonline.com",
    "alt": "Diagram: a $90,000 fire loss on a property with a $240,000 loan. Because the lender is named as loss payee under the mortgagee clause, the insurer pays the lender for the loss. The claim equals 37.5 percent of the balance.",
    "image": "images/2026-10-13/0915-fb-loss-payee.png",
    "sources": [
