@@ -48,8 +48,8 @@
      "calc": "illustrative loan balances chosen for the example"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ac6659eafc53d16cec0b0e7"
   },
   {
    "channel": "fb",
@@ -78,8 +78,8 @@
      "calc": "illustrative loan balance and fire loss chosen for the example"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ac665a375e2178a9949f695"
   },
   {
    "channel": "li",
@@ -99,8 +99,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ac665a6afc53d16cec0b255"
   }
  ]
 }

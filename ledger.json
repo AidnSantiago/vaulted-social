@@ -400,6 +400,59 @@
      "date": "2017-05-18"
     }
    ]
+  },
+  {
+   "key": "weighted-average-ltv",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-12",
+   "title": "Weighted average LTV worked example",
+   "figures": [
+    "63.3 percent",
+    "$595,000",
+    "$850,000",
+    "70.0 percent",
+    "about 71 percent",
+    "63 percent",
+    "$600,000 / $100,000 / $150,000"
+   ],
+   "sources": [
+    "https://www.lawinsider.com/dictionary/weighted-average-ltv"
+   ]
+  },
+  {
+   "key": "loss-payee-mortgagee-clause",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-13",
+   "title": "Loss payee and mortgagee clause explained",
+   "figures": [
+    "37.5 percent",
+    "$240,000 / $90,000"
+   ],
+   "sources": [
+    "https://www.citizensbank.com/learning/mortgagee-clause.aspx"
+   ]
+  },
+  {
+   "key": "flip-profit-q2-2026",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-14",
+   "title": "Flip profits and margins, ATTOM Q2 2026",
+   "figures": [
+    "$60,526",
+    "$71,000",
+    "21.5 percent",
+    "27.6 percent",
+    "20 to 33 percent"
+   ],
+   "sources": [
+    "https://www.attomdata.com/news/market-trends/flipping/home-flipping-profits-continue-gradual-two-year-decline/"
+   ]
   }
  ]
 }
