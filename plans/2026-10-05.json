@@ -43,7 +43,7 @@
      "publisher": "Mortgage.com",
      "url": "https://www.mortgage.com/home-loans/articles/what-is-a-hard-money-loan/",
      "date": "2026-09-21",
-     "quote": "Lenders want to know how you’ll repay the loan—through selling, refinancing or rental income."
+     "quote": "Lenders want to know how you\u2019ll repay the loan\u2014through selling, refinancing or rental income."
     }
    ],
    "derived": [
@@ -174,8 +174,8 @@
      "calc": "scale S = 944 / 64000 px per dollar: holdback bar 944.0 px; contract bar 708.0 px (paid 637.2 px + retainage 70.8 px); unlabeled remainder 236.0 px = 64000 - 48000 = 16000 dollars of the holdback"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ac7914e08d405a9e7fffa2e"
   },
   {
    "channel": "fb",
@@ -276,7 +276,7 @@
      "publisher": "Nelson Mullins Riley & Scarborough LLP",
      "url": "https://www.nelsonmullins.com/idea_exchange/insights/tax-sale-investing-preventing-fallout-on-other-lienholders",
      "date": "2020-05-13",
-     "quote": "However, the resulting mortgage lien, like other liens, generally is junior in priority to a county's tax lien—after all, the governmental entity relies on the regular payment of taxes to continue to provide government services. | When that competing interest arises from delinquent property taxes, the mortgagee's earlier recording time may not be enough to prioritize its lien. | Tax sale investors, mortgage lienholders, and anyone else with an interest in the real estate should regularly monitor local records for competing interests and claims that could affect their interest in the property."
+     "quote": "However, the resulting mortgage lien, like other liens, generally is junior in priority to a county's tax lien\u2014after all, the governmental entity relies on the regular payment of taxes to continue to provide government services. | When that competing interest arises from delinquent property taxes, the mortgagee's earlier recording time may not be enough to prioritize its lien. | Tax sale investors, mortgage lienholders, and anyone else with an interest in the real estate should regularly monitor local records for competing interests and claims that could affect their interest in the property."
     },
     {
      "title": "How Lenders Can Avoid Losing Their Collateral by Paying Off the Borrower's Property Tax Obligations",
@@ -378,10 +378,10 @@
      "publisher": "Pillsbury Winthrop Shaw Pittman LLP",
      "url": "https://www.pillsburylaw.com/en/news-and-insights/distressed-real-estate-forbearance-agreements.html",
      "date": "2020-04-13",
-     "quote": "In its simplest form, a forbearance agreement is not a loan modification. ... Typically, these include acknowledgements of the amount due on account of the loan, an admission of existing defaults, ratification of the loan documents and the representations and warranties in the loan documents, ratification of the validity and enforceability of the lender’s liens, rights and remedies, and confirmation that the lender is not waiving any existing or future defaults and reserving all its rights and remedies (except as specifically provided in the forbearance agreement)."
+     "quote": "In its simplest form, a forbearance agreement is not a loan modification. ... Typically, these include acknowledgements of the amount due on account of the loan, an admission of existing defaults, ratification of the loan documents and the representations and warranties in the loan documents, ratification of the validity and enforceability of the lender\u2019s liens, rights and remedies, and confirmation that the lender is not waiving any existing or future defaults and reserving all its rights and remedies (except as specifically provided in the forbearance agreement)."
     },
     {
-     "title": "When a Commercial Borrower Defaults: Understanding the Lender’s Options",
+     "title": "When a Commercial Borrower Defaults: Understanding the Lender\u2019s Options",
      "publisher": "Amundsen Davis",
      "url": "https://www.amundsendavislaw.com/banking-brief-financial-services-insights/when-a-commercial-borrower-defaults-understanding-the-lenders-options",
      "date": "2025-10-23",
