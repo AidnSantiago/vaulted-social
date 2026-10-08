@@ -453,6 +453,92 @@
    "sources": [
     "https://www.attomdata.com/news/market-trends/flipping/home-flipping-profits-continue-gradual-two-year-decline/"
    ]
+  },
+  {
+   "key": "refi-exit-mortgage-rate",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-08",
+   "title": "Refinance exit: what a higher 30-year rate does to the payoff a payment can cover",
+   "figures": [
+    "Freddie Mac 30-year 7.28 percent (Oct 1, 2026) vs 6.34 percent a year ago",
+    "$325,000 example: $2,020 vs $2,224 a month",
+    "$295,000 supported, about $30,000 short"
+   ],
+   "sources": [
+    "https://www.freddiemac.com/pmms",
+    "https://fred.stlouisfed.org/series/MORTGAGE30US"
+   ]
+  },
+  {
+   "key": "retainage-vs-holdback",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-09",
+   "title": "Rehab holdback is not retainage",
+   "figures": [
+    "$64,000 holdback example",
+    "$48,000 contract, 10 percent retainage = $4,800",
+    "retainage often 5 to 10 percent"
+   ],
+   "sources": [
+    "https://www.corpay.com/resources/blog/construction-retainage",
+    "https://www.kiavi.com/blog/how-fix-and-flip-draw-process-works"
+   ]
+  },
+  {
+   "key": "cross-collateralization",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-10",
+   "title": "Cross-collateralization: one loan, more than one property",
+   "figures": [
+    "$310,000 loan, $225,000 and $175,000 properties",
+    "77.5 percent LTV on $400,000 combined",
+    "137.8 percent LTV after a release with nothing paid down"
+   ],
+   "sources": [
+    "https://barneswalker.com/legal-glossary/x/cross-collateralization-properties-fl/",
+    "https://www.upcounsel.com/partial-release-clause"
+   ]
+  },
+  {
+   "key": "property-tax-lien-priority",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-10",
+   "title": "A tax bill can be paid ahead of a first-lien loan",
+   "figures": [
+    "$7,800 tax bill vs $360,000 loan",
+    "2.2 percent",
+    "$367,800 balance if the lender pays the tax"
+   ],
+   "sources": [
+    "https://www.alllaw.com/articles/nolo/foreclosure/enforcement-non-mortgage-liens.html",
+    "https://aaplonline.com/articles/servicing/cover-your-asset/"
+   ]
+  },
+  {
+   "key": "modification-vs-forbearance",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-11",
+   "title": "Forbearance vs modification on an interest-only loan",
+   "figures": [
+    "$275,000 interest-only at 11 percent",
+    "$2,520.83 a month",
+    "$7,562.50 deferred over 3 months",
+    "$15,125 extra interest over 6 months"
+   ],
+   "sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-forbearance-en-289/",
+    "https://www.amundsendavislaw.com/banking-brief-financial-services-insights/when-a-commercial-borrower-defaults-understanding-the-lenders-options"
+   ]
   }
  ]
 }

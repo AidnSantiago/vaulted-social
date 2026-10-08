@@ -13,7 +13,7 @@ The model must not do day-of-week, daylight-saving or UTC arithmetic in its head
 --extend-days N  Rehearsals only: move the end of the window N days later.
 --schedule   Optional override of a channel's weekly slots, in the shape Buffer's get_channel returns as
              postingSchedule: [{"day": "mon", "times": ["17:27"], "paused": false}, ...].
-             Buffer is the source of truth. If get_channel shows different times than SLOTS below, pass them here.
+             The SLOTS table below is the source of truth (Buffer's posting schedule is not used). Use --schedule only for experiments.
 
 Window: from now until the end of the coming Sunday (if today is Sunday: the Sunday a week away), so a Sunday-evening run
 covers Monday-Sunday and a Thursday run covers through that Sunday.
@@ -30,10 +30,12 @@ ET = ZoneInfo("America/New_York")
 UTC = ZoneInfo("UTC")
 DAYS = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
 
-SLOTS = {  # default weekly slots (ET); keep in sync with Buffer
-    "fb": {"mon": ["17:27"], "tue": ["09:15", "17:27"], "wed": ["08:56", "17:27"], "thu": ["08:25", "17:27"],
-           "fri": ["08:00", "17:27"], "sat": ["17:27"], "sun": ["10:15", "17:27"]},
-    "li": {"wed": ["17:09"], "thu": ["15:40"], "fri": ["14:00"]},
+SLOTS = {  # weekly slots (ET), the source of truth. Facebook: 3 a day (morning, afternoon, evening). LinkedIn: 1 each weekday.
+    # Buffer's posting schedule cannot be edited through its API, so every post is created with mode customScheduled at these exact times.
+    "fb": {"mon": ["08:42", "12:47", "17:27"], "tue": ["09:15", "12:47", "17:27"], "wed": ["08:56", "12:47", "17:27"],
+           "thu": ["08:25", "12:47", "17:27"], "fri": ["08:00", "12:47", "17:27"], "sat": ["09:32", "13:47", "17:27"],
+           "sun": ["10:15", "13:47", "17:27"]},
+    "li": {"mon": ["11:34"], "tue": ["10:21"], "wed": ["17:09"], "thu": ["15:40"], "fri": ["14:00"]},
 }
 CHANNEL_ALIASES = {"facebook": "fb", "fb": "fb", "linkedin": "li", "li": "li"}
 

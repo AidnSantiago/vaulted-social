@@ -1,0 +1,436 @@
+{
+ "week_start": "2026-10-05",
+ "posts": [
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-08T12:47:00-04:00",
+   "topic": "refi-exit-mortgage-rate",
+   "kind": "data",
+   "text": "Freddie Mac's 30-year fixed mortgage rate averaged 7.28 percent as of Oct 1, up from 6.34 percent a year ago. What does that do to a refinance exit?\n\nSay a borrower owes $325,000. A 30-year refinance costs about $2,020 a month in principal and interest at 6.34 percent, or $2,224 at 7.28 percent.\n\nIf the borrower can carry only $2,020, the new rate supports about $295,000. For the lender, that is roughly $30,000 of payoff the refinance may not cover.\n\nThe survey covers owner-occupied purchase loans, so investor rates differ. Still, higher rates shrink what a payment can refinance.\n\nvaultedonline.com",
+   "alt": "Graphic: 30-year mortgage rate up from 6.34% to 7.28% (Freddie Mac, Oct 1, 2026). On an illustrative $325,000 loan the monthly payment is $2,020 at 6.34% and $2,224 at 7.28%, $204 more. A bar chart shows the same $2,020 payment refinances $325,000 at 6.34% but about $295,000 at 7.28%, roughly $30,000 short of the payoff.",
+   "image": "images/2026-10-08/1247-fb-refi-exit-rate.png",
+   "sources": [
+    {
+     "title": "Mortgage Rates (Primary Mortgage Market Survey), weekly averages as of 10/01/2026",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-10-01",
+     "quote": "The 30-year fixed-rate mortgage averaged 7.28% as of October 1, 2026, up from last week when it averaged 7.03%. A year ago at this time, the 30-year FRM averaged 6.34%."
+    },
+    {
+     "title": "Mortgage Rates (PMMS FAQ: borrower profile)",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-10-01",
+     "quote": "As we worked on enhancing the PMMS, we carefully considered which loan products were most popular for the PMMS borrower profile (good/excellent credit, 20% loans, home purchase loans on owner occupied 1-unit single-family properties)."
+    },
+    {
+     "title": "Mortgage Rates Increase (weekly PMMS release, Oct. 02, 2025)",
+     "publisher": "Freddie Mac (GlobeNewswire release)",
+     "url": "https://www.streetinsider.com/Globe+Newswire/Mortgage+Rates+Increase/25411462.html",
+     "date": "2025-10-02",
+     "quote": "The 30-year FRM averaged 6.34% as of October 2, 2025, up from last week when it averaged 6.30%."
+    },
+    {
+     "title": "30-Year Fixed Rate Mortgage Average in the United States (MORTGAGE30US)",
+     "publisher": "Federal Reserve Bank of St. Louis (FRED), data from Freddie Mac",
+     "url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+     "date": "2026-10-01",
+     "quote": "2026-10-01: 7.28"
+    },
+    {
+     "title": "What is a hard money loan and how does it work?",
+     "publisher": "Mortgage.com",
+     "url": "https://www.mortgage.com/home-loans/articles/what-is-a-hard-money-loan/",
+     "date": "2026-09-21",
+     "quote": "Lenders want to know how you’ll repay the loan—through selling, refinancing or rental income."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$325,000",
+     "calc": "illustrative loan payoff chosen for the example (not a data point)"
+    },
+    {
+     "figure": "30 years, 360 monthly payments",
+     "calc": "30 * 12 = 360; a 30-year fixed loan with principal-and-interest payments (the product Freddie Mac's survey reports)"
+    },
+    {
+     "figure": "$2,020",
+     "calc": "325000 * r / (1 - (1 + r)**-360) with r = 6.34/1200 -> 2020.14, shown as $2,020"
+    },
+    {
+     "figure": "$2,224",
+     "calc": "325000 * r / (1 - (1 + r)**-360) with r = 7.28/1200 -> 2223.69, shown as $2,224"
+    },
+    {
+     "figure": "$204",
+     "calc": "2223.69 - 2020.14 = 203.55; $2,224 - $2,020 = $204 (graphic only)"
+    },
+    {
+     "figure": "10.1%",
+     "calc": "2223.69 / 2020.14 - 1 = 0.1008 -> 10.1% (graphic only)"
+    },
+    {
+     "figure": "$295,000",
+     "calc": "loan the $2,020.14 payment supports at 7.28%: 2020.14 / (r / (1 - (1 + r)**-360)) with r = 7.28/1200 -> 295,250.95, rounded to nearest $1,000"
+    },
+    {
+     "figure": "$30,000",
+     "calc": "325000 - 295,250.95 = 29,749.05, rounded to nearest $1,000"
+    },
+    {
+     "figure": "$2,020.14",
+     "calc": "unrounded payment at 6.34% = 2020.14 (graphic footnote)"
+    },
+    {
+     "figure": "$2,223.69",
+     "calc": "unrounded payment at 7.28% = 2223.69 (graphic footnote)"
+    },
+    {
+     "figure": "$203.55",
+     "calc": "2223.69 - 2020.14 = 203.55 (graphic footnote)"
+    },
+    {
+     "figure": "$295,251",
+     "calc": "295,250.95 rounded to the dollar (graphic footnote)"
+    },
+    {
+     "figure": "$29,749",
+     "calc": "325000 - 295,250.95 = 29,749.05 rounded to the dollar (graphic footnote)"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-09T12:47:00-04:00",
+   "topic": "retainage-vs-holdback",
+   "kind": "evergreen",
+   "text": "Is a $64,000 rehab holdback the same as 10 percent retainage on a $48,000 contract?\n\nNo, and one does not replace the other. The holdback is the part of the loan the lender keeps back and releases in draws as work is verified.\n\nRetainage is a share of each contractor payment, often 5 to 10 percent, that the property owner withholds as leverage until the work is complete.\n\nOn $48,000, 10 percent is $4,800 withheld. Terms vary by state, contract and lender.\n\nOne mistake to avoid: paying the contractor in full from every draw, which gives that leverage away.\n\nvaultedonline.com",
+   "alt": "Two comparison cards and two bars drawn to scale. A $64,000 rehab holdback is part of the loan the lender keeps back and releases in draws. A $48,000 contractor contract with 10 percent retainage has $4,800 withheld by the owner until the work is complete and $43,200 paid as work progresses.",
+   "image": "images/2026-10-09/1247-fb-retainage-vs-holdback.png",
+   "sources": [
+    {
+     "title": "Construction Retainage Explained: How It Works, Accounting, and Release",
+     "publisher": "Corpay",
+     "url": "https://www.corpay.com/resources/blog/construction-retainage",
+     "date": "2026-06-01",
+     "quote": "Retainage is typically 5 to 10 percent of each progress payment. ... It assures the owner that the contractor will finish the job and close out the punch list before the held funds are released. ... Retainage caps and release rules differ sharply by state, which is the detail multi-state contractors most often get wrong. ... The exact figure is set by the contract, but the contract can't exceed whatever cap the governing state statute imposes."
+    },
+    {
+     "title": "Retainage in the Southwest: A Look Into Arizona and New Mexico Retainage Laws",
+     "publisher": "Snell & Wilmer",
+     "url": "https://www.swlaw.com/publication/retainage-in-the-southwest-a-look-into-arizona-and-new-mexico-retainage-laws/",
+     "date": "2024-06-12",
+     "quote": "Retainage is a practice, standard in the construction industry, of withholding predetermined portions of payments due to the contractor until the project is complete. ... Retainage is commonly a percentage (often 5-10%) that is withheld from each progress payment until a set milestone is reached. ... In the southwest, the laws vary from a permitted 10% retainage (Arizona) to no retainage allowed (New Mexico)."
+    },
+    {
+     "title": "How the Fix-and-Flip Draw Process Works",
+     "publisher": "Kiavi",
+     "url": "https://www.kiavi.com/blog/how-fix-and-flip-draw-process-works",
+     "date": "2026-06-15",
+     "quote": "A draw is a disbursement of funds from the construction holdback portion of a bridge loan. The holdback is not released at closing. It is distributed incrementally throughout the project as work is completed and verified."
+    },
+    {
+     "title": "Understanding Draw Management",
+     "publisher": "American Association of Private Lenders",
+     "url": "https://aaplonline.com/articles/uncategorized/understanding-draw-management/",
+     "date": "2023-07-24",
+     "quote": "Rehab lenders hold the rehab funds for a project in reserve after loan closing. As borrowers complete work on the property according to the agreement, the funds are released."
+    },
+    {
+     "title": "Holdback",
+     "publisher": "OnlineEd",
+     "url": "https://blog.onlineed.com/2026/02/04/holdback/",
+     "date": "2026-02-04",
+     "quote": "In real estate finance, a Holdback is a portion of a loan that a lender withholds until specific conditions or contingencies are satisfied. These conditions are typically outlined in the loan agreement and may relate to construction progress, repairs, or completion of improvements."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$64,000",
+     "calc": "Illustrative input, not a market figure: the rehab holdback the lender keeps back. HOLDBACK = 64000"
+    },
+    {
+     "figure": "$48,000",
+     "calc": "Illustrative input, not a market figure: the contractor contract amount. CONTRACT = 48000"
+    },
+    {
+     "figure": "10 percent (10%)",
+     "calc": "Illustrative input: retainage rate chosen inside the 5 to 10 percent range in the Corpay and Snell & Wilmer quotes. RATE = 10"
+    },
+    {
+     "figure": "$4,800",
+     "calc": "RETAINAGE = CONTRACT * RATE // 100 = 48000 * 10 // 100 = 4800 (computed in Python)"
+    },
+    {
+     "figure": "$43,200",
+     "calc": "PAID = CONTRACT - RETAINAGE = 48000 - 4800 = 43200 (graphic only; computed in Python)"
+    },
+    {
+     "figure": "bar widths (drawn, not printed)",
+     "calc": "scale S = 944 / 64000 px per dollar: holdback bar 944.0 px; contract bar 708.0 px (paid 637.2 px + retainage 70.8 px); unlabeled remainder 236.0 px = 64000 - 48000 = 16000 dollars of the holdback"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-10T09:32:00-04:00",
+   "topic": "cross-collateralization",
+   "kind": "evergreen",
+   "text": "One $310,000 loan secured by two properties: A is valued at $225,000, B at $175,000. Neither covers the loan alone.\n\nThat is cross-collateralization: more than one property securing one loan. A lender can look at combined value, $400,000, so loan-to-value (LTV) is 77.5 percent.\n\nBut if B sells and is released with nothing paid down, A alone secures all $310,000, a 137.8 percent LTV.\n\nTerms vary by lender and loan documents, so check how a property is released, what a default puts at risk and how each is valued.\n\nMore collateral helps only while enough stays behind the loan.\n\nvaultedonline.com",
+   "alt": "Diagram: a $310,000 loan secured by Property A valued at $225,000 and Property B valued at $175,000. Combined value of $400,000 gives a 77.5 percent LTV. If B is sold and released with nothing paid down, A alone gives a 137.8 percent LTV. Cards list release, default and valuation as terms to check.",
+   "image": "images/2026-10-10/0932-fb-cross-collateralization.png",
+   "sources": [
+    {
+     "title": "Cross-Collateralization of Properties | Legal Glossary",
+     "publisher": "Barnes Walker (law firm)",
+     "url": "https://barneswalker.com/legal-glossary/x/cross-collateralization-properties-fl/",
+     "date": "2026-10-07 (accessed; page undated)",
+     "quote": "A lending arrangement in which multiple properties secure a single mortgage obligation, or in which a single property secures multiple obligations from the same lender. | Benefits lender (lower risk); risks borrower (default on one = foreclosure on all). | Removal: partial release provision, refinancing, payoff, and negotiation."
+    },
+    {
+     "title": "Partial Release Clause | Legal Glossary",
+     "publisher": "Barnes Walker (law firm)",
+     "url": "https://barneswalker.com/legal-glossary/p/partial-release-clause-mortgage/",
+     "date": "2026-10-07 (accessed; page undated)",
+     "quote": "A mortgage provision allowing the borrower to release individual parcels from the blanket mortgage as they are sold, upon payment of a specified release price."
+    },
+    {
+     "title": "Your Guide to Cross Collateralization in Multifamily Real Estate",
+     "publisher": "Multifamily Loans (Janover Capital LLC)",
+     "url": "https://multifamily.loans/apartment-finance-blog/guide-to-multifamily-cross-collateralization",
+     "date": "2022-11-03",
+     "quote": "Cross collateralization is a financing process where multiple properties are used as collateral for a single loan. | Depending on the amount of money owed and the value of the portfolio, a lender could take possession of part of, or the entire, portfolio. | Furthermore, you may need to pay the costs of appraisals for each of the buildings, too. | It also offers the lender lower risk, which can result in more favorable loan terms."
+    },
+    {
+     "title": "What Is a Cross-Collateral Loan and How Does It Work?",
+     "publisher": "Lendz Financial",
+     "url": "https://www.lendzfinancial.com/news/what-is-a-cross-collateral-loan-and-how-does-it-work",
+     "date": "2026-02-26",
+     "quote": "A cross-collateral loan lets a borrower pledge multiple properties to secure financing, creating one larger collateral pool instead of relying on a single asset. | Instead of one property, the lender evaluates the combined value and strength of the pledged properties. | Yes, a borrower can potentially release individual properties later through a partial release clause."
+    },
+    {
+     "title": "Partial Release Clause Explained: Key Uses and Risks",
+     "publisher": "UpCounsel",
+     "url": "https://www.upcounsel.com/partial-release-clause",
+     "date": "2025-09-29",
+     "quote": "If too many parcels are released early, the remaining collateral might not fully secure the loan, increasing lender risk."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$310,000",
+     "calc": "illustrative loan amount chosen for the example"
+    },
+    {
+     "figure": "$225,000",
+     "calc": "illustrative value of Property A chosen for the example"
+    },
+    {
+     "figure": "$175,000",
+     "calc": "illustrative value of Property B chosen for the example"
+    },
+    {
+     "figure": "$400,000",
+     "calc": "225000 + 175000 = 400000 (combined value of A and B, computed in Python)"
+    },
+    {
+     "figure": "77.5 percent (77.5% on the graphic)",
+     "calc": "310000 / 400000 * 100 = 77.5 (LTV on combined value, computed in Python)"
+    },
+    {
+     "figure": "137.8 percent (137.8% on the graphic)",
+     "calc": "310000 / 225000 * 100 = 137.7778, rounded to 137.8 (LTV on Property A alone after B is released with nothing paid down, computed in Python)"
+    },
+    {
+     "figure": "$85,000 (not printed on the graphic)",
+     "calc": "310000 - 225000 = 85000, the part of the loan above Property A's value, drawn as the 136 px dashed 'not covered' segment at 640 px per $400,000 (0.0016 px per dollar); bar widths 496 / 360 / 280 px are 310000 / 225000 / 175000 times 0.0016"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-10T13:47:00-04:00",
+   "topic": "property-tax-lien-priority",
+   "kind": "evergreen",
+   "text": "Can a $7,800 tax bill outrank a $360,000 loan?\n\nIn a number of states, yes. A property tax lien can take priority over a lender's lien, even one recorded first. It varies by state.\n\nSay a borrower skips that bill. It is 2.2 percent of the loan, yet it can rank ahead of the loan. A lender may pay the bill to protect its lien and add it to the balance, here $367,800 before interest and fees.\n\nLenders can confirm taxes are current at closing, then monitor status on a schedule, such as before each draw.\n\nvaultedonline.com",
+   "alt": "Two bars compare a $360,000 first-lien loan recorded first with an unpaid $7,800 tax bill, 2.2 percent of the loan. In a number of states the tax lien is paid first if the property is sold. If the lender pays the tax, the balance is $367,800 before interest and fees. Illustrative amounts.",
+   "image": "images/2026-10-10/1347-fb-property-tax-lien-priority.png",
+   "sources": [
+    {
+     "title": "How Do Property Liens Work? (section: How Do Non-Mortgage Liens Affect Mortgage Liens?)",
+     "publisher": "Nolo, by Amy Loftsgordon, Attorney (published on AllLaw)",
+     "url": "https://www.alllaw.com/articles/nolo/foreclosure/enforcement-non-mortgage-liens.html",
+     "date": "2024-02-21",
+     "quote": "In a number of states, property tax liens will take priority over other liens, including mortgage liens, regardless of when the lien was recorded. | Depending on state and federal laws, certain liens, like those placed on a property for the collection of property taxes, special assessment taxes, homeowners' association (HOA) or condominium association (COA) assessments, and contractor fees, might have priority over first mortgages and other earlier-recorded liens. | Or, in the event of a property tax lien foreclosure, a mortgage lender will often pay the delinquent property taxes, roll that amount into the outstanding mortgage debt, and foreclose on its own."
+    },
+    {
+     "title": "Tax Sale Investing: Preventing Fallout on Other Lienholders",
+     "publisher": "Nelson Mullins Riley & Scarborough LLP",
+     "url": "https://www.nelsonmullins.com/idea_exchange/insights/tax-sale-investing-preventing-fallout-on-other-lienholders",
+     "date": "2020-05-13",
+     "quote": "However, the resulting mortgage lien, like other liens, generally is junior in priority to a county's tax lien—after all, the governmental entity relies on the regular payment of taxes to continue to provide government services. | When that competing interest arises from delinquent property taxes, the mortgagee's earlier recording time may not be enough to prioritize its lien. | Tax sale investors, mortgage lienholders, and anyone else with an interest in the real estate should regularly monitor local records for competing interests and claims that could affect their interest in the property."
+    },
+    {
+     "title": "How Lenders Can Avoid Losing Their Collateral by Paying Off the Borrower's Property Tax Obligations",
+     "publisher": "Jimerson Birr",
+     "url": "https://www.jimersonfirm.com/blog/2021/05/lenders-collateral-property-tax/",
+     "date": "2021-05-24",
+     "quote": "In Florida, if a property owner (borrower) fails to pay its property taxes, the amount owing may become a lien on the property. If this happens, the tax lien will become superior to the lender's mortgage lien. | If the lender (mortgagor) receives notice that the borrower is delinquent in paying its property taxes, the lender may want to protect its mortgage interests by paying off the borrower's delinquent tax obligations and adding the amount paid to the debt balance."
+    },
+    {
+     "title": "Part 2 of a 6-part series: Cover Your Asset",
+     "publisher": "American Association of Private Lenders (AAPL), by Chris Ragland",
+     "url": "https://aaplonline.com/articles/servicing/cover-your-asset/",
+     "date": "2019-03-18",
+     "quote": "Not only that, if taxes on the property become seriously delinquent, the county can place a tax lien on the property, which is superior to any lender's lien. | For any lender servicing a high number of loans, it's useful to use a third-party platform to monitor the status of property taxes."
+    },
+    {
+     "title": "Unpaid property taxes (FAQ)",
+     "publisher": "Illinois Legal Aid Online",
+     "url": "https://www.illinoislegalaid.org/legal-information/unpaid-property-taxes",
+     "date": "2026-02-27",
+     "quote": "Property tax liens take priority over other liens, even if the other debts were recorded first. This means that if the property is sold, the county will be paid the amount owed for property taxes before any other banks or people are paid. Because the county gets paid first, the lender is at greater risk if property taxes go unpaid."
+    },
+    {
+     "title": "Fla. Stat. 197.122, Lien of taxes; application (2026 Florida Statutes)",
+     "publisher": "The Florida Senate (Florida Statutes)",
+     "url": "https://m.flsenate.gov/Statutes/197.122",
+     "date": "2026-10-07 (accessed; page undated)",
+     "quote": "All taxes imposed pursuant to the State Constitution and laws of this state shall be a first lien, superior to all other liens, on any property against which the taxes have been assessed and shall continue in full force from January 1 of the year the taxes were levied until discharged by payment or until barred under chapter 95."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$360,000",
+     "calc": "illustrative first-lien loan amount chosen for the example (not from a source)"
+    },
+    {
+     "figure": "$7,800",
+     "calc": "illustrative annual property tax bill left unpaid, chosen for the example (not from a source)"
+    },
+    {
+     "figure": "2.2 percent",
+     "calc": "7800/360000 = 0.021667 = 2.17%, rounded to 2.2% (the graphic shows 2.2%, and 2.17% in the footnote)"
+    },
+    {
+     "figure": "2.17%",
+     "calc": "7800/360000*100 = 2.17"
+    },
+    {
+     "figure": "$367,800",
+     "calc": "360000 + 7800 = 367800 (balance if the lender pays the bill and adds it to the loan, before interest and fees)"
+    },
+    {
+     "figure": "16.0 px sliver vs 740 px loan bar",
+     "calc": "740 * 7800/360000 = 16.03 px (graphic bars are drawn to scale)"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-11T13:47:00-04:00",
+   "topic": "modification-vs-forbearance",
+   "kind": "evergreen",
+   "text": "A borrower on a $275,000 interest-only loan at 11% asks for more time. Forbearance or modification?\n\nA forbearance is a temporary pause. At $2,520.83 a month, deferring three months of interest leaves $7,562.50 still owed. The agreement typically confirms the amount due and reserves the lender's rights.\n\nA modification permanently changes a term. Extending maturity six months adds $15,125 of interest. With a known default, modifying the loan may waive that default.\n\nDocument each for what it is: a pause, or new terms. Business-purpose loans generally fall outside federal consumer mortgage rules, so loan documents and state law control.\n\nvaultedonline.com",
+   "alt": "Two stacked cards compare forbearance and loan modification on an illustrative $275,000 interest-only loan at 11%, which accrues $2,520.83 a month. Deferring three months of interest leaves $7,562.50 still owed later. Extending maturity six months adds $15,125 of interest. Each card says what to document.",
+   "image": "images/2026-10-11/1347-fb-modification-vs-forbearance.png",
+   "sources": [
+    {
+     "title": "What is mortgage forbearance?",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-forbearance-en-289/",
+     "date": "2026-08-31",
+     "quote": "Your servicer or lender arranges for you to temporarily pause mortgage payments or make smaller payments. ... You still owe the full amount, and you pay back the difference later. ... Forbearance does not erase or decrease the amount you owe on your mortgage. ... Interest on the paused amounts could continue to add up until you repay them"
+    },
+    {
+     "title": "What is a mortgage loan modification?",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-mortgage-loan-modification-en-269/",
+     "date": "2025-03-12",
+     "quote": "A mortgage loan modification is a change in your loan terms. ... Modifications may involve extending the number of years you have to repay the loan, reducing your interest rate, and/or forbearing or reducing your principal balance."
+    },
+    {
+     "title": "Forbearance",
+     "publisher": "Fannie Mae (Single-Family)",
+     "url": "https://singlefamily.fanniemae.com/servicing/forbearance",
+     "date": "2026-10-07 (accessed; page undated)",
+     "quote": "a plan that allows for reduced or suspended mortgage payments for a designated period of time. ... forbearance is not mortgage forgiveness ... all unpaid amounts must be paid back ... Loan modification: Permanently changing some of the terms of the loan to make monthly payments more affordable."
+    },
+    {
+     "title": "Loan Modifications and Forbearance Agreements in the Age of COVID-19",
+     "publisher": "ABF Journal (Inez M. Markovich, McCarter & English, and Howard Brod Brownstein, The Brownstein Corporation)",
+     "url": "https://www.abfjournal.com/articles/loan-modifications-and-forbearance-agreements-in-the-age-of-covid-19/",
+     "date": "2020-05-11",
+     "quote": "A loan modification agreement permanently restructures or modifies the existing terms of a potentially defaulted loan ... Unlike a modification of the existing credit documents, it preserves the existing defaults. ... Confirmation of the existing defaults, including an acknowledgement that the lender has not waived the defaults,"
+    },
+    {
+     "title": "Distressed Real Estate During COVID-19: Tips for Negotiating Forbearance Agreements",
+     "publisher": "Pillsbury Winthrop Shaw Pittman LLP",
+     "url": "https://www.pillsburylaw.com/en/news-and-insights/distressed-real-estate-forbearance-agreements.html",
+     "date": "2020-04-13",
+     "quote": "In its simplest form, a forbearance agreement is not a loan modification. ... Typically, these include acknowledgements of the amount due on account of the loan, an admission of existing defaults, ratification of the loan documents and the representations and warranties in the loan documents, ratification of the validity and enforceability of the lender’s liens, rights and remedies, and confirmation that the lender is not waiving any existing or future defaults and reserving all its rights and remedies (except as specifically provided in the forbearance agreement)."
+    },
+    {
+     "title": "When a Commercial Borrower Defaults: Understanding the Lender’s Options",
+     "publisher": "Amundsen Davis",
+     "url": "https://www.amundsendavislaw.com/banking-brief-financial-services-insights/when-a-commercial-borrower-defaults-understanding-the-lenders-options",
+     "date": "2025-10-23",
+     "quote": "Lenders should also be aware that modifying the loan agreement with a known and pending default may act as a waiver of all defaults. ... In a forbearance, the lender agrees to delay collection action for a specified period in exchange for certain accommodations from the borrower."
+    },
+    {
+     "title": "Regulation X, 12 CFR 1024.5, Coverage of RESPA (exempt transactions)",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/rules-policy/regulations/1024/5/",
+     "date": "2026-10-07 (accessed; page undated)",
+     "quote": "An extension of credit primarily for a business, commercial, or agricultural purpose"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$275,000",
+     "calc": "illustrative loan amount chosen for the example (not from a source)"
+    },
+    {
+     "figure": "11%",
+     "calc": "illustrative annual interest rate on an interest-only loan, chosen for the example"
+    },
+    {
+     "figure": "three months",
+     "calc": "illustrative deferral period chosen for the example"
+    },
+    {
+     "figure": "six months",
+     "calc": "illustrative maturity extension chosen for the example"
+    },
+    {
+     "figure": "$2,520.83",
+     "calc": "python: 275000*0.11/12 = 2520.8333333333335, rounded to the cent = 2520.83 (monthly interest on $275,000 at 11%, interest-only; actual accrual depends on the loan's day-count convention)"
+    },
+    {
+     "figure": "$7,562.50",
+     "calc": "python: 275000*0.11/12*3 = 7562.5 -> 7,562.50 (three months of deferred interest; assumes no interest is charged on the deferred amount)"
+    },
+    {
+     "figure": "$15,125",
+     "calc": "python: 275000*0.11/12*6 = 15125.0 -> 15,125.00 (six extra months of interest at 11% after a six-month maturity extension; shown as $15,125.00 in the graphic footnote)"
+    },
+    {
+     "figure": "3 x $2,520.83 and 6 x $2,520.83",
+     "calc": "graphic formulas: months x monthly interest; the unrounded products are $7,562.50 and $15,125.00 as computed above"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  }
+ ]
+}
