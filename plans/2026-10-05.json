@@ -100,8 +100,8 @@
      "calc": "325000 - 295,250.95 = 29,749.05 rounded to the dollar (graphic footnote)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ac6de68365feab0d734ba91"
   },
   {
    "channel": "fb",

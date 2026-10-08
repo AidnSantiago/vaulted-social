@@ -1,0 +1,924 @@
+{
+ "note": "Ideas only, not facts. Every figure and claim must be researched and verified from pages opened during the run. Use an idea only if its key is not in ledger.json (12-week rule). Honour fit (fb, li or both; never both channels in one week), kind (data ideas need the latest release, with a new key per period) and near (ledger keys with overlapping subject: take a clearly different angle and different numbers). An idea may be reshaped with a clearly new angle under a new key. Weekly-changing data ideas go only in slots queued in the same run. Add up to 10 new ideas per run with the same fields.",
+ "ideas": [
+  {
+   "key": "as-is-vs-arv-value",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "comparison with worked example",
+   "angle": "Which value a rehab loan is sized on (as-is, after-repair, as-completed) and what a wide gap between them does to leverage.",
+   "research": "Appraisal glossaries, lender guidelines (two sources)."
+  },
+  {
+   "key": "bpo-vs-appraisal",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "Broker price opinion versus full appraisal: who orders each, what each is for, and when a lender uses which.",
+   "research": "Industry glossaries; use cost ranges with a named source or none."
+  },
+  {
+   "key": "low-appraisal-math",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "How a low appraisal changes the maximum loan at a fixed LTV and who covers the gap (illustrative numbers).",
+   "research": "Python arithmetic; confirm the LTV definition from a lender guide.",
+   "near": [
+    "ltv-arv-ltc"
+   ]
+  },
+  {
+   "key": "comps-checks",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "What a lender can check about the comparable sales behind a value: distance, recency, condition, size.",
+   "research": "Appraisal Institute or Fannie Mae appraisal guidance."
+  },
+  {
+   "key": "borrower-experience-tiers",
+   "fit": "both",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "How borrower experience (completed projects) can change leverage and pricing in published lender guidelines.",
+   "research": "Published term sheets from several private lenders; name them and show the range."
+  },
+  {
+   "key": "post-closing-liquidity",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Why lenders look at a borrower's cash after closing and what it protects against.",
+   "research": "Lender guidelines; AAPL articles.",
+   "near": [
+    "equity-cushion"
+   ]
+  },
+  {
+   "key": "rehab-budget-review",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "What to check in a rehab budget and scope of work before lending: line detail, contingency, quotes, timeline.",
+   "research": "Lender education pages; AAPL."
+  },
+  {
+   "key": "contractor-vetting",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "What a lender can verify about a contractor: license, insurance, W-9, references, lien waivers.",
+   "research": "One state licensing board page as an example; insurance basics.",
+   "near": [
+    "lien-waivers-conditional-unconditional"
+   ]
+  },
+  {
+   "key": "builders-risk-insurance",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Why a property under renovation or vacant may need a builder's risk or vacant-property policy instead of a standard one.",
+   "research": "Insurance Information Institute or insurer explainers (two sources).",
+   "near": [
+    "loss-payee-mortgagee-clause"
+   ]
+  },
+  {
+   "key": "flood-zone-check",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "How a lender checks a flood zone and when flood insurance is required; where FEMA's map tool fits.",
+   "research": "FEMA and NFIP pages."
+  },
+  {
+   "key": "open-permits-risk",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What open or unpermitted work can do to value, insurance and closing.",
+   "research": "City building department pages; real estate attorney articles."
+  },
+  {
+   "key": "title-lender-vs-owner-policy",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "A lender's title policy versus an owner's policy: who each protects and why a lender asks for its own.",
+   "research": "ALTA and state insurance department pages (two sources).",
+   "near": [
+    "title-date-down"
+   ]
+  },
+  {
+   "key": "entity-borrowers",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Lending to an LLC versus an individual: what changes in documents, guaranty and diligence.",
+   "research": "Law firm articles.",
+   "near": [
+    "personal-guarantee"
+   ]
+  },
+  {
+   "key": "ofac-screening",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What an OFAC sanctions check is and why lenders screen borrowers.",
+   "research": "U.S. Treasury OFAC pages."
+  },
+  {
+   "key": "default-interest",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "Default interest versus the note rate: how it is usually written and how a lender calculates it (illustrative).",
+   "research": "Law firm articles; limits vary by state.",
+   "near": [
+    "minimum-interest"
+   ]
+  },
+  {
+   "key": "late-fees-grace",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "How late fees and grace periods are written on business-purpose loans and why caps vary by state.",
+   "research": "Law firm articles; one state example."
+  },
+  {
+   "key": "prepay-step-down",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "How a step-down prepayment fee works over the loan term (illustrative schedule).",
+   "research": "Lender term sheets for structure; label the schedule illustrative.",
+   "near": [
+    "minimum-interest"
+   ]
+  },
+  {
+   "key": "extension-fee-yield",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "What an extension fee adds to a lender's yield on a short loan (illustrative).",
+   "research": "Python arithmetic; term sheet structure.",
+   "near": [
+    "flip-timeline-161-days"
+   ]
+  },
+  {
+   "key": "usury-business-purpose",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "How state interest-rate limits treat business-purpose loans and why exemptions differ by state.",
+   "research": "Law firm articles for two or three states.",
+   "near": [
+    "business-purpose"
+   ]
+  },
+  {
+   "key": "state-lender-licensing",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "When a private lender may need a state license, why it varies, and where to check.",
+   "research": "State regulator pages (name two states)."
+  },
+  {
+   "key": "recording-taxes",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Which states charge mortgage recording taxes and how a tax on the loan amount shows up in closing costs (illustrative).",
+   "research": "State revenue department pages; Tax Foundation."
+  },
+  {
+   "key": "delinquency-buckets",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "30, 60 and 90 days past due: how delinquency buckets are defined and why the cut-offs matter.",
+   "research": "MBA National Delinquency Survey definitions.",
+   "near": [
+    "rtl-delinquency-kbra"
+   ]
+  },
+  {
+   "key": "nonaccrual-basics",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "When a lender stops accruing interest income on a loan and why it matters for investor reports.",
+   "research": "Regulator or accounting guidance summaries."
+  },
+  {
+   "key": "concentration-risk",
+   "fit": "both",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "Measuring largest exposures: share of the portfolio in the top three borrowers or one market (illustrative).",
+   "research": "Python arithmetic; regulator guidance on concentrations.",
+   "near": [
+    "weighted-average-ltv"
+   ]
+  },
+  {
+   "key": "catastrophe-exposure",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Geographic catastrophe exposure in a loan portfolio and how flood zones and insurance interact.",
+   "research": "FEMA, NAIC, regulator or insurer reports."
+  },
+  {
+   "key": "participation-vs-assignment",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "Loan participation versus assignment: what the buyer owns and who services.",
+   "research": "Law firm articles."
+  },
+  {
+   "key": "investor-reporting",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What fund investors usually ask to see in a monthly report.",
+   "research": "Industry articles; no single-source claims."
+  },
+  {
+   "key": "tax-forms-interest",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Which IRS forms may apply when a private lender receives or pays interest.",
+   "research": "IRS form instructions (1098, 1099-INT, W-9)."
+  },
+  {
+   "key": "sdira-lending",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "The prohibited-transaction idea when an IRA lends: what it is at a high level, no advice.",
+   "research": "IRS pages."
+  },
+  {
+   "key": "note-sale-basics",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "What a buyer of a performing note asks to see in the loan file.",
+   "research": "Industry articles (two sources)."
+  },
+  {
+   "key": "loan-file-contents",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "What belongs in a private loan file from closing through payoff.",
+   "research": "Lender or servicer guides."
+  },
+  {
+   "key": "servicing-in-house-or-third-party",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "In-house versus third-party servicing: what each handles and what a lender stays responsible for.",
+   "research": "Servicer and trade articles."
+  },
+  {
+   "key": "payoff-statement-per-diem",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "How a payoff statement and per diem interest build the payoff amount (illustrative).",
+   "research": "Lender explainers; Python arithmetic.",
+   "near": [
+    "day-count"
+   ]
+  },
+  {
+   "key": "payment-application-order",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "How payments are applied across fees, interest and principal and why the note should say so.",
+   "research": "Law firm or servicer guides."
+  },
+  {
+   "key": "cost-of-capital-spread",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "A fund's cost of capital versus the yield on its loans: the spread (illustrative).",
+   "research": "Python arithmetic; fund education sources."
+  },
+  {
+   "key": "loan-loss-reserve",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What a loss reserve is and how a small lender may think about it.",
+   "research": "Accounting references."
+  },
+  {
+   "key": "judicial-vs-nonjudicial",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "Judicial versus nonjudicial foreclosure: who runs the process and what changes in timing; varies by state.",
+   "research": "Law firm articles and consumer-law explainers.",
+   "near": [
+    "foreclosure-timeline"
+   ]
+  },
+  {
+   "key": "redemption-period",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What a statutory redemption period is and how it can delay getting the property back.",
+   "research": "State statutes or law firm pages for two states.",
+   "near": [
+    "foreclosure-timeline"
+   ]
+  },
+  {
+   "key": "deficiency-judgment",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "When a lender can pursue the shortfall after a sale; varies by state.",
+   "research": "Law firm articles."
+  },
+  {
+   "key": "deed-in-lieu",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Deed in lieu of foreclosure: what it is and what a lender checks first (junior liens, title).",
+   "research": "Law firm articles."
+  },
+  {
+   "key": "lis-pendens",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "What a lis pendens is and what it does to title.",
+   "research": "Law firm articles."
+  },
+  {
+   "key": "automatic-stay",
+   "fit": "both",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What the bankruptcy automatic stay does to a foreclosure in progress.",
+   "research": "uscourts.gov and law firm pages."
+  },
+  {
+   "key": "receiver-appointment",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "When a lender asks for a receiver on an income property and what the receiver does.",
+   "research": "Law firm articles."
+  },
+  {
+   "key": "assignment-of-rents",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What an assignment of rents lets a lender collect after default.",
+   "research": "Law firm articles."
+  },
+  {
+   "key": "lien-position-explained",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "First, second and third lien position: payout order in a sale (illustrative waterfall).",
+   "research": "Law firm articles; Python arithmetic.",
+   "near": [
+    "property-tax-lien-priority"
+   ]
+  },
+  {
+   "key": "subordination-basics",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What it means to subordinate a lien and why a lender is asked to.",
+   "research": "Law firm articles."
+  },
+  {
+   "key": "intercreditor-basics",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What an intercreditor agreement covers when two lenders share one property.",
+   "research": "Law firm articles."
+  },
+  {
+   "key": "carve-outs-bad-boy",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Non-recourse carve-outs (bad boy guaranties): what typically triggers them, per sources.",
+   "research": "Law firm articles (two sources).",
+   "near": [
+    "personal-guarantee"
+   ]
+  },
+  {
+   "key": "hazard-insurance-lapse",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Force-placed insurance after a lapse: what it is and why a lender may use it.",
+   "research": "CFPB and insurer pages.",
+   "near": [
+    "loss-payee-mortgagee-clause"
+   ]
+  },
+  {
+   "key": "hoa-lien-priority",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "HOA assessments and the states where an HOA lien can rank ahead of part of a mortgage.",
+   "research": "Nolo, state statutes, law firms.",
+   "near": [
+    "property-tax-lien-priority"
+   ]
+  },
+  {
+   "key": "mechanics-lien-deadlines",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Why mechanics lien filing deadlines differ by state and what a lender watches.",
+   "research": "State statutes and law firms for two or three states.",
+   "near": [
+    "lien-waivers-conditional-unconditional",
+    "title-date-down"
+   ]
+  },
+  {
+   "key": "preliminary-notices",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Preliminary notices from subcontractors (where required) and what a lender does when one arrives.",
+   "research": "State statutes and construction law firms.",
+   "near": [
+    "lien-waivers-conditional-unconditional"
+   ]
+  },
+  {
+   "key": "judgment-liens",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "How a judgment against a borrower can attach to real property and where it ranks; varies by state.",
+   "research": "Law firm pages."
+  },
+  {
+   "key": "ucc-filings",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "UCC filings versus mortgages: what each perfects.",
+   "research": "Cornell LII UCC pages and law firms."
+  },
+  {
+   "key": "wraparound-loans",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "What a wraparound mortgage is and the lien risk it adds.",
+   "research": "Law firm pages."
+  },
+  {
+   "key": "due-on-sale",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "What a due-on-sale clause is and where it matters in investor deals.",
+   "research": "Garn-St Germain summaries from law firms."
+  },
+  {
+   "key": "percent-vs-milestone-draws",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "Percent-complete versus milestone draw schedules: how each releases money.",
+   "research": "Lender guides; no invented milestone lists.",
+   "near": [
+    "draw-inspection"
+   ]
+  },
+  {
+   "key": "draw-fraud-red-flags",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "Duplicate or inflated invoices and how comparing them with inspection reports catches them.",
+   "research": "Construction fraud sources from insurers or industry bodies.",
+   "near": [
+    "draw-inspection"
+   ]
+  },
+  {
+   "key": "final-draw-conditions",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "What a final draw usually waits on, per sources: completion proof, final lien waivers.",
+   "research": "Lender guides (two sources).",
+   "near": [
+    "lien-waivers-conditional-unconditional",
+    "draw-inspection"
+   ]
+  },
+  {
+   "key": "change-orders",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "How a change order works against a funded budget and who approves it.",
+   "research": "Construction law firm articles.",
+   "near": [
+    "retainage-vs-holdback"
+   ]
+  },
+  {
+   "key": "in-balance-requirement",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "What 'in balance' means on a construction loan and what happens if costs rise.",
+   "research": "Lender or bank guides."
+  },
+  {
+   "key": "draw-photo-documentation",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "What photo evidence supports a draw request.",
+   "research": "Lender guides.",
+   "near": [
+    "draw-inspection"
+   ]
+  },
+  {
+   "key": "new-construction-vs-rehab-loan",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "Ground-up construction loans versus rehab loans: what changes in draws and risk.",
+   "research": "Lender guides."
+  },
+  {
+   "key": "land-loans",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "Why leverage on land and lots usually differs from a house, with sourced ranges.",
+   "research": "Lender guides."
+  },
+  {
+   "key": "note-vs-mortgage",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "The promissory note versus the mortgage or deed of trust: the debt versus the security.",
+   "research": "CFPB or law firm explainers."
+  },
+  {
+   "key": "mortgage-vs-deed-of-trust",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "Mortgage states versus deed of trust states and why the foreclosure path differs.",
+   "research": "Law firm or Nolo explainers."
+  },
+  {
+   "key": "hard-vs-private-money",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "How people use the terms hard money and private money and what actually differs; show disagreement among sources if it exists.",
+   "research": "Several industry sources."
+  },
+  {
+   "key": "bridge-loan-definition",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "What a bridge loan is and what it bridges.",
+   "research": "Industry sources."
+  },
+  {
+   "key": "flip-vs-hold-exit",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "How the exit changes the loan: sale of a flip versus a rental refinance.",
+   "research": "Lender guides.",
+   "near": [
+    "exit-plan"
+   ]
+  },
+  {
+   "key": "brrrr-lender-view",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "The BRRRR plan from the lender's side: the refinance is the repayment source.",
+   "research": "Lender or investor education sources.",
+   "near": [
+    "refi-exit-mortgage-rate"
+   ]
+  },
+  {
+   "key": "asset-based-lending",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "What asset-based means: lending on the property more than on borrower income.",
+   "research": "Lender guides.",
+   "near": [
+    "business-purpose"
+   ]
+  },
+  {
+   "key": "transactional-funding",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "What a same-day transactional loan is and how it is repaid.",
+   "research": "Lender guides."
+  },
+  {
+   "key": "portfolio-loan-meaning",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "What a portfolio loan is and who holds it.",
+   "research": "Industry sources."
+  },
+  {
+   "key": "cash-to-close-math",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "worked example",
+   "angle": "Cash to close on a rehab purchase: down payment, points, costs (illustrative).",
+   "research": "Python arithmetic; lender guides.",
+   "near": [
+    "points-vs-payoff-timing"
+   ]
+  },
+  {
+   "key": "seasoning-requirements",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "definition",
+   "angle": "What seasoning means for a refinance exit and why it matters to a short-term lender.",
+   "research": "Fannie Mae or DSCR lender guides; rules vary by lender.",
+   "near": [
+    "refi-exit-mortgage-rate"
+   ]
+  },
+  {
+   "key": "occupancy-vacant-vs-tenanted",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "comparison",
+   "angle": "How a tenant in place changes a lender's collateral and exit; lease review basics.",
+   "research": "Law firm pages."
+  },
+  {
+   "key": "zoning-use-verification",
+   "fit": "fb",
+   "kind": "evergreen",
+   "format": "checklist",
+   "angle": "Verifying zoning and permitted use before lending on a conversion or multi-unit.",
+   "research": "One city planning page as an example."
+  },
+  {
+   "key": "environmental-basics",
+   "fit": "li",
+   "kind": "evergreen",
+   "format": "explainer",
+   "angle": "When a lender asks for an environmental report and what a Phase I covers.",
+   "research": "EPA pages and ASTM summaries."
+  },
+  {
+   "key": "attom-foreclosure-monthly",
+   "fit": "both",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The latest ATTOM monthly U.S. foreclosure report: filings, starts, REO, change from last year, and what it means for a lender.",
+   "research": "ATTOM newsroom, latest release; new key per month.",
+   "near": [
+    "foreclosure-h1-2026"
+   ]
+  },
+  {
+   "key": "fomc-decision",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "What the latest FOMC decision did to the federal funds target range and how it connects to prime-based loans; mechanics only, no forecast.",
+   "research": "federalreserve.gov (check its meeting calendar)."
+  },
+  {
+   "key": "mba-delinquency-survey",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The latest MBA National Delinquency Survey and what the delinquency rate says about loan performance.",
+   "research": "MBA press release (quarterly).",
+   "near": [
+    "rtl-delinquency-kbra"
+   ]
+  },
+  {
+   "key": "nar-existing-home-sales",
+   "fit": "both",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The latest NAR existing-home sales release: sales pace, months of inventory, median price and what it means for a flip exit.",
+   "research": "NAR newsroom (monthly)."
+  },
+  {
+   "key": "case-shiller",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The latest Case-Shiller national index reading and what flat or falling prices mean for ARV assumptions.",
+   "research": "S&P Dow Jones Indices release (monthly); check the index's current name."
+  },
+  {
+   "key": "census-housing-starts",
+   "fit": "both",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The latest housing starts and permits release: a supply signal for rehab and construction lenders.",
+   "research": "Census Bureau new residential construction release (monthly)."
+  },
+  {
+   "key": "ice-first-look",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "ICE First Look mortgage delinquency and foreclosure start numbers.",
+   "research": "ICE press release (monthly).",
+   "near": [
+    "foreclosure-h1-2026"
+   ]
+  },
+  {
+   "key": "days-on-market",
+   "fit": "fb",
+   "kind": "data",
+   "format": "data point",
+   "angle": "Median days on market from Redfin or Realtor.com and what a longer market time does to a flip's carrying cost (worked example).",
+   "research": "Redfin or Realtor.com monthly data page.",
+   "near": [
+    "flip-timeline-161-days"
+   ]
+  },
+  {
+   "key": "rental-vacancy",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The latest Census rental vacancy rate and why vacancy matters for DSCR loans.",
+   "research": "Census HVS release (quarterly).",
+   "near": [
+    "dscr-explained"
+   ]
+  },
+  {
+   "key": "insurance-cost-trend",
+   "fit": "both",
+   "kind": "data",
+   "format": "data point",
+   "angle": "Homeowners insurance cost trends and what higher premiums do to carrying costs or DSCR.",
+   "research": "A primary source such as a state insurance department, NAIC, or the BLS CPI insurance index."
+  },
+  {
+   "key": "construction-costs",
+   "fit": "fb",
+   "kind": "data",
+   "format": "data point",
+   "angle": "Construction input costs (BLS PPI or NAHB) and what cost inflation does to rehab budgets and contingency.",
+   "research": "BLS PPI release; NAHB."
+  },
+  {
+   "key": "sloos-lending-standards",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The Fed's Senior Loan Officer Opinion Survey on commercial real estate lending standards.",
+   "research": "federalreserve.gov (quarterly)."
+  },
+  {
+   "key": "mba-originations",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "MBA commercial and multifamily origination index.",
+   "research": "MBA press release (quarterly)."
+  },
+  {
+   "key": "mba-weekly-applications",
+   "fit": "fb",
+   "kind": "data",
+   "format": "data point",
+   "angle": "MBA's weekly mortgage applications survey: refinance share and what it says about exits. Weekly data, say 'as of'.",
+   "research": "MBA weekly release.",
+   "near": [
+    "refi-exit-mortgage-rate"
+   ]
+  },
+  {
+   "key": "treasury-mortgage-spread",
+   "fit": "fb",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The spread between the 10-year Treasury yield and the 30-year mortgage rate, from FRED, and what it means. Say 'as of'.",
+   "research": "FRED series pages (two series).",
+   "near": [
+    "refi-exit-mortgage-rate"
+   ]
+  },
+  {
+   "key": "cpi-shelter",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The latest CPI shelter reading and what it implies for rent growth assumptions.",
+   "research": "BLS CPI release (monthly)."
+  },
+  {
+   "key": "construction-employment",
+   "fit": "fb",
+   "kind": "data",
+   "format": "data point",
+   "angle": "BLS construction employment and what a tight contractor market means for rehab timelines.",
+   "research": "BLS Employment Situation release (monthly)."
+  },
+  {
+   "key": "flip-report-attom-quarterly",
+   "fit": "both",
+   "kind": "data",
+   "format": "data point",
+   "angle": "The next ATTOM quarterly home flipping report: profit, gross ROI, days to flip. New key per quarter, different figures from earlier posts.",
+   "research": "ATTOM newsroom.",
+   "near": [
+    "flip-profit-q2-2026",
+    "flip-timeline-161-days"
+   ]
+  },
+  {
+   "key": "rtl-securitization",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "Rated residential transition loan securitization volume or performance from a rating agency.",
+   "research": "KBRA, Morningstar DBRS or Fitch press pages.",
+   "near": [
+    "rtl-delinquency-kbra",
+    "market-size"
+   ]
+  },
+  {
+   "key": "private-credit-real-estate",
+   "fit": "li",
+   "kind": "data",
+   "format": "data point",
+   "angle": "Bank lending pullback and private credit in real estate: what a primary source (Fed, FDIC or a research firm) shows.",
+   "research": "FDIC Quarterly Banking Profile; Fed reports.",
+   "near": [
+    "market-size"
+   ]
+  },
+  {
+   "key": "fema-disaster-declarations",
+   "fit": "fb",
+   "kind": "data",
+   "format": "data point",
+   "angle": "Recent FEMA disaster declarations and what a lender checks on properties in affected counties.",
+   "research": "FEMA declarations page."
+  }
+ ]
+}
