@@ -539,6 +539,103 @@
     "https://www.consumerfinance.gov/ask-cfpb/what-is-forbearance-en-289/",
     "https://www.amundsendavislaw.com/banking-brief-financial-services-insights/when-a-commercial-borrower-defaults-understanding-the-lenders-options"
    ]
+  },
+  {
+   "key": "mba-delinquency-survey",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-13",
+   "title": "Mortgage delinquencies fell slightly in the second quarter of 2026, to 4.37 percent of loans. Look one level down.",
+   "figures": [
+    "3.93 percent (Q2 2025 headline, graphic)",
+    "1.57 percent (year-ago serious delinquency, graphic)",
+    "0.48 percent (year-ago foreclosure inventory, graphic)"
+   ],
+   "sources": [
+    "https://nationalmortgageprofessional.com/news/mortgage-delinquencies-ease-fha-distress-keeps-deepening",
+    "https://safeguardproperties.com/mortgage-delinquencies-decrease-slightly-in-the-second-quarter-of-2026/",
+    "https://www.mba.org/news-and-research/newsroom/news/2026/08/13/mortgage-delinquencies-decrease-slightly-in-the-second-quarter-of-2026"
+   ]
+  },
+  {
+   "key": "low-appraisal-math",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-13",
+   "title": "The contract says $420,000. The appraisal says $385,000. What is the maximum loan at 70 percent LTV?",
+   "figures": [
+    "$420,000",
+    "$385,000",
+    "70 percent",
+    "$269,500",
+    "$294,000",
+    "$24,500",
+    "$126,000",
+    "$150,500"
+   ],
+   "sources": [
+    "https://www.lendmire.com/hard-money-loan-based-upon-appraised-value/",
+    "https://montegra.com/hard-money-lenders-determine-loan-to-value-ratios/",
+    "https://themortgagereports.com/12508/my-home-appraised-too-low-appraisal"
+   ]
+  },
+  {
+   "key": "flood-zone-check",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-13",
+   "title": "Where does the property sit on the flood map?",
+   "figures": [],
+   "sources": [
+    "https://www.fdic.gov/consumer-compliance-examination-manual/v-6-flood-disaster-protection-act",
+    "https://www.ecfr.gov/current/title-12/chapter-III/subchapter-B/part-339",
+    "https://msc.fema.gov/portal/search",
+    "https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/flood-disaster-protection-act/pub-ch-flood-disaster-protection-act.pdf"
+   ]
+  },
+  {
+   "key": "extension-fee-yield",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-14",
+   "title": "A borrower asks for three more months on a $450,000 loan, and the lender charges a 1 point extension fee. What does that do to the lender's return?",
+   "figures": [
+    "$450,000 loan, 10.5 percent interest-only, 1 point, 3 months",
+    "$3,937.50",
+    "$11,812.50",
+    "$4,500",
+    "$16,312.50",
+    "3.625 percent",
+    "14.5 percent",
+    "10.5 percent"
+   ],
+   "sources": [
+    "https://www.realestateskills.com/blog/hard-money-loan",
+    "https://www.realestateskills.com/blog/hard-money-loan",
+    "https://noteservicingcenter.com/hard-money-loan-fees-dispelling-the-hidden-cost-myth-for-investors/",
+    "https://noteservicingcenter.com/hard-money-loan-fees-dispelling-the-hidden-cost-myth-for-investors/"
+   ]
+  },
+  {
+   "key": "rehab-budget-review",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-14",
+   "title": "Before funding a rehab, what can a lender check in the budget?",
+   "figures": [
+    "$52,000",
+    "$2,600",
+    "$5,200"
+   ],
+   "sources": [
+    "https://www.kiavi.com/blog/how-to-write-fix-and-flip-scope-of-work",
+    "https://merchantsmtg.com/how-fix-and-flip-lenders-determine-project-risk/"
+   ]
   }
  ]
 }

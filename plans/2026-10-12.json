@@ -126,8 +126,8 @@
      "calc": "round(0.67-0.19,2) = 0.48"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6acd4ebf2c1b16d2e1244288"
   },
   {
    "channel": "fb",
@@ -194,8 +194,8 @@
      "calc": "420000-269500 = 150500 (graphic)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6acd4ec10fd81940c1c8525c"
   },
   {
    "channel": "fb",
@@ -236,8 +236,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6acd4ec45562ebe80f6cf552"
   },
   {
    "channel": "fb",
@@ -311,8 +311,8 @@
      "calc": "11812.5/450000*4*100 = 10.5"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6acd4ec75562ebe80f6cf5a9"
   },
   {
    "channel": "li",
@@ -373,8 +373,8 @@
      "calc": "52000*10//100 = 5200"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6acd4ecaa36dd85181300c65"
   }
  ]
 }
