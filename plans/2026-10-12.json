@@ -83,6 +83,239 @@
   },
   {
    "channel": "li",
+   "slot_local": "2026-10-13T10:21:00-04:00",
+   "topic": "mba-delinquency-survey",
+   "kind": "data",
+   "text": "Mortgage delinquencies fell slightly in the second quarter of 2026, to 4.37 percent of loans. Look one level down.\n\nThe Mortgage Bankers Association reports that loans 90 days or more past due, or in foreclosure, reached 2.06 percent, up 49 basis points from a year earlier. Foreclosure inventory rose to 0.67 percent.\n\nThe headline rate is down 7 basis points from the prior quarter, but up 44 from a year ago.\n\nThis survey covers home mortgages, not private loans. Still, a lender can track how many loans are aging into later stages, not only how many are late.",
+   "alt": "Bar chart of MBA National Delinquency Survey figures, Q2 2025 versus Q2 2026: delinquency rate 3.93 to 4.37 percent, 90 days or more late or in foreclosure 1.57 to 2.06 percent, foreclosure inventory 0.48 to 0.67 percent.",
+   "image": "images/2026-10-13/1021-li-mba-delinquency-survey.png",
+   "sources": [
+    {
+     "title": "Mortgage Delinquencies Ease, But FHA Distress Keeps Deepening",
+     "publisher": "National Mortgage Professional",
+     "url": "https://nationalmortgageprofessional.com/news/mortgage-delinquencies-ease-fha-distress-keeps-deepening",
+     "date": "2026-08-18",
+     "quote": "That was down 7 basis points from the first quarter but 44 basis points higher than a year earlier. The share of loans that were at least 90 days past due or already in foreclosure rose for the fourth consecutive quarter reaching 2.06%. That seriously delinquent rate increased 3 basis points from the previous quarter and 49 basis points from a year ago. Foreclosure inventory increased to 0.67% of outstanding loans, up 3 basis points from the first quarter and 19 basis points from a year ago."
+    },
+    {
+     "title": "Mortgage Delinquencies Decrease Slightly in the Second Quarter of 2026 (summary)",
+     "publisher": "Safeguard Properties",
+     "url": "https://safeguardproperties.com/mortgage-delinquencies-decrease-slightly-in-the-second-quarter-of-2026/",
+     "date": "2026-08-13",
+     "quote": "Some loans are continuing to move to later stages of delinquency. Total delinquency rate (one-to-four-unit residential, seasonally adjusted): 4.37%, down 7 basis points versus Q1 2026, up 44 basis points versus one year ago."
+    },
+    {
+     "title": "Mortgage Delinquencies Decrease Slightly in the Second Quarter of 2026",
+     "publisher": "Mortgage Bankers Association",
+     "url": "https://www.mba.org/news-and-research/newsroom/news/2026/08/13/mortgage-delinquencies-decrease-slightly-in-the-second-quarter-of-2026",
+     "date": "2026-08-13",
+     "quote": "The delinquency rate for mortgage loans on one-to-four-unit residential properties decreased to a seasonally adjusted rate of 4.37 percent of all loans outstanding"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "3.93 percent (Q2 2025 headline, graphic)",
+     "calc": "round(4.37-0.44,2) = 3.93"
+    },
+    {
+     "figure": "1.57 percent (year-ago serious delinquency, graphic)",
+     "calc": "round(2.06-0.49,2) = 1.57"
+    },
+    {
+     "figure": "0.48 percent (year-ago foreclosure inventory, graphic)",
+     "calc": "round(0.67-0.19,2) = 0.48"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-13T12:47:00-04:00",
+   "topic": "low-appraisal-math",
+   "kind": "evergreen",
+   "text": "The contract says $420,000. The appraisal says $385,000. What is the maximum loan at 70 percent LTV?\n\nIf the lender sizes on the lower value, it is 70 percent of $385,000, or $269,500. On the contract price it would have been $294,000. That is $24,500 less loan.\n\nSomeone has to cover that gap. The borrower can bring more cash, the seller can lower the price, or the deal can be reworked.\n\nWhich value the max LTV applies to varies by lender, so lenders can state it before the appraisal comes back.\n\nvaultedonline.com",
+   "alt": "Worked example: a $420,000 contract with a $385,000 appraisal at 70 percent LTV. Loan is $294,000 on the price or $269,500 on the appraisal, a $24,500 gap. Bars show borrower cash rising from $126,000 to $150,500.",
+   "image": "images/2026-10-13/1247-fb-low-appraisal-math.png",
+   "sources": [
+    {
+     "title": "Hard Money Loan Based Upon Appraised Value",
+     "publisher": "Lendmire",
+     "url": "https://www.lendmire.com/hard-money-loan-based-upon-appraised-value/",
+     "date": "2026-10-11",
+     "quote": "The loan amount is calculated as a percentage of the lower of appraised value or purchase price."
+    },
+    {
+     "title": "How Hard Money Lenders Determine Loan-To-Value Ratios",
+     "publisher": "Montegra",
+     "url": "https://montegra.com/hard-money-lenders-determine-loan-to-value-ratios/",
+     "date": "2015-07-16",
+     "quote": "Most reputable private lenders will use the higher of the property values rather than the lower."
+    },
+    {
+     "title": "My home appraised below purchase price. What now?",
+     "publisher": "The Mortgage Reports",
+     "url": "https://themortgagereports.com/12508/my-home-appraised-too-low-appraisal",
+     "date": "2024-12-10",
+     "quote": "If the appraisal comes in lower than the purchase price, your lender will likely decrease the amount you can borrow."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$420,000",
+     "calc": "illustrative contract price"
+    },
+    {
+     "figure": "$385,000",
+     "calc": "illustrative appraised value"
+    },
+    {
+     "figure": "70 percent",
+     "calc": "illustrative max LTV"
+    },
+    {
+     "figure": "$269,500",
+     "calc": "0.70*385000 = 269500"
+    },
+    {
+     "figure": "$294,000",
+     "calc": "0.70*420000 = 294000"
+    },
+    {
+     "figure": "$24,500",
+     "calc": "294000-269500 = 24500"
+    },
+    {
+     "figure": "$126,000",
+     "calc": "420000-294000 = 126000 (graphic)"
+    },
+    {
+     "figure": "$150,500",
+     "calc": "420000-269500 = 150500 (graphic)"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-13T17:27:00-04:00",
+   "topic": "flood-zone-check",
+   "kind": "evergreen",
+   "text": "Where does the property sit on the flood map?\n\nAnyone can search an address in FEMA's Flood Map Service Center. A special flood hazard area is land with at least a one percent chance of flooding in any given year.\n\nFor FDIC-supervised institutions, a loan on a building in that area needs flood insurance for the term of the loan, at least the lesser of the loan balance or the maximum coverage available. It covers the building, not the land.\n\nThe rule names regulated lenders. Other lenders can ask counsel whether it applies to them.\n\nvaultedonline.com",
+   "alt": "Graphic titled Is the property in a flood zone. Three steps: search the address in FEMA's Flood Map Service Center, read the zone (special flood hazard area means at least a 1 percent annual chance of flooding), and check who is bound. Insurance is at least the lesser of the loan balance or maximum coverage, and covers the building, not the land.",
+   "image": "images/2026-10-13/1727-fb-flood-zone-check.png",
+   "sources": [
+    {
+     "title": "V-6 Flood Disaster Protection Act (Consumer Compliance Examination Manual)",
+     "publisher": "FDIC",
+     "url": "https://www.fdic.gov/consumer-compliance-examination-manual/v-6-flood-disaster-protection-act",
+     "date": "2023-11-01",
+     "quote": "The property securing the loan is located or will be located in an SFHA as identified by FEMA; and The community in which the property is located participates in the NFIP. (Chapter Last Updated: November 2023; regulated lending institutions must not make, increase, extend or renew a loan secured by improved real estate without coverage; amount is the lesser of the outstanding principal balance of the loan, the maximum amount available under the NFIP or the insurable value of the property.)"
+    },
+    {
+     "title": "12 CFR Part 339 -- Loans in Areas Having Special Flood Hazards",
+     "publisher": "eCFR (FDIC regulation)",
+     "url": "https://www.ecfr.gov/current/title-12/chapter-III/subchapter-B/part-339",
+     "date": "2026-10-07",
+     "quote": "Special flood hazard area means the land in the flood plain within a community having at least a one percent chance of flooding in any given year, as designated by the Administrator of FEMA. An FDIC-supervised institution shall not make, increase, extend, or renew any designated loan unless the building or mobile home and any personal property securing the loan is covered by flood insurance for the term of the loan. The amount of insurance must be at least equal to the lesser of the outstanding principal balance of the designated loan or the maximum limit of coverage available for the particular type of property under the Act. Flood insurance coverage under the Act is limited to the building or mobile home and any personal property that secures a loan and not the land itself."
+    },
+    {
+     "title": "FEMA Flood Map Service Center: Search By Address",
+     "publisher": "FEMA",
+     "url": "https://msc.fema.gov/portal/search",
+     "date": "2026-10-12 (accessed; page undated)",
+     "quote": "Enter an address, place, or coordinates"
+    },
+    {
+     "title": "Flood Disaster Protection Act (Comptroller's Handbook)",
+     "publisher": "OCC",
+     "url": "https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/flood-disaster-protection-act/pub-ch-flood-disaster-protection-act.pdf",
+     "date": "2019-08-01",
+     "quote": "When an institution makes, increases, extends, or renews any loan secured by improved real estate or by a mobile home, it must use the standard flood hazard determination form (SFHDF) developed by FEMA. (Document dated August 2019; refers to regulated lending institutions overseen by the FRB, FDIC, NCUA, OCC and FCA.)"
+    }
+   ],
+   "derived": [],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-14T12:47:00-04:00",
+   "topic": "extension-fee-yield",
+   "kind": "evergreen",
+   "text": "A borrower asks for three more months on a $450,000 loan, and the lender charges a 1 point extension fee. What does that do to the lender's return?\n\nIllustrative example: at 10.5 percent interest-only, interest is $3,937.50 a month, or $11,812.50 over the extension. One point is 1 percent of the loan, or $4,500. Together that is $16,312.50, or 3.625 percent of the balance in three months. Annualized, that is 14.5 percent versus 10.5 percent.\n\nExtension fees are negotiated and vary by lender. A 1 point fee only adds yield if the borrower keeps paying.\n\nvaultedonline.com",
+   "alt": "Bar showing $11,812.50 of interest plus a $4,500 one point fee, $16,312.50 over a three month extension on an illustrative $450,000 loan at 10.5 percent interest-only. Cards: 10.5 percent annualized without the fee, 14.5 percent with it.",
+   "image": "images/2026-10-14/1247-fb-extension-fee-yield.png",
+   "sources": [
+    {
+     "title": "Hard Money Loans: Rates, Terms & Real Costs (2026)",
+     "publisher": "Real Estate Skills",
+     "url": "https://www.realestateskills.com/blog/hard-money-loan",
+     "date": "2026-08-07",
+     "quote": "A point is one percent of the loan amount."
+    },
+    {
+     "title": "Hard Money Loans: Rates, Terms & Real Costs (2026)",
+     "publisher": "Real Estate Skills",
+     "url": "https://www.realestateskills.com/blog/hard-money-loan",
+     "date": "2026-08-07",
+     "quote": "If your project isn't done when the term ends, you're negotiating an extension, usually for a fee, sometimes at a worse rate."
+    },
+    {
+     "title": "Hard Money Loan Fees Every Real Estate Investor Should Know",
+     "publisher": "Note Servicing Center",
+     "url": "https://noteservicingcenter.com/hard-money-loan-fees-dispelling-the-hidden-cost-myth-for-investors/",
+     "date": "2026-10-12 (accessed; page undated)",
+     "quote": "Typically structured as additional points (e.g., 1\u20132 points per extension period)"
+    },
+    {
+     "title": "Hard Money Loan Fees Every Real Estate Investor Should Know",
+     "publisher": "Note Servicing Center",
+     "url": "https://noteservicingcenter.com/hard-money-loan-fees-dispelling-the-hidden-cost-myth-for-investors/",
+     "date": "2026-10-12 (accessed; page undated)",
+     "quote": "Extension availability and pricing are negotiated \u2014 ask about extension policy before you close"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$450,000 loan, 10.5 percent interest-only, 1 point, 3 months",
+     "calc": "illustrative inputs chosen by assignment"
+    },
+    {
+     "figure": "$3,937.50",
+     "calc": "450000*0.105/12 = 3937.5"
+    },
+    {
+     "figure": "$11,812.50",
+     "calc": "3937.5*3 = 11812.5"
+    },
+    {
+     "figure": "$4,500",
+     "calc": "450000*0.01 = 4500.0"
+    },
+    {
+     "figure": "$16,312.50",
+     "calc": "11812.5+4500 = 16312.5"
+    },
+    {
+     "figure": "3.625 percent",
+     "calc": "16312.5/450000*100 = 3.625"
+    },
+    {
+     "figure": "14.5 percent",
+     "calc": "3.625*4 = 14.5 (simple annualization of 3 months)"
+    },
+    {
+     "figure": "10.5 percent",
+     "calc": "11812.5/450000*4*100 = 10.5"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "li",
    "slot_local": "2026-10-14T17:09:00-04:00",
    "topic": "flip-profit-q2-2026",
    "kind": "data",
@@ -101,6 +334,47 @@
    "derived": [],
    "status": "queued",
    "buffer_id": "6ac665a6afc53d16cec0b255"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-14T17:27:00-04:00",
+   "topic": "rehab-budget-review",
+   "kind": "evergreen",
+   "text": "Before funding a rehab, what can a lender check in the budget?\n\nA lender can review it line by line:\n\n1. Detail. Quantities and materials named, labor and materials separated.\n2. Contractor quotes. One lender guide says estimates built from current contractor bids tend to hold up better in underwriting.\n3. Contingency. That guide says a 5% line is commonly required, up to a 10% ceiling. On a $52,000 budget, that is $2,600 to $5,200.\n4. Timeline. It can be compared with the scope and the local sales market.\n\nVague line items can signal weak planning or hidden costs.\n\nvaultedonline.com",
+   "alt": "Checklist graphic: four things a lender can check in a rehab budget: line-item detail, contractor quotes, a contingency line, and a timeline. Example: on an illustrative $52,000 budget, 5% contingency is $2,600 and the 10% ceiling is $5,200.",
+   "image": "images/2026-10-14/1727-fb-rehab-budget-review.png",
+   "sources": [
+    {
+     "title": "How to Write a Fix and Flip Scope of Work",
+     "publisher": "Kiavi",
+     "url": "https://www.kiavi.com/blog/how-to-write-fix-and-flip-scope-of-work",
+     "date": "2026-06-01",
+     "quote": "A contingency line of 5% (or $1,000 minimum) is commonly required on all projects, up to a 10% ceiling. Estimates built from current contractor bids tend to hold up better in underwriting. Separate labor and materials where possible. Base costs on actual contractor input."
+    },
+    {
+     "title": "How Fix and Flip Lenders Determine Project Risk",
+     "publisher": "Merchants Mortgage",
+     "url": "https://merchantsmtg.com/how-fix-and-flip-lenders-determine-project-risk/",
+     "date": "2026-05-04",
+     "quote": "A lender will usually review the renovation budget line by line. Lenders want a project timeline that matches the scope of work and the local sales environment. Vague descriptions can signal weak planning or hidden costs."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$52,000",
+     "calc": "illustrative rehab budget chosen by author"
+    },
+    {
+     "figure": "$2,600",
+     "calc": "52000*5//100 = 2600"
+    },
+    {
+     "figure": "$5,200",
+     "calc": "52000*10//100 = 5200"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
   }
  ]
 }
