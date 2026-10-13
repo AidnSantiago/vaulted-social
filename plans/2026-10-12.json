@@ -241,6 +241,32 @@
   },
   {
    "channel": "fb",
+   "slot_local": "2026-10-14T08:56:00-04:00",
+   "topic": "attom-foreclosure-monthly-aug-2026",
+   "kind": "data",
+   "text": "Foreclosure filings hit 40,277 U.S. properties in August 2026, up 13 percent from a year ago, according to ATTOM.\n\nLook at the stages. Foreclosure starts were 25,894, up 7 percent from a year ago. Bank repossessions, or REOs, were 5,794, up 42 percent from a year ago.\n\nREOs are completed foreclosures, the last stage, so they can move differently from new starts. ATTOM also says overall volumes remain well below historical norms.\n\nFor lenders, a single total can hide the stage mix. Starts and REOs can be read separately when sizing exit risk.\n\nvaultedonline.com",
+   "alt": "Bar chart of ATTOM August 2026 foreclosure data versus a year earlier: properties with filings 40,277, up 13 percent; foreclosure starts 25,894, up 7 percent; bank repossessions 5,794, up 42 percent. Stat cards show REOs up 22 percent from July and 1 in 3,569 housing units with a filing.",
+   "image": "images/2026-10-14/0856-fb-attom-foreclosure-monthly.png",
+   "sources": [
+    {
+     "title": "Foreclosure Activity Remains Above Year-Ago Levels in August 2026",
+     "publisher": "ATTOM",
+     "url": "https://www.attomdata.com/news/market-trends/foreclosures/august-2026-foreclosure-market-report/",
+     "date": "2026-09-17",
+     "quote": "a total of 40,277 U.S. properties with foreclosure filings. Lenders initiated the foreclosure process on 25,894 U.S. properties in August 2026. Lenders repossessed 5,794 U.S. properties through completed foreclosures (REOs) in August 2026. Nationwide, one in every 3,569 housing units had a foreclosure filing in August 2026. Filings up 1% from July and 13% from a year ago; starts down 3% from July and up 7% from a year ago; REOs up 22% from July and 42% from a year ago. Rob Barber: overall foreclosure volumes remain well below historical norms"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "September report not yet published",
+     "calc": "ATTOM foreclosures archive newest item is August 2026 report dated 2026-09-17, so August used"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
    "slot_local": "2026-10-14T12:47:00-04:00",
    "topic": "extension-fee-yield",
    "kind": "evergreen",
@@ -375,6 +401,168 @@
    ],
    "status": "queued",
    "buffer_id": "6acd4ecaa36dd85181300c65"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-15T12:47:00-04:00",
+   "topic": "default-interest",
+   "kind": "evergreen",
+   "text": "A $380,000 loan carries a 10 percent note rate. Then the borrower defaults. What does the note charge next?\n\nA default rate is a higher rate a note can charge after a default. At 10 percent, interest-only, interest is $3,166.67. At an illustrative 18 percent default rate, it is $5,700.00. That is $2,533.33 more in one month, if the rate applies to the whole balance.\n\nA note can instead apply it only to the amount in default. Limits vary by state, and courts may treat a very high rate as a penalty. Lenders can ask counsel to review the wording.\n\nvaultedonline.com",
+   "alt": "Comparison of one month of interest on an illustrative $380,000 loan: $3,166.67 at a 10 percent note rate versus $5,700.00 at an 18 percent default rate, a difference of $2,533.33, with a reminder that limits vary by state.",
+   "image": "images/2026-10-15/1247-fb-default-interest.png",
+   "sources": [
+    {
+     "title": "Understanding Default Interest Rate Clauses in Contracts",
+     "publisher": "UpCounsel",
+     "url": "https://upcounsel.com/default-interest-rate-clause",
+     "date": "2025-11-10",
+     "quote": "A default interest rate clause allows lenders to charge a higher rate when a borrower defaults on payment terms. State usury laws may cap the interest that can be charged\u2014even in default. No, enforceability varies by jurisdiction."
+    },
+    {
+     "title": "Default Interest Rates: Legal Implications and Best Practices",
+     "publisher": "Aaron Hall",
+     "url": "https://aaronhall.com/default-interest-rates-legal-implications-and-best-practices/",
+     "date": "2024-10-01",
+     "quote": "Different states and countries have varying laws regarding the maximum allowable interest rates"
+    },
+    {
+     "title": "Default Interest Rate",
+     "publisher": "GoDocs",
+     "url": "https://kb.godocs.com/en/knowledge/default-interest-rate",
+     "date": "2026-10-13 (accessed; page undated)",
+     "quote": "interest under this Note shall accrue at the Default Rate on the principal amount then-currently in default"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$380,000, 10 percent, 18 percent",
+     "calc": "illustrative inputs chosen by assignment"
+    },
+    {
+     "figure": "$3,166.67",
+     "calc": "380000*0.10/12 = 3166.67"
+    },
+    {
+     "figure": "$5,700.00",
+     "calc": "380000*0.18/12 = 5700.00"
+    },
+    {
+     "figure": "$2,533.33",
+     "calc": "5700.00-3166.67 = 2533.33"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-15T15:40:00-04:00",
+   "topic": "private-credit-real-estate",
+   "kind": "data",
+   "text": "Are banks pulling back from commercial real estate lending? The latest data says no.\n\nThe Mortgage Bankers Association reports that banks and thrifts hold 38 percent of commercial and multifamily mortgage debt, about $1.9 trillion of a $5.1 trillion total, at the end of the second quarter of 2026. Their holdings grew $13.3 billion, or 0.7 percent, in the quarter. MBA also reports loans originated for depositories up 61 percent from a year earlier.\n\nThis covers commercial and multifamily loans, not one-to-four unit investor loans. Private lenders can treat banks as active competitors.",
+   "alt": "Dark navy graphic titled Banks are not leaving commercial real estate lending. Three stat cards: $1.9 trillion of $5.1 trillion held by banks and thrifts, up $13.3 billion or 0.7 percent in Q2 2026, and depository loan originations up 61 percent year over year. A bar shows banks at 38 percent.",
+   "image": "images/2026-10-15/1540-li-private-credit-real-estate.png",
+   "sources": [
+    {
+     "title": "Commercial/Multifamily Mortgage Debt Outstanding, Q2 2026",
+     "publisher": "Mortgage Bankers Association",
+     "url": "https://www.mba.org/docs/default-source/research-and-forecasts/cmf-mdo/2q26mortgagedebtoutstanding.pdf",
+     "date": "2026-09-29",
+     "quote": "Commercial banks continue to hold the largest share (38 percent) of commercial/multifamily mortgages at $1.9 trillion. Bank and thrifts increased their holdings by $13.3 billion (0.7 percent). Total commercial/multifamily mortgage debt outstanding rose to $5.1 trillion at the end of the second quarter. (Release date taken from the MBA news release URL, 2026/09/29)"
+    },
+    {
+     "title": "MBA: Commercial/Multifamily Borrowing Increased 16% in the Second Quarter",
+     "publisher": "MBA Newslink (Mortgage Bankers Association)",
+     "url": "https://newslink.mba.org/mba-newslinks/2026/august/commercial-multifamily-borrowing-increased-16-in-the-second-quarter-of-2026/",
+     "date": "2026-08-06",
+     "quote": "There was a 61% increase in loans for depositories (year over year, per MBA Quarterly Survey of Commercial/Multifamily Mortgage Bankers Originations)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "62 percent",
+     "calc": "100 - 38 = 62 (graphic only: all other holders)"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-15T17:27:00-04:00",
+   "topic": "lis-pendens",
+   "kind": "evergreen",
+   "text": "What is a lis pendens? It is Latin for \"suit pending.\"\n\nIt is a notice recorded in a property's chain of title, warning that a lawsuit affecting the property is pending. One source says any interest acquired during the suit is subject to its outcome.\n\nPicture a lender asked to fund a $210,000 loan (illustrative). A title search turns up a recorded lis pendens. Another source says it can cloud title and prevent a sale or refinancing.\n\nLenders can ask what the suit claims and how the title company treats the notice. Filing rules vary by state.\n\nvaultedonline.com",
+   "alt": "Three step cards: a lawsuit is filed, a lis pendens notice is recorded in the property records, and a later buyer or lender can find it in a title search. Panels note interests acquired during the suit are subject to its outcome and that rules vary by state.",
+   "image": "images/2026-10-15/1727-fb-lis-pendens.png",
+   "sources": [
+    {
+     "title": "lis pendens",
+     "publisher": "Cornell Legal Information Institute (Wex)",
+     "url": "https://www.law.cornell.edu/wex/lis_pendens",
+     "date": "2026-10-13 (accessed; page undated, last reviewed June 2023)",
+     "quote": "The notice warns all persons that any interests acquired during the pendency of the suit are subject to its outcome."
+    },
+    {
+     "title": "Notice of Lis Pendens",
+     "publisher": "Barnes Walker",
+     "url": "https://barneswalker.com/legal-glossary/n/notice-of-lis-pendens/",
+     "date": "2026-10-13 (accessed; page undated)",
+     "quote": "Provides constructive notice; clouds title, preventing sale/refinancing."
+    },
+    {
+     "title": "Lis Pendens",
+     "publisher": "Corinthian Title",
+     "url": "https://corinthiantitle.com/blog/lis-pendens",
+     "date": "2026-10-13 (accessed; page undated)",
+     "quote": "Some states' lis pendens statutes require the filer of the notice"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$210,000",
+     "calc": "illustrative loan amount chosen by the author; no arithmetic"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-16T08:00:00-04:00",
+   "topic": "census-housing-starts",
+   "kind": "data",
+   "text": "New home construction in August 2026, per the Census Bureau and HUD:\n\nHousing starts ran at a seasonally adjusted annual rate of 1,275,000, down 2.6 percent from July. Building permits were 1,394,000, down 2.7 percent. Single-family starts rose 7.6 percent to 918,000.\n\nTwo cautions. These are annualized rates, not units started in one month. And the change in total starts carries a margin of error of plus or minus 12.0 percent, so one month is a weak signal.\n\nLenders can watch the trend across several releases. The next one is October 20.\n\nvaultedonline.com",
+   "alt": "Paired bar chart of Census and HUD August 2026 data versus revised July: housing starts 1,275,000 versus 1,309,000 (down 2.6 percent), building permits 1,394,000 versus 1,433,000 (down 2.7 percent), single-family starts 918,000 versus 853,000 (up 7.6 percent). Seasonally adjusted annual rates.",
+   "image": "images/2026-10-16/0800-fb-census-housing-starts.png",
+   "sources": [
+    {
+     "title": "New Residential Construction, August 2026 (press release PDF)",
+     "publisher": "U.S. Census Bureau and HUD",
+     "url": "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+     "date": "2026-09-17",
+     "quote": "Privately-owned housing starts in August were at a seasonally adjusted annual rate of 1,275,000. This is 2.6 percent (\u00b112.0 percent)* below the revised July estimate of 1,309,000. Single-family housing starts in August were at a rate of 918,000; this is 7.6 percent (\u00b114.0 percent)* above the revised July figure of 853,000. Building permits: 1,394,000, 2.7 percent below the revised July rate of 1,433,000. Next Release: October 20, 2026"
+    },
+    {
+     "title": "New Residential Construction Press Release (current page)",
+     "publisher": "U.S. Census Bureau and HUD",
+     "url": "https://www.census.gov/construction/nrc/current/index.html",
+     "date": "2026-09-17",
+     "quote": "MONTHLY NEW RESIDENTIAL CONSTRUCTION, AUGUST 2026; Thursday, September 17, 2026; Building permits at a seasonally adjusted annual rate of 1,394,000; Housing starts at a seasonally adjusted annual rate of 1,275,000"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "Next release Oct 20 is after the Oct 16 post slot",
+     "calc": "Census PDF says Next Release: October 20, 2026, so August data is latest on Oct 16"
+    },
+    {
+     "figure": "percent changes 2.6, 2.7, 7.6; July values 1,309,000, 1,433,000, 853,000",
+     "calc": "reported by Census; check (1275000/1309000-1)*100 = -2.6, (1394000/1433000-1)*100 = -2.7, (918000/853000-1)*100 = 7.6"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
   }
  ]
 }
