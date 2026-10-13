@@ -636,6 +636,86 @@
     "https://www.kiavi.com/blog/how-to-write-fix-and-flip-scope-of-work",
     "https://merchantsmtg.com/how-fix-and-flip-lenders-determine-project-risk/"
    ]
+  },
+  {
+   "key": "attom-foreclosure-monthly-aug-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-14",
+   "title": "Foreclosure filings hit 40,277 U.S. properties in August 2026, up 13 percent from a year a",
+   "figures": [
+    "September report not yet published"
+   ],
+   "sources": [
+    "https://www.attomdata.com/news/market-trends/foreclosures/august-2026-foreclosure-market-report/"
+   ]
+  },
+  {
+   "key": "default-interest",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-15",
+   "title": "A $380,000 loan carries a 10 percent note rate. Then the borrower defaults. What does the ",
+   "figures": [
+    "$380,000, 10 percent, 18 percent",
+    "$3,166.67",
+    "$5,700.00",
+    "$2,533.33"
+   ],
+   "sources": [
+    "https://upcounsel.com/default-interest-rate-clause",
+    "https://aaronhall.com/default-interest-rates-legal-implications-and-best-practices/",
+    "https://kb.godocs.com/en/knowledge/default-interest-rate"
+   ]
+  },
+  {
+   "key": "private-credit-real-estate",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-15",
+   "title": "Are banks pulling back from commercial real estate lending? The latest data says no.",
+   "figures": [
+    "62 percent"
+   ],
+   "sources": [
+    "https://www.mba.org/docs/default-source/research-and-forecasts/cmf-mdo/2q26mortgagedebtoutstanding.pdf",
+    "https://newslink.mba.org/mba-newslinks/2026/august/commercial-multifamily-borrowing-increased-16-in-the-second-quarter-of-2026/"
+   ]
+  },
+  {
+   "key": "lis-pendens",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-15",
+   "title": "What is a lis pendens? It is Latin for \"suit pending.\"",
+   "figures": [
+    "$210,000"
+   ],
+   "sources": [
+    "https://www.law.cornell.edu/wex/lis_pendens",
+    "https://barneswalker.com/legal-glossary/n/notice-of-lis-pendens/",
+    "https://corinthiantitle.com/blog/lis-pendens"
+   ]
+  },
+  {
+   "key": "census-housing-starts",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-16",
+   "title": "New home construction in August 2026, per the Census Bureau and HUD:",
+   "figures": [
+    "Next release Oct 20 is after the Oct 16 post slot",
+    "percent changes 2.6, 2.7, 7.6; July values 1,309,000, 1,433,000, 853,000"
+   ],
+   "sources": [
+    "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
+    "https://www.census.gov/construction/nrc/current/index.html"
+   ]
   }
  ]
 }

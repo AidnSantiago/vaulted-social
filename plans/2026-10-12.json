@@ -262,8 +262,8 @@
      "calc": "ATTOM foreclosures archive newest item is August 2026 report dated 2026-09-17, so August used"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ace29efa5670ad01c4cb8e8"
   },
   {
    "channel": "fb",
@@ -451,8 +451,8 @@
      "calc": "5700.00-3166.67 = 2533.33"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ace29f2d8537df3c55638c8"
   },
   {
    "channel": "li",
@@ -484,8 +484,8 @@
      "calc": "100 - 38 = 62 (graphic only: all other holders)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ace29fad8537df3c5563a36"
   },
   {
    "channel": "fb",
@@ -524,8 +524,8 @@
      "calc": "illustrative loan amount chosen by the author; no arithmetic"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ace29f5d8537df3c556391a"
   },
   {
    "channel": "fb",
@@ -561,8 +561,8 @@
      "calc": "reported by Census; check (1275000/1309000-1)*100 = -2.6, (1394000/1433000-1)*100 = -2.7, (918000/853000-1)*100 = 7.6"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ace29f8a5670ad01c4cb9ed"
   }
  ]
 }
