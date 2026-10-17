@@ -716,6 +716,127 @@
     "https://www.census.gov/construction/nrc/pdf/newresconst.pdf",
     "https://www.census.gov/construction/nrc/current/index.html"
    ]
+  },
+  {
+   "key": "days-on-market",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-17",
+   "title": "days-on-market",
+   "figures": [
+    "$325,000 at 11 percent interest-only",
+    "$2,979.17",
+    "$5,958.33",
+    "30 days",
+    "62",
+    "60"
+   ],
+   "sources": [
+    "https://www.webull.com/news/15666738824823808",
+    "https://www.rismedia.com/2026/10/07/price-cuts-reach-september-record-inventory-nears-pre-pandemic-levels/"
+   ]
+  },
+  {
+   "key": "prepay-step-down",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-17",
+   "title": "prepay-step-down",
+   "figures": [
+    "$360,000",
+    "3/2/1 schedule",
+    "$10,800",
+    "$7,200",
+    "$3,600"
+   ],
+   "sources": [
+    "https://offermarket.us/blog/prepayment-penalty",
+    "https://homeabroadinc.com/mortgages/dscr-loan-prepayment-penalty/",
+    "https://hellodata.ai/help-articles/how-does-a-step-down-prepayment-penalty-work",
+    "https://offermarket.us/blog/prepayment-penalty"
+   ]
+  },
+  {
+   "key": "payoff-statement-per-diem",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-17",
+   "title": "payoff-statement-per-diem",
+   "figures": [
+    "$275,000 and 9 percent",
+    "actual/365 basis",
+    "10 days",
+    "$67.81",
+    "$678",
+    "$678.08"
+   ],
+   "sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-a-payoff-amount-and-is-it-the-same-as-my-current-balance-en-205/",
+    "https://webserver.rilegislature.gov/Statutes/TITLE19/19-9/19-9-9.htm",
+    "https://www.federaltitle.com/blog/loan-payoff-includes-more-than-just-principal-balance"
+   ]
+  },
+  {
+   "key": "construction-costs",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-18",
+   "title": "construction-costs",
+   "figures": [
+    "$68,000",
+    "$7,140",
+    "$75,140"
+   ],
+   "sources": [
+    "https://www.agc.org/sites/default/files/users/user21902/PPI%20Tables%202026_09_v2.pdf",
+    "https://www.agc.org/sites/default/files/users/user21902/PPI%20Tables%202026_09_v2.pdf",
+    "https://www.agc.org/sites/default/files/users/user21902/PPI%20Tables%202026_09_v2.pdf",
+    "https://www.agc.org/sites/default/files/users/user21902/PPI%20Tables%202026_09_v2.pdf"
+   ]
+  },
+  {
+   "key": "as-is-vs-arv-value",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-18",
+   "title": "as-is-vs-arv-value",
+   "figures": [
+    "$240,000, $410,000, $60,000",
+    "70%, 85%",
+    "$300,000",
+    "$287,000",
+    "$255,000",
+    "about 106%"
+   ],
+   "sources": [
+    "https://www.crestmontcapital.com/blog/after-repair-value-fix-and-flip-loans",
+    "https://www.crestmontcapital.com/blog/after-repair-value-fix-and-flip-loans",
+    "https://www.fctd.com/blog/fix-and-flip-loans-as-is-value-versus-after-repair-value",
+    "https://www.fctd.com/blog/fix-and-flip-loans-as-is-value-versus-after-repair-value"
+   ]
+  },
+  {
+   "key": "change-orders",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-18",
+   "title": "change-orders",
+   "figures": [
+    "$84,000",
+    "$6,300",
+    "7.5 percent"
+   ],
+   "sources": [
+    "https://ledgertc.com/construction-loan-draws",
+    "https://landgorilla.com/blog/how-lenders-can-navigate-rising-material-costs/",
+    "https://www.hud.loans/developer-guide/construction-draw-processes-by-lender/"
+   ]
   }
  ]
 }

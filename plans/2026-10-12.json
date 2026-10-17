@@ -563,6 +563,356 @@
    ],
    "status": "queued",
    "buffer_id": "6ace29f8a5670ad01c4cb9ed"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-17T09:32:00-04:00",
+   "topic": "days-on-market",
+   "kind": "data",
+   "text": "Homes spent a median of 61 days on the market in September 2026, per Realtor.com. Median means half of homes took longer.\n\nFor a lender, every month on the market is another month of interest. On a $325,000 loan at 11 percent interest-only, one month is $2,979.17. Two months is $5,958.33.\n\nIf a sale runs 30 days past plan, that is another $2,979.17 of carry for the borrower. National figures can differ from local ones, so lenders can check local days on market before setting a loan term.\n\nvaultedonline.com",
+   "alt": "Bar chart of U.S. median days on market: 62 in September 2025, 60 in August 2026, 61 in September 2026. Cards show interest on a $325,000 loan at 11 percent: $2,979.17 a month, $5,958.33 for two months, and $2,979.17 more if a sale runs 30 days late.",
+   "image": "images/2026-10-17/0932-fb-days-on-market.png",
+   "sources": [
+    {
+     "title": "Price Cuts Reach Yearly High as Inventory Nears Pre-Pandemic Levels: Realtor.com September Housing Report",
+     "publisher": "Realtor.com (via PR Newswire/Webull)",
+     "url": "https://www.webull.com/news/15666738824823808",
+     "date": "2026-09-30",
+     "quote": "Homes spent a median of 61 days on the market \u2014 one day longer than in August but one day fewer than a year earlier."
+    },
+    {
+     "title": "Price cuts reach September record, inventory nears pre-pandemic levels",
+     "publisher": "RISMedia (Realtor.com September 2026 Monthly Housing Trends Report)",
+     "url": "https://www.rismedia.com/2026/10/07/price-cuts-reach-september-record-inventory-nears-pre-pandemic-levels/",
+     "date": "2026-10-07",
+     "quote": "Homes spent a median of 61 days on the market, one day longer than in August, but one day fewer than a year earlier."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$325,000 at 11 percent interest-only",
+     "calc": "illustrative loan inputs"
+    },
+    {
+     "figure": "$2,979.17",
+     "calc": "325000*0.11/12 = 2979.1667"
+    },
+    {
+     "figure": "$5,958.33",
+     "calc": "2*325000*0.11/12 = 5958.33"
+    },
+    {
+     "figure": "30 days",
+     "calc": "illustrative delay; one month of carry = $2,979.17"
+    },
+    {
+     "figure": "62",
+     "calc": "61+1 = 62 (Sept 2025)"
+    },
+    {
+     "figure": "60",
+     "calc": "61-1 = 60 (Aug 2026)"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-17T13:47:00-04:00",
+   "topic": "prepay-step-down",
+   "kind": "evergreen",
+   "text": "A borrower on a $360,000 loan wants to pay off early. What does the prepayment fee cost?\n\nA step-down fee is a percentage of the outstanding balance that falls each year. Take an illustrative 3/2/1 schedule, balance still $360,000:\n\nPayoff in year 1: 3 percent, $10,800\nYear 2: 2 percent, $7,200\nYear 3: 1 percent, $3,600\nYear 4: no fee\n\nSchedules and fee bases vary by lender, and some states limit prepayment fees.\n\nBefore quoting a payoff, a lender can check which year it falls in and what balance the percentage applies to.\n\nvaultedonline.com",
+   "alt": "Bar chart of an illustrative 3/2/1 step-down prepayment fee on a $360,000 balance: year 1 is 3 percent or $10,800, year 2 is 2 percent or $7,200, year 3 is 1 percent or $3,600, and year 4 has no fee.",
+   "image": "images/2026-10-17/1347-fb-prepay-step-down.png",
+   "sources": [
+    {
+     "title": "Prepayment Penalty guide",
+     "publisher": "OfferMarket",
+     "url": "https://offermarket.us/blog/prepayment-penalty",
+     "date": "2025-07-25",
+     "quote": "charges a 3% fee on the outstanding principal loan balance if the loan is paid off in year 1, a 2% fee in year 2, and a 1% fee in year 3."
+    },
+    {
+     "title": "DSCR Loan Prepayment Penalty",
+     "publisher": "Home Abroad Inc.",
+     "url": "https://homeabroadinc.com/mortgages/dscr-loan-prepayment-penalty/",
+     "date": "2026-06-04",
+     "quote": "Prepayment penalties are typically calculated as a percentage of the outstanding loan balance at the time of payoff."
+    },
+    {
+     "title": "How does a step-down prepayment penalty work?",
+     "publisher": "HelloData",
+     "url": "https://hellodata.ai/help-articles/how-does-a-step-down-prepayment-penalty-work",
+     "date": "2026-10-17",
+     "quote": "This penalty percentage is applied to the remaining loan balance at the time of prepayment. (page undated, accessed 2026-10-17)"
+    },
+    {
+     "title": "Prepayment Penalty guide (states)",
+     "publisher": "OfferMarket",
+     "url": "https://offermarket.us/blog/prepayment-penalty",
+     "date": "2025-07-25",
+     "quote": "certain states such as Pennsylvania and Ohio do not allow prepayment penalty for loans below a certain amount."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$360,000",
+     "calc": "illustrative loan balance, assumed constant (interest-only)"
+    },
+    {
+     "figure": "3/2/1 schedule",
+     "calc": "illustrative schedule per assignment"
+    },
+    {
+     "figure": "$10,800",
+     "calc": "360000*0.03 = 10800"
+    },
+    {
+     "figure": "$7,200",
+     "calc": "360000*0.02 = 7200"
+    },
+    {
+     "figure": "$3,600",
+     "calc": "360000*0.01 = 3600"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-17T17:27:00-04:00",
+   "topic": "payoff-statement-per-diem",
+   "kind": "evergreen",
+   "text": "If closing slips 10 days after a payoff is quoted, what does the loan owe?\n\nA payoff statement shows what it takes to satisfy a loan on a specific day: the balance, interest through that day, and other charges. Per diem is the interest for each day.\n\nIllustrative: $275,000 at 9 percent on an actual/365 basis accrues about $67.81 a day. Ten extra days adds about $678.\n\nA payoff with no per diem leaves that gap. Lenders can include the per diem on every payoff statement. Day count and fees vary by note.\n\nvaultedonline.com",
+   "alt": "Graphic titled A payoff is good for one day. Illustrative $275,000 loan at 9 percent, actual/365, has a per diem of $67.81. A bar chart compares one day of added interest, $67.81, with ten days, about $678. Takeaway: ask for the per diem.",
+   "image": "images/2026-10-17/1727-fb-payoff-statement-per-diem.png",
+   "sources": [
+    {
+     "title": "What is a payoff amount and is it the same as my current balance?",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-payoff-amount-and-is-it-the-same-as-my-current-balance-en-205/",
+     "date": "2026-08-28",
+     "quote": "Your payoff amount includes the payment of any interest due through the day you intend to pay off your loan."
+    },
+    {
+     "title": "R.I. Gen. Laws 19-9-9 (payoff statement)",
+     "publisher": "Rhode Island General Assembly",
+     "url": "https://webserver.rilegislature.gov/Statutes/TITLE19/19-9/19-9-9.htm",
+     "date": "2026-10-17",
+     "quote": "\"Payoff statement\" means any statement produced by a lending institution or servicer of a mortgage setting forth the amount of the unpaid balance on said mortgage loan, including principal, interest, and other charges assessed pursuant to the loan documentation of such mortgage and a statement of the interest on a per-diem basis with respect to the unpaid principal balance of the mortgage loan. (2026-10-17 accessed; page undated)"
+    },
+    {
+     "title": "Loan payoff includes more than just principal balance",
+     "publisher": "Federal Title and Escrow",
+     "url": "https://www.federaltitle.com/blog/loan-payoff-includes-more-than-just-principal-balance",
+     "date": "2013-03-20",
+     "quote": "However, a payoff is the amount owed on the loan to pay it off on a specific day."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$275,000 and 9 percent",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "actual/365 basis",
+     "calc": "illustrative assumption; day count varies by note"
+    },
+    {
+     "figure": "10 days",
+     "calc": "illustrative closing slip"
+    },
+    {
+     "figure": "$67.81",
+     "calc": "275000*0.09/365 = 67.8082"
+    },
+    {
+     "figure": "$678",
+     "calc": "275000*0.09/365*10 = 678.08 (about $678)"
+    },
+    {
+     "figure": "$678.08",
+     "calc": "275000*0.09/365*10 = 678.0822"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-18T10:15:00-04:00",
+   "topic": "construction-costs",
+   "kind": "data",
+   "text": "Is that rehab bid still good? The producer price index for residential maintenance and repair inputs rose 10.5 percent from September 2025 to September 2026. Steel mill products rose 27.6 percent, and lumber and plywood rose 9.6 percent.\n\nIllustrative: a $68,000 bid priced a year ago, if every dollar moved with the index, would now be $75,140. Not every dollar is materials, so treat that as a ceiling, not a forecast.\n\nLenders can check the date on each contractor bid and ask whether those prices are still held. Data is national, and local costs vary.\n\nvaultedonline.com",
+   "alt": "Bar chart of producer price index changes from September 2025 to September 2026: residential maintenance and repair inputs plus 10.5 percent, lumber and plywood plus 9.6, concrete products plus 4.2, steel mill products plus 27.6. Cards show an illustrative $68,000 bid rising $7,140 to $75,140 as a ceiling.",
+   "image": "images/2026-10-18/1015-fb-construction-costs.png",
+   "sources": [
+    {
+     "title": "PPI Tables 2026_09 (Table 1: Changes in consumer, producer & construction prices)",
+     "publisher": "Associated General Contractors of America (BLS data, compiled by Ken Simonson)",
+     "url": "https://www.agc.org/sites/default/files/users/user21902/PPI%20Tables%202026_09_v2.pdf",
+     "date": "2026-10-15",
+     "quote": "WPUIP232100 Residential maintenance and repair 17.1 12.5 -2.3 1.7 2.5 2.0 10.5 51.7 (column headers: 8/2026 9/2025 2/2020 under 'to September 2026 since:')"
+    },
+    {
+     "title": "PPI Tables 2026_09, steel mill products row",
+     "publisher": "Associated General Contractors of America (BLS data)",
+     "url": "https://www.agc.org/sites/default/files/users/user21902/PPI%20Tables%202026_09_v2.pdf",
+     "date": "2026-10-15",
+     "quote": "WPU1017 Steel mill products 90.3 8.7 -16.2 -8.8 2.4 2.2 27.6 107.4"
+    },
+    {
+     "title": "PPI Tables 2026_09, lumber and plywood row",
+     "publisher": "Associated General Contractors of America (BLS data)",
+     "url": "https://www.agc.org/sites/default/files/users/user21902/PPI%20Tables%202026_09_v2.pdf",
+     "date": "2026-10-15",
+     "quote": "WPUSI004011 Lumber and plywood 41.1 -0.8 -23.1 -1.7 3.4 -0.7 9.6 35.7"
+    },
+    {
+     "title": "PPI Tables 2026_09, concrete products row",
+     "publisher": "Associated General Contractors of America (BLS data)",
+     "url": "https://www.agc.org/sites/default/files/users/user21902/PPI%20Tables%202026_09_v2.pdf",
+     "date": "2026-10-15",
+     "quote": "WPU133 Concrete products 4.9 12.7 11.0 5.1 2.1 0.3 4.2 47.9"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$68,000",
+     "calc": "illustrative bid amount chosen by author (illustrative)"
+    },
+    {
+     "figure": "$7,140",
+     "calc": "round(68000*10.5/100) = 7140"
+    },
+    {
+     "figure": "$75,140",
+     "calc": "68000+7140 = 75140"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-18T13:47:00-04:00",
+   "topic": "as-is-vs-arv-value",
+   "kind": "evergreen",
+   "text": "A house is worth $240,000 as-is and $410,000 after repairs. Rehab is $60,000. Which value sets the loan?\n\nIllustrative: 70% of ARV allows $287,000. An 85% loan-to-cost cap on $300,000 (purchase plus rehab) allows $255,000. Where two limits apply, the lender can offer the lesser of the two, so $255,000.\n\nCompare that to today's value: $255,000 is about 106% of the $240,000 as-is value. Sized on as-is alone, 70% would be $168,000.\n\nARV widens the loan, but the extra rests on the finished rehab. Caps vary by lender.\n\nvaultedonline.com",
+   "alt": "Comparison graphic for an illustrative property worth $240,000 as-is and $410,000 after repair. Cards show $168,000 at 70% of as-is, $287,000 at 70% of ARV, and $255,000 at 85% of $300,000 cost. A bar chart shows the $255,000 loan is about 106% of the as-is value.",
+   "image": "images/2026-10-18/1347-fb-as-is-vs-arv-value.png",
+   "sources": [
+    {
+     "title": "What Is After-Repair Value (ARV) in Fix-and-Flip Loans?",
+     "publisher": "Crestmont Capital",
+     "url": "https://www.crestmontcapital.com/blog/after-repair-value-fix-and-flip-loans",
+     "date": "2026-06-17",
+     "quote": "Maximum Loan Amount = ARV x Maximum LTARV %"
+    },
+    {
+     "title": "What Is After-Repair Value (ARV) in Fix-and-Flip Loans?",
+     "publisher": "Crestmont Capital",
+     "url": "https://www.crestmontcapital.com/blog/after-repair-value-fix-and-flip-loans",
+     "date": "2026-06-17",
+     "quote": "In this case, the lender will offer the lesser of the two calculations."
+    },
+    {
+     "title": "Fix and Flip Loans: AS-IS Value Versus After Repair Value",
+     "publisher": "FCTD",
+     "url": "https://www.fctd.com/blog/fix-and-flip-loans-as-is-value-versus-after-repair-value",
+     "date": "2024-02-03",
+     "quote": "The AS-IS value represents the current market value of a property in its existing condition, before any repairs or renovations."
+    },
+    {
+     "title": "Fix and Flip Loans: AS-IS Value Versus After Repair Value",
+     "publisher": "FCTD",
+     "url": "https://www.fctd.com/blog/fix-and-flip-loans-as-is-value-versus-after-repair-value",
+     "date": "2024-02-03",
+     "quote": "ARV, on the other hand, estimates the property's value after all planned renovations are completed."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$240,000, $410,000, $60,000",
+     "calc": "illustrative inputs: as-is value, ARV, rehab budget"
+    },
+    {
+     "figure": "70%, 85%",
+     "calc": "illustrative max LTARV and max loan-to-cost"
+    },
+    {
+     "figure": "$300,000",
+     "calc": "240000 + 60000 = 300000 (purchase at as-is value, illustrative, plus rehab)"
+    },
+    {
+     "figure": "$287,000",
+     "calc": "0.70 * 410000 = 287000"
+    },
+    {
+     "figure": "$255,000",
+     "calc": "0.85 * 300000 = 255000; min(287000, 255000) = 255000"
+    },
+    {
+     "figure": "about 106%",
+     "calc": "255000 / 240000 = 1.0625 -> 106.25%, about 106%"
+    },
+    {
+     "figure": "$168,000",
+     "calc": "0.70 * 240000 = 168000"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-18T17:27:00-04:00",
+   "topic": "change-orders",
+   "kind": "evergreen",
+   "text": "Say a borrower wants to add a bathroom to an $84,000 rehab, and the contractor prices it at $6,300. Before that draw funds, a lender can check:\n\nIs it written and signed? One lender guide wants written lender approval first.\n\nDoes it add a line item? That guide treats a scope change that adds or removes a line as material.\n\nIs the total budget unchanged? Some lenders allow moving funds between lines then.\n\nWho pays for upgrades? One guide says the borrower can, with proof of payment.\n\nHere $6,300 is 7.5 percent of the budget. Thresholds vary by lender.\n\nvaultedonline.com",
+   "alt": "Graphic titled Four checks on a rehab change order. A bar shows an illustrative $84,000 rehab budget with a $6,300 change order slice, 7.5 percent. Four cards: written and signed, adds a line item, total unchanged, who pays. Panel: approve first.",
+   "image": "images/2026-10-18/1727-fb-change-orders.png",
+   "sources": [
+    {
+     "title": "Construction Loan Draw Schedule: Sample + How Draws Work",
+     "publisher": "Ledger Trade & Capital",
+     "url": "https://ledgertc.com/construction-loan-draws",
+     "date": "2026-10-09",
+     "quote": "require written lender approval and an executed change order before the affected draw can fund. A scope change that adds or removes a line item (for example, adding a detached garage). any shift greater than 10% of a line, though thresholds vary by lender"
+    },
+    {
+     "title": "How Lenders Can Navigate Rising Material Costs",
+     "publisher": "LandGorilla",
+     "url": "https://landgorilla.com/blog/how-lenders-can-navigate-rising-material-costs/",
+     "date": "2026-10-17 (accessed; page undated)",
+     "quote": "paid out-of-pocket by the borrower to the contractor with proof of payment provided to the lender"
+    },
+    {
+     "title": "How Construction Draw Processes Vary by Lender",
+     "publisher": "HUD Loans (Janover)",
+     "url": "https://www.hud.loans/developer-guide/construction-draw-processes-by-lender/",
+     "date": "2025-05-21",
+     "quote": "allowing a reallocation between line items as long as the total budget remains unchanged"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$84,000",
+     "calc": "illustrative rehab budget"
+    },
+    {
+     "figure": "$6,300",
+     "calc": "illustrative change order amount"
+    },
+    {
+     "figure": "7.5 percent",
+     "calc": "6300/84000*100 = 7.5"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
   }
  ]
 }
