@@ -38,8 +38,8 @@
      "calc": "100*(1-0.56) = 44.0 (graphic only: Refinance Index scaled to year-ago = 100)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54edd0b0d72757a4084ab"
   },
   {
    "channel": "li",
@@ -66,8 +66,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54f090a208cb32384d9b1"
   },
   {
    "channel": "fb",
@@ -131,8 +131,8 @@
      "calc": "253800-200000-53800 = 0, third receives 0 of 25000"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54ee0a48c8f8371b8d77c"
   },
   {
    "channel": "fb",
@@ -166,8 +166,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54ee30a208cb32384d6c8"
   },
   {
    "channel": "fb",
@@ -226,8 +226,8 @@
      "calc": "illustrative move in the 10-year yield"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54ee60a208cb32384d72f"
   },
   {
    "channel": "li",
@@ -279,8 +279,8 @@
      "calc": "49.5*12 = 594"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54f0c769b457934e1e188"
   },
   {
    "channel": "fb",
@@ -343,8 +343,8 @@
      "calc": "one point = one percent of the loan (New Silver quote); 0.01*148750 = 1487.5, x2 = 2975"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54ee8a48c8f8371b8d82f"
   },
   {
    "channel": "fb",
@@ -392,8 +392,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54ef40a208cb32384d845"
   },
   {
    "channel": "fb",
@@ -458,8 +458,8 @@
      "calc": "27 * 70 = 1890"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54ef70b0d72757a4086e3"
   },
   {
    "channel": "fb",
@@ -503,8 +503,8 @@
      "calc": "Section 1.2(a) of the sample agreement, quoted in sources"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54efa0a208cb32384d886"
   },
   {
    "channel": "li",
@@ -543,8 +543,8 @@
      "calc": "no illustrative or computed numbers; all figures quoted from sources"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54f180b0d72757a40895c"
   },
   {
    "channel": "fb",
@@ -576,8 +576,8 @@
      "calc": "statutory figures quoted from 12 U.S.C. 1701j-3(d); no arithmetic"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54efca48c8f8371b8d9f0"
   },
   {
    "channel": "fb",
@@ -628,8 +628,8 @@
      "calc": "299 thousand x 1000 = 299,000 (BLS table is in thousands)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54eff0b0d72757a408765"
   },
   {
    "channel": "fb",
@@ -693,7 +693,7 @@
      "calc": "8000000-3200000"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -728,8 +728,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54f1b0b0d72757a4089d3"
   },
   {
    "channel": "fb",
@@ -805,7 +805,7 @@
      "calc": "California 8412 notice of completion alternative, per FindLaw quote 'Sixty days after the owner records a notice of completion or cessation.'"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -851,7 +851,7 @@
      "calc": "2400/2240 = 1.071"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -938,7 +938,7 @@
      "calc": "182000-178000 = 4000 (graphic)"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -978,8 +978,8 @@
      "calc": "quoted from Paul Hastings; no computation"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad54f1da48c8f8371b8ddb0"
   },
   {
    "channel": "fb",
@@ -1039,7 +1039,7 @@
      "calc": "license, insurance, W-9, references, lien waivers = len(5) items in the checklist (editorial count)"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1076,7 +1076,7 @@
      "calc": "hook uses the bucket thresholds 30, 60, 90; no computation"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1124,7 +1124,7 @@
      "calc": "2500-1900 = 600"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1178,7 +1178,7 @@
      "calc": "quoted from NerdWallet; 60 also in Eshoo; no computation"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1222,7 +1222,7 @@
      "calc": "USAFacts states the 125 average covers 2021 to 2025 (first fetch: 125 disasters declared yearly on average (2021-2025))"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1250,7 +1250,7 @@
     }
    ],
    "derived": [],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1283,7 +1283,7 @@
      "calc": "decision dates from the sources: June 23, 1998 (Riker) and April 25, 2017 (FindLaw), not computed"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   }
  ]

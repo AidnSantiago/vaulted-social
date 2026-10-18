@@ -837,6 +837,478 @@
     "https://landgorilla.com/blog/how-lenders-can-navigate-rising-material-costs/",
     "https://www.hud.loans/developer-guide/construction-draw-processes-by-lender/"
    ]
+  },
+  {
+   "key": "mba-weekly-applications",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-19",
+   "title": "The Refinance Index is 56 percent lower than the same week one year ago, per the Mortgage Bankers Association survey for the week ending October 9, 2026.",
+   "figures": [
+    "44"
+   ],
+   "sources": [
+    "https://newslink.mba.org/mba-newslinks/2026/october/mortgage-applications-decrease-in-latest-mba-weekly-survey/",
+    "https://www.housingwire.com/articles/mba-applications-slip-2-7/",
+    "https://www.mortgagenewsdaily.com/news/10162026-mortgage-applications-mba"
+   ]
+  },
+  {
+   "key": "ice-first-look",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-19",
+   "title": "ICE First Look puts the national mortgage delinquency rate at 3.53 percent for August 2026. That is up 14 basis points, but ICE says it was effectively flat aft",
+   "figures": [],
+   "sources": [
+    "https://mortgagetech.ice.com/resources/data-reports/first-look-at-august-2026-mortgage-data",
+    "https://www.housingwire.com/articles/ice-august-first-look-delinquencies-prepayments/"
+   ]
+  },
+  {
+   "key": "lien-position-explained",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-19",
+   "title": "Illustrative numbers. A home sells for $310,000. Selling costs of 6 percent take $18,600, leaving $291,400. Who gets paid?",
+   "figures": [
+    "$310,000, $270,000 sale prices; $200,000 / $60,000 / $25,000 liens; 6 percent costs",
+    "$18,600",
+    "$291,400",
+    "$6,400",
+    "$16,200",
+    "$253,800",
+    "$53,800",
+    "$6,200",
+    "$25,000 short on third / $0"
+   ],
+   "sources": [
+    "https://www.rocketmortgage.com/learn/first-lien-vs-second-lien",
+    "https://www.nolo.com/legal-encyclopedia/what-is-lien-priority.html"
+   ]
+  },
+  {
+   "key": "bpo-vs-appraisal",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-19",
+   "title": "Two opinions can describe the same property and mean different things.",
+   "figures": [],
+   "sources": [
+    "https://www.talcb.texas.gov/public/news-articles/appraisal-evaluation-brokers-price-opinion-what%E2%80%99s-difference",
+    "https://www.quickenloans.com/learn/broker-price-opinion",
+    "https://trerc.tamu.edu/article/for-what-its-worth/"
+   ]
+  },
+  {
+   "key": "treasury-mortgage-spread",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-20",
+   "title": "The 30-year mortgage rate averaged 7.40 percent as of October 15, 2026 (Freddie Mac). The 10-year Treasury yield that day was 5.10 percent (FRED). The gap is 2.",
+   "figures": [
+    "2.30 points / 230 basis points",
+    "7.15 percent",
+    "$300,000 loan",
+    "$2,077 and $2,026",
+    "$51",
+    "0.25"
+   ],
+   "sources": [
+    "https://www.freddiemac.com/pmms?intcmp=CWS",
+    "https://fred.stlouisfed.org/series/dgs10",
+    "https://www.bostonfed.org/publications/current-policy-perspectives/2026/why-mortgage-rates-exceed-treasury-yields"
+   ]
+  },
+  {
+   "key": "cpi-shelter",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-20",
+   "title": "The BLS rent index rose 2.8 percent over the 12 months ending September 2026. Owners equivalent rent rose 3.3 percent and the shelter index rose 3.2 percent. Th",
+   "figures": [
+    "$2,250",
+    "5 percent",
+    "$2,362.50",
+    "$2,313",
+    "$50",
+    "$594"
+   ],
+   "sources": [
+    "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+    "https://www.bls.gov/news.release/cpi.t01.htm"
+   ]
+  },
+  {
+   "key": "cash-to-close-math",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-20",
+   "title": "Buying a $175,000 rehab with an 85% loan? The loan is not the whole cash picture.",
+   "figures": [
+    "$175,000 / 85% / 2 points / $4,200",
+    "$148,750",
+    "$26,250",
+    "$2,975",
+    "$33,425",
+    "19%",
+    "1%"
+   ],
+   "sources": [
+    "https://newsilver.com/the-lender/what-are-points-on-a-hard-money-loan/",
+    "https://www.biggerpockets.com/blog/10-important-terms-to-know-when-applying-for-a-hard-money-loan",
+    "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"
+   ]
+  },
+  {
+   "key": "note-vs-mortgage",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-20",
+   "title": "A lender holds a signed promissory note but no mortgage or deed of trust. What does that lender have?",
+   "figures": [],
+   "sources": [
+    "https://piercelaw.com/news/real-estate-qa-series/what-is-the-difference-between-a-deed-of-trust-and-a-promissory-note-and-what-does-each-one-do-nc/",
+    "https://lbccapital.com/what-is-a-promissory-note-the-core-document-behind-every-private-real-estate-loan/",
+    "https://www.nolo.com/legal-encyclopedia/whats-the-difference-between-mortgage-deed-trust.html",
+    "https://www.nolo.com/legal-encyclopedia/whats-the-difference-between-mortgage-promissory-note.html",
+    "https://blog.onlineed.com/2026/02/06/promissory-note/"
+   ]
+  },
+  {
+   "key": "nar-existing-home-sales",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-21",
+   "title": "Existing-home sales ran at a seasonally adjusted annual rate of 3.99 million in September, NAR reported on October 13, 2026.",
+   "figures": [
+    "60 days",
+    "$70 a day",
+    "27 extra days",
+    "$1,890"
+   ],
+   "sources": [
+    "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+    "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+    "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+    "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+    "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report"
+   ]
+  },
+  {
+   "key": "in-balance-requirement",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-21",
+   "title": "A rehab loan has $90,000 left to fund. The contractor now says finishing will cost $104,000. Is the loan still \"in balance\"?",
+   "figures": [
+    "$104,000",
+    "$90,000",
+    "$14,000",
+    "15 days"
+   ],
+   "sources": [
+    "https://www.scotsmanguide.com/Commercial/Articles/2015/02/Construction-Lending-101",
+    "https://www.sec.gov/Archives/edgar/data/1284609/000095013708013688/c47009exv10w1.htm"
+   ]
+  },
+  {
+   "key": "usury-business-purpose",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-21",
+   "title": "Can a lender charge any rate on a business loan? It varies.",
+   "figures": [
+    "none"
+   ],
+   "sources": [
+    "https://alblawfirm.com/articles/avoiding-usury-determining-the-maximum-interest-that-can-be-legally-charged/",
+    "https://www.bsk.com/news-events-videos/new-york-state-court-of-appeals-holds-that-criminally-usurious-loans-are-void-ab-initio",
+    "https://www.jimersonfirm.com/blog/2018/09/mortgage-and-note-default-avoiding-usury-allegations/"
+   ]
+  },
+  {
+   "key": "due-on-sale",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-21",
+   "title": "What happens to a loan when the property changes hands?",
+   "figures": [
+    "three years / fewer than five units"
+   ],
+   "sources": [
+    "https://www.govinfo.gov/content/pkg/USCODE-2024-title12/html/USCODE-2024-title12-chap13-sec1701j-3.htm",
+    "https://www.flblaw.com/limitations-on-enforcing-due-on-sale-clauses/"
+   ]
+  },
+  {
+   "key": "construction-employment",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-22",
+   "title": "Construction added 11,000 jobs in September, and averaged 10,000 a month over the prior 12 months, the BLS reports.",
+   "figures": [
+    "12-month average 10,000",
+    "251,000",
+    "213,000",
+    "299,000"
+   ],
+   "sources": [
+    "https://www.bls.gov/news.release/empsit.nr0.htm",
+    "https://www.bls.gov/news.release/empsit.htm",
+    "https://www.bls.gov/news.release/jolts.t01.htm"
+   ]
+  },
+  {
+   "key": "concentration-risk",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-22",
+   "title": "Your portfolio is $8,000,000. Your largest borrower owes $1,400,000. How concentrated are you?",
+   "figures": [
+    "$8,000,000",
+    "$1,400,000",
+    "$3,200,000",
+    "17.5 percent",
+    "40 percent",
+    "22.5 percent",
+    "60 percent",
+    "$1,800,000",
+    "$4,800,000"
+   ],
+   "sources": [
+    "https://occ.gov/publications-and-resources/publications/comptrollers-handbook/files/concentrations-of-credit/pub-ch-concentrations.pdf",
+    "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-49.html"
+   ]
+  },
+  {
+   "key": "carve-outs-bad-boy",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-22",
+   "title": "What turns a non-recourse loan personal? A carve-out guaranty.",
+   "figures": [],
+   "sources": [
+    "https://www.barley.com/bad-boy-guarantys/",
+    "https://www.selzergurvitch.com/?p=4365",
+    "https://www.hinckleyallen.com/?p=5270"
+   ]
+  },
+  {
+   "key": "mechanics-lien-deadlines",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-22",
+   "title": "A contractor's last day on site is September 10. How long can a lien claim still be filed?",
+   "figures": [
+    "September 10",
+    "December 9",
+    "January 15",
+    "December 15",
+    "60 days"
+   ],
+   "sources": [
+    "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799%2F0713%2FSections%2F0713.08.html",
+    "https://m.flsenate.gov/statutes/713.08",
+    "https://law.justia.com/codes/texas/property-code/title-5/subtitle-b/chapter-53/subchapter-c/section-53-052/",
+    "https://texas.public.law/statutes/tex._prop._code_section_53.052",
+    "https://codes.findlaw.com/ca/civil-code/civ-sect-8412/",
+    "https://law.justia.com/codes/california/2022/code-civ/division-4/part-6/title-2/chapter-4/article-2/section-8412/"
+   ]
+  },
+  {
+   "key": "insurance-cost-trend",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-23",
+   "title": "When a DSCR formula counts insurance in the payment, a premium jump moves the ratio.",
+   "figures": [
+    "$2,400 rent, $1,850 PITI, $300 insurance",
+    "$2,150",
+    "1.12",
+    "30% to $390",
+    "$2,240",
+    "1.07"
+   ],
+   "sources": [
+    "https://content.naic.org/article/naic-releases-first-its-kind-national-analysis-homeowners-insurance-market-trends"
+   ]
+  },
+  {
+   "key": "brrrr-lender-view",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-23",
+   "title": "A bridge borrower says the refinance will pay you off. Does the math agree?",
+   "figures": [
+    "$260,000",
+    "$178,000",
+    "75%",
+    "$195,000",
+    "$17,000",
+    "10%",
+    "$234,000",
+    "$175,500",
+    "$2,500",
+    "$182,000",
+    "$4,000"
+   ],
+   "sources": [
+    "https://www.kiavi.com/blog/dscr-loan-for-brrrr-how-the-refinance-step-works",
+    "https://www.kiavi.com/blog/dscr-loan-for-brrrr-how-the-refinance-step-works",
+    "https://ipropertymanagement.com/guides/brrrr-method",
+    "https://ipropertymanagement.com/guides/brrrr-method"
+   ]
+  },
+  {
+   "key": "state-lender-licensing",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-23",
+   "title": "Before funding a first loan in a new state, a private lender can ask one question: does this state require a license?",
+   "figures": [
+    "12-month"
+   ],
+   "sources": [
+    "https://dfpi.ca.gov/regulated-industries/california-financing-law/about-california-financing-law/",
+    "https://www.paulhastings.com/insights/client-alerts/the-california-financing-law-commercial-and-consumer-lenders-beware",
+    "https://flofr.gov/divisions-offices/division-of-consumer-finance/mortgage-lender-and-branches"
+   ]
+  },
+  {
+   "key": "contractor-vetting",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-23",
+   "title": "Before a rehab loan funds, what can a lender verify about the contractor?",
+   "figures": [
+    "five items"
+   ],
+   "sources": [
+    "https://www.cslb.ca.gov/consumers/hire_a_contractor/finding_the_right_contractor.aspx",
+    "https://www.millernash.com/industry-news/why-you-need-more-than-just-a-certificate-of-insurance",
+    "https://www.mass.gov/doc/inftramwaysamplecertliabilityinsformpdf/download",
+    "https://www.irs.gov/instructions/iw9",
+    "https://www.corpay.com/resources/blog/construction-lien-waiver",
+    "https://www.law.cornell.edu/regulations/nevada/NAC-624-693"
+   ]
+  },
+  {
+   "key": "delinquency-buckets",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-24",
+   "title": "30, 60, 90 days late. Check how each report counts it.",
+   "figures": [
+    "30 to 59, 60 to 89, 90+",
+    "30, 60, 90"
+   ],
+   "sources": [
+    "https://www.mba.org/docs/default-source/research-and-forecasts/faqs/res_sf_nds_faq.pdf?sfvrsn=b99dd429_1",
+    "https://newslink.mba.org/?p=208436"
+   ]
+  },
+  {
+   "key": "payment-application-order",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-24",
+   "title": "A borrower sends $2,500. The loan has $1,900 of interest due and a $150 late fee. Where does the money go?",
+   "figures": [
+    "$2,500 / $1,900 / $150",
+    "$450",
+    "$600"
+   ],
+   "sources": [
+    "https://legalclarity.org/mortgage-payment-waterfall-how-servicers-apply-payments/",
+    "https://www.lawinsider.com:443/clause/how-we-apply-payments",
+    "https://www.firstmerchants.com/help/faqs/faq-details/what-about-partial-payments-and-short-payments"
+   ]
+  },
+  {
+   "key": "builders-risk-insurance",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-24",
+   "title": "A rehab loan closes. The borrower moves out, the house sits half gutted, and the standard homeowners policy is still the one on file. Is that enough?",
+   "figures": [
+    "30 or 60 consecutive days"
+   ],
+   "sources": [
+    "https://www.nerdwallet.com/article/insurance/unoccupied-vacant-home-insurance",
+    "https://www.nerdwallet.com/article/insurance/unoccupied-vacant-home-insurance",
+    "https://www.thisoldhouse.com/home-finances/what-to-know-about-insurance-for-home-construction-and-renovation-projects",
+    "https://www.hubinternational.com/en-us/faqs/construction/builders-risk-insurance-coverage/",
+    "https://www.propertyinsurancecoveragelaw.com/blog/what-constitutes-a-dwelling-or-building-under-construction-or-renovation-for-purposes-of-a-vacancy-exclusion/"
+   ]
+  },
+  {
+   "key": "fema-disaster-declarations",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-25",
+   "title": "133 federal disasters were declared in 2026 through September, per USAFacts. The 2021 to 2025 average is 125 a year.",
+   "figures": [
+    "8 more than average (graphic bar scale only)",
+    "2021 to 2025"
+   ],
+   "sources": [
+    "https://usafacts.org/articles/federal-disaster-declaration-fema",
+    "https://www.fema.gov/about/openfema/disaster-declarations-summaries",
+    "https://fema.gov/node/how-do-i-know-if-my-area-eligible-assistance"
+   ]
+  },
+  {
+   "key": "title-lender-vs-owner-policy",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-25",
+   "title": "Who does a title policy actually protect?",
+   "figures": [],
+   "sources": [
+    "https://www.alta.org/business-operations/marketing/unbranded/faqs-of-title-insurance-for-homeowners-usa.pdf",
+    "https://insurance.maryland.gov/consumer/documents/publications/titleinsurancebrochure.pdf"
+   ]
+  },
+  {
+   "key": "late-fees-grace",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-25",
+   "title": "A 5 percent late fee sounds routine. In Arizona in 2017, the state supreme court held that 5 percent of a final balloon payment, nearly $1.4 million, was an une",
+   "figures": [
+    "1998 / 2017"
+   ],
+   "sources": [
+    "https://riker.com/publications/appellate-division-decision-calls-into-question-late-charges-and-default-interest-rates",
+    "https://caselaw.findlaw.com/court/az-supreme-court/1857813.html"
+   ]
   }
  ]
 }
