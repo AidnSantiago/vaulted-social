@@ -1,1290 +1,1290 @@
 {
-  "week_start": "2026-10-19",
-  "posts": [
+ "week_start": "2026-10-19",
+ "posts": [
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-19T08:42:00-04:00",
+   "topic": "mba-weekly-applications",
+   "kind": "data",
+   "text": "The Refinance Index is 56 percent lower than the same week one year ago, per the Mortgage Bankers Association survey for the week ending October 9, 2026.\n\nThe 30-year fixed contract rate was 7.5 percent, the highest since November 2023. Refinances were 37.7 percent of applications, up from 37.0 percent, while the Purchase Index fell 4 percent on the week.\n\nFor a bridge lender, a payoff that relies on a refinance can be tested at today's rate, not the rate when the loan was written. Lenders can ask what the exit looks like if rates stay near 7.5 percent.\n\nvaultedonline.com",
+   "alt": "Graphic titled Refinance demand is 56 percent below a year ago, MBA weekly applications, week ending October 9, 2026. Cards: 30-year fixed rate 7.5 percent, refinance share 37.7 percent, Purchase Index down 4 percent. Bars: Refinance Index 100 a year ago versus 44 now.",
+   "image": "images/2026-10-19/0842-fb-mba-weekly-applications.png",
+   "sources": [
     {
-      "channel": "fb",
-      "slot_local": "2026-10-19T08:42:00-04:00",
-      "topic": "mba-weekly-applications",
-      "kind": "data",
-      "text": "The Refinance Index is 56 percent lower than the same week one year ago, per the Mortgage Bankers Association survey for the week ending October 9, 2026.\n\nThe 30-year fixed contract rate was 7.5 percent, the highest since November 2023. Refinances were 37.7 percent of applications, up from 37.0 percent, while the Purchase Index fell 4 percent on the week.\n\nFor a bridge lender, a payoff that relies on a refinance can be tested at today's rate, not the rate when the loan was written. Lenders can ask what the exit looks like if rates stay near 7.5 percent.\n\nvaultedonline.com",
-      "alt": "Graphic titled Refinance demand is 56 percent below a year ago, MBA weekly applications, week ending October 9, 2026. Cards: 30-year fixed rate 7.5 percent, refinance share 37.7 percent, Purchase Index down 4 percent. Bars: Refinance Index 100 a year ago versus 44 now.",
-      "image": "images/2026-10-19/0842-fb-mba-weekly-applications.png",
-      "sources": [
-        {
-          "title": "Mortgage Applications Decrease in Latest MBA Weekly Survey",
-          "publisher": "Mortgage Bankers Association (MBA Newslink)",
-          "url": "https://newslink.mba.org/mba-newslinks/2026/october/mortgage-applications-decrease-in-latest-mba-weekly-survey/",
-          "date": "2026-10-14",
-          "quote": "The Refinance Index decreased 0.4% from the previous week and was 56% lower than the same week one year ago. The refinance share of mortgage activity increased to 37.7% of total applications from 37% the previous week. The seasonally adjusted Purchase Index decreased 4% from one week earlier. The 30-year fixed rate was 7.5%, the highest rate since November 2023."
-        },
-        {
-          "title": "MBA applications slip 2.7%",
-          "publisher": "HousingWire",
-          "url": "https://www.housingwire.com/articles/mba-applications-slip-2-7/",
-          "date": "2026-10-14",
-          "quote": "The refinance share of mortgage activity increased to 37.7% of total applications from 37.0% the previous week."
-        },
-        {
-          "title": "Mortgage Applications MBA",
-          "publisher": "Mortgage News Daily",
-          "url": "https://www.mortgagenewsdaily.com/news/10162026-mortgage-applications-mba",
-          "date": "2026-10-16",
-          "quote": "The refinance share also ticked higher, reaching 37.7% of total applications"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "44",
-          "calc": "100*(1-0.56) = 44.0 (graphic only: Refinance Index scaled to year-ago = 100)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54edd0b0d72757a4084ab"
+     "title": "Mortgage Applications Decrease in Latest MBA Weekly Survey",
+     "publisher": "Mortgage Bankers Association (MBA Newslink)",
+     "url": "https://newslink.mba.org/mba-newslinks/2026/october/mortgage-applications-decrease-in-latest-mba-weekly-survey/",
+     "date": "2026-10-14",
+     "quote": "The Refinance Index decreased 0.4% from the previous week and was 56% lower than the same week one year ago. The refinance share of mortgage activity increased to 37.7% of total applications from 37% the previous week. The seasonally adjusted Purchase Index decreased 4% from one week earlier. The 30-year fixed rate was 7.5%, the highest rate since November 2023."
     },
     {
-      "channel": "li",
-      "slot_local": "2026-10-19T11:34:00-04:00",
-      "topic": "ice-first-look",
-      "kind": "data",
-      "text": "ICE First Look puts the national mortgage delinquency rate at 3.53 percent for August 2026. That is up 14 basis points, but ICE says it was effectively flat after accounting for a calendar-driven decline the month before.\n\nThe sharper signal is in foreclosures. Starts fell 6 percent in August, yet are still up 29 percent from a year earlier. Active inventory rose only 2,000 loans, but is up 41 percent year over year.\n\nLenders can compare each month with the same month a year ago, and track new starts apart from inventory. This is residential data, not private loans.",
-      "alt": "Graphic on ICE First Look for August 2026. National mortgage delinquency rate 3.53 percent, up 14 basis points but effectively flat after calendar effects. Foreclosure starts down 6 percent from July, up 29 percent from a year earlier. Active inventory up 2,000 loans, up 41 percent year over year.",
-      "image": "images/2026-10-19/1134-li-ice-first-look.png",
-      "sources": [
-        {
-          "title": "First Look at August 2026 Mortgage Data",
-          "publisher": "ICE Mortgage Technology",
-          "url": "https://mortgagetech.ice.com/resources/data-reports/first-look-at-august-2026-mortgage-data",
-          "date": "2026-09-28",
-          "quote": "The national delinquency rate rose 14 basis points (bps) to 3.53% in August ... was effectively flat after accounting for the prior month's calendar-driven decline. Starts fell 6% in August, though still up 29% annually. Active inventory rose just 2,000, the smallest monthly build since November 2025, but is up 89,000, or 41%, year over year."
-        },
-        {
-          "title": "ICE August First Look: delinquencies, prepayments",
-          "publisher": "HousingWire",
-          "url": "https://www.housingwire.com/articles/ice-august-first-look-delinquencies-prepayments/",
-          "date": "2026-09-28",
-          "quote": "The national mortgage delinquency rate increased 14 basis points to 3.53% in August. Foreclosure starts fell 6% from July but were 29% higher than a year earlier."
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6ad54f090a208cb32384d9b1"
+     "title": "MBA applications slip 2.7%",
+     "publisher": "HousingWire",
+     "url": "https://www.housingwire.com/articles/mba-applications-slip-2-7/",
+     "date": "2026-10-14",
+     "quote": "The refinance share of mortgage activity increased to 37.7% of total applications from 37.0% the previous week."
     },
     {
-      "channel": "fb",
-      "slot_local": "2026-10-19T12:47:00-04:00",
-      "topic": "lien-position-explained",
-      "kind": "evergreen",
-      "text": "Illustrative numbers. A home sells for $310,000. Selling costs of 6 percent take $18,600, leaving $291,400. Who gets paid?\n\nLiens are generally paid in order of priority. A $200,000 first lien is paid in full, then a $60,000 second, then a $25,000 third. The owner keeps $6,400.\n\nNow say it sells for $270,000. Net proceeds are $253,800. The first is paid in full, the second gets $53,800 and is $6,200 short, and the third gets nothing.\n\nLenders can check what sits ahead of them. Priority rules can vary by state.\n\nvaultedonline.com",
-      "alt": "Two bar waterfalls of illustrative sale proceeds paid in lien order. At a $310,000 sale, net $291,400 pays the $200,000 first, $60,000 second and $25,000 third in full, leaving $6,400. At $270,000, net $253,800 pays the first in full, the second $53,800 (short $6,200) and the third nothing.",
-      "image": "images/2026-10-19/1247-fb-lien-position-explained.png",
-      "sources": [
-        {
-          "title": "First lien vs. second lien: What's the difference?",
-          "publisher": "Rocket Mortgage",
-          "url": "https://www.rocketmortgage.com/learn/first-lien-vs-second-lien",
-          "date": "2026-09-26",
-          "quote": "the first lienholder will be paid in full, and the second lienholder will be paid from what\u2019s left over."
-        },
-        {
-          "title": "What Is Lien Priority?",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/what-is-lien-priority.html",
-          "date": "2026-10-18",
-          "quote": "A first lien has a higher priority than other liens and gets first crack at the sale proceeds. A lien with a low priority might get nothing from a foreclosure sale. (page undated, accessed 2026-10-18)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$310,000, $270,000 sale prices; $200,000 / $60,000 / $25,000 liens; 6 percent costs",
-          "calc": "illustrative inputs"
-        },
-        {
-          "figure": "$18,600",
-          "calc": "310000*0.06 = 18600"
-        },
-        {
-          "figure": "$291,400",
-          "calc": "310000-18600 = 291400"
-        },
-        {
-          "figure": "$6,400",
-          "calc": "291400-200000-60000-25000 = 6400"
-        },
-        {
-          "figure": "$16,200",
-          "calc": "270000*0.06 = 16200"
-        },
-        {
-          "figure": "$253,800",
-          "calc": "270000-16200 = 253800"
-        },
-        {
-          "figure": "$53,800",
-          "calc": "253800-200000 = 53800"
-        },
-        {
-          "figure": "$6,200",
-          "calc": "60000-53800 = 6200"
-        },
-        {
-          "figure": "$25,000 short on third / $0",
-          "calc": "253800-200000-53800 = 0, third receives 0 of 25000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54ee0a48c8f8371b8d77c"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-19T17:27:00-04:00",
-      "topic": "bpo-vs-appraisal",
-      "kind": "evergreen",
-      "text": "Two opinions can describe the same property and mean different things.\n\nA broker price opinion is an estimate of price, prepared by a licensed broker or sales agent. One Texas regulator notes it is not an opinion of market value, and is not subject to development standards.\n\nAn appraisal is an opinion of value that only a licensed or certified appraiser can complete, and the report must follow USPAP.\n\nRules vary by state, so lenders can confirm which one a file calls for and who prepared it.\n\nvaultedonline.com",
-      "alt": "Two side-by-side cards comparing a broker price opinion and an appraisal. The broker price opinion is an estimate of price from a licensed broker or sales agent and is not an opinion of market value. The appraisal is an opinion of value from a licensed or certified appraiser and must follow USPAP.",
-      "image": "images/2026-10-19/1727-fb-bpo-vs-appraisal.png",
-      "sources": [
-        {
-          "title": "Appraisal, Evaluation, Broker's Price Opinion: What's the Difference?",
-          "publisher": "Texas Appraiser Licensing and Certification Board",
-          "url": "https://www.talcb.texas.gov/public/news-articles/appraisal-evaluation-brokers-price-opinion-what%E2%80%99s-difference",
-          "date": "2021-12-29",
-          "quote": "A broker\u2019s price opinion is not an opinion of market value. They can be provided by a licensed broker or sales agent. They can only be completed by a licensed or certified appraiser. In addition, appraisal reports must comply with the Uniform Standards of Professional Appraisal Practice (USPAP). At the outset of a real estate transaction, sellers want to be able to quickly establish a listing price for their property."
-        },
-        {
-          "title": "What Is a Broker Price Opinion?",
-          "publisher": "Quicken Loans",
-          "url": "https://www.quickenloans.com/learn/broker-price-opinion",
-          "date": "2023-10-25",
-          "quote": "A BPO is a real estate professional\u2019s opinion of what a home will sell for."
-        },
-        {
-          "title": "For What It's Worth",
-          "publisher": "Texas Real Estate Research Center (Texas A&M)",
-          "url": "https://trerc.tamu.edu/article/for-what-its-worth/",
-          "date": "2013-01-09",
-          "quote": "a licensed real estate salesperson or broker prepares the BPO, not a state licensed or certified appraiser."
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6ad54ee30a208cb32384d6c8"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-20T09:15:00-04:00",
-      "topic": "treasury-mortgage-spread",
-      "kind": "data",
-      "text": "The 30-year mortgage rate averaged 7.40 percent as of October 15, 2026 (Freddie Mac). The 10-year Treasury yield that day was 5.10 percent (FRED). The gap is 2.30 points.\n\nThe Boston Fed says that gap has ranged from 100 to 300 basis points since 2000, so 230 sits inside that range.\n\nWhy it matters at exit: a borrower refinancing out of a bridge loan faces the mortgage rate, not the Treasury yield. Illustrative: if the gap held, a 0.25 point drop in the 10-year would mean 7.15 percent, about $51 a month less on $300,000.\n\nTest exits against both.\n\nvaultedonline.com",
-      "alt": "Bar chart as of October 15, 2026: the 10-year Treasury yield at 5.10 percent and the 30-year fixed mortgage rate at 7.40 percent, a 2.30 point spread. Cards: Boston Fed range of 100 to 300 basis points since 2000, and an illustrative $51 a month saving on $300,000 if the rate fell to 7.15.",
-      "image": "images/2026-10-20/0915-fb-treasury-mortgage-spread.png",
-      "sources": [
-        {
-          "title": "Primary Mortgage Market Survey",
-          "publisher": "Freddie Mac",
-          "url": "https://www.freddiemac.com/pmms?intcmp=CWS",
-          "date": "2026-10-18",
-          "quote": "The 30-year fixed-rate mortgage averaged 7.40% as of October 15, 2026, unchanged from last week."
-        },
-        {
-          "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity (DGS10)",
-          "publisher": "FRED, Federal Reserve Bank of St. Louis",
-          "url": "https://fred.stlouisfed.org/series/dgs10",
-          "date": "2026-10-16",
-          "quote": "2026-10-15: 5.10"
-        },
-        {
-          "title": "Why Mortgage Rates Exceed Treasury Yields",
-          "publisher": "Federal Reserve Bank of Boston",
-          "url": "https://www.bostonfed.org/publications/current-policy-perspectives/2026/why-mortgage-rates-exceed-treasury-yields",
-          "date": "2026-05-19",
-          "quote": "Since 2000, the gap between the 30-year fixed mortgage rate and the yield on a 10-year U.S. Treasury note has ranged from 100 to 300 basis points."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "2.30 points / 230 basis points",
-          "calc": "round(7.40-5.10,2) = 2.30"
-        },
-        {
-          "figure": "7.15 percent",
-          "calc": "illustrative: 7.40-0.25 = 7.15 (gap held, 10-year down 0.25, illustrative)"
-        },
-        {
-          "figure": "$300,000 loan",
-          "calc": "illustrative input, 30-year amortization"
-        },
-        {
-          "figure": "$2,077 and $2,026",
-          "calc": "P*i/(1-(1+i)**-360), i=rate/1200: 2077.14 at 7.40, 2026.22 at 7.15"
-        },
-        {
-          "figure": "$51",
-          "calc": "2077.14-2026.22 = 50.92, rounded to 51"
-        },
-        {
-          "figure": "0.25",
-          "calc": "illustrative move in the 10-year yield"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54ee60a208cb32384d72f"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-10-20T10:21:00-04:00",
-      "topic": "cpi-shelter",
-      "kind": "data",
-      "text": "The BLS rent index rose 2.8 percent over the 12 months ending September 2026. Owners equivalent rent rose 3.3 percent and the shelter index rose 3.2 percent. The release came out October 14, 2026.\n\nWhy it matters: a rent growth assumption of 5 percent runs well above that pace. Illustrative: on rent of $2,250 a month, 5 percent growth projects $2,362.50 a year out, while 2.8 percent gives $2,313. That is about $50 less each month, or $594 a year.\n\nLenders can run any rent growth assumption in a file at both the assumed rate and the published index pace.",
-      "alt": "Bar chart of BLS 12-month CPI changes for September 2026: rent 2.8 percent, shelter 3.2 percent, owners equivalent rent 3.3 percent. Illustrative example: rent of $2,250 grows to $2,362.50 at 5 percent or $2,313 at 2.8 percent, about $594 less per year.",
-      "image": "images/2026-10-20/1021-li-cpi-shelter.png",
-      "sources": [
-        {
-          "title": "Consumer Price Index News Release, September 2026",
-          "publisher": "U.S. Bureau of Labor Statistics",
-          "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
-          "date": "2026-10-14",
-          "quote": "The shelter index increased 3.2 percent over the last year."
-        },
-        {
-          "title": "Table 1. CPI-U: U.S. city average, by expenditure category, 2026 M09 Results",
-          "publisher": "U.S. Bureau of Labor Statistics",
-          "url": "https://www.bls.gov/news.release/cpi.t01.htm",
-          "date": "2026-10-14",
-          "quote": "Rent of primary residence 2.8 percent and owners equivalent rent of residences 3.3 percent (12-month unadjusted change, September 2026); shelter 3.2 percent."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$2,250",
-          "calc": "illustrative monthly rent"
-        },
-        {
-          "figure": "5 percent",
-          "calc": "illustrative growth assumption"
-        },
-        {
-          "figure": "$2,362.50",
-          "calc": "2250*1.05 = 2362.5"
-        },
-        {
-          "figure": "$2,313",
-          "calc": "2250*1.028 = 2313.0"
-        },
-        {
-          "figure": "$50",
-          "calc": "2362.5-2313 = 49.5, about 50"
-        },
-        {
-          "figure": "$594",
-          "calc": "49.5*12 = 594"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54f0c769b457934e1e188"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-20T12:47:00-04:00",
-      "topic": "cash-to-close-math",
-      "kind": "evergreen",
-      "text": "Buying a $175,000 rehab with an 85% loan? The loan is not the whole cash picture.\n\nHere is an illustrative example. The loan is $148,750, so the down payment is $26,250. Two points, where each point is 1% of the loan, add $2,975. Say closing costs are $4,200.\n\nCash to close: $26,250 + $2,975 + $4,200 = $33,425, about 19% of the price. That is before rehab funds or an appraisal fee, if any.\n\nLenders can give borrowers the full cash number up front, not just the down payment.\n\nvaultedonline.com",
-      "alt": "Illustrative worked example: a $175,000 rehab purchase with an 85% loan of $148,750. Cash to close is the $26,250 down payment plus $2,975 for two points plus $4,200 closing costs, totaling $33,425, shown as a single stacked bar.",
-      "image": "images/2026-10-20/1247-fb-cash-to-close-math.png",
-      "sources": [
-        {
-          "title": "What are Points on a Hard Money Loan?",
-          "publisher": "New Silver",
-          "url": "https://newsilver.com/the-lender/what-are-points-on-a-hard-money-loan/",
-          "date": "2025-11-19",
-          "quote": "Each point is based upon one percent of the total amount of the loan."
-        },
-        {
-          "title": "10 Important Terms To Know When Applying For A Hard Money Loan",
-          "publisher": "BiggerPockets",
-          "url": "https://www.biggerpockets.com/blog/10-important-terms-to-know-when-applying-for-a-hard-money-loan",
-          "date": "2024-02-27",
-          "quote": "Points represent fees charged by the lender at closing, typically expressed as a percentage of the loan amount."
-        },
-        {
-          "title": "Closing disclosure explainer",
-          "publisher": "CFPB",
-          "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/",
-          "date": "2023-10-10",
-          "quote": "This is the total amount you will have to pay at closing, in addition to any money you have already paid."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$175,000 / 85% / 2 points / $4,200",
-          "calc": "illustrative inputs chosen by author"
-        },
-        {
-          "figure": "$148,750",
-          "calc": "175000*0.85 = 148750"
-        },
-        {
-          "figure": "$26,250",
-          "calc": "175000-148750 = 26250"
-        },
-        {
-          "figure": "$2,975",
-          "calc": "148750*0.02 = 2975"
-        },
-        {
-          "figure": "$33,425",
-          "calc": "26250+2975+4200 = 33425"
-        },
-        {
-          "figure": "19%",
-          "calc": "33425/175000 = 0.191"
-        },
-        {
-          "figure": "1%",
-          "calc": "one point = one percent of the loan (New Silver quote); 0.01*148750 = 1487.5, x2 = 2975"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54ee8a48c8f8371b8d82f"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-20T17:27:00-04:00",
-      "topic": "note-vs-mortgage",
-      "kind": "evergreen",
-      "text": "A lender holds a signed promissory note but no mortgage or deed of trust. What does that lender have?\n\nThe note is the debt. It is the borrower's written promise to repay. The mortgage or deed of trust is the security. It pledges the property as collateral and gives the lender a lien.\n\nWhich one is used varies by state. A deed of trust names a trustee, who can carry out a foreclosure under a power of sale if the deed allows it.\n\nTakeaway: the note says what is owed. The security instrument ties that debt to the property.\n\nvaultedonline.com",
-      "alt": "Two comparison cards. Left: the promissory note is the debt, the borrower's written promise to repay. Right: the mortgage or deed of trust is the security, pledging the property as collateral and giving the lender a lien. Takeaway: the note says what is owed; the security instrument ties it to the property.",
-      "image": "images/2026-10-20/1727-fb-note-vs-mortgage.png",
-      "sources": [
-        {
-          "title": "What is the difference between a deed of trust and a promissory note, and what does each one do? NC",
-          "publisher": "Pierce Law",
-          "url": "https://piercelaw.com/news/real-estate-qa-series/what-is-the-difference-between-a-deed-of-trust-and-a-promissory-note-and-what-does-each-one-do-nc/",
-          "date": "2026-01-24",
-          "quote": "In a typical North Carolina real estate loan, the promissory note and the deed of trust work together but do different jobs."
-        },
-        {
-          "title": "What Is a Promissory Note in Private Real Estate Lending?",
-          "publisher": "LBC Capital",
-          "url": "https://lbccapital.com/what-is-a-promissory-note-the-core-document-behind-every-private-real-estate-loan/",
-          "date": "2026-10-15",
-          "quote": "The note is the borrower\u2019s unconditional promise to repay \u2014 it creates the personal obligation. The deed of trust is the security instrument: it pledges specific real property as collateral for that same obligation."
-        },
-        {
-          "title": "What's the Difference Between a Mortgage and a Deed of Trust?",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/whats-the-difference-between-mortgage-deed-trust.html",
-          "date": "2026-10-18",
-          "quote": "Some states use mortgages to create a lien on the property, while others typically use deeds of trust. (page undated, accessed 2026-10-18)"
-        },
-        {
-          "title": "What's the Difference Between a Mortgage and a Promissory Note?",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/whats-the-difference-between-mortgage-promissory-note.html",
-          "date": "2026-10-18",
-          "quote": "The mortgage gives the lender the right to sell the property through foreclosure (page undated, accessed 2026-10-18)"
-        },
-        {
-          "title": "Promissory Note",
-          "publisher": "OnlineEd",
-          "url": "https://blog.onlineed.com/2026/02/06/promissory-note/",
-          "date": "2026-02-06",
-          "quote": "a written agreement in which a borrower promises to repay a loan according to specified terms"
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6ad54ef40a208cb32384d845"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-21T08:56:00-04:00",
-      "topic": "nar-existing-home-sales",
-      "kind": "data",
-      "text": "Existing-home sales ran at a seasonally adjusted annual rate of 3.99 million in September, NAR reported on October 13, 2026.\n\nUnsold inventory was a 4.8-month supply, up from 4.5 months a year earlier. Median time on market was 33 days, and the median price was $417,500, up 1.3 percent from a year ago.\n\nAt exit: a flip that sits 60 days instead of 33 sits 27 extra days. Illustrative: at $70 a day in loan interest, taxes and insurance, that is $1,890.\n\nThese are national figures. Local markets vary.\n\nvaultedonline.com",
-      "alt": "Stat cards for September 2026 NAR data: 3.99 million annual sales pace, 4.8 months of supply (up from 4.5), median price $417,500 up 1.3 percent. Bars compare the 33 day median time on market with an illustrative 60 day sale, 27 extra days costing $1,890 at $70 a day.",
-      "image": "images/2026-10-21/0856-fb-nar-existing-home-sales.png",
-      "sources": [
-        {
-          "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
-          "publisher": "National Association of REALTORS",
-          "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
-          "date": "2026-10-13",
-          "quote": "Existing-home sales decreased 2.2% year-over-year to a seasonally adjusted annual rate of 3.99 million."
-        },
-        {
-          "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
-          "publisher": "National Association of REALTORS",
-          "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
-          "date": "2026-10-13",
-          "quote": "Unsold inventory represented a 4.8-month supply, unchanged from August and up from 4.5 months one year ago."
-        },
-        {
-          "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
-          "publisher": "National Association of REALTORS",
-          "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
-          "date": "2026-10-13",
-          "quote": "Median time on market: 33 days, up from 31 days in August and unchanged from September 2025."
-        },
-        {
-          "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
-          "publisher": "National Association of REALTORS",
-          "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
-          "date": "2026-10-13",
-          "quote": "1.3% increase in median existing-home sales price to $417,500"
-        },
-        {
-          "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
-          "publisher": "National Association of REALTORS",
-          "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
-          "date": "2026-10-13",
-          "quote": "Total housing inventory reached 1.60 million units, up 1.9% from August and 4.6% from September 2025."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "60 days",
-          "calc": "illustrative slow-sale length, chosen by author"
-        },
-        {
-          "figure": "$70 a day",
-          "calc": "illustrative daily carry (interest, taxes, insurance), chosen by author"
-        },
-        {
-          "figure": "27 extra days",
-          "calc": "60 - 33 = 27"
-        },
-        {
-          "figure": "$1,890",
-          "calc": "27 * 70 = 1890"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54ef70b0d72757a4086e3"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-21T12:47:00-04:00",
-      "topic": "in-balance-requirement",
-      "kind": "evergreen",
-      "text": "A rehab loan has $90,000 left to fund. The contractor now says finishing will cost $104,000. Is the loan still \"in balance\"?\n\nNo. In balance means the unfunded loan is enough to finish the project. Here the gap is $14,000 ($104,000 minus $90,000).\n\nOne construction loan agreement filed with the SEC in 2008, for a hotel, has the bank fund only while the loan is in balance. After written notice that it is not, the borrower has 15 days to deposit the shortfall or pay project costs. Terms vary by lender.\n\nvaultedonline.com",
-      "alt": "Two bars compare remaining cost to complete of $104,000 with undisbursed loan funds of $90,000, leaving a dashed $14,000 gap. Cards define in balance and out of balance, and a panel shows $104,000 minus $90,000 equals $14,000. Figures are illustrative.",
-      "image": "images/2026-10-21/1247-fb-in-balance-requirement.png",
-      "sources": [
-        {
-          "title": "Construction Lending 101",
-          "publisher": "Scotsman Guide (Joel Solomon)",
-          "url": "https://www.scotsmanguide.com/Commercial/Articles/2015/02/Construction-Lending-101",
-          "date": "2019-10-30",
-          "quote": "The ultimate protection for a lender, however, is the requirement that the loan remain in balance, meaning that the unfunded loan is sufficient to complete the project. If that occurs, the lender has the right to declare a loan out of balance. The lender may institute default-rate interest, stop funding and even shut down the project."
-        },
-        {
-          "title": "Construction Loan Agreement, Summit Hotel Properties, LLC and Compass Bank (Arizona, Income Property), Section 1.2",
-          "publisher": "SEC EDGAR exhibit 10.1",
-          "url": "https://www.sec.gov/Archives/edgar/data/1284609/000095013708013688/c47009exv10w1.htm",
-          "date": "2008-09-17",
-          "quote": "Bank shall be obligated to disburse proceeds of the Loan only when the Loan is \"in balance.\" ... within fifteen (15) days after written notice from Bank that the Loan is not \"in balance,\" [Borrower deposits the amount needed in a Borrower's Funds Account or pays project costs until the Loan is back in balance]"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$104,000",
-          "calc": "illustrative remaining cost to complete, chosen by assignment"
-        },
-        {
-          "figure": "$90,000",
-          "calc": "illustrative undisbursed loan funds, chosen by assignment"
-        },
-        {
-          "figure": "$14,000",
-          "calc": "104000 - 90000 = 14000"
-        },
-        {
-          "figure": "15 days",
-          "calc": "Section 1.2(a) of the sample agreement, quoted in sources"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54efa0a208cb32384d886"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-10-21T17:09:00-04:00",
-      "topic": "usury-business-purpose",
-      "kind": "evergreen",
-      "text": "Can a lender charge any rate on a business loan? It varies.\n\nIn New York, loans to corporations and LLCs are generally exempt from the 16 percent civil usury cap, but the 25 percent criminal cap generally still applies. The exemption does not apply where the entity owns a one or two family dwelling as its principal asset.\n\nIn Florida, one law firm summary says the cap turns on loan size, 18 percent simple interest on loans of 500,000 dollars or less, then 25 percent above.\n\nTakeaway: a business purpose is not a universal pass. Check each state.",
-      "alt": "Two cards compare usury caps. New York: 16 percent civil cap generally exempt for corporations and LLCs, 25 percent criminal cap still applies. Florida: 18 percent maximum for loans of 500,000 dollars or less, 25 percent above. Message: a business purpose does not settle it.",
-      "image": "images/2026-10-21/1709-li-usury-business-purpose.png",
-      "sources": [
-        {
-          "title": "Avoiding Usury: Determining the Maximum Interest That Can Be Legally Charged",
-          "publisher": "Adam Leitman Bailey, P.C.",
-          "url": "https://alblawfirm.com/articles/avoiding-usury-determining-the-maximum-interest-that-can-be-legally-charged/",
-          "date": "2026-09-14",
-          "quote": "New York imposes two separate rates for determining usury, a 16% rate for civil usury, and a 25% rate for criminal usury. (Also: loans to corporations and limited liability companies are generally exempt from the 16% civil usury cap; exception where the entity owns a one or two family dwelling.)"
-        },
-        {
-          "title": "New York State Court of Appeals Holds that Criminally Usurious Loans are Void Ab Initio",
-          "publisher": "Bond, Schoeneck and King PLLC",
-          "url": "https://www.bsk.com/news-events-videos/new-york-state-court-of-appeals-holds-that-criminally-usurious-loans-are-void-ab-initio",
-          "date": "2022-02-22",
-          "quote": "the defense of civil usury contained within New York's General Obligations Law is not available to corporations"
-        },
-        {
-          "title": "Mortgage and Note Default: Avoiding Usury Allegations",
-          "publisher": "Jimerson Birr",
-          "url": "https://www.jimersonfirm.com/blog/2018/09/mortgage-and-note-default-avoiding-usury-allegations/",
-          "date": "2018-09-25",
-          "quote": "In Florida, the maximum allowable rate is 18 percent simple interest for loans of $500,000 or less. For loans of more than $500,000, the maximum allowable rate is 25 percent simple interest."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "none",
-          "calc": "no illustrative or computed numbers; all figures quoted from sources"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54f180b0d72757a40895c"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-21T17:27:00-04:00",
-      "topic": "due-on-sale",
-      "kind": "evergreen",
-      "text": "What happens to a loan when the property changes hands?\n\nA due-on-sale clause lets a lender, at its option, declare the loan due and payable if the property is sold or transferred without the lender's prior written consent.\n\nFederal law lists exceptions for residential property with fewer than five units. Two examples: a lease of three years or less with no purchase option, and a transfer where the borrower's spouse or children become an owner. The implementing rule ties these limits to homes the borrower occupies or will occupy.\n\nLenders can read the clause in each note.\n\nvaultedonline.com",
-      "alt": "Diagram of a due-on-sale clause. A property sold or transferred without the lender's prior written consent gives the lender the option to declare the loan due and payable. Three federal exceptions for residential property with fewer than five units: a lease of three years or less, a transfer to spouse or children, a transfer into a trust.",
-      "image": "images/2026-10-21/1727-fb-due-on-sale.png",
-      "sources": [
-        {
-          "title": "12 U.S.C. 1701j-3 Preemption of due-on-sale prohibitions",
-          "publisher": "U.S. Government Publishing Office (U.S. Code, 2024 Edition)",
-          "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title12/html/USCODE-2024-title12-chap13-sec1701j-3.htm",
-          "date": "2026-10-18",
-          "quote": "the term \"due-on-sale clause\" means a contract provision which authorizes a lender, at its option, to declare due and payable sums secured by the lender's security instrument if all or any part of the property, or an interest therein, securing the real property loan is sold or transferred without the lender's prior written consent. (page undated beyond 2024 Edition label, accessed 2026-10-18; (d): \"With respect to a real property loan secured by a lien on residential real property containing less than five dwelling units\" a lender may not exercise the option on, among others, \"the granting of a leasehold interest of three years or less not containing an option to purchase\", \"a transfer where the spouse or children of the borrower become an owner of the property\", and a transfer into an inter vivos trust in which the borrower \"is and remains a beneficiary\")"
-        },
-        {
-          "title": "Limitations on Enforcing Due on Sale Clauses",
-          "publisher": "Fitzpatrick Lentz & Bubba, P.C.",
-          "url": "https://www.flblaw.com/limitations-on-enforcing-due-on-sale-clauses/",
-          "date": "2021-03-18",
-          "quote": "regardless of the agreement between a borrower and lender, a lender may not enforce the due on sale clause in a residential mortgage if one of the following exceptions occurs."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "three years / fewer than five units",
-          "calc": "statutory figures quoted from 12 U.S.C. 1701j-3(d); no arithmetic"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54efca48c8f8371b8d9f0"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-22T08:25:00-04:00",
-      "topic": "construction-employment",
-      "kind": "data",
-      "text": "Construction added 11,000 jobs in September, and averaged 10,000 a month over the prior 12 months, the BLS reports.\n\nConstruction job openings were 251,000 in August (preliminary), up from 213,000 a year earlier but down from 299,000 in July.\n\nOpenings do not prove contractors are short of crews, and one month is noisy. Still, slow job growth can mean a contractor cannot add people quickly when work piles up.\n\nOn a rehab loan, lenders can ask each contractor when a crew can actually start and how many jobs it is running now, before setting the timeline and interest reserve.\n\nvaultedonline.com",
-      "alt": "Bar chart of BLS construction job openings: 213 thousand in August 2025, 299 thousand in July 2026, 251 thousand in August 2026 (preliminary). Two cards: construction added 11,000 jobs in September 2026 and averaged 10,000 a month over the prior 12 months. Takeaway: lenders can ask when a crew can start.",
-      "image": "images/2026-10-22/0825-fb-construction-employment.png",
-      "sources": [
-        {
-          "title": "The Employment Situation - September 2026",
-          "publisher": "U.S. Bureau of Labor Statistics",
-          "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-          "date": "2026-10-02",
-          "quote": "Employment in construction changed little in September (+11,000)."
-        },
-        {
-          "title": "The Employment Situation - September 2026 (full release)",
-          "publisher": "U.S. Bureau of Labor Statistics",
-          "url": "https://www.bls.gov/news.release/empsit.htm",
-          "date": "2026-10-02",
-          "quote": "The industry had added an average of 10,000 jobs per month over the prior 12 months."
-        },
-        {
-          "title": "JOLTS Table 1. Job openings levels and rates by industry, August 2026",
-          "publisher": "U.S. Bureau of Labor Statistics",
-          "url": "https://www.bls.gov/news.release/jolts.t01.htm",
-          "date": "2026-09-29",
-          "quote": "Construction | 213 | 291 | 298 | 299 | 251 | -48 | 2.5 | 3.4 | 3.5 | 3.5 | 2.9 | -0.6 (columns Aug 2025, May, Jun, Jul, Aug 2026 in thousands, change, then rates; August 2026 preliminary)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "12-month average 10,000",
-          "calc": "quoted from BLS full release (see sources); not computed"
-        },
-        {
-          "figure": "251,000",
-          "calc": "251 thousand x 1000 = 251,000 (BLS table is in thousands)"
-        },
-        {
-          "figure": "213,000",
-          "calc": "213 thousand x 1000 = 213,000 (BLS table is in thousands)"
-        },
-        {
-          "figure": "299,000",
-          "calc": "299 thousand x 1000 = 299,000 (BLS table is in thousands)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54eff0b0d72757a408765"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-22T12:47:00-04:00",
-      "topic": "concentration-risk",
-      "kind": "evergreen",
-      "text": "Your portfolio is $8,000,000. Your largest borrower owes $1,400,000. How concentrated are you?\n\nDivide: $1,400,000 / $8,000,000 = 17.5 percent in one borrower. Add the next two largest and the top three total $3,200,000, or 40 percent of the book. These numbers are illustrative.\n\nThe OCC Comptroller's Handbook for banks says methods for identifying concentrations vary from bank to bank. It lists exposure to any one borrower or group of related borrowers as exposures that may perform similarly.\n\nLenders can run both the single-borrower and top-three ratios, group related borrowers together, and compare the results with limits they set themselves.\n\nvaultedonline.com",
-      "alt": "Stacked bar of an illustrative $8,000,000 portfolio: top borrower $1,400,000 is 17.5 percent, next two borrowers 22.5 percent, all others 60 percent. Cards show 17.5 percent in the top borrower and 40 percent in the top three borrowers.",
-      "image": "images/2026-10-22/1247-fb-concentration-risk.png",
-      "sources": [
-        {
-          "title": "Comptroller's Handbook: Concentrations of Credit, Version 3.0",
-          "publisher": "OCC",
-          "url": "https://occ.gov/publications-and-resources/publications/comptrollers-handbook/files/concentrations-of-credit/pub-ch-concentrations.pdf",
-          "date": "2026-09-30",
-          "quote": "Methods for identifying concentrations vary from bank to bank. Credit exposures that may perform similarly include those extended to any one counterparty, borrower, or group of related counterparties or borrowers."
-        },
-        {
-          "title": "Concentrations of Credit: Revised Comptroller's Handbook Booklet and Rescissions (Bulletin 2026-49)",
-          "publisher": "OCC",
-          "url": "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-49.html",
-          "date": "2026-09-30",
-          "quote": "issued today version 3.0 of the Concentrations of Credit booklet"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$8,000,000",
-          "calc": "illustrative portfolio"
-        },
-        {
-          "figure": "$1,400,000",
-          "calc": "illustrative top borrower"
-        },
-        {
-          "figure": "$3,200,000",
-          "calc": "illustrative top three total"
-        },
-        {
-          "figure": "17.5 percent",
-          "calc": "1400000/8000000*100 = 17.5"
-        },
-        {
-          "figure": "40 percent",
-          "calc": "3200000/8000000*100 = 40.0"
-        },
-        {
-          "figure": "22.5 percent",
-          "calc": "(3200000-1400000)/8000000*100 = 22.5"
-        },
-        {
-          "figure": "60 percent",
-          "calc": "(8000000-3200000)/8000000*100 = 60.0"
-        },
-        {
-          "figure": "$1,800,000",
-          "calc": "3200000-1400000"
-        },
-        {
-          "figure": "$4,800,000",
-          "calc": "8000000-3200000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad611d7b0a056e4b9499433"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-10-22T15:40:00-04:00",
-      "topic": "carve-outs-bad-boy",
-      "kind": "evergreen",
-      "text": "What turns a non-recourse loan personal? A carve-out guaranty.\n\nLaw firm sources name bad boy acts that can create personal liability, such as fraud, intentional misrepresentation, or misapplied casualty or condemnation proceeds.\n\nThe sources sort these into two groups. Above the line acts are tied to actual lender loss. Below the line acts, such as a voluntary bankruptcy filing, can trigger recourse for the entire debt, whether or not the lender experiences any loss.\n\nLenders can read the trigger list closely and ask counsel what each trigger means in their state.",
-      "alt": "Two comparison cards. Above the line triggers such as fraud and intentional misrepresentation are tied to actual lender loss. Below the line triggers such as a voluntary bankruptcy filing can reach the entire debt, springing recourse. Tip: read the trigger list and ask counsel.",
-      "image": "images/2026-10-22/1540-li-carve-outs-bad-boy.png",
-      "sources": [
-        {
-          "title": "Bad Boy Guaranties",
-          "publisher": "Barley Snyder",
-          "url": "https://www.barley.com/bad-boy-guarantys/",
-          "date": "2016-03-01",
-          "quote": "fraud or intentional misrepresentation by borrower or any of certain related parties in connection with the loan; ... whether or not the lender experiences any loss and whether or not the borrower causes the event. ... borrower files a voluntary petition under the U.S. Bankruptcy Code; ... misapplication of casualty or condemnation proceeds"
-        },
-        {
-          "title": "Bad-Boy Guaranties: What You Do Not Know Could Cost You Personally",
-          "publisher": "Selzer Gurvitch",
-          "url": "https://www.selzergurvitch.com/?p=4365",
-          "date": "2026-10-18",
-          "quote": "\"Above the line\" exceptions are triggered only by any actual loss suffered by the lender ... \"below the line\" exceptions will trigger full recourse for the entire amount of the debt. (page undated, accessed 2026-10-18)"
-        },
-        {
-          "title": "Approaches to Carve-Out Guarantees",
-          "publisher": "Hinckley Allen",
-          "url": "https://www.hinckleyallen.com/?p=5270",
-          "date": "2016-11-30",
-          "quote": "Bad acts which generally cause full liability for the debt include voluntary bankruptcy filings, violation of single ... carve-outs were limited to the basics: fraud, misrepresentation, misappropriation of insurance"
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6ad54f1b0b0d72757a4089d3"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-22T17:27:00-04:00",
-      "topic": "mechanics-lien-deadlines",
-      "kind": "evergreen",
-      "text": "A contractor's last day on site is September 10. How long can a lien claim still be filed?\n\nFlorida: 90 days after final furnishing, so December 9. Texas, original contractor: the 15th day of the fourth month, so January 15, or the third month for residential, December 15. California: a direct contractor has 90 days after completion of the work of improvement, or 60 days after the owner records a notice of completion, whichever is earlier.\n\nDates are illustrative; details vary by state and claimant. Lenders can ask title or counsel which clock applies before funding a draw.\n\nvaultedonline.com",
-      "alt": "Three cards compare mechanics lien filing deadlines for a last day of work of September 10: Florida 90 days after final furnishing (December 9), Texas 15th day of the fourth month (January 15) or third month for residential (December 15), California direct contractor 90 days after completion or 60 days after notice of completion, whichever is earlier.",
-      "image": "images/2026-10-22/1727-fb-mechanics-lien-deadlines.png",
-      "sources": [
-        {
-          "title": "Florida Statutes 713.08 Claim of lien",
-          "publisher": "The Florida Legislature / Florida Senate",
-          "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799%2F0713%2FSections%2F0713.08.html",
-          "date": "2026-01-01",
-          "quote": "not later than 90 days after the final furnishing of the labor or services or materials by the lienor"
-        },
-        {
-          "title": "Florida Statutes 713.08 (second fetch)",
-          "publisher": "Florida Senate",
-          "url": "https://m.flsenate.gov/statutes/713.08",
-          "date": "2026-01-01",
-          "quote": "The claim of lien shall be recorded in the clerk's office."
-        },
-        {
-          "title": "Texas Property Code 53.052 Filing of Affidavit",
-          "publisher": "Justia",
-          "url": "https://law.justia.com/codes/texas/property-code/title-5/subtitle-b/chapter-53/subchapter-c/section-53-052/",
-          "date": "2025-01-01",
-          "quote": "for projects other than residential construction projects, not later than the 15th day of the fourth month"
-        },
-        {
-          "title": "Texas Property Code 53.052 Filing of Affidavit",
-          "publisher": "Public.Law",
-          "url": "https://texas.public.law/statutes/tex._prop._code_section_53.052",
-          "date": "2025-05-26",
-          "quote": "not later than the 15th day of the third month after the later of:"
-        },
-        {
-          "title": "California Civil Code 8412",
-          "publisher": "FindLaw",
-          "url": "https://codes.findlaw.com/ca/civil-code/civ-sect-8412/",
-          "date": "2026-01-01",
-          "quote": "Ninety days after completion of the work of improvement."
-        },
-        {
-          "title": "California Civil Code 8412",
-          "publisher": "Justia",
-          "url": "https://law.justia.com/codes/california/2022/code-civ/division-4/part-6/title-2/chapter-4/article-2/section-8412/",
-          "date": "2022-01-01",
-          "quote": "A direct contractor may not enforce a lien unless the contractor records a claim of lien"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "September 10",
-          "calc": "illustrative last day of work"
-        },
-        {
-          "figure": "December 9",
-          "calc": "date(2026,9,10)+timedelta(90) = 2026-12-09"
-        },
-        {
-          "figure": "January 15",
-          "calc": "4th month after September (Oct=1,Nov=2,Dec=3,Jan=4) 15th day = Jan 15 2027; illustrative"
-        },
-        {
-          "figure": "December 15",
-          "calc": "3rd month after September = Dec; 15th day = Dec 15 2026; illustrative"
-        },
-        {
-          "figure": "60 days",
-          "calc": "California 8412 notice of completion alternative, per FindLaw quote 'Sixty days after the owner records a notice of completion or cessation.'"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-23T08:00:00-04:00",
-      "topic": "insurance-cost-trend",
-      "kind": "data",
-      "text": "When a DSCR formula counts insurance in the payment, a premium jump moves the ratio.\n\nThe NAIC reported that from 2018 to 2024, average homeowners premium per policy rose in every NAIC region, with inflation-adjusted increases of 18.3% to 43.3% depending on region (Aug. 5, 2026). Landlord policies can differ.\n\nIllustrative: rent $2,400, principal, interest and taxes $1,850, insurance $300 a month. Payment $2,150, DSCR 1.12. Insurance up 30% to $390: payment $2,240, DSCR 1.07.\n\nLenders can re-quote insurance when sizing a DSCR loan. Minimums vary by lender.\n\nvaultedonline.com",
-      "alt": "Graphic titled Premiums rose in every NAIC region, your DSCR can feel it. NAIC data 2018 to 2024: inflation-adjusted average premium increases of 18.3 to 43.3 percent, 2.4 to 5.3 percent per year. Illustrative example: rent $2,400, DSCR falls from 1.12 to 1.07 when insurance rises 30 percent.",
-      "image": "images/2026-10-23/0800-fb-insurance-cost-trend.png",
-      "sources": [
-        {
-          "title": "NAIC Releases First-of-Its-Kind National Analysis of Homeowners Insurance Market Trends",
-          "publisher": "National Association of Insurance Commissioners",
-          "url": "https://content.naic.org/article/naic-releases-first-its-kind-national-analysis-homeowners-insurance-market-trends",
-          "date": "2026-08-05",
-          "quote": "Average premium per policy increased across every NAIC region since 2018, with inflation-adjusted increases ranging from 18.3% to 43.3% (average premium increases of 2.4% to 5.3% per year), drawing on data reported by insurers to state regulators between 2018 and 2024."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$2,400 rent, $1,850 PITI, $300 insurance",
-          "calc": "illustrative inputs chosen by author"
-        },
-        {
-          "figure": "$2,150",
-          "calc": "1850+300 = 2150"
-        },
-        {
-          "figure": "1.12",
-          "calc": "2400/2150 = 1.116"
-        },
-        {
-          "figure": "30% to $390",
-          "calc": "300*1.3 = 390 (30% is illustrative, within NAIC range)"
-        },
-        {
-          "figure": "$2,240",
-          "calc": "1850+390 = 2240"
-        },
-        {
-          "figure": "1.07",
-          "calc": "2400/2240 = 1.071"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-23T12:47:00-04:00",
-      "topic": "brrrr-lender-view",
-      "kind": "evergreen",
-      "text": "A bridge borrower says the refinance will pay you off. Does the math agree?\n\nIllustrative: after-repair value $260,000, refinance at 75% LTV, so $195,000 of proceeds against a $178,000 payoff. That is a $17,000 cushion.\n\nNow stress it. If the appraisal comes in 10% lower, at $234,000, 75% gives $175,500. That is $2,500 short. One source notes some lenders cap investment property cash-out at 70%, which on $260,000 is $182,000.\n\nLenders can test the exit, not just the rehab: does the refinance still cover the payoff if value or LTV comes in lower?\n\nvaultedonline.com",
-      "alt": "Bar chart for an illustrative BRRRR bridge loan with a $178,000 payoff. Refinance proceeds: $195,000 at 75% of $260,000 (+$17,000), $182,000 at a 70% cap (+$4,000), and $175,500 if value is 10% lower (-$2,500 short).",
-      "image": "images/2026-10-23/1247-fb-brrrr-lender-view.png",
-      "sources": [
-        {
-          "title": "DSCR Loan for BRRRR: How the Refinance Step Works",
-          "publisher": "Kiavi",
-          "url": "https://www.kiavi.com/blog/dscr-loan-for-brrrr-how-the-refinance-step-works",
-          "date": "2026-05-11",
-          "quote": "The cash-out amount is typically based on a percentage of the appraised value\u2014typically in the 70-75% range."
-        },
-        {
-          "title": "DSCR Loan for BRRRR: How the Refinance Step Works",
-          "publisher": "Kiavi",
-          "url": "https://www.kiavi.com/blog/dscr-loan-for-brrrr-how-the-refinance-step-works",
-          "date": "2026-05-11",
-          "quote": "If the appraisal comes in below your projected ARV, the amount you can pull out of the deal may be limited."
-        },
-        {
-          "title": "The BRRRR Method Explained",
-          "publisher": "iPropertyManagement",
-          "url": "https://ipropertymanagement.com/guides/brrrr-method",
-          "date": "2026-09-04",
-          "quote": "Always watch out for LTV surprises, as some lenders cap investment property cash-out at 70%, not 75 or 80%."
-        },
-        {
-          "title": "The BRRRR Method Explained",
-          "publisher": "iPropertyManagement",
-          "url": "https://ipropertymanagement.com/guides/brrrr-method",
-          "date": "2026-09-04",
-          "quote": "That money pays off the original loan and, if the numbers work, returns part or most of the investor's cash."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$260,000",
-          "calc": "illustrative after-repair value"
-        },
-        {
-          "figure": "$178,000",
-          "calc": "illustrative bridge payoff"
-        },
-        {
-          "figure": "75%",
-          "calc": "illustrative refinance LTV"
-        },
-        {
-          "figure": "$195,000",
-          "calc": "260000*0.75 = 195000"
-        },
-        {
-          "figure": "$17,000",
-          "calc": "195000-178000 = 17000"
-        },
-        {
-          "figure": "10%",
-          "calc": "illustrative appraisal shortfall"
-        },
-        {
-          "figure": "$234,000",
-          "calc": "260000*0.90 = 234000"
-        },
-        {
-          "figure": "$175,500",
-          "calc": "234000*0.75 = 175500"
-        },
-        {
-          "figure": "$2,500",
-          "calc": "178000-175500 = 2500"
-        },
-        {
-          "figure": "$182,000",
-          "calc": "260000*0.70 = 182000"
-        },
-        {
-          "figure": "$4,000",
-          "calc": "182000-178000 = 4000 (graphic)"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-10-23T14:00:00-04:00",
-      "topic": "state-lender-licensing",
-      "kind": "evergreen",
-      "text": "Before funding a first loan in a new state, a private lender can ask one question: does this state require a license?\n\nThe answer varies by state. California generally requires a license for any person engaging in the business of a finance lender, and its law includes making commercial loans. One law firm notes an exemption for a single commercial loan in a 12-month period. Florida requires a mortgage lender license for an entity making a mortgage loan for compensation or gain, as Florida defines it.\n\nLenders can read each state regulator page, then ask counsel.",
-      "alt": "Two comparison cards. California, Department of Financial Protection and Innovation: license required for any person engaging in the business of a finance lender, which includes making commercial loans. Florida, Office of Financial Regulation: license required for an entity making a mortgage loan for compensation or gain. Takeaway: varies by state.",
-      "image": "images/2026-10-23/1400-li-state-lender-licensing.png",
-      "sources": [
-        {
-          "title": "About California Financing Law",
-          "publisher": "California DFPI",
-          "url": "https://dfpi.ca.gov/regulated-industries/california-financing-law/about-california-financing-law/",
-          "date": "2026-10-18",
-          "quote": "any person engaging in the business of a finance lender or finance broker in California is required to obtain a license. \"Finance lender\" includes any person engaged in the business of making consumer loans or making commercial loans. (page undated, accessed 2026-10-18)"
-        },
-        {
-          "title": "The California Financing Law: Commercial and Consumer Lenders Beware",
-          "publisher": "Paul Hastings",
-          "url": "https://www.paulhastings.com/insights/client-alerts/the-california-financing-law-commercial-and-consumer-lenders-beware",
-          "date": "2025-08-05",
-          "quote": "First, any lender making one commercial loan in a 12-month period is not required to be licensed (Cal Fin. Code \u00a7 22050.5)."
-        },
-        {
-          "title": "Mortgage Lender and Branches",
-          "publisher": "Florida Office of Financial Regulation",
-          "url": "https://flofr.gov/divisions-offices/division-of-consumer-finance/mortgage-lender-and-branches",
-          "date": "2026-10-18",
-          "quote": "This license is required for an entity making a mortgage loan for compensation or gain, directly or indirectly, (page undated, accessed 2026-10-18)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "12-month",
-          "calc": "quoted from Paul Hastings; no computation"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ad54f1da48c8f8371b8ddb0"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-23T17:27:00-04:00",
-      "topic": "contractor-vetting",
-      "kind": "evergreen",
-      "text": "Before a rehab loan funds, what can a lender verify about the contractor?\n\nLicense: a number on a bid is not proof. California's board says a number does not necessarily mean the license is valid, and offers an online status lookup.\n\nInsurance: a certificate is information only and does not amend, extend or alter coverage. Lenders can ask for the endorsement too.\n\nW-9: captures the payee's correct name and taxpayer ID.\n\nReferences: lenders can call past clients.\n\nLien waivers: can release the signer's right to file a mechanic's lien for the amount and period covered. Varies by state.\n\nvaultedonline.com",
-      "alt": "Checklist graphic titled Vetting a contractor, five things to verify: license status lookup on the state board site, insurance certificate is information only, W-9 for the payee's name and taxpayer ID, references from past clients, and lien waivers, with rules varying by state.",
-      "image": "images/2026-10-23/1727-fb-contractor-vetting.png",
-      "sources": [
-        {
-          "title": "Finding the right contractor",
-          "publisher": "California Contractors State License Board (CSLB)",
-          "url": "https://www.cslb.ca.gov/consumers/hire_a_contractor/finding_the_right_contractor.aspx",
-          "date": "2026-10-18",
-          "quote": "Seeing a license number doesn't necessarily mean the license is valid. You can check the license status online or call (800) 321-CSLB (2752). (page undated, accessed 2026-10-18)"
-        },
-        {
-          "title": "Why you need more than just a certificate of insurance",
-          "publisher": "Miller Nash",
-          "url": "https://www.millernash.com/industry-news/why-you-need-more-than-just-a-certificate-of-insurance",
-          "date": "2015-04-06",
-          "quote": "This certificate does not affirmatively or negatively amend, extend or alter the coverage afforded by the policies below."
-        },
-        {
-          "title": "Sample certificate of liability insurance (ACORD 25 2016/03)",
-          "publisher": "Commonwealth of Massachusetts (mass.gov)",
-          "url": "https://www.mass.gov/doc/inftramwaysamplecertliabilityinsformpdf/download",
-          "date": "2026-10-18",
-          "quote": "THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. (form undated, accessed 2026-10-18)"
-        },
-        {
-          "title": "Instructions for the Requester of Form W-9",
-          "publisher": "Internal Revenue Service",
-          "url": "https://www.irs.gov/instructions/iw9",
-          "date": "2026-04-30",
-          "quote": "Form W-9 is used by persons required to file information returns with the IRS to get the payee's (or other person's) correct name and TIN."
-        },
-        {
-          "title": "Construction Lien Waivers: Conditional vs Unconditional Explained",
-          "publisher": "Corpay",
-          "url": "https://www.corpay.com/resources/blog/construction-lien-waiver",
-          "date": "2026-06-11",
-          "quote": "A lien waiver is a contractually binding document that releases the signer's right to file a mechanic's lien against the project."
-        },
-        {
-          "title": "Nev. Admin. Code 624.693, mechanics' and materialmen's liens form",
-          "publisher": "Cornell Legal Information Institute",
-          "url": "https://www.law.cornell.edu/regulations/nevada/NAC-624-693",
-          "date": "2024-08-13",
-          "quote": "This document terminates all lien rights of the contractor, subcontractor or supplier as to the amount you paid."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "five items",
-          "calc": "license, insurance, W-9, references, lien waivers = len(5) items in the checklist (editorial count)"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-24T09:32:00-04:00",
-      "topic": "delinquency-buckets",
-      "kind": "evergreen",
-      "text": "30, 60, 90 days late. Check how each report counts it.\n\nThe Mortgage Bankers Association reports delinquencies in 30 to 59, 60 to 89 and 90+ day buckets, and says the length of a delinquency is determined by the number of missed payments.\n\nLoans in the foreclosure process are left out of those buckets and reported separately.\n\nLenders can write down how their own reports set cut-offs, and whether foreclosure is counted, before comparing a portfolio to any benchmark.\n\nvaultedonline.com",
-      "alt": "Graphic titled Late is not one number. Three cards show the MBA delinquency buckets: 30 to 59 days, 60 to 89 days and 90+ days late. A separate box notes loans in the foreclosure process are left out of those buckets and reported on their own.",
-      "image": "images/2026-10-24/0932-fb-delinquency-buckets.png",
-      "sources": [
-        {
-          "title": "National Delinquency Survey: Frequently Asked Questions",
-          "publisher": "Mortgage Bankers Association",
-          "url": "https://www.mba.org/docs/default-source/research-and-forecasts/faqs/res_sf_nds_faq.pdf?sfvrsn=b99dd429_1",
-          "date": "2026-10-18",
-          "quote": "Delinquencies are reported as total delinquencies and in 30\u201359, 60\u201389 and 90+ day buckets, exclusive of loans in the foreclosure process. The length of the delinquency is determined by the number of missed payments. Foreclosures are reported as \"foreclosure starts\" and \"foreclosure inventory.\" (page undated, accessed 2026-10-18)"
-        },
-        {
-          "title": "MBA Chart of the Week Aug. 14: Delinquency Rates by Credit Type",
-          "publisher": "MBA Newslink",
-          "url": "https://newslink.mba.org/?p=208436",
-          "date": "2023-08-14",
-          "quote": "MBA's overall delinquency rate tracks the number of loans that are contractually 30 days, 60 days and 90+ days delinquent as of the end of the quarterly reporting period, and excludes loans in foreclosure."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "30 to 59, 60 to 89, 90+",
-          "calc": "bucket labels from MBA FAQ (30\u201359, 60\u201389, 90+); en dash written as 'to'"
-        },
-        {
-          "figure": "30, 60, 90",
-          "calc": "hook uses the bucket thresholds 30, 60, 90; no computation"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-24T13:47:00-04:00",
-      "topic": "payment-application-order",
-      "kind": "evergreen",
-      "text": "A borrower sends $2,500. The loan has $1,900 of interest due and a $150 late fee. Where does the money go?\n\nIt depends on the note. If fees come first, the fee takes $150, interest takes $1,900 and principal drops by $450. If interest and principal come first, principal drops by $600 and the $150 late fee is still owed.\n\nPublished terms differ: one sample clause applies late charges first, while one servicing guide puts fees last.\n\nLenders can write the order into the note, so every payment is applied the same way.\n\nvaultedonline.com",
-      "alt": "Two stacked bars show how one $2,500 payment is applied. Fees first: $150 late fee, $1,900 interest, $450 principal. Interest and principal first: $1,900 interest, $600 principal, and the $150 late fee is still owed. Illustrative.",
-      "image": "images/2026-10-24/1347-fb-payment-application-order.png",
-      "sources": [
-        {
-          "title": "Mortgage Payment Waterfall: How Servicers Apply Payments",
-          "publisher": "LegalClarity",
-          "url": "https://legalclarity.org/mortgage-payment-waterfall-how-servicers-apply-payments/",
-          "date": "2026-05-15",
-          "quote": "Interest comes first, then principal, then escrow for taxes and insurance, and finally any outstanding fees."
-        },
-        {
-          "title": "How We Apply Payments clause samples",
-          "publisher": "Law Insider",
-          "url": "https://www.lawinsider.com:443/clause/how-we-apply-payments",
-          "date": "2026-10-18",
-          "quote": "Payments will be applied first to late charges, then to interest charges due and any other charges that might apply,"
-        },
-        {
-          "title": "What about partial payments and short payments",
-          "publisher": "First Merchants Bank",
-          "url": "https://www.firstmerchants.com/help/faqs/faq-details/what-about-partial-payments-and-short-payments",
-          "date": "2026-10-18",
-          "quote": "the payment will be applied first to any outstanding fees or escrow advances, and then to principal."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$2,500 / $1,900 / $150",
-          "calc": "illustrative inputs"
-        },
-        {
-          "figure": "$450",
-          "calc": "2500-150-1900 = 450"
-        },
-        {
-          "figure": "$600",
-          "calc": "2500-1900 = 600"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-24T17:27:00-04:00",
-      "topic": "builders-risk-insurance",
-      "kind": "evergreen",
-      "text": "A rehab loan closes. The borrower moves out, the house sits half gutted, and the standard homeowners policy is still the one on file. Is that enough?\n\nStandard homeowners policies are designed for homes that are occupied on a regular basis. Vacancy limits typically start after 30 or 60 consecutive days, and a home under renovation may not count as vacant, so the wording matters. Builder's risk is written for the timeline of a construction or renovation project. Terms vary by insurer.\n\nLenders can request the actual policy form and confirm with the insurer which coverage applies during the work.\n\nvaultedonline.com",
-      "alt": "Three comparison cards: standard homeowners policy, built for occupied homes with vacancy limits typically after 30 or 60 consecutive days; vacant or unoccupied add-on or separate policy; and builder's risk, written for a construction or renovation project. A panel suggests lenders confirm which coverage applies.",
-      "image": "images/2026-10-24/1727-fb-builders-risk-insurance.png",
-      "sources": [
-        {
-          "title": "Unoccupied and Vacant Home Insurance: What to Know",
-          "publisher": "NerdWallet",
-          "url": "https://www.nerdwallet.com/article/insurance/unoccupied-vacant-home-insurance",
-          "date": "2026-04-17",
-          "quote": "Standard homeowners policies are designed for homes that are occupied on a regular basis."
-        },
-        {
-          "title": "Unoccupied and Vacant Home Insurance: What to Know (vacancy period)",
-          "publisher": "NerdWallet",
-          "url": "https://www.nerdwallet.com/article/insurance/unoccupied-vacant-home-insurance",
-          "date": "2026-04-17",
-          "quote": "typically 30 or 60 consecutive days. Even if your home is empty during major renovations, your insurance company may not necessarily consider it \"vacant.\""
-        },
-        {
-          "title": "What to know about insurance for home construction and renovation projects",
-          "publisher": "This Old House",
-          "url": "https://www.thisoldhouse.com/home-finances/what-to-know-about-insurance-for-home-construction-and-renovation-projects",
-          "date": "2026-06-05",
-          "quote": "standard homeowners insurance policies may not cover property damage or accidents that occur while the home is unoccupied."
-        },
-        {
-          "title": "What kind of damage does builders risk insurance actually cover?",
-          "publisher": "HUB International",
-          "url": "https://www.hubinternational.com/en-us/faqs/construction/builders-risk-insurance-coverage/",
-          "date": "2026-10-18",
-          "quote": "written for the specific timeline of a construction or renovation project (page undated, accessed 2026-10-18); covers direct physical loss or damage from covered perils to a structure under construction"
-        },
-        {
-          "title": "What constitutes a dwelling or building under construction or renovation for purposes of a vacancy exclusion",
-          "publisher": "Property Insurance Coverage Law (Eshoo)",
-          "url": "https://www.propertyinsurancecoveragelaw.com/blog/what-constitutes-a-dwelling-or-building-under-construction-or-renovation-for-purposes-of-a-vacancy-exclusion/",
-          "date": "2018-10-08",
-          "quote": "vacant for more than 60 consecutive days before the damage occurs; properties under construction or renovation are not considered vacant"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "30 or 60 consecutive days",
-          "calc": "quoted from NerdWallet; 60 also in Eshoo; no computation"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-25T10:15:00-04:00",
-      "topic": "fema-disaster-declarations",
-      "kind": "data",
-      "text": "133 federal disasters were declared in 2026 through September, per USAFacts. The 2021 to 2025 average is 125 a year.\n\nA declaration names the counties it covers. FEMA publishes the county list, and its declaration data records whether Individual Assistance was declared.\n\nLenders can check whether a property's county appears on a recent declaration, then confirm the flood zone and what insurance is in force.\n\nBeing listed does not mean a property was damaged. It is a reason to ask.\n\nvaultedonline.com",
-      "alt": "Bar chart: 133 federal disasters declared in 2026 from January through September versus a 2021 to 2025 yearly average of 125, per USAFacts. Below, three steps: find the county, check the flood zone, confirm insurance.",
-      "image": "images/2026-10-25/1015-fb-fema-disaster-declarations.png",
-      "sources": [
-        {
-          "title": "How many disasters are declared in the US?",
-          "publisher": "USAFacts",
-          "url": "https://usafacts.org/articles/federal-disaster-declaration-fema",
-          "date": "2026-10-13",
-          "quote": "133 disasters have been declared so far in 2026. On average, 125 disasters are declared per year."
-        },
-        {
-          "title": "OpenFEMA Disaster Declarations Summaries",
-          "publisher": "FEMA",
-          "url": "https://www.fema.gov/about/openfema/disaster-declarations-summaries",
-          "date": "2026-10-18",
-          "quote": "declaredCountyArea: The name or phrase describing the U.S. county that was included in the declaration. (page undated, accessed 2026-10-18) iaProgramDeclared: Denotes whether the Individual Assistance program was declared for this disaster."
-        },
-        {
-          "title": "How do I know if my area is eligible for assistance?",
-          "publisher": "FEMA",
-          "url": "https://fema.gov/node/how-do-i-know-if-my-area-eligible-assistance",
-          "date": "2026-10-18",
-          "quote": "The disaster declaration designates which areas are eligible to receive Federal assistance. Find your county/parish under declared counties. (page undated, accessed 2026-10-18)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "8 more than average (graphic bar scale only)",
-          "calc": "133 - 125 = 8; bar width = 560/133 per disaster"
-        },
-        {
-          "figure": "2021 to 2025",
-          "calc": "USAFacts states the 125 average covers 2021 to 2025 (first fetch: 125 disasters declared yearly on average (2021-2025))"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-25T13:47:00-04:00",
-      "topic": "title-lender-vs-owner-policy",
-      "kind": "evergreen",
-      "text": "Who does a title policy actually protect?\n\nA deal can carry two. An owner's policy protects the owner's property rights for as long as the owner owns the property. A lender's policy protects only the lender's financial interests, and it ends when the mortgage is paid off.\n\nEach one covers a different party, so a borrower's owner's policy is a separate product from the lender's own coverage.\n\nLenders can confirm the title commitment includes a lender's policy before closing.\n\nvaultedonline.com",
-      "alt": "Two bars compare title policies. Lender's policy: protects only the lender, ends when the mortgage is paid off. Owner's policy: protects the owner's property rights, lasts as long as the owner owns the property. Takeaway: each covers a different party.",
-      "image": "images/2026-10-25/1347-fb-title-lender-vs-owner-policy.png",
-      "sources": [
-        {
-          "title": "FAQs of Title Insurance for Homeowners",
-          "publisher": "American Land Title Association (ALTA)",
-          "url": "https://www.alta.org/business-operations/marketing/unbranded/faqs-of-title-insurance-for-homeowners-usa.pdf",
-          "date": "2026-10-18",
-          "quote": "A lender\u2019s policy is usually required by the lender and protects only the lender\u2019s financial interests. An owner\u2019s policy protects your property rights for as long as you own the home. (page undated, accessed 2026-10-18)"
-        },
-        {
-          "title": "Title insurance consumer brochure (MIA-HE-1)",
-          "publisher": "Maryland Insurance Administration",
-          "url": "https://insurance.maryland.gov/consumer/documents/publications/titleinsurancebrochure.pdf",
-          "date": "2026-10-18",
-          "quote": "A lender's policy only protects the lender if a title or ownership problem comes up after the property is purchased. Unlike an owner's policy, the lender's policy ends when you pay off your mortgage. (page undated, accessed 2026-10-18)"
-        }
-      ],
-      "derived": [],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-25T17:27:00-04:00",
-      "topic": "late-fees-grace",
-      "kind": "evergreen",
-      "text": "A 5 percent late fee sounds routine. In Arizona in 2017, the state supreme court held that 5 percent of a final balloon payment, nearly $1.4 million, was an unenforceable penalty.\n\nThe case involved a commercial loan. The court asked whether the fee was reasonable in light of the anticipated or actual loss caused by the late payment.\n\nTakeaway: a late fee in the note can still be tested in court. Lenders can read their own late fee clause with that test in mind. Results vary by state and by the facts.\n\nvaultedonline.com",
-      "alt": "Graphic with two cards. The test: was the fee reasonable in light of the anticipated or actual loss caused by late payment. Arizona, 2017: a 5 percent fee on a final balloon payment, nearly $1.4 million, held an unenforceable penalty.",
-      "image": "images/2026-10-25/1727-fb-late-fees-grace.png",
-      "sources": [
-        {
-          "title": "Appellate Division Decision Calls Into Question Late Charges and Default Interest Rates",
-          "publisher": "Riker Danzig LLP",
-          "url": "https://riker.com/publications/appellate-division-decision-calls-into-question-late-charges-and-default-interest-rates",
-          "date": "2016-10-30",
-          "quote": "...a late fee of 5% of the payment due would be imposed if any scheduled payment was not paid within ten days of its due date. (Decision: MetLife Capital Financial Corp. v. Washington Avenue Associates, Appellate Division, June 23, 1998.) Liquidated damages must be only in an amount which is reasonable in light of the anticipated or actual harm caused by the breach."
-        },
-        {
-          "title": "Dobson Bay Club II DD, LLC v. La Sonrisa de Siena, LLC (Arizona Supreme Court, No. CV-16-0029-PR)",
-          "publisher": "FindLaw (Arizona Supreme Court opinion)",
-          "url": "https://caselaw.findlaw.com/court/az-supreme-court/1857813.html",
-          "date": "2017-04-25",
-          "quote": "a nearly $1.4 million late fee assessed on a final loan balloon payment ... constitutes an unenforceable penalty ... reasonable in the light of the anticipated or actual loss caused by the breach"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "1998 / 2017",
-          "calc": "decision dates from the sources: June 23, 1998 (Riker) and April 25, 2017 (FindLaw), not computed"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
+     "title": "Mortgage Applications MBA",
+     "publisher": "Mortgage News Daily",
+     "url": "https://www.mortgagenewsdaily.com/news/10162026-mortgage-applications-mba",
+     "date": "2026-10-16",
+     "quote": "The refinance share also ticked higher, reaching 37.7% of total applications"
     }
-  ]
+   ],
+   "derived": [
+    {
+     "figure": "44",
+     "calc": "100*(1-0.56) = 44.0 (graphic only: Refinance Index scaled to year-ago = 100)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54edd0b0d72757a4084ab"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-19T11:34:00-04:00",
+   "topic": "ice-first-look",
+   "kind": "data",
+   "text": "ICE First Look puts the national mortgage delinquency rate at 3.53 percent for August 2026. That is up 14 basis points, but ICE says it was effectively flat after accounting for a calendar-driven decline the month before.\n\nThe sharper signal is in foreclosures. Starts fell 6 percent in August, yet are still up 29 percent from a year earlier. Active inventory rose only 2,000 loans, but is up 41 percent year over year.\n\nLenders can compare each month with the same month a year ago, and track new starts apart from inventory. This is residential data, not private loans.",
+   "alt": "Graphic on ICE First Look for August 2026. National mortgage delinquency rate 3.53 percent, up 14 basis points but effectively flat after calendar effects. Foreclosure starts down 6 percent from July, up 29 percent from a year earlier. Active inventory up 2,000 loans, up 41 percent year over year.",
+   "image": "images/2026-10-19/1134-li-ice-first-look.png",
+   "sources": [
+    {
+     "title": "First Look at August 2026 Mortgage Data",
+     "publisher": "ICE Mortgage Technology",
+     "url": "https://mortgagetech.ice.com/resources/data-reports/first-look-at-august-2026-mortgage-data",
+     "date": "2026-09-28",
+     "quote": "The national delinquency rate rose 14 basis points (bps) to 3.53% in August ... was effectively flat after accounting for the prior month's calendar-driven decline. Starts fell 6% in August, though still up 29% annually. Active inventory rose just 2,000, the smallest monthly build since November 2025, but is up 89,000, or 41%, year over year."
+    },
+    {
+     "title": "ICE August First Look: delinquencies, prepayments",
+     "publisher": "HousingWire",
+     "url": "https://www.housingwire.com/articles/ice-august-first-look-delinquencies-prepayments/",
+     "date": "2026-09-28",
+     "quote": "The national mortgage delinquency rate increased 14 basis points to 3.53% in August. Foreclosure starts fell 6% from July but were 29% higher than a year earlier."
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ad54f090a208cb32384d9b1"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-19T12:47:00-04:00",
+   "topic": "lien-position-explained",
+   "kind": "evergreen",
+   "text": "Illustrative numbers. A home sells for $310,000. Selling costs of 6 percent take $18,600, leaving $291,400. Who gets paid?\n\nLiens are generally paid in order of priority. A $200,000 first lien is paid in full, then a $60,000 second, then a $25,000 third. The owner keeps $6,400.\n\nNow say it sells for $270,000. Net proceeds are $253,800. The first is paid in full, the second gets $53,800 and is $6,200 short, and the third gets nothing.\n\nLenders can check what sits ahead of them. Priority rules can vary by state.\n\nvaultedonline.com",
+   "alt": "Two bar waterfalls of illustrative sale proceeds paid in lien order. At a $310,000 sale, net $291,400 pays the $200,000 first, $60,000 second and $25,000 third in full, leaving $6,400. At $270,000, net $253,800 pays the first in full, the second $53,800 (short $6,200) and the third nothing.",
+   "image": "images/2026-10-19/1247-fb-lien-position-explained.png",
+   "sources": [
+    {
+     "title": "First lien vs. second lien: What's the difference?",
+     "publisher": "Rocket Mortgage",
+     "url": "https://www.rocketmortgage.com/learn/first-lien-vs-second-lien",
+     "date": "2026-09-26",
+     "quote": "the first lienholder will be paid in full, and the second lienholder will be paid from what\u2019s left over."
+    },
+    {
+     "title": "What Is Lien Priority?",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/what-is-lien-priority.html",
+     "date": "2026-10-18",
+     "quote": "A first lien has a higher priority than other liens and gets first crack at the sale proceeds. A lien with a low priority might get nothing from a foreclosure sale. (page undated, accessed 2026-10-18)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$310,000, $270,000 sale prices; $200,000 / $60,000 / $25,000 liens; 6 percent costs",
+     "calc": "illustrative inputs"
+    },
+    {
+     "figure": "$18,600",
+     "calc": "310000*0.06 = 18600"
+    },
+    {
+     "figure": "$291,400",
+     "calc": "310000-18600 = 291400"
+    },
+    {
+     "figure": "$6,400",
+     "calc": "291400-200000-60000-25000 = 6400"
+    },
+    {
+     "figure": "$16,200",
+     "calc": "270000*0.06 = 16200"
+    },
+    {
+     "figure": "$253,800",
+     "calc": "270000-16200 = 253800"
+    },
+    {
+     "figure": "$53,800",
+     "calc": "253800-200000 = 53800"
+    },
+    {
+     "figure": "$6,200",
+     "calc": "60000-53800 = 6200"
+    },
+    {
+     "figure": "$25,000 short on third / $0",
+     "calc": "253800-200000-53800 = 0, third receives 0 of 25000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54ee0a48c8f8371b8d77c"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-19T17:27:00-04:00",
+   "topic": "bpo-vs-appraisal",
+   "kind": "evergreen",
+   "text": "Two opinions can describe the same property and mean different things.\n\nA broker price opinion is an estimate of price, prepared by a licensed broker or sales agent. One Texas regulator notes it is not an opinion of market value, and is not subject to development standards.\n\nAn appraisal is an opinion of value that only a licensed or certified appraiser can complete, and the report must follow USPAP.\n\nRules vary by state, so lenders can confirm which one a file calls for and who prepared it.\n\nvaultedonline.com",
+   "alt": "Two side-by-side cards comparing a broker price opinion and an appraisal. The broker price opinion is an estimate of price from a licensed broker or sales agent and is not an opinion of market value. The appraisal is an opinion of value from a licensed or certified appraiser and must follow USPAP.",
+   "image": "images/2026-10-19/1727-fb-bpo-vs-appraisal.png",
+   "sources": [
+    {
+     "title": "Appraisal, Evaluation, Broker's Price Opinion: What's the Difference?",
+     "publisher": "Texas Appraiser Licensing and Certification Board",
+     "url": "https://www.talcb.texas.gov/public/news-articles/appraisal-evaluation-brokers-price-opinion-what%E2%80%99s-difference",
+     "date": "2021-12-29",
+     "quote": "A broker\u2019s price opinion is not an opinion of market value. They can be provided by a licensed broker or sales agent. They can only be completed by a licensed or certified appraiser. In addition, appraisal reports must comply with the Uniform Standards of Professional Appraisal Practice (USPAP). At the outset of a real estate transaction, sellers want to be able to quickly establish a listing price for their property."
+    },
+    {
+     "title": "What Is a Broker Price Opinion?",
+     "publisher": "Quicken Loans",
+     "url": "https://www.quickenloans.com/learn/broker-price-opinion",
+     "date": "2023-10-25",
+     "quote": "A BPO is a real estate professional\u2019s opinion of what a home will sell for."
+    },
+    {
+     "title": "For What It's Worth",
+     "publisher": "Texas Real Estate Research Center (Texas A&M)",
+     "url": "https://trerc.tamu.edu/article/for-what-its-worth/",
+     "date": "2013-01-09",
+     "quote": "a licensed real estate salesperson or broker prepares the BPO, not a state licensed or certified appraiser."
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ad54ee30a208cb32384d6c8"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-20T09:15:00-04:00",
+   "topic": "treasury-mortgage-spread",
+   "kind": "data",
+   "text": "The 30-year mortgage rate averaged 7.40 percent as of October 15, 2026 (Freddie Mac). The 10-year Treasury yield that day was 5.10 percent (FRED). The gap is 2.30 points.\n\nThe Boston Fed says that gap has ranged from 100 to 300 basis points since 2000, so 230 sits inside that range.\n\nWhy it matters at exit: a borrower refinancing out of a bridge loan faces the mortgage rate, not the Treasury yield. Illustrative: if the gap held, a 0.25 point drop in the 10-year would mean 7.15 percent, about $51 a month less on $300,000.\n\nTest exits against both.\n\nvaultedonline.com",
+   "alt": "Bar chart as of October 15, 2026: the 10-year Treasury yield at 5.10 percent and the 30-year fixed mortgage rate at 7.40 percent, a 2.30 point spread. Cards: Boston Fed range of 100 to 300 basis points since 2000, and an illustrative $51 a month saving on $300,000 if the rate fell to 7.15.",
+   "image": "images/2026-10-20/0915-fb-treasury-mortgage-spread.png",
+   "sources": [
+    {
+     "title": "Primary Mortgage Market Survey",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms?intcmp=CWS",
+     "date": "2026-10-18",
+     "quote": "The 30-year fixed-rate mortgage averaged 7.40% as of October 15, 2026, unchanged from last week."
+    },
+    {
+     "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity (DGS10)",
+     "publisher": "FRED, Federal Reserve Bank of St. Louis",
+     "url": "https://fred.stlouisfed.org/series/dgs10",
+     "date": "2026-10-16",
+     "quote": "2026-10-15: 5.10"
+    },
+    {
+     "title": "Why Mortgage Rates Exceed Treasury Yields",
+     "publisher": "Federal Reserve Bank of Boston",
+     "url": "https://www.bostonfed.org/publications/current-policy-perspectives/2026/why-mortgage-rates-exceed-treasury-yields",
+     "date": "2026-05-19",
+     "quote": "Since 2000, the gap between the 30-year fixed mortgage rate and the yield on a 10-year U.S. Treasury note has ranged from 100 to 300 basis points."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "2.30 points / 230 basis points",
+     "calc": "round(7.40-5.10,2) = 2.30"
+    },
+    {
+     "figure": "7.15 percent",
+     "calc": "illustrative: 7.40-0.25 = 7.15 (gap held, 10-year down 0.25, illustrative)"
+    },
+    {
+     "figure": "$300,000 loan",
+     "calc": "illustrative input, 30-year amortization"
+    },
+    {
+     "figure": "$2,077 and $2,026",
+     "calc": "P*i/(1-(1+i)**-360), i=rate/1200: 2077.14 at 7.40, 2026.22 at 7.15"
+    },
+    {
+     "figure": "$51",
+     "calc": "2077.14-2026.22 = 50.92, rounded to 51"
+    },
+    {
+     "figure": "0.25",
+     "calc": "illustrative move in the 10-year yield"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54ee60a208cb32384d72f"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-20T10:21:00-04:00",
+   "topic": "cpi-shelter",
+   "kind": "data",
+   "text": "The BLS rent index rose 2.8 percent over the 12 months ending September 2026. Owners equivalent rent rose 3.3 percent and the shelter index rose 3.2 percent. The release came out October 14, 2026.\n\nWhy it matters: a rent growth assumption of 5 percent runs well above that pace. Illustrative: on rent of $2,250 a month, 5 percent growth projects $2,362.50 a year out, while 2.8 percent gives $2,313. That is about $50 less each month, or $594 a year.\n\nLenders can run any rent growth assumption in a file at both the assumed rate and the published index pace.",
+   "alt": "Bar chart of BLS 12-month CPI changes for September 2026: rent 2.8 percent, shelter 3.2 percent, owners equivalent rent 3.3 percent. Illustrative example: rent of $2,250 grows to $2,362.50 at 5 percent or $2,313 at 2.8 percent, about $594 less per year.",
+   "image": "images/2026-10-20/1021-li-cpi-shelter.png",
+   "sources": [
+    {
+     "title": "Consumer Price Index News Release, September 2026",
+     "publisher": "U.S. Bureau of Labor Statistics",
+     "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+     "date": "2026-10-14",
+     "quote": "The shelter index increased 3.2 percent over the last year."
+    },
+    {
+     "title": "Table 1. CPI-U: U.S. city average, by expenditure category, 2026 M09 Results",
+     "publisher": "U.S. Bureau of Labor Statistics",
+     "url": "https://www.bls.gov/news.release/cpi.t01.htm",
+     "date": "2026-10-14",
+     "quote": "Rent of primary residence 2.8 percent and owners equivalent rent of residences 3.3 percent (12-month unadjusted change, September 2026); shelter 3.2 percent."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$2,250",
+     "calc": "illustrative monthly rent"
+    },
+    {
+     "figure": "5 percent",
+     "calc": "illustrative growth assumption"
+    },
+    {
+     "figure": "$2,362.50",
+     "calc": "2250*1.05 = 2362.5"
+    },
+    {
+     "figure": "$2,313",
+     "calc": "2250*1.028 = 2313.0"
+    },
+    {
+     "figure": "$50",
+     "calc": "2362.5-2313 = 49.5, about 50"
+    },
+    {
+     "figure": "$594",
+     "calc": "49.5*12 = 594"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54f0c769b457934e1e188"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-20T12:47:00-04:00",
+   "topic": "cash-to-close-math",
+   "kind": "evergreen",
+   "text": "Buying a $175,000 rehab with an 85% loan? The loan is not the whole cash picture.\n\nHere is an illustrative example. The loan is $148,750, so the down payment is $26,250. Two points, where each point is 1% of the loan, add $2,975. Say closing costs are $4,200.\n\nCash to close: $26,250 + $2,975 + $4,200 = $33,425, about 19% of the price. That is before rehab funds or an appraisal fee, if any.\n\nLenders can give borrowers the full cash number up front, not just the down payment.\n\nvaultedonline.com",
+   "alt": "Illustrative worked example: a $175,000 rehab purchase with an 85% loan of $148,750. Cash to close is the $26,250 down payment plus $2,975 for two points plus $4,200 closing costs, totaling $33,425, shown as a single stacked bar.",
+   "image": "images/2026-10-20/1247-fb-cash-to-close-math.png",
+   "sources": [
+    {
+     "title": "What are Points on a Hard Money Loan?",
+     "publisher": "New Silver",
+     "url": "https://newsilver.com/the-lender/what-are-points-on-a-hard-money-loan/",
+     "date": "2025-11-19",
+     "quote": "Each point is based upon one percent of the total amount of the loan."
+    },
+    {
+     "title": "10 Important Terms To Know When Applying For A Hard Money Loan",
+     "publisher": "BiggerPockets",
+     "url": "https://www.biggerpockets.com/blog/10-important-terms-to-know-when-applying-for-a-hard-money-loan",
+     "date": "2024-02-27",
+     "quote": "Points represent fees charged by the lender at closing, typically expressed as a percentage of the loan amount."
+    },
+    {
+     "title": "Closing disclosure explainer",
+     "publisher": "CFPB",
+     "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/",
+     "date": "2023-10-10",
+     "quote": "This is the total amount you will have to pay at closing, in addition to any money you have already paid."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$175,000 / 85% / 2 points / $4,200",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$148,750",
+     "calc": "175000*0.85 = 148750"
+    },
+    {
+     "figure": "$26,250",
+     "calc": "175000-148750 = 26250"
+    },
+    {
+     "figure": "$2,975",
+     "calc": "148750*0.02 = 2975"
+    },
+    {
+     "figure": "$33,425",
+     "calc": "26250+2975+4200 = 33425"
+    },
+    {
+     "figure": "19%",
+     "calc": "33425/175000 = 0.191"
+    },
+    {
+     "figure": "1%",
+     "calc": "one point = one percent of the loan (New Silver quote); 0.01*148750 = 1487.5, x2 = 2975"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54ee8a48c8f8371b8d82f"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-20T17:27:00-04:00",
+   "topic": "note-vs-mortgage",
+   "kind": "evergreen",
+   "text": "A lender holds a signed promissory note but no mortgage or deed of trust. What does that lender have?\n\nThe note is the debt. It is the borrower's written promise to repay. The mortgage or deed of trust is the security. It pledges the property as collateral and gives the lender a lien.\n\nWhich one is used varies by state. A deed of trust names a trustee, who can carry out a foreclosure under a power of sale if the deed allows it.\n\nTakeaway: the note says what is owed. The security instrument ties that debt to the property.\n\nvaultedonline.com",
+   "alt": "Two comparison cards. Left: the promissory note is the debt, the borrower's written promise to repay. Right: the mortgage or deed of trust is the security, pledging the property as collateral and giving the lender a lien. Takeaway: the note says what is owed; the security instrument ties it to the property.",
+   "image": "images/2026-10-20/1727-fb-note-vs-mortgage.png",
+   "sources": [
+    {
+     "title": "What is the difference between a deed of trust and a promissory note, and what does each one do? NC",
+     "publisher": "Pierce Law",
+     "url": "https://piercelaw.com/news/real-estate-qa-series/what-is-the-difference-between-a-deed-of-trust-and-a-promissory-note-and-what-does-each-one-do-nc/",
+     "date": "2026-01-24",
+     "quote": "In a typical North Carolina real estate loan, the promissory note and the deed of trust work together but do different jobs."
+    },
+    {
+     "title": "What Is a Promissory Note in Private Real Estate Lending?",
+     "publisher": "LBC Capital",
+     "url": "https://lbccapital.com/what-is-a-promissory-note-the-core-document-behind-every-private-real-estate-loan/",
+     "date": "2026-10-15",
+     "quote": "The note is the borrower\u2019s unconditional promise to repay \u2014 it creates the personal obligation. The deed of trust is the security instrument: it pledges specific real property as collateral for that same obligation."
+    },
+    {
+     "title": "What's the Difference Between a Mortgage and a Deed of Trust?",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/whats-the-difference-between-mortgage-deed-trust.html",
+     "date": "2026-10-18",
+     "quote": "Some states use mortgages to create a lien on the property, while others typically use deeds of trust. (page undated, accessed 2026-10-18)"
+    },
+    {
+     "title": "What's the Difference Between a Mortgage and a Promissory Note?",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/whats-the-difference-between-mortgage-promissory-note.html",
+     "date": "2026-10-18",
+     "quote": "The mortgage gives the lender the right to sell the property through foreclosure (page undated, accessed 2026-10-18)"
+    },
+    {
+     "title": "Promissory Note",
+     "publisher": "OnlineEd",
+     "url": "https://blog.onlineed.com/2026/02/06/promissory-note/",
+     "date": "2026-02-06",
+     "quote": "a written agreement in which a borrower promises to repay a loan according to specified terms"
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ad54ef40a208cb32384d845"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-21T08:56:00-04:00",
+   "topic": "nar-existing-home-sales",
+   "kind": "data",
+   "text": "Existing-home sales ran at a seasonally adjusted annual rate of 3.99 million in September, NAR reported on October 13, 2026.\n\nUnsold inventory was a 4.8-month supply, up from 4.5 months a year earlier. Median time on market was 33 days, and the median price was $417,500, up 1.3 percent from a year ago.\n\nAt exit: a flip that sits 60 days instead of 33 sits 27 extra days. Illustrative: at $70 a day in loan interest, taxes and insurance, that is $1,890.\n\nThese are national figures. Local markets vary.\n\nvaultedonline.com",
+   "alt": "Stat cards for September 2026 NAR data: 3.99 million annual sales pace, 4.8 months of supply (up from 4.5), median price $417,500 up 1.3 percent. Bars compare the 33 day median time on market with an illustrative 60 day sale, 27 extra days costing $1,890 at $70 a day.",
+   "image": "images/2026-10-21/0856-fb-nar-existing-home-sales.png",
+   "sources": [
+    {
+     "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
+     "publisher": "National Association of REALTORS",
+     "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+     "date": "2026-10-13",
+     "quote": "Existing-home sales decreased 2.2% year-over-year to a seasonally adjusted annual rate of 3.99 million."
+    },
+    {
+     "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
+     "publisher": "National Association of REALTORS",
+     "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+     "date": "2026-10-13",
+     "quote": "Unsold inventory represented a 4.8-month supply, unchanged from August and up from 4.5 months one year ago."
+    },
+    {
+     "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
+     "publisher": "National Association of REALTORS",
+     "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+     "date": "2026-10-13",
+     "quote": "Median time on market: 33 days, up from 31 days in August and unchanged from September 2025."
+    },
+    {
+     "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
+     "publisher": "National Association of REALTORS",
+     "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+     "date": "2026-10-13",
+     "quote": "1.3% increase in median existing-home sales price to $417,500"
+    },
+    {
+     "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report",
+     "publisher": "National Association of REALTORS",
+     "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report",
+     "date": "2026-10-13",
+     "quote": "Total housing inventory reached 1.60 million units, up 1.9% from August and 4.6% from September 2025."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "60 days",
+     "calc": "illustrative slow-sale length, chosen by author"
+    },
+    {
+     "figure": "$70 a day",
+     "calc": "illustrative daily carry (interest, taxes, insurance), chosen by author"
+    },
+    {
+     "figure": "27 extra days",
+     "calc": "60 - 33 = 27"
+    },
+    {
+     "figure": "$1,890",
+     "calc": "27 * 70 = 1890"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54ef70b0d72757a4086e3"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-21T12:47:00-04:00",
+   "topic": "in-balance-requirement",
+   "kind": "evergreen",
+   "text": "A rehab loan has $90,000 left to fund. The contractor now says finishing will cost $104,000. Is the loan still \"in balance\"?\n\nNo. In balance means the unfunded loan is enough to finish the project. Here the gap is $14,000 ($104,000 minus $90,000).\n\nOne construction loan agreement filed with the SEC in 2008, for a hotel, has the bank fund only while the loan is in balance. After written notice that it is not, the borrower has 15 days to deposit the shortfall or pay project costs. Terms vary by lender.\n\nvaultedonline.com",
+   "alt": "Two bars compare remaining cost to complete of $104,000 with undisbursed loan funds of $90,000, leaving a dashed $14,000 gap. Cards define in balance and out of balance, and a panel shows $104,000 minus $90,000 equals $14,000. Figures are illustrative.",
+   "image": "images/2026-10-21/1247-fb-in-balance-requirement.png",
+   "sources": [
+    {
+     "title": "Construction Lending 101",
+     "publisher": "Scotsman Guide (Joel Solomon)",
+     "url": "https://www.scotsmanguide.com/Commercial/Articles/2015/02/Construction-Lending-101",
+     "date": "2019-10-30",
+     "quote": "The ultimate protection for a lender, however, is the requirement that the loan remain in balance, meaning that the unfunded loan is sufficient to complete the project. If that occurs, the lender has the right to declare a loan out of balance. The lender may institute default-rate interest, stop funding and even shut down the project."
+    },
+    {
+     "title": "Construction Loan Agreement, Summit Hotel Properties, LLC and Compass Bank (Arizona, Income Property), Section 1.2",
+     "publisher": "SEC EDGAR exhibit 10.1",
+     "url": "https://www.sec.gov/Archives/edgar/data/1284609/000095013708013688/c47009exv10w1.htm",
+     "date": "2008-09-17",
+     "quote": "Bank shall be obligated to disburse proceeds of the Loan only when the Loan is \"in balance.\" ... within fifteen (15) days after written notice from Bank that the Loan is not \"in balance,\" [Borrower deposits the amount needed in a Borrower's Funds Account or pays project costs until the Loan is back in balance]"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$104,000",
+     "calc": "illustrative remaining cost to complete, chosen by assignment"
+    },
+    {
+     "figure": "$90,000",
+     "calc": "illustrative undisbursed loan funds, chosen by assignment"
+    },
+    {
+     "figure": "$14,000",
+     "calc": "104000 - 90000 = 14000"
+    },
+    {
+     "figure": "15 days",
+     "calc": "Section 1.2(a) of the sample agreement, quoted in sources"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54efa0a208cb32384d886"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-21T17:09:00-04:00",
+   "topic": "usury-business-purpose",
+   "kind": "evergreen",
+   "text": "Can a lender charge any rate on a business loan? It varies.\n\nIn New York, loans to corporations and LLCs are generally exempt from the 16 percent civil usury cap, but the 25 percent criminal cap generally still applies. The exemption does not apply where the entity owns a one or two family dwelling as its principal asset.\n\nIn Florida, one law firm summary says the cap turns on loan size, 18 percent simple interest on loans of 500,000 dollars or less, then 25 percent above.\n\nTakeaway: a business purpose is not a universal pass. Check each state.",
+   "alt": "Two cards compare usury caps. New York: 16 percent civil cap generally exempt for corporations and LLCs, 25 percent criminal cap still applies. Florida: 18 percent maximum for loans of 500,000 dollars or less, 25 percent above. Message: a business purpose does not settle it.",
+   "image": "images/2026-10-21/1709-li-usury-business-purpose.png",
+   "sources": [
+    {
+     "title": "Avoiding Usury: Determining the Maximum Interest That Can Be Legally Charged",
+     "publisher": "Adam Leitman Bailey, P.C.",
+     "url": "https://alblawfirm.com/articles/avoiding-usury-determining-the-maximum-interest-that-can-be-legally-charged/",
+     "date": "2026-09-14",
+     "quote": "New York imposes two separate rates for determining usury, a 16% rate for civil usury, and a 25% rate for criminal usury. (Also: loans to corporations and limited liability companies are generally exempt from the 16% civil usury cap; exception where the entity owns a one or two family dwelling.)"
+    },
+    {
+     "title": "New York State Court of Appeals Holds that Criminally Usurious Loans are Void Ab Initio",
+     "publisher": "Bond, Schoeneck and King PLLC",
+     "url": "https://www.bsk.com/news-events-videos/new-york-state-court-of-appeals-holds-that-criminally-usurious-loans-are-void-ab-initio",
+     "date": "2022-02-22",
+     "quote": "the defense of civil usury contained within New York's General Obligations Law is not available to corporations"
+    },
+    {
+     "title": "Mortgage and Note Default: Avoiding Usury Allegations",
+     "publisher": "Jimerson Birr",
+     "url": "https://www.jimersonfirm.com/blog/2018/09/mortgage-and-note-default-avoiding-usury-allegations/",
+     "date": "2018-09-25",
+     "quote": "In Florida, the maximum allowable rate is 18 percent simple interest for loans of $500,000 or less. For loans of more than $500,000, the maximum allowable rate is 25 percent simple interest."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "none",
+     "calc": "no illustrative or computed numbers; all figures quoted from sources"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54f180b0d72757a40895c"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-21T17:27:00-04:00",
+   "topic": "due-on-sale",
+   "kind": "evergreen",
+   "text": "What happens to a loan when the property changes hands?\n\nA due-on-sale clause lets a lender, at its option, declare the loan due and payable if the property is sold or transferred without the lender's prior written consent.\n\nFederal law lists exceptions for residential property with fewer than five units. Two examples: a lease of three years or less with no purchase option, and a transfer where the borrower's spouse or children become an owner. The implementing rule ties these limits to homes the borrower occupies or will occupy.\n\nLenders can read the clause in each note.\n\nvaultedonline.com",
+   "alt": "Diagram of a due-on-sale clause. A property sold or transferred without the lender's prior written consent gives the lender the option to declare the loan due and payable. Three federal exceptions for residential property with fewer than five units: a lease of three years or less, a transfer to spouse or children, a transfer into a trust.",
+   "image": "images/2026-10-21/1727-fb-due-on-sale.png",
+   "sources": [
+    {
+     "title": "12 U.S.C. 1701j-3 Preemption of due-on-sale prohibitions",
+     "publisher": "U.S. Government Publishing Office (U.S. Code, 2024 Edition)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title12/html/USCODE-2024-title12-chap13-sec1701j-3.htm",
+     "date": "2026-10-18",
+     "quote": "the term \"due-on-sale clause\" means a contract provision which authorizes a lender, at its option, to declare due and payable sums secured by the lender's security instrument if all or any part of the property, or an interest therein, securing the real property loan is sold or transferred without the lender's prior written consent. (page undated beyond 2024 Edition label, accessed 2026-10-18; (d): \"With respect to a real property loan secured by a lien on residential real property containing less than five dwelling units\" a lender may not exercise the option on, among others, \"the granting of a leasehold interest of three years or less not containing an option to purchase\", \"a transfer where the spouse or children of the borrower become an owner of the property\", and a transfer into an inter vivos trust in which the borrower \"is and remains a beneficiary\")"
+    },
+    {
+     "title": "Limitations on Enforcing Due on Sale Clauses",
+     "publisher": "Fitzpatrick Lentz & Bubba, P.C.",
+     "url": "https://www.flblaw.com/limitations-on-enforcing-due-on-sale-clauses/",
+     "date": "2021-03-18",
+     "quote": "regardless of the agreement between a borrower and lender, a lender may not enforce the due on sale clause in a residential mortgage if one of the following exceptions occurs."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "three years / fewer than five units",
+     "calc": "statutory figures quoted from 12 U.S.C. 1701j-3(d); no arithmetic"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54efca48c8f8371b8d9f0"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-22T08:25:00-04:00",
+   "topic": "construction-employment",
+   "kind": "data",
+   "text": "Construction added 11,000 jobs in September, and averaged 10,000 a month over the prior 12 months, the BLS reports.\n\nConstruction job openings were 251,000 in August (preliminary), up from 213,000 a year earlier but down from 299,000 in July.\n\nOpenings do not prove contractors are short of crews, and one month is noisy. Still, slow job growth can mean a contractor cannot add people quickly when work piles up.\n\nOn a rehab loan, lenders can ask each contractor when a crew can actually start and how many jobs it is running now, before setting the timeline and interest reserve.\n\nvaultedonline.com",
+   "alt": "Bar chart of BLS construction job openings: 213 thousand in August 2025, 299 thousand in July 2026, 251 thousand in August 2026 (preliminary). Two cards: construction added 11,000 jobs in September 2026 and averaged 10,000 a month over the prior 12 months. Takeaway: lenders can ask when a crew can start.",
+   "image": "images/2026-10-22/0825-fb-construction-employment.png",
+   "sources": [
+    {
+     "title": "The Employment Situation - September 2026",
+     "publisher": "U.S. Bureau of Labor Statistics",
+     "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+     "date": "2026-10-02",
+     "quote": "Employment in construction changed little in September (+11,000)."
+    },
+    {
+     "title": "The Employment Situation - September 2026 (full release)",
+     "publisher": "U.S. Bureau of Labor Statistics",
+     "url": "https://www.bls.gov/news.release/empsit.htm",
+     "date": "2026-10-02",
+     "quote": "The industry had added an average of 10,000 jobs per month over the prior 12 months."
+    },
+    {
+     "title": "JOLTS Table 1. Job openings levels and rates by industry, August 2026",
+     "publisher": "U.S. Bureau of Labor Statistics",
+     "url": "https://www.bls.gov/news.release/jolts.t01.htm",
+     "date": "2026-09-29",
+     "quote": "Construction | 213 | 291 | 298 | 299 | 251 | -48 | 2.5 | 3.4 | 3.5 | 3.5 | 2.9 | -0.6 (columns Aug 2025, May, Jun, Jul, Aug 2026 in thousands, change, then rates; August 2026 preliminary)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "12-month average 10,000",
+     "calc": "quoted from BLS full release (see sources); not computed"
+    },
+    {
+     "figure": "251,000",
+     "calc": "251 thousand x 1000 = 251,000 (BLS table is in thousands)"
+    },
+    {
+     "figure": "213,000",
+     "calc": "213 thousand x 1000 = 213,000 (BLS table is in thousands)"
+    },
+    {
+     "figure": "299,000",
+     "calc": "299 thousand x 1000 = 299,000 (BLS table is in thousands)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54eff0b0d72757a408765"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-22T12:47:00-04:00",
+   "topic": "concentration-risk",
+   "kind": "evergreen",
+   "text": "Your portfolio is $8,000,000. Your largest borrower owes $1,400,000. How concentrated are you?\n\nDivide: $1,400,000 / $8,000,000 = 17.5 percent in one borrower. Add the next two largest and the top three total $3,200,000, or 40 percent of the book. These numbers are illustrative.\n\nThe OCC Comptroller's Handbook for banks says methods for identifying concentrations vary from bank to bank. It lists exposure to any one borrower or group of related borrowers as exposures that may perform similarly.\n\nLenders can run both the single-borrower and top-three ratios, group related borrowers together, and compare the results with limits they set themselves.\n\nvaultedonline.com",
+   "alt": "Stacked bar of an illustrative $8,000,000 portfolio: top borrower $1,400,000 is 17.5 percent, next two borrowers 22.5 percent, all others 60 percent. Cards show 17.5 percent in the top borrower and 40 percent in the top three borrowers.",
+   "image": "images/2026-10-22/1247-fb-concentration-risk.png",
+   "sources": [
+    {
+     "title": "Comptroller's Handbook: Concentrations of Credit, Version 3.0",
+     "publisher": "OCC",
+     "url": "https://occ.gov/publications-and-resources/publications/comptrollers-handbook/files/concentrations-of-credit/pub-ch-concentrations.pdf",
+     "date": "2026-09-30",
+     "quote": "Methods for identifying concentrations vary from bank to bank. Credit exposures that may perform similarly include those extended to any one counterparty, borrower, or group of related counterparties or borrowers."
+    },
+    {
+     "title": "Concentrations of Credit: Revised Comptroller's Handbook Booklet and Rescissions (Bulletin 2026-49)",
+     "publisher": "OCC",
+     "url": "https://occ.gov/news-issuances/bulletins/2026/bulletin-2026-49.html",
+     "date": "2026-09-30",
+     "quote": "issued today version 3.0 of the Concentrations of Credit booklet"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$8,000,000",
+     "calc": "illustrative portfolio"
+    },
+    {
+     "figure": "$1,400,000",
+     "calc": "illustrative top borrower"
+    },
+    {
+     "figure": "$3,200,000",
+     "calc": "illustrative top three total"
+    },
+    {
+     "figure": "17.5 percent",
+     "calc": "1400000/8000000*100 = 17.5"
+    },
+    {
+     "figure": "40 percent",
+     "calc": "3200000/8000000*100 = 40.0"
+    },
+    {
+     "figure": "22.5 percent",
+     "calc": "(3200000-1400000)/8000000*100 = 22.5"
+    },
+    {
+     "figure": "60 percent",
+     "calc": "(8000000-3200000)/8000000*100 = 60.0"
+    },
+    {
+     "figure": "$1,800,000",
+     "calc": "3200000-1400000"
+    },
+    {
+     "figure": "$4,800,000",
+     "calc": "8000000-3200000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad611d7b0a056e4b9499433"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-22T15:40:00-04:00",
+   "topic": "carve-outs-bad-boy",
+   "kind": "evergreen",
+   "text": "What turns a non-recourse loan personal? A carve-out guaranty.\n\nLaw firm sources name bad boy acts that can create personal liability, such as fraud, intentional misrepresentation, or misapplied casualty or condemnation proceeds.\n\nThe sources sort these into two groups. Above the line acts are tied to actual lender loss. Below the line acts, such as a voluntary bankruptcy filing, can trigger recourse for the entire debt, whether or not the lender experiences any loss.\n\nLenders can read the trigger list closely and ask counsel what each trigger means in their state.",
+   "alt": "Two comparison cards. Above the line triggers such as fraud and intentional misrepresentation are tied to actual lender loss. Below the line triggers such as a voluntary bankruptcy filing can reach the entire debt, springing recourse. Tip: read the trigger list and ask counsel.",
+   "image": "images/2026-10-22/1540-li-carve-outs-bad-boy.png",
+   "sources": [
+    {
+     "title": "Bad Boy Guaranties",
+     "publisher": "Barley Snyder",
+     "url": "https://www.barley.com/bad-boy-guarantys/",
+     "date": "2016-03-01",
+     "quote": "fraud or intentional misrepresentation by borrower or any of certain related parties in connection with the loan; ... whether or not the lender experiences any loss and whether or not the borrower causes the event. ... borrower files a voluntary petition under the U.S. Bankruptcy Code; ... misapplication of casualty or condemnation proceeds"
+    },
+    {
+     "title": "Bad-Boy Guaranties: What You Do Not Know Could Cost You Personally",
+     "publisher": "Selzer Gurvitch",
+     "url": "https://www.selzergurvitch.com/?p=4365",
+     "date": "2026-10-18",
+     "quote": "\"Above the line\" exceptions are triggered only by any actual loss suffered by the lender ... \"below the line\" exceptions will trigger full recourse for the entire amount of the debt. (page undated, accessed 2026-10-18)"
+    },
+    {
+     "title": "Approaches to Carve-Out Guarantees",
+     "publisher": "Hinckley Allen",
+     "url": "https://www.hinckleyallen.com/?p=5270",
+     "date": "2016-11-30",
+     "quote": "Bad acts which generally cause full liability for the debt include voluntary bankruptcy filings, violation of single ... carve-outs were limited to the basics: fraud, misrepresentation, misappropriation of insurance"
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ad54f1b0b0d72757a4089d3"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-22T17:27:00-04:00",
+   "topic": "mechanics-lien-deadlines",
+   "kind": "evergreen",
+   "text": "A contractor's last day on site is September 10. How long can a lien claim still be filed?\n\nFlorida: 90 days after final furnishing, so December 9. Texas, original contractor: the 15th day of the fourth month, so January 15, or the third month for residential, December 15. California: a direct contractor has 90 days after completion of the work of improvement, or 60 days after the owner records a notice of completion, whichever is earlier.\n\nDates are illustrative; details vary by state and claimant. Lenders can ask title or counsel which clock applies before funding a draw.\n\nvaultedonline.com",
+   "alt": "Three cards compare mechanics lien filing deadlines for a last day of work of September 10: Florida 90 days after final furnishing (December 9), Texas 15th day of the fourth month (January 15) or third month for residential (December 15), California direct contractor 90 days after completion or 60 days after notice of completion, whichever is earlier.",
+   "image": "images/2026-10-22/1727-fb-mechanics-lien-deadlines.png",
+   "sources": [
+    {
+     "title": "Florida Statutes 713.08 Claim of lien",
+     "publisher": "The Florida Legislature / Florida Senate",
+     "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799%2F0713%2FSections%2F0713.08.html",
+     "date": "2026-01-01",
+     "quote": "not later than 90 days after the final furnishing of the labor or services or materials by the lienor"
+    },
+    {
+     "title": "Florida Statutes 713.08 (second fetch)",
+     "publisher": "Florida Senate",
+     "url": "https://m.flsenate.gov/statutes/713.08",
+     "date": "2026-01-01",
+     "quote": "The claim of lien shall be recorded in the clerk's office."
+    },
+    {
+     "title": "Texas Property Code 53.052 Filing of Affidavit",
+     "publisher": "Justia",
+     "url": "https://law.justia.com/codes/texas/property-code/title-5/subtitle-b/chapter-53/subchapter-c/section-53-052/",
+     "date": "2025-01-01",
+     "quote": "for projects other than residential construction projects, not later than the 15th day of the fourth month"
+    },
+    {
+     "title": "Texas Property Code 53.052 Filing of Affidavit",
+     "publisher": "Public.Law",
+     "url": "https://texas.public.law/statutes/tex._prop._code_section_53.052",
+     "date": "2025-05-26",
+     "quote": "not later than the 15th day of the third month after the later of:"
+    },
+    {
+     "title": "California Civil Code 8412",
+     "publisher": "FindLaw",
+     "url": "https://codes.findlaw.com/ca/civil-code/civ-sect-8412/",
+     "date": "2026-01-01",
+     "quote": "Ninety days after completion of the work of improvement."
+    },
+    {
+     "title": "California Civil Code 8412",
+     "publisher": "Justia",
+     "url": "https://law.justia.com/codes/california/2022/code-civ/division-4/part-6/title-2/chapter-4/article-2/section-8412/",
+     "date": "2022-01-01",
+     "quote": "A direct contractor may not enforce a lien unless the contractor records a claim of lien"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "September 10",
+     "calc": "illustrative last day of work"
+    },
+    {
+     "figure": "December 9",
+     "calc": "date(2026,9,10)+timedelta(90) = 2026-12-09"
+    },
+    {
+     "figure": "January 15",
+     "calc": "4th month after September (Oct=1,Nov=2,Dec=3,Jan=4) 15th day = Jan 15 2027; illustrative"
+    },
+    {
+     "figure": "December 15",
+     "calc": "3rd month after September = Dec; 15th day = Dec 15 2026; illustrative"
+    },
+    {
+     "figure": "60 days",
+     "calc": "California 8412 notice of completion alternative, per FindLaw quote 'Sixty days after the owner records a notice of completion or cessation.'"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad7633325cf50b93e67b023"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-23T08:00:00-04:00",
+   "topic": "insurance-cost-trend",
+   "kind": "data",
+   "text": "When a DSCR formula counts insurance in the payment, a premium jump moves the ratio.\n\nThe NAIC reported that from 2018 to 2024, average homeowners premium per policy rose in every NAIC region, with inflation-adjusted increases of 18.3% to 43.3% depending on region (Aug. 5, 2026). Landlord policies can differ.\n\nIllustrative: rent $2,400, principal, interest and taxes $1,850, insurance $300 a month. Payment $2,150, DSCR 1.12. Insurance up 30% to $390: payment $2,240, DSCR 1.07.\n\nLenders can re-quote insurance when sizing a DSCR loan. Minimums vary by lender.\n\nvaultedonline.com",
+   "alt": "Graphic titled Premiums rose in every NAIC region, your DSCR can feel it. NAIC data 2018 to 2024: inflation-adjusted average premium increases of 18.3 to 43.3 percent, 2.4 to 5.3 percent per year. Illustrative example: rent $2,400, DSCR falls from 1.12 to 1.07 when insurance rises 30 percent.",
+   "image": "images/2026-10-23/0800-fb-insurance-cost-trend.png",
+   "sources": [
+    {
+     "title": "NAIC Releases First-of-Its-Kind National Analysis of Homeowners Insurance Market Trends",
+     "publisher": "National Association of Insurance Commissioners",
+     "url": "https://content.naic.org/article/naic-releases-first-its-kind-national-analysis-homeowners-insurance-market-trends",
+     "date": "2026-08-05",
+     "quote": "Average premium per policy increased across every NAIC region since 2018, with inflation-adjusted increases ranging from 18.3% to 43.3% (average premium increases of 2.4% to 5.3% per year), drawing on data reported by insurers to state regulators between 2018 and 2024."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$2,400 rent, $1,850 PITI, $300 insurance",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$2,150",
+     "calc": "1850+300 = 2150"
+    },
+    {
+     "figure": "1.12",
+     "calc": "2400/2150 = 1.116"
+    },
+    {
+     "figure": "30% to $390",
+     "calc": "300*1.3 = 390 (30% is illustrative, within NAIC range)"
+    },
+    {
+     "figure": "$2,240",
+     "calc": "1850+390 = 2240"
+    },
+    {
+     "figure": "1.07",
+     "calc": "2400/2240 = 1.071"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad7633610a659c35bdcdcce"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-23T12:47:00-04:00",
+   "topic": "brrrr-lender-view",
+   "kind": "evergreen",
+   "text": "A bridge borrower says the refinance will pay you off. Does the math agree?\n\nIllustrative: after-repair value $260,000, refinance at 75% LTV, so $195,000 of proceeds against a $178,000 payoff. That is a $17,000 cushion.\n\nNow stress it. If the appraisal comes in 10% lower, at $234,000, 75% gives $175,500. That is $2,500 short. One source notes some lenders cap investment property cash-out at 70%, which on $260,000 is $182,000.\n\nLenders can test the exit, not just the rehab: does the refinance still cover the payoff if value or LTV comes in lower?\n\nvaultedonline.com",
+   "alt": "Bar chart for an illustrative BRRRR bridge loan with a $178,000 payoff. Refinance proceeds: $195,000 at 75% of $260,000 (+$17,000), $182,000 at a 70% cap (+$4,000), and $175,500 if value is 10% lower (-$2,500 short).",
+   "image": "images/2026-10-23/1247-fb-brrrr-lender-view.png",
+   "sources": [
+    {
+     "title": "DSCR Loan for BRRRR: How the Refinance Step Works",
+     "publisher": "Kiavi",
+     "url": "https://www.kiavi.com/blog/dscr-loan-for-brrrr-how-the-refinance-step-works",
+     "date": "2026-05-11",
+     "quote": "The cash-out amount is typically based on a percentage of the appraised value\u2014typically in the 70-75% range."
+    },
+    {
+     "title": "DSCR Loan for BRRRR: How the Refinance Step Works",
+     "publisher": "Kiavi",
+     "url": "https://www.kiavi.com/blog/dscr-loan-for-brrrr-how-the-refinance-step-works",
+     "date": "2026-05-11",
+     "quote": "If the appraisal comes in below your projected ARV, the amount you can pull out of the deal may be limited."
+    },
+    {
+     "title": "The BRRRR Method Explained",
+     "publisher": "iPropertyManagement",
+     "url": "https://ipropertymanagement.com/guides/brrrr-method",
+     "date": "2026-09-04",
+     "quote": "Always watch out for LTV surprises, as some lenders cap investment property cash-out at 70%, not 75 or 80%."
+    },
+    {
+     "title": "The BRRRR Method Explained",
+     "publisher": "iPropertyManagement",
+     "url": "https://ipropertymanagement.com/guides/brrrr-method",
+     "date": "2026-09-04",
+     "quote": "That money pays off the original loan and, if the numbers work, returns part or most of the investor's cash."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$260,000",
+     "calc": "illustrative after-repair value"
+    },
+    {
+     "figure": "$178,000",
+     "calc": "illustrative bridge payoff"
+    },
+    {
+     "figure": "75%",
+     "calc": "illustrative refinance LTV"
+    },
+    {
+     "figure": "$195,000",
+     "calc": "260000*0.75 = 195000"
+    },
+    {
+     "figure": "$17,000",
+     "calc": "195000-178000 = 17000"
+    },
+    {
+     "figure": "10%",
+     "calc": "illustrative appraisal shortfall"
+    },
+    {
+     "figure": "$234,000",
+     "calc": "260000*0.90 = 234000"
+    },
+    {
+     "figure": "$175,500",
+     "calc": "234000*0.75 = 175500"
+    },
+    {
+     "figure": "$2,500",
+     "calc": "178000-175500 = 2500"
+    },
+    {
+     "figure": "$182,000",
+     "calc": "260000*0.70 = 182000"
+    },
+    {
+     "figure": "$4,000",
+     "calc": "182000-178000 = 4000 (graphic)"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-23T14:00:00-04:00",
+   "topic": "state-lender-licensing",
+   "kind": "evergreen",
+   "text": "Before funding a first loan in a new state, a private lender can ask one question: does this state require a license?\n\nThe answer varies by state. California generally requires a license for any person engaging in the business of a finance lender, and its law includes making commercial loans. One law firm notes an exemption for a single commercial loan in a 12-month period. Florida requires a mortgage lender license for an entity making a mortgage loan for compensation or gain, as Florida defines it.\n\nLenders can read each state regulator page, then ask counsel.",
+   "alt": "Two comparison cards. California, Department of Financial Protection and Innovation: license required for any person engaging in the business of a finance lender, which includes making commercial loans. Florida, Office of Financial Regulation: license required for an entity making a mortgage loan for compensation or gain. Takeaway: varies by state.",
+   "image": "images/2026-10-23/1400-li-state-lender-licensing.png",
+   "sources": [
+    {
+     "title": "About California Financing Law",
+     "publisher": "California DFPI",
+     "url": "https://dfpi.ca.gov/regulated-industries/california-financing-law/about-california-financing-law/",
+     "date": "2026-10-18",
+     "quote": "any person engaging in the business of a finance lender or finance broker in California is required to obtain a license. \"Finance lender\" includes any person engaged in the business of making consumer loans or making commercial loans. (page undated, accessed 2026-10-18)"
+    },
+    {
+     "title": "The California Financing Law: Commercial and Consumer Lenders Beware",
+     "publisher": "Paul Hastings",
+     "url": "https://www.paulhastings.com/insights/client-alerts/the-california-financing-law-commercial-and-consumer-lenders-beware",
+     "date": "2025-08-05",
+     "quote": "First, any lender making one commercial loan in a 12-month period is not required to be licensed (Cal Fin. Code \u00a7 22050.5)."
+    },
+    {
+     "title": "Mortgage Lender and Branches",
+     "publisher": "Florida Office of Financial Regulation",
+     "url": "https://flofr.gov/divisions-offices/division-of-consumer-finance/mortgage-lender-and-branches",
+     "date": "2026-10-18",
+     "quote": "This license is required for an entity making a mortgage loan for compensation or gain, directly or indirectly, (page undated, accessed 2026-10-18)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "12-month",
+     "calc": "quoted from Paul Hastings; no computation"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ad54f1da48c8f8371b8ddb0"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-23T17:27:00-04:00",
+   "topic": "contractor-vetting",
+   "kind": "evergreen",
+   "text": "Before a rehab loan funds, what can a lender verify about the contractor?\n\nLicense: a number on a bid is not proof. California's board says a number does not necessarily mean the license is valid, and offers an online status lookup.\n\nInsurance: a certificate is information only and does not amend, extend or alter coverage. Lenders can ask for the endorsement too.\n\nW-9: captures the payee's correct name and taxpayer ID.\n\nReferences: lenders can call past clients.\n\nLien waivers: can release the signer's right to file a mechanic's lien for the amount and period covered. Varies by state.\n\nvaultedonline.com",
+   "alt": "Checklist graphic titled Vetting a contractor, five things to verify: license status lookup on the state board site, insurance certificate is information only, W-9 for the payee's name and taxpayer ID, references from past clients, and lien waivers, with rules varying by state.",
+   "image": "images/2026-10-23/1727-fb-contractor-vetting.png",
+   "sources": [
+    {
+     "title": "Finding the right contractor",
+     "publisher": "California Contractors State License Board (CSLB)",
+     "url": "https://www.cslb.ca.gov/consumers/hire_a_contractor/finding_the_right_contractor.aspx",
+     "date": "2026-10-18",
+     "quote": "Seeing a license number doesn't necessarily mean the license is valid. You can check the license status online or call (800) 321-CSLB (2752). (page undated, accessed 2026-10-18)"
+    },
+    {
+     "title": "Why you need more than just a certificate of insurance",
+     "publisher": "Miller Nash",
+     "url": "https://www.millernash.com/industry-news/why-you-need-more-than-just-a-certificate-of-insurance",
+     "date": "2015-04-06",
+     "quote": "This certificate does not affirmatively or negatively amend, extend or alter the coverage afforded by the policies below."
+    },
+    {
+     "title": "Sample certificate of liability insurance (ACORD 25 2016/03)",
+     "publisher": "Commonwealth of Massachusetts (mass.gov)",
+     "url": "https://www.mass.gov/doc/inftramwaysamplecertliabilityinsformpdf/download",
+     "date": "2026-10-18",
+     "quote": "THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. (form undated, accessed 2026-10-18)"
+    },
+    {
+     "title": "Instructions for the Requester of Form W-9",
+     "publisher": "Internal Revenue Service",
+     "url": "https://www.irs.gov/instructions/iw9",
+     "date": "2026-04-30",
+     "quote": "Form W-9 is used by persons required to file information returns with the IRS to get the payee's (or other person's) correct name and TIN."
+    },
+    {
+     "title": "Construction Lien Waivers: Conditional vs Unconditional Explained",
+     "publisher": "Corpay",
+     "url": "https://www.corpay.com/resources/blog/construction-lien-waiver",
+     "date": "2026-06-11",
+     "quote": "A lien waiver is a contractually binding document that releases the signer's right to file a mechanic's lien against the project."
+    },
+    {
+     "title": "Nev. Admin. Code 624.693, mechanics' and materialmen's liens form",
+     "publisher": "Cornell Legal Information Institute",
+     "url": "https://www.law.cornell.edu/regulations/nevada/NAC-624-693",
+     "date": "2024-08-13",
+     "quote": "This document terminates all lien rights of the contractor, subcontractor or supplier as to the amount you paid."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "five items",
+     "calc": "license, insurance, W-9, references, lien waivers = len(5) items in the checklist (editorial count)"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-24T09:32:00-04:00",
+   "topic": "delinquency-buckets",
+   "kind": "evergreen",
+   "text": "30, 60, 90 days late. Check how each report counts it.\n\nThe Mortgage Bankers Association reports delinquencies in 30 to 59, 60 to 89 and 90+ day buckets, and says the length of a delinquency is determined by the number of missed payments.\n\nLoans in the foreclosure process are left out of those buckets and reported separately.\n\nLenders can write down how their own reports set cut-offs, and whether foreclosure is counted, before comparing a portfolio to any benchmark.\n\nvaultedonline.com",
+   "alt": "Graphic titled Late is not one number. Three cards show the MBA delinquency buckets: 30 to 59 days, 60 to 89 days and 90+ days late. A separate box notes loans in the foreclosure process are left out of those buckets and reported on their own.",
+   "image": "images/2026-10-24/0932-fb-delinquency-buckets.png",
+   "sources": [
+    {
+     "title": "National Delinquency Survey: Frequently Asked Questions",
+     "publisher": "Mortgage Bankers Association",
+     "url": "https://www.mba.org/docs/default-source/research-and-forecasts/faqs/res_sf_nds_faq.pdf?sfvrsn=b99dd429_1",
+     "date": "2026-10-18",
+     "quote": "Delinquencies are reported as total delinquencies and in 30\u201359, 60\u201389 and 90+ day buckets, exclusive of loans in the foreclosure process. The length of the delinquency is determined by the number of missed payments. Foreclosures are reported as \"foreclosure starts\" and \"foreclosure inventory.\" (page undated, accessed 2026-10-18)"
+    },
+    {
+     "title": "MBA Chart of the Week Aug. 14: Delinquency Rates by Credit Type",
+     "publisher": "MBA Newslink",
+     "url": "https://newslink.mba.org/?p=208436",
+     "date": "2023-08-14",
+     "quote": "MBA's overall delinquency rate tracks the number of loans that are contractually 30 days, 60 days and 90+ days delinquent as of the end of the quarterly reporting period, and excludes loans in foreclosure."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "30 to 59, 60 to 89, 90+",
+     "calc": "bucket labels from MBA FAQ (30\u201359, 60\u201389, 90+); en dash written as 'to'"
+    },
+    {
+     "figure": "30, 60, 90",
+     "calc": "hook uses the bucket thresholds 30, 60, 90; no computation"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-24T13:47:00-04:00",
+   "topic": "payment-application-order",
+   "kind": "evergreen",
+   "text": "A borrower sends $2,500. The loan has $1,900 of interest due and a $150 late fee. Where does the money go?\n\nIt depends on the note. If fees come first, the fee takes $150, interest takes $1,900 and principal drops by $450. If interest and principal come first, principal drops by $600 and the $150 late fee is still owed.\n\nPublished terms differ: one sample clause applies late charges first, while one servicing guide puts fees last.\n\nLenders can write the order into the note, so every payment is applied the same way.\n\nvaultedonline.com",
+   "alt": "Two stacked bars show how one $2,500 payment is applied. Fees first: $150 late fee, $1,900 interest, $450 principal. Interest and principal first: $1,900 interest, $600 principal, and the $150 late fee is still owed. Illustrative.",
+   "image": "images/2026-10-24/1347-fb-payment-application-order.png",
+   "sources": [
+    {
+     "title": "Mortgage Payment Waterfall: How Servicers Apply Payments",
+     "publisher": "LegalClarity",
+     "url": "https://legalclarity.org/mortgage-payment-waterfall-how-servicers-apply-payments/",
+     "date": "2026-05-15",
+     "quote": "Interest comes first, then principal, then escrow for taxes and insurance, and finally any outstanding fees."
+    },
+    {
+     "title": "How We Apply Payments clause samples",
+     "publisher": "Law Insider",
+     "url": "https://www.lawinsider.com:443/clause/how-we-apply-payments",
+     "date": "2026-10-18",
+     "quote": "Payments will be applied first to late charges, then to interest charges due and any other charges that might apply,"
+    },
+    {
+     "title": "What about partial payments and short payments",
+     "publisher": "First Merchants Bank",
+     "url": "https://www.firstmerchants.com/help/faqs/faq-details/what-about-partial-payments-and-short-payments",
+     "date": "2026-10-18",
+     "quote": "the payment will be applied first to any outstanding fees or escrow advances, and then to principal."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$2,500 / $1,900 / $150",
+     "calc": "illustrative inputs"
+    },
+    {
+     "figure": "$450",
+     "calc": "2500-150-1900 = 450"
+    },
+    {
+     "figure": "$600",
+     "calc": "2500-1900 = 600"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-24T17:27:00-04:00",
+   "topic": "builders-risk-insurance",
+   "kind": "evergreen",
+   "text": "A rehab loan closes. The borrower moves out, the house sits half gutted, and the standard homeowners policy is still the one on file. Is that enough?\n\nStandard homeowners policies are designed for homes that are occupied on a regular basis. Vacancy limits typically start after 30 or 60 consecutive days, and a home under renovation may not count as vacant, so the wording matters. Builder's risk is written for the timeline of a construction or renovation project. Terms vary by insurer.\n\nLenders can request the actual policy form and confirm with the insurer which coverage applies during the work.\n\nvaultedonline.com",
+   "alt": "Three comparison cards: standard homeowners policy, built for occupied homes with vacancy limits typically after 30 or 60 consecutive days; vacant or unoccupied add-on or separate policy; and builder's risk, written for a construction or renovation project. A panel suggests lenders confirm which coverage applies.",
+   "image": "images/2026-10-24/1727-fb-builders-risk-insurance.png",
+   "sources": [
+    {
+     "title": "Unoccupied and Vacant Home Insurance: What to Know",
+     "publisher": "NerdWallet",
+     "url": "https://www.nerdwallet.com/article/insurance/unoccupied-vacant-home-insurance",
+     "date": "2026-04-17",
+     "quote": "Standard homeowners policies are designed for homes that are occupied on a regular basis."
+    },
+    {
+     "title": "Unoccupied and Vacant Home Insurance: What to Know (vacancy period)",
+     "publisher": "NerdWallet",
+     "url": "https://www.nerdwallet.com/article/insurance/unoccupied-vacant-home-insurance",
+     "date": "2026-04-17",
+     "quote": "typically 30 or 60 consecutive days. Even if your home is empty during major renovations, your insurance company may not necessarily consider it \"vacant.\""
+    },
+    {
+     "title": "What to know about insurance for home construction and renovation projects",
+     "publisher": "This Old House",
+     "url": "https://www.thisoldhouse.com/home-finances/what-to-know-about-insurance-for-home-construction-and-renovation-projects",
+     "date": "2026-06-05",
+     "quote": "standard homeowners insurance policies may not cover property damage or accidents that occur while the home is unoccupied."
+    },
+    {
+     "title": "What kind of damage does builders risk insurance actually cover?",
+     "publisher": "HUB International",
+     "url": "https://www.hubinternational.com/en-us/faqs/construction/builders-risk-insurance-coverage/",
+     "date": "2026-10-18",
+     "quote": "written for the specific timeline of a construction or renovation project (page undated, accessed 2026-10-18); covers direct physical loss or damage from covered perils to a structure under construction"
+    },
+    {
+     "title": "What constitutes a dwelling or building under construction or renovation for purposes of a vacancy exclusion",
+     "publisher": "Property Insurance Coverage Law (Eshoo)",
+     "url": "https://www.propertyinsurancecoveragelaw.com/blog/what-constitutes-a-dwelling-or-building-under-construction-or-renovation-for-purposes-of-a-vacancy-exclusion/",
+     "date": "2018-10-08",
+     "quote": "vacant for more than 60 consecutive days before the damage occurs; properties under construction or renovation are not considered vacant"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "30 or 60 consecutive days",
+     "calc": "quoted from NerdWallet; 60 also in Eshoo; no computation"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-25T10:15:00-04:00",
+   "topic": "fema-disaster-declarations",
+   "kind": "data",
+   "text": "133 federal disasters were declared in 2026 through September, per USAFacts. The 2021 to 2025 average is 125 a year.\n\nA declaration names the counties it covers. FEMA publishes the county list, and its declaration data records whether Individual Assistance was declared.\n\nLenders can check whether a property's county appears on a recent declaration, then confirm the flood zone and what insurance is in force.\n\nBeing listed does not mean a property was damaged. It is a reason to ask.\n\nvaultedonline.com",
+   "alt": "Bar chart: 133 federal disasters declared in 2026 from January through September versus a 2021 to 2025 yearly average of 125, per USAFacts. Below, three steps: find the county, check the flood zone, confirm insurance.",
+   "image": "images/2026-10-25/1015-fb-fema-disaster-declarations.png",
+   "sources": [
+    {
+     "title": "How many disasters are declared in the US?",
+     "publisher": "USAFacts",
+     "url": "https://usafacts.org/articles/federal-disaster-declaration-fema",
+     "date": "2026-10-13",
+     "quote": "133 disasters have been declared so far in 2026. On average, 125 disasters are declared per year."
+    },
+    {
+     "title": "OpenFEMA Disaster Declarations Summaries",
+     "publisher": "FEMA",
+     "url": "https://www.fema.gov/about/openfema/disaster-declarations-summaries",
+     "date": "2026-10-18",
+     "quote": "declaredCountyArea: The name or phrase describing the U.S. county that was included in the declaration. (page undated, accessed 2026-10-18) iaProgramDeclared: Denotes whether the Individual Assistance program was declared for this disaster."
+    },
+    {
+     "title": "How do I know if my area is eligible for assistance?",
+     "publisher": "FEMA",
+     "url": "https://fema.gov/node/how-do-i-know-if-my-area-eligible-assistance",
+     "date": "2026-10-18",
+     "quote": "The disaster declaration designates which areas are eligible to receive Federal assistance. Find your county/parish under declared counties. (page undated, accessed 2026-10-18)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "8 more than average (graphic bar scale only)",
+     "calc": "133 - 125 = 8; bar width = 560/133 per disaster"
+    },
+    {
+     "figure": "2021 to 2025",
+     "calc": "USAFacts states the 125 average covers 2021 to 2025 (first fetch: 125 disasters declared yearly on average (2021-2025))"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-25T13:47:00-04:00",
+   "topic": "title-lender-vs-owner-policy",
+   "kind": "evergreen",
+   "text": "Who does a title policy actually protect?\n\nA deal can carry two. An owner's policy protects the owner's property rights for as long as the owner owns the property. A lender's policy protects only the lender's financial interests, and it ends when the mortgage is paid off.\n\nEach one covers a different party, so a borrower's owner's policy is a separate product from the lender's own coverage.\n\nLenders can confirm the title commitment includes a lender's policy before closing.\n\nvaultedonline.com",
+   "alt": "Two bars compare title policies. Lender's policy: protects only the lender, ends when the mortgage is paid off. Owner's policy: protects the owner's property rights, lasts as long as the owner owns the property. Takeaway: each covers a different party.",
+   "image": "images/2026-10-25/1347-fb-title-lender-vs-owner-policy.png",
+   "sources": [
+    {
+     "title": "FAQs of Title Insurance for Homeowners",
+     "publisher": "American Land Title Association (ALTA)",
+     "url": "https://www.alta.org/business-operations/marketing/unbranded/faqs-of-title-insurance-for-homeowners-usa.pdf",
+     "date": "2026-10-18",
+     "quote": "A lender\u2019s policy is usually required by the lender and protects only the lender\u2019s financial interests. An owner\u2019s policy protects your property rights for as long as you own the home. (page undated, accessed 2026-10-18)"
+    },
+    {
+     "title": "Title insurance consumer brochure (MIA-HE-1)",
+     "publisher": "Maryland Insurance Administration",
+     "url": "https://insurance.maryland.gov/consumer/documents/publications/titleinsurancebrochure.pdf",
+     "date": "2026-10-18",
+     "quote": "A lender's policy only protects the lender if a title or ownership problem comes up after the property is purchased. Unlike an owner's policy, the lender's policy ends when you pay off your mortgage. (page undated, accessed 2026-10-18)"
+    }
+   ],
+   "derived": [],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-25T17:27:00-04:00",
+   "topic": "late-fees-grace",
+   "kind": "evergreen",
+   "text": "A 5 percent late fee sounds routine. In Arizona in 2017, the state supreme court held that 5 percent of a final balloon payment, nearly $1.4 million, was an unenforceable penalty.\n\nThe case involved a commercial loan. The court asked whether the fee was reasonable in light of the anticipated or actual loss caused by the late payment.\n\nTakeaway: a late fee in the note can still be tested in court. Lenders can read their own late fee clause with that test in mind. Results vary by state and by the facts.\n\nvaultedonline.com",
+   "alt": "Graphic with two cards. The test: was the fee reasonable in light of the anticipated or actual loss caused by late payment. Arizona, 2017: a 5 percent fee on a final balloon payment, nearly $1.4 million, held an unenforceable penalty.",
+   "image": "images/2026-10-25/1727-fb-late-fees-grace.png",
+   "sources": [
+    {
+     "title": "Appellate Division Decision Calls Into Question Late Charges and Default Interest Rates",
+     "publisher": "Riker Danzig LLP",
+     "url": "https://riker.com/publications/appellate-division-decision-calls-into-question-late-charges-and-default-interest-rates",
+     "date": "2016-10-30",
+     "quote": "...a late fee of 5% of the payment due would be imposed if any scheduled payment was not paid within ten days of its due date. (Decision: MetLife Capital Financial Corp. v. Washington Avenue Associates, Appellate Division, June 23, 1998.) Liquidated damages must be only in an amount which is reasonable in light of the anticipated or actual harm caused by the breach."
+    },
+    {
+     "title": "Dobson Bay Club II DD, LLC v. La Sonrisa de Siena, LLC (Arizona Supreme Court, No. CV-16-0029-PR)",
+     "publisher": "FindLaw (Arizona Supreme Court opinion)",
+     "url": "https://caselaw.findlaw.com/court/az-supreme-court/1857813.html",
+     "date": "2017-04-25",
+     "quote": "a nearly $1.4 million late fee assessed on a final loan balloon payment ... constitutes an unenforceable penalty ... reasonable in the light of the anticipated or actual loss caused by the breach"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "1998 / 2017",
+     "calc": "decision dates from the sources: June 23, 1998 (Riker) and April 25, 2017 (FindLaw), not computed"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  }
+ ]
 }
