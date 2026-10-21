@@ -83,7 +83,7 @@
      "publisher": "Rocket Mortgage",
      "url": "https://www.rocketmortgage.com/learn/first-lien-vs-second-lien",
      "date": "2026-09-26",
-     "quote": "the first lienholder will be paid in full, and the second lienholder will be paid from what\u2019s left over."
+     "quote": "the first lienholder will be paid in full, and the second lienholder will be paid from what’s left over."
     },
     {
      "title": "What Is Lien Priority?",
@@ -148,14 +148,14 @@
      "publisher": "Texas Appraiser Licensing and Certification Board",
      "url": "https://www.talcb.texas.gov/public/news-articles/appraisal-evaluation-brokers-price-opinion-what%E2%80%99s-difference",
      "date": "2021-12-29",
-     "quote": "A broker\u2019s price opinion is not an opinion of market value. They can be provided by a licensed broker or sales agent. They can only be completed by a licensed or certified appraiser. In addition, appraisal reports must comply with the Uniform Standards of Professional Appraisal Practice (USPAP). At the outset of a real estate transaction, sellers want to be able to quickly establish a listing price for their property."
+     "quote": "A broker’s price opinion is not an opinion of market value. They can be provided by a licensed broker or sales agent. They can only be completed by a licensed or certified appraiser. In addition, appraisal reports must comply with the Uniform Standards of Professional Appraisal Practice (USPAP). At the outset of a real estate transaction, sellers want to be able to quickly establish a listing price for their property."
     },
     {
      "title": "What Is a Broker Price Opinion?",
      "publisher": "Quicken Loans",
      "url": "https://www.quickenloans.com/learn/broker-price-opinion",
      "date": "2023-10-25",
-     "quote": "A BPO is a real estate professional\u2019s opinion of what a home will sell for."
+     "quote": "A BPO is a real estate professional’s opinion of what a home will sell for."
     },
     {
      "title": "For What It's Worth",
@@ -367,7 +367,7 @@
      "publisher": "LBC Capital",
      "url": "https://lbccapital.com/what-is-a-promissory-note-the-core-document-behind-every-private-real-estate-loan/",
      "date": "2026-10-15",
-     "quote": "The note is the borrower\u2019s unconditional promise to repay \u2014 it creates the personal obligation. The deed of trust is the security instrument: it pledges specific real property as collateral for that same obligation."
+     "quote": "The note is the borrower’s unconditional promise to repay — it creates the personal obligation. The deed of trust is the security instrument: it pledges specific real property as collateral for that same obligation."
     },
     {
      "title": "What's the Difference Between a Mortgage and a Deed of Trust?",
@@ -868,7 +868,7 @@
      "publisher": "Kiavi",
      "url": "https://www.kiavi.com/blog/dscr-loan-for-brrrr-how-the-refinance-step-works",
      "date": "2026-05-11",
-     "quote": "The cash-out amount is typically based on a percentage of the appraised value\u2014typically in the 70-75% range."
+     "quote": "The cash-out amount is typically based on a percentage of the appraised value—typically in the 70-75% range."
     },
     {
      "title": "DSCR Loan for BRRRR: How the Refinance Step Works",
@@ -938,8 +938,8 @@
      "calc": "182000-178000 = 4000 (graphic)"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad8b4b20811076dd03a789e"
   },
   {
    "channel": "li",
@@ -962,7 +962,7 @@
      "publisher": "Paul Hastings",
      "url": "https://www.paulhastings.com/insights/client-alerts/the-california-financing-law-commercial-and-consumer-lenders-beware",
      "date": "2025-08-05",
-     "quote": "First, any lender making one commercial loan in a 12-month period is not required to be licensed (Cal Fin. Code \u00a7 22050.5)."
+     "quote": "First, any lender making one commercial loan in a 12-month period is not required to be licensed (Cal Fin. Code § 22050.5)."
     },
     {
      "title": "Mortgage Lender and Branches",
@@ -1039,8 +1039,8 @@
      "calc": "license, insurance, W-9, references, lien waivers = len(5) items in the checklist (editorial count)"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad8b4b588865f7e6d2f5455"
   },
   {
    "channel": "fb",
@@ -1056,7 +1056,7 @@
      "publisher": "Mortgage Bankers Association",
      "url": "https://www.mba.org/docs/default-source/research-and-forecasts/faqs/res_sf_nds_faq.pdf?sfvrsn=b99dd429_1",
      "date": "2026-10-18",
-     "quote": "Delinquencies are reported as total delinquencies and in 30\u201359, 60\u201389 and 90+ day buckets, exclusive of loans in the foreclosure process. The length of the delinquency is determined by the number of missed payments. Foreclosures are reported as \"foreclosure starts\" and \"foreclosure inventory.\" (page undated, accessed 2026-10-18)"
+     "quote": "Delinquencies are reported as total delinquencies and in 30–59, 60–89 and 90+ day buckets, exclusive of loans in the foreclosure process. The length of the delinquency is determined by the number of missed payments. Foreclosures are reported as \"foreclosure starts\" and \"foreclosure inventory.\" (page undated, accessed 2026-10-18)"
     },
     {
      "title": "MBA Chart of the Week Aug. 14: Delinquency Rates by Credit Type",
@@ -1069,15 +1069,15 @@
    "derived": [
     {
      "figure": "30 to 59, 60 to 89, 90+",
-     "calc": "bucket labels from MBA FAQ (30\u201359, 60\u201389, 90+); en dash written as 'to'"
+     "calc": "bucket labels from MBA FAQ (30–59, 60–89, 90+); en dash written as 'to'"
     },
     {
      "figure": "30, 60, 90",
      "calc": "hook uses the bucket thresholds 30, 60, 90; no computation"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ad8b4b7820ac627994fb412"
   },
   {
    "channel": "fb",
@@ -1239,7 +1239,7 @@
      "publisher": "American Land Title Association (ALTA)",
      "url": "https://www.alta.org/business-operations/marketing/unbranded/faqs-of-title-insurance-for-homeowners-usa.pdf",
      "date": "2026-10-18",
-     "quote": "A lender\u2019s policy is usually required by the lender and protects only the lender\u2019s financial interests. An owner\u2019s policy protects your property rights for as long as you own the home. (page undated, accessed 2026-10-18)"
+     "quote": "A lender’s policy is usually required by the lender and protects only the lender’s financial interests. An owner’s policy protects your property rights for as long as you own the home. (page undated, accessed 2026-10-18)"
     },
     {
      "title": "Title insurance consumer brochure (MIA-HE-1)",
