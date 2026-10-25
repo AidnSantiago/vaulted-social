@@ -1309,6 +1309,486 @@
     "https://riker.com/publications/appellate-division-decision-calls-into-question-late-charges-and-default-interest-rates",
     "https://caselaw.findlaw.com/court/az-supreme-court/1857813.html"
    ]
+  },
+  {
+   "key": "realtor-com-inventory-oct-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-26",
+   "title": "About 1 in 5 U.S. listings had a price cut in September. Realtor.com reports 20.8 percent of active listings had a reduction, up 0.9 points ",
+   "figures": [
+    "$11,400",
+    "$273,600,",
+    "$285,000",
+    "20.8 percent",
+    "4 percent",
+    "5.4 percent"
+   ],
+   "sources": [
+    "https://www.webull.com/news/15666738824823808",
+    "https://www.rismedia.com/2026/10/07/price-cuts-reach-september-record-inventory-nears-pre-pandemic-levels/"
+   ]
+  },
+  {
+   "key": "sloos-cre-standards-2026",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-26",
+   "title": "What are banks reporting on commercial real estate loans? The Federal Reserve July 2026 loan officer survey covers the second quarter, and t",
+   "figures": [
+    "1.9 percent",
+    "13.2 percent",
+    "15.1 percent",
+    "25.9 percent",
+    "9.4 percent"
+   ],
+   "sources": [
+    "https://www.federalreserve.gov/data/sloos/sloos-202607-table-1.htm",
+    "https://www.federalreserve.gov/data/sloos/sloos-202607.htm"
+   ]
+  },
+  {
+   "key": "effective-apr-short-loan",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-26",
+   "title": "A lender quotes 11 percent. On this loan, the real cost is higher.",
+   "figures": [
+    "$1,375",
+    "$12,000,",
+    "$150,000",
+    "$3,750.",
+    "$8,250.",
+    "11 percent",
+    "16 percent",
+    "5 percent",
+    "8 percent"
+   ],
+   "sources": [
+    "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-loan-interest-rate-and-the-apr-en-733/",
+    "https://www.realestateskills.com/blog/hard-money-loan",
+    "https://www.herringbank.com/learn/hard-money-loans/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1026/22/"
+   ]
+  },
+  {
+   "key": "hard-vs-private-money",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-26",
+   "title": "Is hard money the same as private money? Sources disagree.",
+   "figures": [],
+   "sources": [
+    "https://www.scotsmanguide.com/commercial/discern-all-the-flavors-of-private-lending/",
+    "https://www.creuniversity.com/articles/the-difference-between-hard-money-private-money",
+    "https://www.biggerpockets.com/member-blogs/6319/blog_posts/106900-hard-money-vs-private-money-are-they-really-different"
+   ]
+  },
+  {
+   "key": "home-price-index-oct-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-27",
+   "title": "U.S. house prices rose 2.6 percent from July 2025 to July 2026, per FHFA. Case-Shiller National showed 1.9 percent. Both are July data, rele",
+   "figures": [
+    "$10,200.",
+    "$340,000",
+    "$4,420.",
+    "$5,780",
+    "0.6 percent",
+    "1.9 percent",
+    "2.6 percent",
+    "6 percent",
+    "6.3 percent"
+   ],
+   "sources": [
+    "https://www.fhfa.gov/document/d/hpi/fhfa-hpi-monthly-september-2026",
+    "https://www.fhfa.gov/document/d/hpi/fhfa-hpi-monthly-september-2026",
+    "https://www.spglobal.com/spdji/en/index-announcements/article/sp-cotality-case-shiller-index-reports-annual-gain-in-july-2026/"
+   ]
+  },
+  {
+   "key": "rental-vacancy-census",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-27",
+   "title": "The Census Bureau put the U.S. rental vacancy rate at 7.3 percent in the second quarter of 2026, against 7.0 percent a year earlier. Census ",
+   "figures": [
+    "$100",
+    "$92.70,",
+    "$95.00.",
+    "10 percent",
+    "2.4 percent",
+    "5 percent",
+    "7.0 percent",
+    "7.3 percent"
+   ],
+   "sources": [
+    "https://www.census.gov/housing/hvs/files/currenthvspress.pdf",
+    "https://www.census.gov/housing/hvs/files/currenthvspress.pdf",
+    "https://fred.stlouisfed.org/series/rrvrusq156n",
+    "https://www.scotsmanguide.com/commercial/not-an-exact-science/"
+   ]
+  },
+  {
+   "key": "recording-taxes",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-27",
+   "title": "Does your state tax the loan itself?",
+   "figures": [
+    "$0.35",
+    "$1,400.",
+    "$100",
+    "$2,200.",
+    "$4,000",
+    "$400,000",
+    "$800."
+   ],
+   "sources": [
+    "https://floridarevenue.com/taxes/tips/Documents/TIP_24B04-01.pdf",
+    "https://www.flsenate.gov/Laws/Statutes/2025/Chapter199/All",
+    "https://tax.ny.gov/pit/mortgage/mtgidx.htm",
+    "https://smartasset.com:443/mortgage/mortgage-taxes"
+   ]
+  },
+  {
+   "key": "draw-fraud-red-flags",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-27",
+   "title": "Three draw request red flags a lender can check before paying.",
+   "figures": [],
+   "sources": [
+    "https://www.trinityonline.com/blog/fraud",
+    "https://www.corpay.com/en-CHI/resources/blog/construction-payment-fraud",
+    "https://colemanreport.com/fraud-friday-9-fake-lien-waivers-zero-work-muncie-contractor-indicted-on-188000-construction-loan-draw-fraud/"
+   ]
+  },
+  {
+   "key": "census-new-residential-sept-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-28",
+   "title": "Single-family housing starts were at a seasonally adjusted annual rate of 859,000 in September, the Census Bureau and HUD reported on Octobe",
+   "figures": [
+    "10.0%",
+    "4.0%",
+    "4.6%"
+   ],
+   "sources": [
+    "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+    "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+    "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+    "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf"
+   ]
+  },
+  {
+   "key": "lender-breakeven-sale-price",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-28",
+   "title": "A $180,000 loan at 12 percent defaults after 9 months. What sale price gets the lender whole?",
+   "figures": [
+    "$16,200.",
+    "$180,000",
+    "$184,000",
+    "$200,000",
+    "$205,200",
+    "$205,200.",
+    "$21,200",
+    "$223,044,",
+    "$9,000",
+    "10 percent"
+   ],
+   "sources": [
+    "https://www.nerdwallet.com/mortgages/learn/closing-costs-home-seller",
+    "https://www.zillow.com/learn/closing-costs-for-sellers/"
+   ]
+  },
+  {
+   "key": "ofac-screening",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-28",
+   "title": "Your borrower LLC is not on any sanctions list. Is it clear to lend? Not always.",
+   "figures": [
+    "25 percent",
+    "50 percent"
+   ],
+   "sources": [
+    "https://ofac.treasury.gov/faqs/18",
+    "https://ofac.treasury.gov/faqs/topic/1521",
+    "https://ofac.treasury.gov/faqs/91",
+    "https://ofac.treasury.gov/media/912981/download"
+   ]
+  },
+  {
+   "key": "subordination-basics",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-28",
+   "title": "A borrower wants to refinance, but a second lender already holds a lien on the property. Now what?",
+   "figures": [],
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/what-subordination-agreement.html",
+    "https://barneswalker.com/legal-glossary/s/subordination-agreement/"
+   ]
+  },
+  {
+   "key": "beige-book-real-estate-oct-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-29",
+   "title": "Two Federal Reserve districts, same Beige Book, different home sales readings.",
+   "figures": [],
+   "sources": [
+    "https://www.federalreserve.gov/monetarypolicy/beigebook202610-boston.htm",
+    "https://www.federalreserve.gov/monetarypolicy/beigebook202610-atlanta.htm",
+    "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm"
+   ]
+  },
+  {
+   "key": "cost-of-capital-spread",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-29",
+   "title": "A fund raises $5,000,000 at a 7 percent cost and lends it all at an 11.5 percent yield. What is left?",
+   "figures": [
+    "$175,000.",
+    "$225,000",
+    "$350,000",
+    "$5,000,000",
+    "$5,000,000,",
+    "$575,000",
+    "11.5 percent",
+    "22 percent",
+    "4.5 percent",
+    "7 percent"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Net_interest_spread",
+    "https://umbrex.com/resources/industry-analyses/how-to-analyze-a-commercial-bank/net-interest-margin-and-spread-analysis/"
+   ]
+  },
+  {
+   "key": "servicing-in-house-or-third-party",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-29",
+   "title": "Moving loan servicing out of the house does not move every responsibility with it.",
+   "figures": [],
+   "sources": [
+    "https://myhome.freddiemac.com/blog/homeownership/mortgage-servicers-who-are-they-and-how-they-can-help",
+    "https://www.federalreserve.gov/frrs/guidance/interagency-guidance-on-third-party-relationships.htm"
+   ]
+  },
+  {
+   "key": "assignment-of-rents",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-29",
+   "title": "A borrower defaults on a rental loan. Tenants still pay the borrower. Can the lender collect that rent instead?",
+   "figures": [],
+   "sources": [
+    "https://www.cummings.law/understanding-the-rents-issues-and-profits-clause-in-mortgage-lending/",
+    "https://finance.yahoo.com/news/assignment-leases-rents-absolutely-collateral-053703329.html"
+   ]
+  },
+  {
+   "key": "monthly-market-data-oct-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-30",
+   "title": "Homes took a median of 29 days to go pending in September, Zillow reports. That is two days longer than a year earlier.",
+   "figures": [
+    "$181.",
+    "$2,622",
+    "$330,000",
+    "$90.41",
+    "10%",
+    "8.5%"
+   ],
+   "sources": [
+    "https://www.zillow.com/research/september-2026-market-report/",
+    "https://www.zillow.com/research/september-2026-market-report/",
+    "https://zillow.mediaroom.com/2026-10-06-Zillows-September-Market-Report-shows-an-early-winter-in-the-housing-market-as-newly-pending-sales-fall-8-5"
+   ]
+  },
+  {
+   "key": "percent-vs-milestone-draws",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-30",
+   "title": "Same $120,000 rehab budget, two ways to release it.",
+   "figures": [
+    "$120,000",
+    "$30,000",
+    "$60,000",
+    "50 percent"
+   ],
+   "sources": [
+    "https://yieldi.com/draw-schedule-construction-lending/",
+    "https://yieldi.com/draw-schedule-construction-lending/",
+    "https://blog.clioncapital.com/construction-loan-draw-schedule-explained",
+    "https://yieldstack.ai/blog/construction-draw-schedules-guide"
+   ]
+  },
+  {
+   "key": "rtl-securitization",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-10-30",
+   "title": "How big is the residential transition loan securitization market? KBRA projects about $4.8 billion of issuance for 2026, down about 12 perce",
+   "figures": [
+    "$3.5 billion",
+    "$4.8 billion",
+    "$5.5 billion",
+    "$6.2 billion",
+    "12 percent",
+    "73 percent"
+   ],
+   "sources": [
+    "https://www.kbra.com/publications/CfwBDnbf/kbra-releases-research-laying-the-foundation-the-evolution-of-rtl-lending?format=web",
+    "https://nationalmortgageprofessional.com/news/rated-deals-gain-ground-rtl-securitization-market"
+   ]
+  },
+  {
+   "key": "final-draw-conditions",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-30",
+   "title": "What does a final draw wait on? Two lender guides name overlapping items.",
+   "figures": [],
+   "sources": [
+    "https://www.lendmire.com/adu-builders-draw-funds-on-a-hard-money/",
+    "https://terrapincg.com/news/commercial-construction-loan-draw-schedule-2026"
+   ]
+  },
+  {
+   "key": "ny-fed-hhdc",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-31",
+   "title": "How many mortgages are slipping 90 days late? The New York Fed's Q2 2026 household debt report, released August 11, 2026, has a number worth",
+   "figures": [
+    "$505 billion",
+    "1.29 percent",
+    "1.52 percent",
+    "18 percent"
+   ],
+   "sources": [
+    "https://www.newyorkfed.org/newsevents/news/research/2026/20260811",
+    "https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2026q2.pdf"
+   ]
+  },
+  {
+   "key": "protective-advances-ltv",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-31",
+   "title": "A borrower stops paying the property tax bill, and the lender pays it. What happens to the loan?",
+   "figures": [
+    "$250,000",
+    "$256,500,",
+    "$350,000",
+    "$6,500",
+    "71.4 percent",
+    "73.3 percent"
+   ],
+   "sources": [
+    "https://legalclarity.org/protective-advances-definition-rules-and-borrower-rights/",
+    "https://dictionary.contracts.justia.com/protective-advances"
+   ]
+  },
+  {
+   "key": "judicial-vs-nonjudicial",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-10-31",
+   "title": "Two loans default on the same day, in two different states. One lender must file a lawsuit. The other may not need a court at all.",
+   "figures": [],
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/the-difference-between-a-judicial-and-nonjudicial-foreclosure.html",
+    "https://www.law.cornell.edu/wex/non-judicial_foreclosure"
+   ]
+  },
+  {
+   "key": "loan-file-contents",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-01",
+   "title": "What should be in a private loan file on closing day, and on payoff day?",
+   "figures": [],
+   "sources": [
+    "https://fortralaw.com/the-essential-loan-documents-checklist-for-lenders/",
+    "https://superiorloanservicing.com/wp-content/uploads/2022/03/New-Loan-Boarding-Document-Checklist_2022.pdf",
+    "https://www.fdic.gov/bank-failures/obtaining-lien-release",
+    "https://www.consumerfinance.gov/ask-cfpb/after-i-have-paid-off-my-mortgage-how-do-i-check-if-my-lien-was-released-en-206/"
+   ]
+  },
+  {
+   "key": "flip-vs-hold-exit",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-01",
+   "title": "Illustrative: one $210,000 loan. Two exits. Two different ways the lender gets repaid.",
+   "figures": [
+    "$18,000,",
+    "$2,050",
+    "$2,400",
+    "$2,600",
+    "$210,000",
+    "$282,000.",
+    "$300,000",
+    "$72,000",
+    "6 percent"
+   ],
+   "sources": [
+    "https://www.lendmire.com/hard-money-loan-exit-strategy-for-real-estate-investors/",
+    "https://www.northcoastfinancialinc.com/5-hard-money-loan-exit-strategies/",
+    "https://www.ridgestreetcap.com/blog/fix-to-rent-loans",
+    "https://www.lendmire.com/hard-money-loan-exit-strategy-for-real-estate-investors/"
+   ]
+  },
+  {
+   "key": "deed-in-lieu",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-01",
+   "title": "A borrower in default offers to hand over the property instead of facing foreclosure. That is a deed in lieu of foreclosure: the borrower co",
+   "figures": [],
+   "sources": [
+    "https://www.pillsburylaw.com/en/news-and-insights/deeds-in-lieu-of-foreclosure-covid-19.html",
+    "https://www.atgf.com/tools-publications/pubs/deeds-lieu-foreclosure-advantages-disadvantages-and-drafting",
+    "https://lonestarlandlaw.com/deeds-in-lieu-of-foreclosure/"
+   ]
   }
  ]
 }
