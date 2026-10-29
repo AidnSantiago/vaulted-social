@@ -1167,8 +1167,8 @@
         }
       ],
       "derived": [],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6ae34327650dab96a3729ffc"
     },
     {
       "channel": "fb",
@@ -1214,8 +1214,8 @@
           "calc": "post and graphic contain no numbers other than dates in the footnote"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6ae3432a1d52e172a105da4f"
     },
     {
       "channel": "fb",
@@ -1285,8 +1285,8 @@
           "calc": "coverage of 1.0 means rent equals payment; 2400/2400 = 1.0 (floor cited by Ridge Street; varies by lender)"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6ae3432df67cfc9914efd1e1"
     },
     {
       "channel": "fb",
