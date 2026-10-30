@@ -1,1327 +1,1327 @@
 {
-  "week_start": "2026-10-26",
-  "posts": [
+ "week_start": "2026-10-26",
+ "posts": [
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-26T08:42:00-04:00",
+   "topic": "realtor-com-inventory-oct-2026",
+   "kind": "data",
+   "text": "About 1 in 5 U.S. listings had a price cut in September. Realtor.com reports 20.8 percent of active listings had a reduction, up 0.9 points from a year earlier, while active inventory grew 5.4 percent to over 1,161,000 homes.\n\nIllustrative: a $285,000 listing cut 4 percent sells for $273,600, which is $11,400 less than asked.\n\nIf a borrower's exit plan assumes the full list price, a lender can ask what payoff looks like at a lower sale price.\n\nList price is an asking number, not a sale price.\n\nvaultedonline.com",
+   "alt": "Graphic with Realtor.com September 2026 data: 20.8 percent of active listings had a price reduction, up 0.9 points from a year earlier, and active inventory grew 5.4 percent to over 1,161,000 homes. An illustrative $285,000 listing cut 4 percent sells for $273,600.",
+   "image": "images/2026-10-26/0842-fb-realtor-inventory-price-cuts.png",
+   "sources": [
     {
-      "channel": "fb",
-      "slot_local": "2026-10-26T08:42:00-04:00",
-      "topic": "realtor-com-inventory-oct-2026",
-      "kind": "data",
-      "text": "About 1 in 5 U.S. listings had a price cut in September. Realtor.com reports 20.8 percent of active listings had a reduction, up 0.9 points from a year earlier, while active inventory grew 5.4 percent to over 1,161,000 homes.\n\nIllustrative: a $285,000 listing cut 4 percent sells for $273,600, which is $11,400 less than asked.\n\nIf a borrower's exit plan assumes the full list price, a lender can ask what payoff looks like at a lower sale price.\n\nList price is an asking number, not a sale price.\n\nvaultedonline.com",
-      "alt": "Graphic with Realtor.com September 2026 data: 20.8 percent of active listings had a price reduction, up 0.9 points from a year earlier, and active inventory grew 5.4 percent to over 1,161,000 homes. An illustrative $285,000 listing cut 4 percent sells for $273,600.",
-      "image": "images/2026-10-26/0842-fb-realtor-inventory-price-cuts.png",
-      "sources": [
-        {
-          "title": "Price Cuts Reach Yearly High as Inventory Nears Pre-Pandemic Levels: Realtor.com September Housing Report",
-          "publisher": "Realtor.com via PR Newswire (Webull copy)",
-          "url": "https://www.webull.com/news/15666738824823808",
-          "date": "2026-09-30",
-          "quote": "The share of active listings with a price reduction rose to 20.8% in September, up 0.9 percentage points from a year earlier. At the same time, active inventory grew 5.4% year over year to over 1,161,000 homes"
-        },
-        {
-          "title": "Price cuts reach September record, inventory nears pre-pandemic levels",
-          "publisher": "RISMedia",
-          "url": "https://www.rismedia.com/2026/10/07/price-cuts-reach-september-record-inventory-nears-pre-pandemic-levels/",
-          "date": "2026-10-07",
-          "quote": "The share of active listings with a price reduction rose to 20.8% in September, up 0.9 percentage points from a year earlier"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$285,000",
-          "calc": "illustrative list price chosen by author"
-        },
-        {
-          "figure": "4 percent",
-          "calc": "illustrative price cut chosen by author"
-        },
-        {
-          "figure": "$273,600",
-          "calc": "285000*0.96 = 273600.0"
-        },
-        {
-          "figure": "$11,400",
-          "calc": "285000*0.04 = 11400.0"
-        },
-        {
-          "figure": "1 in 5",
-          "calc": "1/0.208 = 4.8, rounded to about 5"
-        },
-        {
-          "figure": "79.2%",
-          "calc": "100-20.8 = 79.2 (graphic)"
-        },
-        {
-          "figure": "1.16M+",
-          "calc": "over 1,161,000 homes (graphic shorthand)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85016887a2efc12a035b"
+     "title": "Price Cuts Reach Yearly High as Inventory Nears Pre-Pandemic Levels: Realtor.com September Housing Report",
+     "publisher": "Realtor.com via PR Newswire (Webull copy)",
+     "url": "https://www.webull.com/news/15666738824823808",
+     "date": "2026-09-30",
+     "quote": "The share of active listings with a price reduction rose to 20.8% in September, up 0.9 percentage points from a year earlier. At the same time, active inventory grew 5.4% year over year to over 1,161,000 homes"
     },
     {
-      "channel": "li",
-      "slot_local": "2026-10-26T11:34:00-04:00",
-      "topic": "sloos-cre-standards-2026",
-      "kind": "data",
-      "text": "What are banks reporting on commercial real estate loans? The Federal Reserve July 2026 loan officer survey covers the second quarter, and the answer depends on the loan type.\n\nNonfarm nonresidential: 13.2 percent of responding banks eased standards and 1.9 percent tightened.\n\nMultifamily: 15.1 percent eased and 9.4 percent tightened.\n\nConstruction and land development: 25.9 percent of responding banks, 14 of 54, reported weaker demand.\n\nStandards and demand differed by loan type, so a lender can compare each deal type against its own pipeline before reading one headline as the whole market.",
-      "alt": "Three cards from the Federal Reserve July 2026 loan officer survey, second quarter. Nonfarm nonresidential standards: 13.2 percent of banks eased, 1.9 percent tightened. Multifamily: 15.1 percent eased, 9.4 percent tightened. Construction and land development demand: 25.9 percent weaker, 14 of 54 banks.",
-      "image": "images/2026-10-26/1134-li-sloos-cre-standards-2026.png",
-      "sources": [
-        {
-          "title": "July 2026 Senior Loan Officer Survey on Bank Lending Practices, Table 1",
-          "publisher": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov/data/sloos/sloos-202607-table-1.htm",
-          "date": "2026-08-03",
-          "quote": "Eased somewhat | 7 | 13.2 | 3 | 15.8 | 4 | 11.8; Tightened somewhat | 1 | 1.9 | 0 | 0.0 | 1 | 2.9 (Question 8, nonfarm nonresidential standards); Eased somewhat | 8 | 15.1 | 4 | 20.0 | 4 | 12.1; Tightened somewhat | 5 | 9.4 | 1 | 5.0 | 4 | 12.1 (Question 9, multifamily standards); Moderately weaker | 14 | 25.9 | 7 | 35.0 | 7 | 20.6 (Question 10, construction and land development demand; total 54 banks)"
-        },
-        {
-          "title": "July 2026 Senior Loan Officer Opinion Survey on Bank Lending Practices",
-          "publisher": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov/data/sloos/sloos-202607.htm",
-          "date": "2026-08-03",
-          "quote": "over the past three months, which generally correspond to the second quarter of 2026."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "14 of 54 = 25.9 percent",
-          "calc": "round(14/54*100,1) = 25.9 (matches Table 1)"
-        },
-        {
-          "figure": "Total 54 banks (Q10)",
-          "calc": "Table 1 Total column for Q10 = 54"
-        },
-        {
-          "figure": "Graphic bar heights",
-          "calc": "height_px = percent * 8.0 (display scale only)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade8526bd33ce99c394cda1"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-26T12:47:00-04:00",
-      "topic": "effective-apr-short-loan",
-      "kind": "evergreen",
-      "text": "A lender quotes 11 percent. On this loan, the real cost is higher.\n\nTake $150,000 at 11 percent interest-only for 6 months, with 2.5 points paid at closing. Interest is $1,375 a month, or $8,250. The points add $3,750. Total cost: $12,000, which is 8 percent of the loan in half a year.\n\nOn a simple annualized basis, that is 16 percent: 11 percent interest plus 5 percent from the points. The CFPB describes APR as the interest rate plus additional fees.\n\nCompare loans by total cost over the expected hold, not by the quoted rate alone.\n\nvaultedonline.com",
-      "alt": "Bar showing the 6-month cost of a $150,000 loan at 11 percent interest-only with 2.5 points: $8,250 interest plus $3,750 points, $12,000 total. Cards show 11 percent quoted rate, plus 5 percent points annualized, 16 percent annualized cost.",
-      "image": "images/2026-10-26/1247-fb-effective-apr-short-loan.png",
-      "sources": [
-        {
-          "title": "What is the difference between a loan interest rate and the APR?",
-          "publisher": "CFPB (Ask CFPB)",
-          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-loan-interest-rate-and-the-apr-en-733/",
-          "date": "2026-08-28",
-          "quote": "The APR is the interest rate plus any additional fees charged by the lender."
-        },
-        {
-          "title": "Hard Money Loans: Rates, Terms & Real Costs",
-          "publisher": "Real Estate Skills",
-          "url": "https://www.realestateskills.com/blog/hard-money-loan",
-          "date": "2025-10-28",
-          "quote": "1\u20135 points (1 point = 1% of loan amount) plus origination & closing fees"
-        },
-        {
-          "title": "Hard Money Loans: How They Work and When to Use Them",
-          "publisher": "Herring Bank",
-          "url": "https://www.herringbank.com/learn/hard-money-loans/",
-          "date": "2025-05-01",
-          "quote": "On a 6-month hold, 3 points = 6% annualized cost from points alone, added to the interest rate."
-        },
-        {
-          "title": "12 CFR 1026.22 Determination of annual percentage rate",
-          "publisher": "CFPB (Regulation Z)",
-          "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/22/",
-          "date": "2026-10-25",
-          "quote": "The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate, that relates the amount and timing of value received by the consumer to the amount and timing of payments made. (page undated, accessed 2026-10-25)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$150,000, 11 percent, 2.5 points, 6 months",
-          "calc": "illustrative inputs chosen by author"
-        },
-        {
-          "figure": "$1,375",
-          "calc": "150000*0.11/12 = 1375.0"
-        },
-        {
-          "figure": "$8,250",
-          "calc": "1375*6 = 8250"
-        },
-        {
-          "figure": "$3,750",
-          "calc": "150000*2.5/100 = 3750.0"
-        },
-        {
-          "figure": "$12,000",
-          "calc": "8250+3750 = 12000"
-        },
-        {
-          "figure": "8 percent",
-          "calc": "12000/150000 = 0.08"
-        },
-        {
-          "figure": "16 percent",
-          "calc": "0.08*(12/6) = 0.16 (simple annualization)"
-        },
-        {
-          "figure": "5 percent",
-          "calc": "2.5*(12/6) = 5.0"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade8501e4be8a4d86cd7478"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-26T17:27:00-04:00",
-      "topic": "hard-vs-private-money",
-      "kind": "evergreen",
-      "text": "Is hard money the same as private money? Sources disagree.\n\nScotsman Guide says the terms are often used interchangeably, yet calls hard money a subset of private lending: real estate-backed, short-term loans. CRE University, in 2009, called hard money lenders organized and usually licensed. A lender blog on BiggerPockets calls the terms completely interchangeable.\n\nIn 2022, AAPL and NPLA urged members to stop using \"hard money\" on their websites.\n\nTakeaway: a label may not tell you the terms. Ask who funds the loan and what it costs.\n\nvaultedonline.com",
-      "alt": "Three comparison cards on how sources define hard money and private money: Scotsman Guide 2024 calls hard money a subset of private lending, CRE University 2009 calls hard money lenders organized and usually licensed, and a BiggerPockets lender blog calls the terms completely interchangeable.",
-      "image": "images/2026-10-26/1727-fb-hard-vs-private-money.png",
-      "sources": [
-        {
-          "title": "Discern all the flavors of private lending",
-          "publisher": "Scotsman Guide",
-          "url": "https://www.scotsmanguide.com/commercial/discern-all-the-flavors-of-private-lending/",
-          "date": "2024-05-01",
-          "quote": "The terms \u201chard money lending\u201d and \u201cprivate lending\u201d are often used interchangeably, creating confusion among borrowers and investors alike. A nuanced understanding reveals that hard money lending is a subset of private lending, emphasizing real estate-backed, short-term loans with higher risk and return profiles. In 2022 AAPL and NPLA passed resolutions that urged members to cease using the term \u2018hard money\u2019 on their websites, marketing materials and communications."
-        },
-        {
-          "title": "The Difference Between Hard Money and Private Money",
-          "publisher": "CRE University",
-          "url": "https://www.creuniversity.com/articles/the-difference-between-hard-money-private-money",
-          "date": "2009-06-30",
-          "quote": "Private lenders are just what their name suggests\u2013private. Hard money lenders are still organized money lenders and are usually in some way licensed to loan money."
-        },
-        {
-          "title": "Hard Money vs Private Money: Are They Really Different",
-          "publisher": "BiggerPockets (member blog)",
-          "url": "https://www.biggerpockets.com/member-blogs/6319/blog_posts/106900-hard-money-vs-private-money-are-they-really-different",
-          "date": "2026-10-25 (accessed; page undated)",
-          "quote": "These are completely interchangeable terms in our industry."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "2022",
-          "calc": "year of AAPL and NPLA resolutions, from Scotsman Guide quote (no calculation)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85026887a2efc12a0385"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-27T09:15:00-04:00",
-      "topic": "home-price-index-oct-2026",
-      "kind": "data",
-      "text": "U.S. house prices rose 2.6 percent from July 2025 to July 2026, per FHFA. Case-Shiller National showed 1.9 percent. Both are July data, released September 29, 2026.\n\nSimple pro-rata, illustrative: say a comp is $340,000 and the hold is 6 months. At a 2.6 percent annual pace, price drift adds about $4,420. An ARV that assumes 6 percent a year adds $10,200. That gap is $5,780 of value that may not show up.\n\nBy FHFA division, the range was 0.6 percent (Mountain) to 6.3 percent (Middle Atlantic).\n\nLenders can check ARV against recent comps, not only a growth rate.\n\nvaultedonline.com",
-      "alt": "Number line of 12-month home price changes to July 2026: FHFA U.S. 2.6 percent, Case-Shiller National 1.9, Mountain division 0.6, Middle Atlantic 6.3. Cards: on a $340,000 comp over 6 months, 2.6 percent pace adds $4,420, an assumed 6 percent adds $10,200, a gap of $5,780.",
-      "image": "images/2026-10-27/0915-fb-home-price-index.png",
-      "sources": [
-        {
-          "title": "FHFA House Price Index Up 0.3 Percent in July; Up 2.6 Percent from Last Year",
-          "publisher": "Federal Housing Finance Agency",
-          "url": "https://www.fhfa.gov/document/d/hpi/fhfa-hpi-monthly-september-2026",
-          "date": "2026-09-29",
-          "quote": "House prices rose 2.6 percent from July 2025 to July 2026."
-        },
-        {
-          "title": "FHFA HPI monthly release, division range",
-          "publisher": "Federal Housing Finance Agency",
-          "url": "https://www.fhfa.gov/document/d/hpi/fhfa-hpi-monthly-september-2026",
-          "date": "2026-09-29",
-          "quote": "The 12-month changes ranged from +0.6 percent in the Mountain division to +6.3 percent in the Middle Atlantic division."
-        },
-        {
-          "title": "S&P Cotality Case-Shiller Index Reports Annual Gain in July 2026",
-          "publisher": "S&P Dow Jones Indices",
-          "url": "https://www.spglobal.com/spdji/en/index-announcements/article/sp-cotality-case-shiller-index-reports-annual-gain-in-july-2026/",
-          "date": "2026-09-29",
-          "quote": "The S&P Cotality Case-Shiller U.S. National Home Price NSA Index posted a 1.9% annual gain for July 2026,"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$340,000",
-          "calc": "illustrative comp value"
-        },
-        {
-          "figure": "6 months",
-          "calc": "illustrative hold"
-        },
-        {
-          "figure": "6 percent",
-          "calc": "illustrative assumed annual growth"
-        },
-        {
-          "figure": "$4,420",
-          "calc": "340000*0.026*0.5 = 4420.0 (simple pro-rata of annual rate)"
-        },
-        {
-          "figure": "$10,200",
-          "calc": "340000*0.06*0.5 = 10200.0"
-        },
-        {
-          "figure": "$5,780",
-          "calc": "10200-4420 = 5780"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade8502bd33ce99c394c495"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-10-27T10:21:00-04:00",
-      "topic": "rental-vacancy-census",
-      "kind": "data",
-      "text": "The Census Bureau put the U.S. rental vacancy rate at 7.3 percent in the second quarter of 2026, against 7.0 percent a year earlier. Census calls that change not statistically different.\n\nWhy it matters for income-based underwriting: a higher assumed vacancy factor lowers net operating income. Per $100 of potential rent, a 5 percent vacancy factor leaves $95.00. At 7.3 percent it leaves $92.70, about 2.4 percent less.\n\nUnderwriters can assume different vacancy rates, 3 to 10 percent by one trade source. A national rate is not a local one.",
-      "alt": "Chart of rent left per $100 of potential rent at 3, 5, 7.3 and 10 percent vacancy: $97.00, $95.00, $92.70 and $90.00. Two cards show the Census rental vacancy rate of 7.3 percent in Q2 2026 and 7.0 percent in Q2 2025. Higher vacancy, lower NOI.",
-      "image": "images/2026-10-27/1021-li-rental-vacancy-census.png",
-      "sources": [
-        {
-          "title": "Quarterly Residential Vacancies and Homeownership, Second Quarter 2026",
-          "publisher": "U.S. Census Bureau",
-          "url": "https://www.census.gov/housing/hvs/files/currenthvspress.pdf",
-          "date": "2026-07-28",
-          "quote": "National vacancy rates in the second quarter 2026 were 7.3 percent for rental housing"
-        },
-        {
-          "title": "Quarterly Residential Vacancies and Homeownership, Second Quarter 2026 (comparison)",
-          "publisher": "U.S. Census Bureau",
-          "url": "https://www.census.gov/housing/hvs/files/currenthvspress.pdf",
-          "date": "2026-07-28",
-          "quote": "The rental vacancy rate was not statistically different from the rate in the second quarter 2025 (7.0 percent)"
-        },
-        {
-          "title": "Rental Vacancy Rate in the United States (RRVRUSQ156N)",
-          "publisher": "FRED, Federal Reserve Bank of St. Louis",
-          "url": "https://fred.stlouisfed.org/series/rrvrusq156n",
-          "date": "2026-07-28",
-          "quote": "Q2 2026: 7.3 (Q2 2025: 7.0)"
-        },
-        {
-          "title": "Not An Exact Science",
-          "publisher": "Scotsman Guide",
-          "url": "https://www.scotsmanguide.com/commercial/not-an-exact-science/",
-          "date": "2019-11-15",
-          "quote": "The higher the assumed vacancy factor, the lower the net operating income."
-        },
-        {
-          "title": "Not An Exact Science (range)",
-          "publisher": "Scotsman Guide",
-          "url": "https://www.scotsmanguide.com/commercial/not-an-exact-science/",
-          "date": "2019-11-15",
-          "quote": "The assumed vacancy rate can be anywhere from 3% to 10%"
-        },
-        {
-          "title": "Not An Exact Science (variation)",
-          "publisher": "Scotsman Guide",
-          "url": "https://www.scotsmanguide.com/commercial/not-an-exact-science/",
-          "date": "2019-11-15",
-          "quote": "First, lenders can assume vastly different vacancy rates for a property."
-        },
-        {
-          "title": "Apartment Building Financing: Calculating NOI",
-          "publisher": "Lument",
-          "url": "https://www.lument.com/apartment-building-financing-calculating-noi-for-more-accurate-underwriting/",
-          "date": "2023-02-23",
-          "quote": "The DSCR calculation is: DSCR = NOI / total debt service."
-        },
-        {
-          "title": "Quarterly release schedule",
-          "publisher": "U.S. Census Bureau",
-          "url": "https://www.census.gov/housing/hvs/data/upcoming.html",
-          "date": "2026-10-25",
-          "quote": "October 28, 2026 (Wednesday) (page undated, accessed 2026-10-25)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$100",
-          "calc": "illustrative potential rent"
-        },
-        {
-          "figure": "5 percent vacancy factor",
-          "calc": "illustrative input"
-        },
-        {
-          "figure": "$95.00",
-          "calc": "100 - 5 = 95.00"
-        },
-        {
-          "figure": "$92.70",
-          "calc": "100 - 7.3 = 92.70"
-        },
-        {
-          "figure": "$97.00 / $90.00",
-          "calc": "100 - 3 = 97.00; 100 - 10 = 90.00"
-        },
-        {
-          "figure": "about 2.4 percent less",
-          "calc": "1 - 92.7/95 = 0.0242"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85266887a2efc12a1065"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-27T12:47:00-04:00",
-      "topic": "recording-taxes",
-      "kind": "evergreen",
-      "text": "Does your state tax the loan itself?\n\nSome states charge a tax at recording that is generally based on the loan amount, not the property value.\n\nIllustrative $400,000 loan:\n\nFlorida: note stamps of $0.35 per $100 come to $1,400. The intangible tax of 2 mills adds $800. Total: $2,200.\n\nNew York: mortgage recording taxes of 50, 25 and 25 cents per $100 add up to $4,000 (the last is 30 cents in some counties), before local taxes.\n\nSame loan, very different tax line. Rates and rules vary by state, so lenders can ask title or counsel what applies.\n\nvaultedonline.com",
-      "alt": "Two stacked bar breakdowns for an illustrative $400,000 loan. Florida: $1,400 note stamps plus $800 intangible tax equals $2,200. New York: $2,000, $1,000 and $1,000 mortgage recording tax portions equal $4,000 before any city or county tax.",
-      "image": "images/2026-10-27/1247-fb-recording-taxes.png",
-      "sources": [
-        {
-          "title": "Florida Documentary Stamp Tax is Imposed on Promissory Notes (TIP 24B04-01)",
-          "publisher": "Florida Department of Revenue",
-          "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_24B04-01.pdf",
-          "date": "2024-05-29",
-          "quote": "Section 201.08(1)(a), Florida Statutes (F.S.), provides a documentary stamp tax of $0.35 on each $100, or fraction thereof,"
-        },
-        {
-          "title": "Florida Statutes Chapter 199, s. 199.133 Levy of nonrecurring tax",
-          "publisher": "Florida Senate",
-          "url": "https://www.flsenate.gov/Laws/Statutes/2025/Chapter199/All",
-          "date": "2025-01-01",
-          "quote": "A one-time nonrecurring tax of 2 mills is hereby imposed on each dollar of the just valuation of all notes,"
-        },
-        {
-          "title": "Mortgage recording tax",
-          "publisher": "New York State Department of Taxation and Finance",
-          "url": "https://tax.ny.gov/pit/mortgage/mtgidx.htm",
-          "date": "2025-12-30",
-          "quote": "basic tax of 50 cents per $100 of mortgage debt or obligation secured. special additional tax of 25 cents per $100 of mortgage debt or obligation secured. an additional tax of 25 cents per $100 of the mortgage debt or obligation secured"
-        },
-        {
-          "title": "What Is a Mortgage Recording Tax?",
-          "publisher": "SmartAsset",
-          "url": "https://smartasset.com:443/mortgage/mortgage-taxes",
-          "date": "2022-11-16",
-          "quote": "some state and local governments levy a mortgage recording tax to document the loan transaction."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$400,000",
-          "calc": "illustrative loan amount chosen by author"
-        },
-        {
-          "figure": "$1,400",
-          "calc": "400000/100*0.35 = 1400.0"
-        },
-        {
-          "figure": "$800",
-          "calc": "400000*0.002 = 800.0 (2 mills = $0.002 per dollar)"
-        },
-        {
-          "figure": "$2,200",
-          "calc": "1400+800 = 2200"
-        },
-        {
-          "figure": "$2,000",
-          "calc": "400000/100*0.50 = 2000.0"
-        },
-        {
-          "figure": "$1,000",
-          "calc": "400000/100*0.25 = 1000.0 (each of two 25-cent portions)"
-        },
-        {
-          "figure": "$4,000",
-          "calc": "2000+1000+1000 = 4000"
-        },
-        {
-          "figure": "$0.20",
-          "calc": "0.002*100 = 0.2 per $100 (2 mills)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85038b3d437ddc2ee46b"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-27T17:27:00-04:00",
-      "topic": "draw-fraud-red-flags",
-      "kind": "evergreen",
-      "text": "Three draw request red flags a lender can check before paying.\n\n1. The same invoice in more than one draw. Trinity describes one invoice submitted across multiple draws or projects.\n\n2. An invoice altered to show higher quantities or prices.\n\n3. A sub billing ahead of the work in place. Corpay describes this on progress payments.\n\nOne way to test this is comparing invoices with inspection findings. These tactics exploit gaps between documentation, inspections and draw approvals.\n\nNo single flag proves intent. It is a reason to ask a question.\n\nvaultedonline.com",
-      "alt": "Checklist graphic titled Draw fraud red flags with three flags: the same invoice in more than one draw, an invoice altered to show higher quantities or prices, and billing ahead of the work in place, plus a step to compare invoices with the inspection report.",
-      "image": "images/2026-10-27/1727-fb-draw-fraud-red-flags.png",
-      "sources": [
-        {
-          "title": "Construction Lending Fraud: Key Risks and How Lenders Can Prevent It",
-          "publisher": "Trinity Real Estate Solutions",
-          "url": "https://www.trinityonline.com/blog/fraud",
-          "date": "2026-05-08",
-          "quote": "A supplier invoice is altered to show higher quantities or prices ... the same invoice is submitted across multiple draws or multiple projects. These tactics exploit gaps between documentation, inspections, and draw approvals. None of these indicators alone prove intent."
-        },
-        {
-          "title": "Construction Payment Fraud: Red Flags, Common Schemes, and the Controls That Stop Them",
-          "publisher": "Corpay",
-          "url": "https://www.corpay.com/en-CHI/resources/blog/construction-payment-fraud",
-          "date": "2026-07-01",
-          "quote": "a sub bills ahead of the work in place, banking on the schedule of values being front-loaded. The same invoice arrives twice, once by email and once through a portal."
-        },
-        {
-          "title": "Fraud Friday: 9 Fake Lien Waivers, Zero Work; Muncie Contractor Indicted on $188,000 Construction Loan Draw Fraud",
-          "publisher": "The Coleman Report",
-          "url": "https://colemanreport.com/fraud-friday-9-fake-lien-waivers-zero-work-muncie-contractor-indicted-on-188000-construction-loan-draw-fraud/",
-          "date": "2026-07-17",
-          "quote": "A proper site inspection most likely would have caught the fraud."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "3 red flags",
-          "calc": "count of numbered items in the post: 3"
-        },
-        {
-          "figure": "3 (graphic)",
-          "calc": "same count"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85140b5343d070f584f5"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-28T08:56:00-04:00",
-      "topic": "census-new-residential-sept-2026",
-      "kind": "data",
-      "text": "Single-family housing starts were at a seasonally adjusted annual rate of 859,000 in September, the Census Bureau and HUD reported on October 20, 2026. That is 4.6% below the revised August figure of 900,000. Single-family permits were 845,000, down 4.0% from 880,000.\n\nThe catch: Census puts a margin of error of plus or minus 10.0% on the starts change, a range that includes zero. One month is a data point, not a trend.\n\nRehab and construction lenders can compare permits, starts and completions (840,000) across several releases before drawing conclusions.\n\nvaultedonline.com",
-      "alt": "Bar chart of single-family housing starts, 900,000 in August (revised) and 859,000 in September, and permits, 880,000 and 845,000, with cards for 840,000 completions and a plus or minus 10.0 percent margin on starts.",
-      "image": "images/2026-10-28/0856-fb-census-new-residential-sept.png",
-      "sources": [
-        {
-          "title": "New Residential Construction, September 2026",
-          "publisher": "U.S. Census Bureau and HUD",
-          "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
-          "date": "2026-10-20",
-          "quote": "Privately-owned housing starts in September were at a seasonally adjusted annual rate of 1,221,000."
-        },
-        {
-          "title": "New Residential Construction, September 2026",
-          "publisher": "U.S. Census Bureau and HUD",
-          "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
-          "date": "2026-10-20",
-          "quote": "Single-family housing starts in September were at a rate of 859,000; this is 4.6 percent (\u00b110.0 percent)* below the revised August figure of 900,000."
-        },
-        {
-          "title": "New Residential Construction, September 2026",
-          "publisher": "U.S. Census Bureau and HUD",
-          "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
-          "date": "2026-10-20",
-          "quote": "Single-family authorizations in September were at a rate of 845,000; this is 4.0 percent below the revised August figure of 880,000."
-        },
-        {
-          "title": "New Residential Construction, September 2026",
-          "publisher": "U.S. Census Bureau and HUD",
-          "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
-          "date": "2026-10-20",
-          "quote": "Single-family housing completions in September were at a rate of 840,000"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "4.6%",
-          "calc": "round((1-859/900)*100,1) = 4.6"
-        },
-        {
-          "figure": "4.0%",
-          "calc": "round((1-845/880)*100,1) = 4.0"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85140b5343d070f5854d"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-28T12:47:00-04:00",
-      "topic": "lender-breakeven-sale-price",
-      "kind": "evergreen",
-      "text": "A $180,000 loan at 12 percent defaults after 9 months. What sale price gets the lender whole?\n\nSimple interest is $16,200. Add $9,000 in legal and carrying costs (illustrative) and the lender is owed $205,200.\n\nSelling costs come off the top. One source puts seller closing costs at roughly 6 to 10 percent, used here as a proxy. At 8 percent, each sale dollar nets 92 cents, so breakeven is $205,200 / 0.92 = $223,044, about 124 percent of the loan. A $200,000 sale nets $184,000 and leaves the lender $21,200 short.\n\nLenders can run this math before setting LTV.\n\nvaultedonline.com",
-      "alt": "Bar showing a $223,044 breakeven sale price built from $180,000 principal, $16,200 interest, $9,000 legal and carry, and $17,844 selling costs at 8 percent. Cards: $205,200 owed, 124 percent of the loan, and $21,200 short at a $200,000 sale. Illustrative.",
-      "image": "images/2026-10-28/1247-fb-lender-breakeven-sale-price.png",
-      "sources": [
-        {
-          "title": "What Are the Closing Costs for a Home Seller?",
-          "publisher": "NerdWallet",
-          "url": "https://www.nerdwallet.com/mortgages/learn/closing-costs-home-seller",
-          "date": "2026-07-02",
-          "quote": "Closing costs for a seller can amount to roughly 6% to 10% of the sale price."
-        },
-        {
-          "title": "How Much Are Closing Costs for Sellers?",
-          "publisher": "Zillow",
-          "url": "https://www.zillow.com/learn/closing-costs-for-sellers/",
-          "date": "2025-09-16",
-          "quote": "As the seller expect to pay 8%-10% of the home sale price in closing costs."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$180,000 loan, 12 percent, 9 months, $9,000 legal and carry, 8 percent selling costs",
-          "calc": "illustrative inputs chosen by author"
-        },
-        {
-          "figure": "$16,200",
-          "calc": "180000*0.12*9/12 = 16200.0"
-        },
-        {
-          "figure": "$205,200",
-          "calc": "180000+16200+9000 = 205200"
-        },
-        {
-          "figure": "92 cents",
-          "calc": "1-0.08 = 0.92"
-        },
-        {
-          "figure": "$223,044",
-          "calc": "205200/0.92 = 223043.478, rounded up to the dollar"
-        },
-        {
-          "figure": "124 percent",
-          "calc": "223043.478/180000 = 1.2391 -> 124%"
-        },
-        {
-          "figure": "$184,000",
-          "calc": "200000*0.92 = 184000.0"
-        },
-        {
-          "figure": "$21,200",
-          "calc": "205200-184000 = 21200"
-        },
-        {
-          "figure": "$17,844",
-          "calc": "223044*0.08 = 17843.52 -> 17,844 (graphic)"
-        },
-        {
-          "figure": "$200,000",
-          "calc": "illustrative sale price"
-        },
-        {
-          "figure": "0.92",
-          "calc": "1-0.08 = 0.92 (divisor)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85156887a2efc12a0bd8"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-10-28T17:09:00-04:00",
-      "topic": "ofac-screening",
-      "kind": "evergreen",
-      "text": "Your borrower LLC is not on any sanctions list. Is it clear to lend? Not always.\n\nOFAC, a Treasury office, publishes the SDN List, short for Specially Designated Nationals. Assets of listed persons are blocked, and US persons are generally prohibited from dealing with them.\n\nThe catch: an entity owned 50 percent or more in total by blocked persons is blocked too, even if its own name is not listed. Two blocked owners at 25 percent each count.\n\nOFAC enforces civil penalties on a strict liability basis. Lenders can screen borrowers and their owners before closing.",
-      "alt": "Diagram of OFAC's 50 percent rule example: Blocked Person X owns 25 percent and Blocked Person Y owns another 25 percent of Entity A, so the 50 percent total makes Entity A blocked even if not named on the SDN List. Takeaway: lenders can screen borrowers and their owners.",
-      "image": "images/2026-10-28/1709-li-ofac-screening.png",
-      "sources": [
-        {
-          "title": "18. What is an SDN?",
-          "publisher": "U.S. Treasury, Office of Foreign Assets Control",
-          "url": "https://ofac.treasury.gov/faqs/18",
-          "date": "2002-09-10",
-          "quote": "Specially Designated Nationals or SDNs. Their assets are blocked, and U.S. persons are generally prohibited from dealing with them."
-        },
-        {
-          "title": "399. Aggregating blocked persons ownership (50 Percent Rule)",
-          "publisher": "U.S. Treasury, Office of Foreign Assets Control",
-          "url": "https://ofac.treasury.gov/faqs/topic/1521",
-          "date": "2014-08-13",
-          "quote": "OFAC's 50 Percent Rule applies to entities owned 50 percent or more in the aggregate by one or more blocked persons. If Blocked Person X owns 25 percent of Entity A, and Blocked Person Y owns another 25 percent of Entity A, Entity A is considered to be blocked."
-        },
-        {
-          "title": "91. What lists does OFAC maintain?",
-          "publisher": "U.S. Treasury, Office of Foreign Assets Control",
-          "url": "https://ofac.treasury.gov/faqs/91",
-          "date": "2024-08-21",
-          "quote": "are blocked regardless of whether the entity itself is listed on the SDN List."
-        },
-        {
-          "title": "Updated Advisory on Potential Sanctions Risks for Facilitating Ransomware Payments",
-          "publisher": "U.S. Treasury, Office of Foreign Assets Control",
-          "url": "https://ofac.treasury.gov/media/912981/download",
-          "date": "2021-09-21",
-          "quote": "OFAC may impose civil penalties for sanctions violations based on strict liability, meaning that a person subject to U.S. jurisdiction may be held civilly liable even if such person did not know"
-        },
-        {
-          "title": "Who Must Comply With OFAC Sanctions? Requirements & Checklist",
-          "publisher": "Sanctions Lawyers",
-          "url": "https://sanctionslawyers.net/blog-en/who-must-comply-with-ofac-sanctions/",
-          "date": "2026-10-20",
-          "quote": "OFAC applies strict liability for civil violations: intent is not required"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "50 percent",
-          "calc": "25 + 25 = 50, OFAC FAQ 399 example (owners 25 percent each, not an illustrative input of ours)"
-        },
-        {
-          "figure": "LLC borrower",
-          "calc": "illustrative situation, no numbers"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85276887a2efc12a1092"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-28T17:27:00-04:00",
-      "topic": "subordination-basics",
-      "kind": "evergreen",
-      "text": "A borrower wants to refinance, but a second lender already holds a lien on the property. Now what?\n\nThe new lender may ask that second lender to sign a subordination agreement. One lienholder agrees to lower the priority of its lien so that another lien moves ahead of it.\n\nWhy? If the second lender does not sign, the new lender might not refinance. The cost to the lender stepping back: subordinate liens might not get paid after a foreclosure.\n\nTakeaway: a lender asked to subordinate can first check what sits ahead of it.\n\nvaultedonline.com",
-      "alt": "Before and after lien order. Before: existing first lien is position 1, second lien is position 2. After the subordination agreement: new refinance loan is position 1, second lien is lowered to position 2. Notes: the new lender might not refinance without it; subordinate liens might not get paid after a foreclosure.",
-      "image": "images/2026-10-28/1727-fb-subordination-basics.png",
-      "sources": [
-        {
-          "title": "What a Subordination Agreement Means for Your Mortgage Refinance",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/what-subordination-agreement.html",
-          "date": "2023-11-09",
-          "quote": "A \"subordination agreement\" is a contract to prioritize one debt over another for repayment. ... the new lender might not refinance the first mortgage. ... subordinate (low priority) liens might not get paid after a foreclosure."
-        },
-        {
-          "title": "Subordination Agreement",
-          "publisher": "Barnes Walker",
-          "url": "https://barneswalker.com/legal-glossary/s/subordination-agreement/",
-          "date": "2026-10-25 (accessed; page undated)",
-          "quote": "one lienholder agrees to lower the priority of its lien so that another lien moves ahead of it ... the senior lender is paid first before the subordinate lender receives any proceeds"
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6ade85160b5343d070f585a0"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-29T08:25:00-04:00",
-      "topic": "beige-book-real-estate-oct-2026",
-      "kind": "data",
-      "text": "Two Federal Reserve districts, same Beige Book, different home sales readings.\n\nIn the October 14, 2026 report, Boston says closed residential home sales decreased moderately in August year over year. Atlanta says home sales improved moderately, though many buyers had difficulty qualifying for a mortgage and sellers offered discounts and incentives.\n\nCommercial real estate was roughly stable in Boston and expanded modestly in Atlanta.\n\nTakeaway: one national headline can hide very different local markets. Lenders can check recent local sales before relying on a resale assumption.\n\nvaultedonline.com",
-      "alt": "Two cards compare the Federal Reserve Beige Book of October 14, 2026. Boston: closed home sales decreased moderately in August year over year; commercial real estate roughly stable. Atlanta: home sales improved moderately; commercial real estate expanded modestly.",
-      "image": "images/2026-10-29/0825-fb-beige-book-real-estate.png",
-      "sources": [
-        {
-          "title": "Beige Book October 2026, Boston",
-          "publisher": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-boston.htm",
-          "date": "2026-10-14",
-          "quote": "Closed residential home sales decreased moderately in August on a year-over-year basis on average. Commercial real estate activity was roughly stable on balance."
-        },
-        {
-          "title": "Beige Book October 2026, Atlanta",
-          "publisher": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-atlanta.htm",
-          "date": "2026-10-14",
-          "quote": "Home sales improved moderately across the Sixth District, and contacts noted many buyers had difficulty qualifying for a mortgage. Commercial real estate conditions expanded modestly on balance."
-        },
-        {
-          "title": "Beige Book October 2026, summary",
-          "publisher": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
-          "date": "2026-10-14",
-          "quote": "Boston: Home sales showed new weakness. Atlanta: Residential real estate saw moderate growth."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "October 14, 2026 / October 5, 2026",
-          "calc": "report date and information cutoff from the Fed pages; no arithmetic"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade85163d5b27036bf6428c"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-29T12:47:00-04:00",
-      "topic": "cost-of-capital-spread",
-      "kind": "evergreen",
-      "text": "A fund raises $5,000,000 at a 7 percent cost and lends it all at an 11.5 percent yield. What is left?\n\nThe difference is the spread: 11.5 minus 7 is 4.5 percentage points. On $5,000,000, that is $575,000 of interest earned against $350,000 owed, or $225,000 a year before expenses and losses.\n\nNow the cost of capital rises one point to 8 percent. The spread shrinks to 3.5 points, or $175,000. One point on the cost side removed about 22 percent of the spread income.\n\nLenders can compare the spread, not just the loan rate, when they price new loans.\n\nvaultedonline.com",
-      "alt": "Graphic for an illustrative $5,000,000 fund. Cards show $575,000 interest earned at an 11.5 percent yield, $350,000 owed at a 7 percent cost, and $225,000 of spread. Two bars show the spread falling from 4.5 to 3.5 points when cost rises to 8 percent, a $50,000 drop.",
-      "image": "images/2026-10-29/1247-fb-cost-of-capital-spread.png",
-      "sources": [
-        {
-          "title": "Net interest spread",
-          "publisher": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Net_interest_spread",
-          "date": "2026-10-25 (accessed; page undated)",
-          "quote": "Net interest spread is expressed as interest yield on earning assets (any asset, such as a loan, that generates interest income) minus interest rates paid on borrowed funds."
-        },
-        {
-          "title": "Net Interest Margin and Spread Analysis",
-          "publisher": "Umbrex",
-          "url": "https://umbrex.com/resources/industry-analyses/how-to-analyze-a-commercial-bank/net-interest-margin-and-spread-analysis/",
-          "date": "2026-03-25",
-          "quote": "Interest Spread = (Yield on Interest-Earning Assets) \u2013 (Cost of Interest-Bearing Liabilities)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$5,000,000 fund, 7 percent cost, 8 percent cost, 11.5 percent yield",
-          "calc": "illustrative inputs"
-        },
-        {
-          "figure": "$575,000",
-          "calc": "5_000_000*0.115 = 575000"
-        },
-        {
-          "figure": "$350,000",
-          "calc": "5_000_000*0.07 = 350000"
-        },
-        {
-          "figure": "4.5 percentage points",
-          "calc": "11.5-7 = 4.5"
-        },
-        {
-          "figure": "$225,000",
-          "calc": "575000-350000 = 225000"
-        },
-        {
-          "figure": "3.5 points",
-          "calc": "11.5-8 = 3.5"
-        },
-        {
-          "figure": "$175,000",
-          "calc": "5_000_000*0.035 = 175000"
-        },
-        {
-          "figure": "$50,000",
-          "calc": "225000-175000 = 50000"
-        },
-        {
-          "figure": "22 percent",
-          "calc": "50000/225000 = 0.2222"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6adf4f222cad517d9eff5e16"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-10-29T15:40:00-04:00",
-      "topic": "servicing-in-house-or-third-party",
-      "kind": "evergreen",
-      "text": "Moving loan servicing out of the house does not move every responsibility with it.\n\nFor residential mortgages, Freddie Mac describes a servicer as the main point of contact, one that collects payments, passes them to the lender, and funds escrow for tax and insurance bills.\n\nFor banks, regulators add the other side. Joint guidance says using third parties does not diminish a banking organization responsibility to meet its requirements. Private lender rules vary.\n\nBefore choosing, a lender can write down what the servicer will do and what stays with the lender.",
-      "alt": "Comparison of in-house servicing and a third-party servicer across payments, escrow, borrower contact and responsibility. Under bank guidance, using third parties does not diminish responsibility, so lenders can ask what the servicer does and what stays with them.",
-      "image": "images/2026-10-29/1540-li-servicing-in-house-or-third-party.png",
-      "sources": [
-        {
-          "title": "Mortgage Servicers: Who Are They and How They Can Help",
-          "publisher": "Freddie Mac",
-          "url": "https://myhome.freddiemac.com/blog/homeownership/mortgage-servicers-who-are-they-and-how-they-can-help",
-          "date": "2025-10-27",
-          "quote": "In turn, the servicer distributes your payment to your lender and funds your escrow account, if you have one."
-        },
-        {
-          "title": "Interagency Guidance on Third-Party Relationships",
-          "publisher": "Federal Reserve, FDIC and OCC",
-          "url": "https://www.federalreserve.gov/frrs/guidance/interagency-guidance-on-third-party-relationships.htm",
-          "date": "2023-06-06",
-          "quote": "A banking organization's use of third parties does not diminish its responsibility to meet these requirements"
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6ade8528bd33ce99c394cde9"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-29T17:27:00-04:00",
-      "topic": "assignment-of-rents",
-      "kind": "evergreen",
-      "text": "A borrower defaults on a rental loan. Tenants still pay the borrower. Can the lender collect that rent instead?\n\nThat is the job of an assignment of rents. The borrower assigns the rents to the lender, and the lender grants the borrower a license to collect them. One law firm calls that license revocable upon default.\n\nAfter default, enforcement generally requires added steps, which may include notice to the borrower and direction letters to tenants. The clause is not self-executing in many states, and receivership is a common enforcement tool.\n\nLenders can ask counsel how it works locally.\n\nvaultedonline.com",
-      "alt": "Three step cards: rents assigned to the lender with a license for the borrower to collect, license revocable upon default, then notice and direction letters to tenants. A panel says the clause varies by state and is not self-executing in many states.",
-      "image": "images/2026-10-29/1727-fb-assignment-of-rents.png",
-      "sources": [
-        {
-          "title": "Understanding the Rents, Issues, and Profits Clause in Mortgage Lending",
-          "publisher": "Cummings Law",
-          "url": "https://www.cummings.law/understanding-the-rents-issues-and-profits-clause-in-mortgage-lending/",
-          "date": "2026-10-25",
-          "quote": "The clause is not self-executing in many states. Other jurisdictions rely on case law, which may require judicial intervention or receivership before the lender may collect. Per the page: enforcement generally requires additional steps, which may include providing notice to the borrower, serving direction letters on tenants, revoking the borrower's license to collect."
-        },
-        {
-          "title": "Assignment of Leases and Rents: Absolutely Collateral",
-          "publisher": "Jeffrey B. Steiner, DLA Piper (ALM Media, via Yahoo Finance)",
-          "url": "https://finance.yahoo.com/news/assignment-leases-rents-absolutely-collateral-053703329.html",
-          "date": "2018-03-20",
-          "quote": "In turn, the lender grants the borrower a license, revocable upon an event of default, to collect and use the rents."
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6ae09ec7c8df6b6a011ec82a"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-30T08:00:00-04:00",
-      "topic": "monthly-market-data-oct-2026",
-      "kind": "data",
-      "text": "Homes took a median of 29 days to go pending in September, Zillow reports. That is two days longer than a year earlier.\n\nNewly pending sales fell 8.5% from a year earlier. Pending means under contract, not closed.\n\nIllustrative: a $330,000 loan at 10% interest-only, actual/365, accrues about $90.41 a day. If the clock starts at listing, 29 days is $2,622 of interest, and the two extra days add $181.\n\nLenders can ask what listing time a borrower's exit plan assumes and compare it with current data.\n\nvaultedonline.com",
-      "alt": "Timeline bar: 29 days to go pending, then closing still ahead. Cards: Zillow September 2026 median 29 days to go pending, 2 days longer than a year ago; newly pending sales down 8.5 percent; illustrative interest of $2,622 over 29 days on $330,000 at 10 percent.",
-      "image": "images/2026-10-30/0800-fb-zillow-days-to-pending.png",
-      "sources": [
-        {
-          "title": "Winter Has Arrived Early in the Housing Market as Newly Pending Sales Fall 8.5% (Zillow September Market Report)",
-          "publisher": "Zillow Research",
-          "url": "https://www.zillow.com/research/september-2026-market-report/",
-          "date": "2026-10-06",
-          "quote": "Homes took a median of 29 days to go pending in September. That was two days longer than a year earlier and two days longer than August."
-        },
-        {
-          "title": "Zillow September Market Report (research page)",
-          "publisher": "Zillow Research",
-          "url": "https://www.zillow.com/research/september-2026-market-report/",
-          "date": "2026-10-06",
-          "quote": "Newly pending sales, a leading indicator of future closings, fell 8.5% year over year."
-        },
-        {
-          "title": "Zillow's September Market Report shows an early winter in the housing market as newly pending sales fall 8.5%",
-          "publisher": "Zillow Media Room",
-          "url": "https://zillow.mediaroom.com/2026-10-06-Zillows-September-Market-Report-shows-an-early-winter-in-the-housing-market-as-newly-pending-sales-fall-8-5",
-          "date": "2026-10-06",
-          "quote": "Newly pending sales, which measures listings that changed from for-sale to pending status rather than closed sales"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$330,000 at 10% interest-only",
-          "calc": "illustrative input chosen by me"
-        },
-        {
-          "figure": "$90.41",
-          "calc": "330000*0.10/365 = 90.41 (actual/365)"
-        },
-        {
-          "figure": "$2,622",
-          "calc": "330000*0.10/365*29 = 2621.92"
-        },
-        {
-          "figure": "$181",
-          "calc": "330000*0.10/365*2 = 180.82"
-        },
-        {
-          "figure": "27 days (year-ago, graphic not printed)",
-          "calc": "29 - 2 = 27"
-        },
-        {
-          "figure": "365",
-          "calc": "days in year for actual/365 daily interest basis (illustrative convention)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ae09ec9c8df6b6a011ec8d6"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-30T12:47:00-04:00",
-      "topic": "percent-vs-milestone-draws",
-      "kind": "evergreen",
-      "text": "Same $120,000 rehab budget, two ways to release it.\n\nPercent complete: an inspector verifies the job is 50 percent done, so $60,000 is earned (50 percent x $120,000).\n\nMilestone: money is tied to checkpoints. Picture four hypothetical checkpoints of $30,000 each. If the work is 50 percent done but only the first checkpoint is verified, $30,000 is released.\n\nBoth are meant to follow verified work, not the calendar. Lenders can spell out in the loan documents which method applies and how partial work is treated.\n\nvaultedonline.com",
-      "alt": "Illustrative $120,000 rehab budget at 50 percent complete. Percent-complete draw: $60,000 earned. Milestone draw with four hypothetical $30,000 checkpoints and only the first verified: $30,000 released, the rest waits.",
-      "image": "images/2026-10-30/1247-fb-percent-vs-milestone-draws.png",
-      "sources": [
-        {
-          "title": "Draw Schedules Explained: How Construction Loan Funding Works",
-          "publisher": "Yieldi",
-          "url": "https://yieldi.com/draw-schedule-construction-lending/",
-          "date": "2026-05-21",
-          "quote": "Funds are released based on % complete, usually verified by inspection."
-        },
-        {
-          "title": "Draw Schedules Explained: How Construction Loan Funding Works (milestone)",
-          "publisher": "Yieldi",
-          "url": "https://yieldi.com/draw-schedule-construction-lending/",
-          "date": "2026-05-21",
-          "quote": "Funds are released at clear construction checkpoints."
-        },
-        {
-          "title": "Construction Loan Draw Schedules Explained: How Inspections, Disbursements, and Cash Flow Really Work",
-          "publisher": "Clion Capital",
-          "url": "https://blog.clioncapital.com/construction-loan-draw-schedule-explained",
-          "date": "2026-06-09",
-          "quote": "A draw schedule is a legally binding disbursement plan tied to verified construction milestones, not calendar dates."
-        },
-        {
-          "title": "Construction Draw Schedules in 2026: How Lenders Release Funds and What Can Go Wrong",
-          "publisher": "Yieldstack",
-          "url": "https://yieldstack.ai/blog/construction-draw-schedules-guide",
-          "date": "2026-03-22",
-          "quote": "Draws tied to overall project completion percentage, verified by inspection."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$120,000",
-          "calc": "illustrative rehab budget chosen by author"
-        },
-        {
-          "figure": "50 percent",
-          "calc": "illustrative verified percent complete chosen by author"
-        },
-        {
-          "figure": "$60,000",
-          "calc": "120000*50//100 = 60000"
-        },
-        {
-          "figure": "four checkpoints",
-          "calc": "illustrative, hypothetical count chosen by author"
-        },
-        {
-          "figure": "$30,000",
-          "calc": "120000//4 = 30000 per hypothetical checkpoint; one verified = 30000*1 = 30000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ae1f19c06fb8ec00cf52d43"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-10-30T14:00:00-04:00",
-      "topic": "rtl-securitization",
-      "kind": "data",
-      "text": "How big is the residential transition loan securitization market? KBRA projects about $4.8 billion of issuance for 2026, down about 12 percent from $5.5 billion in 2025.\n\nIssuance was $6.2 billion in 2024. KBRA says the 2024 and 2025 levels were approximately three times 2023.\n\nRated deals are expected to reach about $3.5 billion, around 73 percent of the 2026 projection.\n\nTakeaway: these are projected full-year numbers, not a final count, and rated deals make up the larger share.",
-      "alt": "Bar chart of KBRA RTL securitization issuance: $6.2 billion in 2024, $5.5 billion in 2025, and a projected $4.8 billion for 2026, of which about $3.5 billion is rated (73 percent). The 2026 projection is down 12 percent from 2025.",
-      "image": "images/2026-10-30/1400-li-rtl-securitization.png",
-      "sources": [
-        {
-          "title": "KBRA Releases Research: Laying the Foundation: The Evolution of RTL Lending",
-          "publisher": "KBRA",
-          "url": "https://www.kbra.com/publications/CfwBDnbf/kbra-releases-research-laying-the-foundation-the-evolution-of-rtl-lending?format=web",
-          "date": "2026-07-30",
-          "quote": "We project FY 2026 issuance to total approximately $4.8 billion, down 12% year-over-year; total annual issuance rising to $6.2 billion in 2024 and $5.5 billion in 2025, approximately 3x the 2023 levels; rated issuance to reach approximately $3.5 billion, representing approximately 73% of projected 2026 RTL securitization volume; RTL representing less than 5% of expected full-year (FY) 2026 private-label securities (PLS) issuance."
-        },
-        {
-          "title": "Rated Deals Gain Ground In RTL Securitization Market",
-          "publisher": "National Mortgage Professional",
-          "url": "https://nationalmortgageprofessional.com/news/rated-deals-gain-ground-rtl-securitization-market",
-          "date": "2026-08-03",
-          "quote": "KBRA projects approximately $4.8 billion in RTL securitization issuance for full-year 2026, down 12% from $5.5 billion in 2025. Annual issuance reached $6.2 billion in 2024 and $5.5 billion in 2025, roughly three times the level recorded in 2023. Rated issuance is expected to reach approximately $3.5 billion, representing about 73% of this year's projected RTL securitization volume."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$1.3 billion",
-          "calc": "round(4.8-3.5,1) = 1.3 (graphic only: unrated remainder by subtraction)"
-        },
-        {
-          "figure": "73 percent check",
-          "calc": "round(3.5/4.8*100,1) = 72.9, consistent with KBRA approximately 73%"
-        },
-        {
-          "figure": "12 percent check",
-          "calc": "round((5.5-4.8)/5.5*100,1) = 12.7, KBRA states down 12% on unrounded figures"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ade8529bd33ce99c394ce13"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-30T17:27:00-04:00",
-      "topic": "final-draw-conditions",
-      "kind": "evergreen",
-      "text": "What does a final draw wait on? Two lender guides name overlapping items.\n\nA hard money guide says the last draw \"usually requires final inspection, a certificate of occupancy, and a final lien waiver.\" A commercial construction guide lists a certificate of occupancy, final unconditional lien waivers from all tiers, and a final title endorsement with no open liens.\n\nRequirements vary by lender, loan and state.\n\nLenders can share the final draw list with the borrower early, so the last release is not waiting on paperwork.\n\nvaultedonline.com",
-      "alt": "Two side-by-side checklists. A hard money guide lists final inspection, certificate of occupancy and a final lien waiver for the last draw. A commercial guide lists certificate of occupancy, final unconditional lien waivers from all tiers, and a final title endorsement with no open liens. Items in both are in gold.",
-      "image": "images/2026-10-30/1727-fb-final-draw-conditions.png",
-      "sources": [
-        {
-          "title": "How ADU Builders Draw Funds on a Hard Money Construction Loan",
-          "publisher": "Lendmire",
-          "url": "https://www.lendmire.com/adu-builders-draw-funds-on-a-hard-money/",
-          "date": "2026-10-23",
-          "quote": "The last draw usually requires final inspection, a certificate of occupancy, and a final lien waiver."
-        },
-        {
-          "title": "Commercial Construction Loan Draw Schedule (2026)",
-          "publisher": "Terrapin Capital Group",
-          "url": "https://terrapincg.com/news/commercial-construction-loan-draw-schedule-2026",
-          "date": "2026-04-24",
-          "quote": "Before final funds release, the lender verifies: ... temporary or permanent CO issued by AHJ; final Unconditional lien waivers from all tiers; final title endorsement with no open liens"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "2 guides; 3 items each",
-          "calc": "count of items in each checklist: 3 and 3"
-        },
-        {
-          "figure": "overlap highlighted in gold",
-          "calc": "certificate of occupancy and final lien waiver(s) appear in both lists (editorial comparison, no numbers)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ae1f19e06fb8ec00cf52ded"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-31T09:32:00-04:00",
-      "topic": "ny-fed-hhdc",
-      "kind": "data",
-      "text": "How many mortgages are slipping 90 days late? The New York Fed's Q2 2026 household debt report, released August 11, 2026, has a number worth knowing.\n\nThe annualized share of mortgage balances newly becoming 90 or more days late was 1.52 percent, up from 1.29 percent a year earlier. That is 0.23 points, or about 18 percent higher.\n\nThese are household mortgages in general, not private loans, and $505 billion of new mortgage debt was originated in the quarter.\n\nLenders can treat it as a backdrop, then check their own loans one by one.\n\nvaultedonline.com",
-      "alt": "Two cards compare the share of mortgage balances newly 90 or more days late: 1.29 percent in Q2 2025 and 1.52 percent in Q2 2026, a rise of 0.23 points or about 18 percent. A third card shows $505 billion of mortgages originated in Q2 2026. NY Fed data.",
-      "image": "images/2026-10-31/0932-fb-ny-fed-hhdc.png",
-      "sources": [
-        {
-          "title": "Household Debt Balances Decreased Slightly; Credit Card Delinquency Transition Rates Remained Steady",
-          "publisher": "Federal Reserve Bank of New York",
-          "url": "https://www.newyorkfed.org/newsevents/news/research/2026/20260811",
-          "date": "2026-08-11",
-          "quote": "Mortgage Debt | 1.29% | 1.52% (Flow into Serious Delinquency (90 days or more delinquent), Q2 2025 vs Q2 2026). Rates represent annualized shares of balances transitioning into delinquency. The pace of mortgage originations was largely steady with $505 billion newly originated in Q2 2026."
-        },
-        {
-          "title": "Quarterly Report on Household Debt and Credit, 2026Q2",
-          "publisher": "Federal Reserve Bank of New York",
-          "url": "https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2026q2.pdf",
-          "date": "2026-08-11",
-          "quote": "There was $505 billion in newly originated mortgage debt in 2026Q2."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "0.23",
-          "calc": "round(1.52-1.29,2) = 0.23"
-        },
-        {
-          "figure": "about 18 percent",
-          "calc": "round((1.52/1.29-1)*100,1) = 17.8"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ae1f1a141c946fe22ccf646"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-31T13:47:00-04:00",
-      "topic": "protective-advances-ltv",
-      "kind": "evergreen",
-      "text": "A borrower stops paying the property tax bill, and the lender pays it. What happens to the loan?\n\nThat payment is called a protective advance: money a lender pays for an expense the borrower was supposed to cover, such as delinquent property taxes or lapsed hazard insurance. One source says it gets added to the loan balance and accrues interest.\n\nIllustrative: a $250,000 loan on a $350,000 value is 71.4 percent LTV. Add a $6,500 advance and the balance is $256,500, or 73.3 percent.\n\nLenders can recheck LTV after any advance. Terms vary by lender and state.\n\nvaultedonline.com",
-      "alt": "Two bars compare an illustrative $250,000 loan on a $350,000 property before and after a $6,500 protective advance. LTV rises from 71.4 percent to 73.3 percent as the balance grows to $256,500.",
-      "image": "images/2026-10-31/1347-fb-protective-advances-ltv.png",
-      "sources": [
-        {
-          "title": "Protective Advances: Definition, Rules, and Borrower Rights",
-          "publisher": "LegalClarity",
-          "url": "https://legalclarity.org/protective-advances-definition-rules-and-borrower-rights/",
-          "date": "2026-05-13",
-          "quote": "A protective advance is a payment made by a lender to cover an expense the borrower was supposed to cover. These advances get added to your loan balance and accrue interest."
-        },
-        {
-          "title": "Protective Advances",
-          "publisher": "Justia Contracts Dictionary",
-          "url": "https://dictionary.contracts.justia.com/protective-advances",
-          "date": "2026-10-25",
-          "quote": "All sums advanced for the purpose of payment of real estate taxes ... insurance premiums, other items ... reasonably necessary to protect the Collateral from forfeiture, casualty, loss or waste. (page undated, accessed 2026-10-25)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$250,000 loan, $350,000 value, $6,500 advance",
-          "calc": "illustrative inputs"
-        },
-        {
-          "figure": "71.4 percent",
-          "calc": "250000/350000*100 = 71.43"
-        },
-        {
-          "figure": "$256,500",
-          "calc": "250000+6500 = 256500"
-        },
-        {
-          "figure": "73.3 percent",
-          "calc": "256500/350000*100 = 73.29"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ae1f1a441c946fe22ccf6b3"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-10-31T17:27:00-04:00",
-      "topic": "judicial-vs-nonjudicial",
-      "kind": "evergreen",
-      "text": "Two loans default on the same day, in two different states. One lender must file a lawsuit. The other may not need a court at all.\n\nThat is the gap between judicial and nonjudicial foreclosure. In a judicial state, a court oversees the case, and Nolo says it can last several months or even years in some cases. In a nonjudicial state, a trustee typically handles it, and Nolo says it can take just a few months or less.\n\nProcedures differ widely by state. Lenders can ask counsel which process applies to a loan.\n\nvaultedonline.com",
-      "alt": "Two comparison cards. Judicial: the lender must file a lawsuit, a court oversees through hearings, and it can take several months or even years in some cases. Nonjudicial: power of sale with no court order first, a trustee typically handles it, and it often takes a few months or less. Varies by state.",
-      "image": "images/2026-10-31/1727-fb-judicial-vs-nonjudicial.png",
-      "sources": [
-        {
-          "title": "The Difference Between a Judicial and Nonjudicial Foreclosure",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/the-difference-between-a-judicial-and-nonjudicial-foreclosure.html",
-          "date": "2026-10-25",
-          "quote": "In states with a judicial foreclosure process, the lender must file a lawsuit to foreclose. The court system usually isn't involved in states that permit a nonjudicial foreclosure process. A trustee typically handles a nonjudicial foreclosure. The judicial foreclosure process can be lengthy, frequently lasting several months or even years in some cases. Nonjudicial foreclosure procedures differ widely from state to state. (page undated, accessed 2026-10-25; the nonjudicial process is often quicker, \"often lasting just a few months or less.\")"
-        },
-        {
-          "title": "non-judicial foreclosure",
-          "publisher": "Cornell Legal Information Institute (Wex)",
-          "url": "https://www.law.cornell.edu/wex/non-judicial_foreclosure",
-          "date": "2023-08-01",
-          "quote": "A non-judicial foreclosure is when lenders foreclose property without getting a court order first. (Last reviewed in August of 2023 by the Wex Definitions Team.)"
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6ae34327650dab96a3729ffc"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-01T10:15:00-05:00",
-      "topic": "loan-file-contents",
-      "kind": "evergreen",
-      "text": "What should be in a private loan file on closing day, and on payoff day?\n\nAt closing, a file can hold the signed note, the deed of trust or mortgage, any guaranty, the business purpose certification and the entity certificate, among others.\n\nA servicer boarding checklist lists the title policy, the insurance declarations page, the most recent tax bill and the borrower payment history.\n\nAt payoff, FDIC guidance says a lender should provide a recordable lien release. For consumer mortgages, the CFPB says the original note should be returned and the release may be delayed.\n\nVaries by lender and state.\n\nvaultedonline.com",
-      "alt": "Three checklist columns. At closing: signed note, deed of trust or mortgage, guaranty, business purpose certification, entity certificate. During the loan: title policy, insurance declarations page, tax bill, payment history. At payoff: recordable lien release, original note returned, release may be delayed.",
-      "image": "images/2026-11-01/1015-fb-loan-file-contents.png",
-      "sources": [
-        {
-          "title": "The Essential Loan Documents Checklist For Lenders",
-          "publisher": "Fortra Law",
-          "url": "https://fortralaw.com/the-essential-loan-documents-checklist-for-lenders/",
-          "date": "2024-02-16",
-          "quote": "At a minimum, a set of loan documents should include the following: Promissory Note; Security Instrument (Deed of Trust / Mortgage); Guaranty; Business Purpose of Loan Certification; Entity Certificate."
-        },
-        {
-          "title": "Servicing File Content Requirements",
-          "publisher": "Superior Loan Servicing",
-          "url": "https://superiorloanservicing.com/wp-content/uploads/2022/03/New-Loan-Boarding-Document-Checklist_2022.pdf",
-          "date": "2026-10-25 (accessed; page undated)",
-          "quote": "Title Insurance Policy and any subsequent endorsements; Insurance Declarations Page or EOI/COI; Most Recent Tax Bill, if applicable; Borrower Payment History."
-        },
-        {
-          "title": "Obtaining a Lien Release",
-          "publisher": "FDIC",
-          "url": "https://www.fdic.gov/bank-failures/obtaining-lien-release",
-          "date": "2026-10-25 (accessed; page undated)",
-          "quote": "Once the loan is repaid, the lender should provide a recordable lien release document."
-        },
-        {
-          "title": "After I have paid off my mortgage, how do I check if my lien was released?",
-          "publisher": "CFPB",
-          "url": "https://www.consumerfinance.gov/ask-cfpb/after-i-have-paid-off-my-mortgage-how-do-i-check-if-my-lien-was-released-en-206/",
-          "date": "2024-09-13",
-          "quote": "After you pay off your mortgage, your lender should also return the original note to you. Note that there may be a delay between the time you pay off your mortgage and the release of your lien."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "no numeric figures",
-          "calc": "post and graphic contain no numbers other than dates in the footnote"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ae3432a1d52e172a105da4f"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-01T13:47:00-05:00",
-      "topic": "flip-vs-hold-exit",
-      "kind": "evergreen",
-      "text": "Illustrative: one $210,000 loan. Two exits. Two different ways the lender gets repaid.\n\nFlip: the house sells at its $300,000 after-repair value. Selling costs of 6 percent take $18,000, leaving $282,000. That is $72,000 above the loan, before interest and other costs.\n\nHold: a refinance repays the loan, and the new lender looks at rent. With $2,400 rent, a $2,050 payment gives 1.17 coverage. A $2,600 payment gives 0.92, under a 1.0 floor one lender cites, so the refinance may not work.\n\nLenders can ask which exit is planned, then test it with that exit's own numbers.\n\nvaultedonline.com",
-      "alt": "Two comparison cards for one $210,000 loan. Flip: $300,000 sale less 6 percent costs of $18,000 leaves $282,000, which is $72,000 above the loan. Hold: $2,400 rent over a $2,050 payment is 1.17 coverage; over a $2,600 payment it is 0.92, under a 1.0 floor.",
-      "image": "images/2026-11-01/1347-fb-flip-vs-hold-exit.png",
-      "sources": [
-        {
-          "title": "Hard Money Loan Exit Strategy For Real Estate Investors",
-          "publisher": "Lendmire",
-          "url": "https://www.lendmire.com/hard-money-loan-exit-strategy-for-real-estate-investors/",
-          "date": "2026-10-15",
-          "quote": "The sale proceeds retire the loan at closing, and anything left over is yours."
-        },
-        {
-          "title": "5 Hard Money Loan Exit Strategies",
-          "publisher": "North Coast Financial, Inc.",
-          "url": "https://www.northcoastfinancialinc.com/5-hard-money-loan-exit-strategies/",
-          "date": "2026-09-23",
-          "quote": "The borrower sells the property and the sales transaction pays off the balance of the hard money loan."
-        },
-        {
-          "title": "Fix to Rent Loans: How Bridge-to-DSCR Financing Works",
-          "publisher": "Ridge Street Capital",
-          "url": "https://www.ridgestreetcap.com/blog/fix-to-rent-loans",
-          "date": "2026-10-09",
-          "quote": "the monthly rental income must at least equal the full loan payment"
-        },
-        {
-          "title": "Hard Money Loan Exit Strategy For Real Estate Investors (refinance and DSCR sizing)",
-          "publisher": "Lendmire",
-          "url": "https://www.lendmire.com/hard-money-loan-exit-strategy-for-real-estate-investors/",
-          "date": "2026-10-15",
-          "quote": "The DSCR loan is sized off value and rent coverage."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$300,000 after-repair value, $210,000 loan, 6 percent selling costs, $2,400 rent, $2,050 and $2,600 payments",
-          "calc": "illustrative inputs chosen by author"
-        },
-        {
-          "figure": "$18,000",
-          "calc": "300000*0.06 = 18000.0"
-        },
-        {
-          "figure": "$282,000",
-          "calc": "300000-18000 = 282000"
-        },
-        {
-          "figure": "$72,000",
-          "calc": "282000-210000 = 72000"
-        },
-        {
-          "figure": "1.17",
-          "calc": "2400/2050 = 1.1707"
-        },
-        {
-          "figure": "0.92",
-          "calc": "2400/2600 = 0.9231"
-        },
-        {
-          "figure": "1.0 floor",
-          "calc": "coverage of 1.0 means rent equals payment; 2400/2400 = 1.0 (floor cited by Ridge Street; varies by lender)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6ae3432df67cfc9914efd1e1"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-01T17:27:00-05:00",
-      "topic": "deed-in-lieu",
-      "kind": "evergreen",
-      "text": "A borrower in default offers to hand over the property instead of facing foreclosure. That is a deed in lieu of foreclosure: the borrower conveys the property to the lender.\n\nOne source says the lender who accepts takes title subject to all liens and claims affecting the property. A deed in lieu does not wipe out junior liens the way a foreclosure can.\n\nOne source says a lender should hesitate before accepting where junior liens or judgments are outstanding. Some may choose foreclosure for clean title. Varies by state.\n\nCheck what sits on title before deciding.\n\nvaultedonline.com",
-      "alt": "Navy graphic titled Deed in lieu of foreclosure, look at what stays on title. Three bars list junior liens, judgments and mechanic's liens that a title search can show, above a gold bar for the lender taking the deed. Cards compare deed in lieu with foreclosure.",
-      "image": "images/2026-11-01/1727-fb-deed-in-lieu.png",
-      "sources": [
-        {
-          "title": "Distressed Real Estate During the COVID-19 Pandemic: Deeds in Lieu of Foreclosure Involving Commercial Real Estate",
-          "publisher": "Pillsbury Winthrop Shaw Pittman",
-          "url": "https://www.pillsburylaw.com/en/news-and-insights/deeds-in-lieu-of-foreclosure-covid-19.html",
-          "date": "2020-08-12",
-          "quote": "the lender who accepts a deed in lieu will take title subject to all liens and claims affecting the property."
-        },
-        {
-          "title": "Deeds in Lieu of Foreclosure: Advantages, Disadvantages, and Drafting",
-          "publisher": "Attorneys' Title Guaranty Fund, Inc.",
-          "url": "https://www.atgf.com/tools-publications/pubs/deeds-lieu-foreclosure-advantages-disadvantages-and-drafting",
-          "date": "2012-03-29",
-          "quote": "A lender should also hesitate before accepting a lieu deed where there are outstanding subordinate liens or judgments"
-        },
-        {
-          "title": "Deeds in Lieu of Foreclosure",
-          "publisher": "LoneStarLandLaw.com (David J. Willis)",
-          "url": "https://lonestarlandlaw.com/deeds-in-lieu-of-foreclosure/",
-          "date": "2026-10-12",
-          "quote": "A DIL, unlike a foreclosure, does not wipe out subordinate liens or intervening interests."
-        }
-      ],
-      "derived": [],
-      "status": "held",
-      "buffer_id": null
+     "title": "Price cuts reach September record, inventory nears pre-pandemic levels",
+     "publisher": "RISMedia",
+     "url": "https://www.rismedia.com/2026/10/07/price-cuts-reach-september-record-inventory-nears-pre-pandemic-levels/",
+     "date": "2026-10-07",
+     "quote": "The share of active listings with a price reduction rose to 20.8% in September, up 0.9 percentage points from a year earlier"
     }
-  ]
+   ],
+   "derived": [
+    {
+     "figure": "$285,000",
+     "calc": "illustrative list price chosen by author"
+    },
+    {
+     "figure": "4 percent",
+     "calc": "illustrative price cut chosen by author"
+    },
+    {
+     "figure": "$273,600",
+     "calc": "285000*0.96 = 273600.0"
+    },
+    {
+     "figure": "$11,400",
+     "calc": "285000*0.04 = 11400.0"
+    },
+    {
+     "figure": "1 in 5",
+     "calc": "1/0.208 = 4.8, rounded to about 5"
+    },
+    {
+     "figure": "79.2%",
+     "calc": "100-20.8 = 79.2 (graphic)"
+    },
+    {
+     "figure": "1.16M+",
+     "calc": "over 1,161,000 homes (graphic shorthand)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85016887a2efc12a035b"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-26T11:34:00-04:00",
+   "topic": "sloos-cre-standards-2026",
+   "kind": "data",
+   "text": "What are banks reporting on commercial real estate loans? The Federal Reserve July 2026 loan officer survey covers the second quarter, and the answer depends on the loan type.\n\nNonfarm nonresidential: 13.2 percent of responding banks eased standards and 1.9 percent tightened.\n\nMultifamily: 15.1 percent eased and 9.4 percent tightened.\n\nConstruction and land development: 25.9 percent of responding banks, 14 of 54, reported weaker demand.\n\nStandards and demand differed by loan type, so a lender can compare each deal type against its own pipeline before reading one headline as the whole market.",
+   "alt": "Three cards from the Federal Reserve July 2026 loan officer survey, second quarter. Nonfarm nonresidential standards: 13.2 percent of banks eased, 1.9 percent tightened. Multifamily: 15.1 percent eased, 9.4 percent tightened. Construction and land development demand: 25.9 percent weaker, 14 of 54 banks.",
+   "image": "images/2026-10-26/1134-li-sloos-cre-standards-2026.png",
+   "sources": [
+    {
+     "title": "July 2026 Senior Loan Officer Survey on Bank Lending Practices, Table 1",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/data/sloos/sloos-202607-table-1.htm",
+     "date": "2026-08-03",
+     "quote": "Eased somewhat | 7 | 13.2 | 3 | 15.8 | 4 | 11.8; Tightened somewhat | 1 | 1.9 | 0 | 0.0 | 1 | 2.9 (Question 8, nonfarm nonresidential standards); Eased somewhat | 8 | 15.1 | 4 | 20.0 | 4 | 12.1; Tightened somewhat | 5 | 9.4 | 1 | 5.0 | 4 | 12.1 (Question 9, multifamily standards); Moderately weaker | 14 | 25.9 | 7 | 35.0 | 7 | 20.6 (Question 10, construction and land development demand; total 54 banks)"
+    },
+    {
+     "title": "July 2026 Senior Loan Officer Opinion Survey on Bank Lending Practices",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/data/sloos/sloos-202607.htm",
+     "date": "2026-08-03",
+     "quote": "over the past three months, which generally correspond to the second quarter of 2026."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "14 of 54 = 25.9 percent",
+     "calc": "round(14/54*100,1) = 25.9 (matches Table 1)"
+    },
+    {
+     "figure": "Total 54 banks (Q10)",
+     "calc": "Table 1 Total column for Q10 = 54"
+    },
+    {
+     "figure": "Graphic bar heights",
+     "calc": "height_px = percent * 8.0 (display scale only)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade8526bd33ce99c394cda1"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-26T12:47:00-04:00",
+   "topic": "effective-apr-short-loan",
+   "kind": "evergreen",
+   "text": "A lender quotes 11 percent. On this loan, the real cost is higher.\n\nTake $150,000 at 11 percent interest-only for 6 months, with 2.5 points paid at closing. Interest is $1,375 a month, or $8,250. The points add $3,750. Total cost: $12,000, which is 8 percent of the loan in half a year.\n\nOn a simple annualized basis, that is 16 percent: 11 percent interest plus 5 percent from the points. The CFPB describes APR as the interest rate plus additional fees.\n\nCompare loans by total cost over the expected hold, not by the quoted rate alone.\n\nvaultedonline.com",
+   "alt": "Bar showing the 6-month cost of a $150,000 loan at 11 percent interest-only with 2.5 points: $8,250 interest plus $3,750 points, $12,000 total. Cards show 11 percent quoted rate, plus 5 percent points annualized, 16 percent annualized cost.",
+   "image": "images/2026-10-26/1247-fb-effective-apr-short-loan.png",
+   "sources": [
+    {
+     "title": "What is the difference between a loan interest rate and the APR?",
+     "publisher": "CFPB (Ask CFPB)",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-difference-between-a-loan-interest-rate-and-the-apr-en-733/",
+     "date": "2026-08-28",
+     "quote": "The APR is the interest rate plus any additional fees charged by the lender."
+    },
+    {
+     "title": "Hard Money Loans: Rates, Terms & Real Costs",
+     "publisher": "Real Estate Skills",
+     "url": "https://www.realestateskills.com/blog/hard-money-loan",
+     "date": "2025-10-28",
+     "quote": "1\u20135 points (1 point = 1% of loan amount) plus origination & closing fees"
+    },
+    {
+     "title": "Hard Money Loans: How They Work and When to Use Them",
+     "publisher": "Herring Bank",
+     "url": "https://www.herringbank.com/learn/hard-money-loans/",
+     "date": "2025-05-01",
+     "quote": "On a 6-month hold, 3 points = 6% annualized cost from points alone, added to the interest rate."
+    },
+    {
+     "title": "12 CFR 1026.22 Determination of annual percentage rate",
+     "publisher": "CFPB (Regulation Z)",
+     "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/22/",
+     "date": "2026-10-25",
+     "quote": "The annual percentage rate is a measure of the cost of credit, expressed as a yearly rate, that relates the amount and timing of value received by the consumer to the amount and timing of payments made. (page undated, accessed 2026-10-25)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$150,000, 11 percent, 2.5 points, 6 months",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$1,375",
+     "calc": "150000*0.11/12 = 1375.0"
+    },
+    {
+     "figure": "$8,250",
+     "calc": "1375*6 = 8250"
+    },
+    {
+     "figure": "$3,750",
+     "calc": "150000*2.5/100 = 3750.0"
+    },
+    {
+     "figure": "$12,000",
+     "calc": "8250+3750 = 12000"
+    },
+    {
+     "figure": "8 percent",
+     "calc": "12000/150000 = 0.08"
+    },
+    {
+     "figure": "16 percent",
+     "calc": "0.08*(12/6) = 0.16 (simple annualization)"
+    },
+    {
+     "figure": "5 percent",
+     "calc": "2.5*(12/6) = 5.0"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade8501e4be8a4d86cd7478"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-26T17:27:00-04:00",
+   "topic": "hard-vs-private-money",
+   "kind": "evergreen",
+   "text": "Is hard money the same as private money? Sources disagree.\n\nScotsman Guide says the terms are often used interchangeably, yet calls hard money a subset of private lending: real estate-backed, short-term loans. CRE University, in 2009, called hard money lenders organized and usually licensed. A lender blog on BiggerPockets calls the terms completely interchangeable.\n\nIn 2022, AAPL and NPLA urged members to stop using \"hard money\" on their websites.\n\nTakeaway: a label may not tell you the terms. Ask who funds the loan and what it costs.\n\nvaultedonline.com",
+   "alt": "Three comparison cards on how sources define hard money and private money: Scotsman Guide 2024 calls hard money a subset of private lending, CRE University 2009 calls hard money lenders organized and usually licensed, and a BiggerPockets lender blog calls the terms completely interchangeable.",
+   "image": "images/2026-10-26/1727-fb-hard-vs-private-money.png",
+   "sources": [
+    {
+     "title": "Discern all the flavors of private lending",
+     "publisher": "Scotsman Guide",
+     "url": "https://www.scotsmanguide.com/commercial/discern-all-the-flavors-of-private-lending/",
+     "date": "2024-05-01",
+     "quote": "The terms \u201chard money lending\u201d and \u201cprivate lending\u201d are often used interchangeably, creating confusion among borrowers and investors alike. A nuanced understanding reveals that hard money lending is a subset of private lending, emphasizing real estate-backed, short-term loans with higher risk and return profiles. In 2022 AAPL and NPLA passed resolutions that urged members to cease using the term \u2018hard money\u2019 on their websites, marketing materials and communications."
+    },
+    {
+     "title": "The Difference Between Hard Money and Private Money",
+     "publisher": "CRE University",
+     "url": "https://www.creuniversity.com/articles/the-difference-between-hard-money-private-money",
+     "date": "2009-06-30",
+     "quote": "Private lenders are just what their name suggests\u2013private. Hard money lenders are still organized money lenders and are usually in some way licensed to loan money."
+    },
+    {
+     "title": "Hard Money vs Private Money: Are They Really Different",
+     "publisher": "BiggerPockets (member blog)",
+     "url": "https://www.biggerpockets.com/member-blogs/6319/blog_posts/106900-hard-money-vs-private-money-are-they-really-different",
+     "date": "2026-10-25 (accessed; page undated)",
+     "quote": "These are completely interchangeable terms in our industry."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "2022",
+     "calc": "year of AAPL and NPLA resolutions, from Scotsman Guide quote (no calculation)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85026887a2efc12a0385"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-27T09:15:00-04:00",
+   "topic": "home-price-index-oct-2026",
+   "kind": "data",
+   "text": "U.S. house prices rose 2.6 percent from July 2025 to July 2026, per FHFA. Case-Shiller National showed 1.9 percent. Both are July data, released September 29, 2026.\n\nSimple pro-rata, illustrative: say a comp is $340,000 and the hold is 6 months. At a 2.6 percent annual pace, price drift adds about $4,420. An ARV that assumes 6 percent a year adds $10,200. That gap is $5,780 of value that may not show up.\n\nBy FHFA division, the range was 0.6 percent (Mountain) to 6.3 percent (Middle Atlantic).\n\nLenders can check ARV against recent comps, not only a growth rate.\n\nvaultedonline.com",
+   "alt": "Number line of 12-month home price changes to July 2026: FHFA U.S. 2.6 percent, Case-Shiller National 1.9, Mountain division 0.6, Middle Atlantic 6.3. Cards: on a $340,000 comp over 6 months, 2.6 percent pace adds $4,420, an assumed 6 percent adds $10,200, a gap of $5,780.",
+   "image": "images/2026-10-27/0915-fb-home-price-index.png",
+   "sources": [
+    {
+     "title": "FHFA House Price Index Up 0.3 Percent in July; Up 2.6 Percent from Last Year",
+     "publisher": "Federal Housing Finance Agency",
+     "url": "https://www.fhfa.gov/document/d/hpi/fhfa-hpi-monthly-september-2026",
+     "date": "2026-09-29",
+     "quote": "House prices rose 2.6 percent from July 2025 to July 2026."
+    },
+    {
+     "title": "FHFA HPI monthly release, division range",
+     "publisher": "Federal Housing Finance Agency",
+     "url": "https://www.fhfa.gov/document/d/hpi/fhfa-hpi-monthly-september-2026",
+     "date": "2026-09-29",
+     "quote": "The 12-month changes ranged from +0.6 percent in the Mountain division to +6.3 percent in the Middle Atlantic division."
+    },
+    {
+     "title": "S&P Cotality Case-Shiller Index Reports Annual Gain in July 2026",
+     "publisher": "S&P Dow Jones Indices",
+     "url": "https://www.spglobal.com/spdji/en/index-announcements/article/sp-cotality-case-shiller-index-reports-annual-gain-in-july-2026/",
+     "date": "2026-09-29",
+     "quote": "The S&P Cotality Case-Shiller U.S. National Home Price NSA Index posted a 1.9% annual gain for July 2026,"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$340,000",
+     "calc": "illustrative comp value"
+    },
+    {
+     "figure": "6 months",
+     "calc": "illustrative hold"
+    },
+    {
+     "figure": "6 percent",
+     "calc": "illustrative assumed annual growth"
+    },
+    {
+     "figure": "$4,420",
+     "calc": "340000*0.026*0.5 = 4420.0 (simple pro-rata of annual rate)"
+    },
+    {
+     "figure": "$10,200",
+     "calc": "340000*0.06*0.5 = 10200.0"
+    },
+    {
+     "figure": "$5,780",
+     "calc": "10200-4420 = 5780"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade8502bd33ce99c394c495"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-27T10:21:00-04:00",
+   "topic": "rental-vacancy-census",
+   "kind": "data",
+   "text": "The Census Bureau put the U.S. rental vacancy rate at 7.3 percent in the second quarter of 2026, against 7.0 percent a year earlier. Census calls that change not statistically different.\n\nWhy it matters for income-based underwriting: a higher assumed vacancy factor lowers net operating income. Per $100 of potential rent, a 5 percent vacancy factor leaves $95.00. At 7.3 percent it leaves $92.70, about 2.4 percent less.\n\nUnderwriters can assume different vacancy rates, 3 to 10 percent by one trade source. A national rate is not a local one.",
+   "alt": "Chart of rent left per $100 of potential rent at 3, 5, 7.3 and 10 percent vacancy: $97.00, $95.00, $92.70 and $90.00. Two cards show the Census rental vacancy rate of 7.3 percent in Q2 2026 and 7.0 percent in Q2 2025. Higher vacancy, lower NOI.",
+   "image": "images/2026-10-27/1021-li-rental-vacancy-census.png",
+   "sources": [
+    {
+     "title": "Quarterly Residential Vacancies and Homeownership, Second Quarter 2026",
+     "publisher": "U.S. Census Bureau",
+     "url": "https://www.census.gov/housing/hvs/files/currenthvspress.pdf",
+     "date": "2026-07-28",
+     "quote": "National vacancy rates in the second quarter 2026 were 7.3 percent for rental housing"
+    },
+    {
+     "title": "Quarterly Residential Vacancies and Homeownership, Second Quarter 2026 (comparison)",
+     "publisher": "U.S. Census Bureau",
+     "url": "https://www.census.gov/housing/hvs/files/currenthvspress.pdf",
+     "date": "2026-07-28",
+     "quote": "The rental vacancy rate was not statistically different from the rate in the second quarter 2025 (7.0 percent)"
+    },
+    {
+     "title": "Rental Vacancy Rate in the United States (RRVRUSQ156N)",
+     "publisher": "FRED, Federal Reserve Bank of St. Louis",
+     "url": "https://fred.stlouisfed.org/series/rrvrusq156n",
+     "date": "2026-07-28",
+     "quote": "Q2 2026: 7.3 (Q2 2025: 7.0)"
+    },
+    {
+     "title": "Not An Exact Science",
+     "publisher": "Scotsman Guide",
+     "url": "https://www.scotsmanguide.com/commercial/not-an-exact-science/",
+     "date": "2019-11-15",
+     "quote": "The higher the assumed vacancy factor, the lower the net operating income."
+    },
+    {
+     "title": "Not An Exact Science (range)",
+     "publisher": "Scotsman Guide",
+     "url": "https://www.scotsmanguide.com/commercial/not-an-exact-science/",
+     "date": "2019-11-15",
+     "quote": "The assumed vacancy rate can be anywhere from 3% to 10%"
+    },
+    {
+     "title": "Not An Exact Science (variation)",
+     "publisher": "Scotsman Guide",
+     "url": "https://www.scotsmanguide.com/commercial/not-an-exact-science/",
+     "date": "2019-11-15",
+     "quote": "First, lenders can assume vastly different vacancy rates for a property."
+    },
+    {
+     "title": "Apartment Building Financing: Calculating NOI",
+     "publisher": "Lument",
+     "url": "https://www.lument.com/apartment-building-financing-calculating-noi-for-more-accurate-underwriting/",
+     "date": "2023-02-23",
+     "quote": "The DSCR calculation is: DSCR = NOI / total debt service."
+    },
+    {
+     "title": "Quarterly release schedule",
+     "publisher": "U.S. Census Bureau",
+     "url": "https://www.census.gov/housing/hvs/data/upcoming.html",
+     "date": "2026-10-25",
+     "quote": "October 28, 2026 (Wednesday) (page undated, accessed 2026-10-25)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$100",
+     "calc": "illustrative potential rent"
+    },
+    {
+     "figure": "5 percent vacancy factor",
+     "calc": "illustrative input"
+    },
+    {
+     "figure": "$95.00",
+     "calc": "100 - 5 = 95.00"
+    },
+    {
+     "figure": "$92.70",
+     "calc": "100 - 7.3 = 92.70"
+    },
+    {
+     "figure": "$97.00 / $90.00",
+     "calc": "100 - 3 = 97.00; 100 - 10 = 90.00"
+    },
+    {
+     "figure": "about 2.4 percent less",
+     "calc": "1 - 92.7/95 = 0.0242"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85266887a2efc12a1065"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-27T12:47:00-04:00",
+   "topic": "recording-taxes",
+   "kind": "evergreen",
+   "text": "Does your state tax the loan itself?\n\nSome states charge a tax at recording that is generally based on the loan amount, not the property value.\n\nIllustrative $400,000 loan:\n\nFlorida: note stamps of $0.35 per $100 come to $1,400. The intangible tax of 2 mills adds $800. Total: $2,200.\n\nNew York: mortgage recording taxes of 50, 25 and 25 cents per $100 add up to $4,000 (the last is 30 cents in some counties), before local taxes.\n\nSame loan, very different tax line. Rates and rules vary by state, so lenders can ask title or counsel what applies.\n\nvaultedonline.com",
+   "alt": "Two stacked bar breakdowns for an illustrative $400,000 loan. Florida: $1,400 note stamps plus $800 intangible tax equals $2,200. New York: $2,000, $1,000 and $1,000 mortgage recording tax portions equal $4,000 before any city or county tax.",
+   "image": "images/2026-10-27/1247-fb-recording-taxes.png",
+   "sources": [
+    {
+     "title": "Florida Documentary Stamp Tax is Imposed on Promissory Notes (TIP 24B04-01)",
+     "publisher": "Florida Department of Revenue",
+     "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_24B04-01.pdf",
+     "date": "2024-05-29",
+     "quote": "Section 201.08(1)(a), Florida Statutes (F.S.), provides a documentary stamp tax of $0.35 on each $100, or fraction thereof,"
+    },
+    {
+     "title": "Florida Statutes Chapter 199, s. 199.133 Levy of nonrecurring tax",
+     "publisher": "Florida Senate",
+     "url": "https://www.flsenate.gov/Laws/Statutes/2025/Chapter199/All",
+     "date": "2025-01-01",
+     "quote": "A one-time nonrecurring tax of 2 mills is hereby imposed on each dollar of the just valuation of all notes,"
+    },
+    {
+     "title": "Mortgage recording tax",
+     "publisher": "New York State Department of Taxation and Finance",
+     "url": "https://tax.ny.gov/pit/mortgage/mtgidx.htm",
+     "date": "2025-12-30",
+     "quote": "basic tax of 50 cents per $100 of mortgage debt or obligation secured. special additional tax of 25 cents per $100 of mortgage debt or obligation secured. an additional tax of 25 cents per $100 of the mortgage debt or obligation secured"
+    },
+    {
+     "title": "What Is a Mortgage Recording Tax?",
+     "publisher": "SmartAsset",
+     "url": "https://smartasset.com:443/mortgage/mortgage-taxes",
+     "date": "2022-11-16",
+     "quote": "some state and local governments levy a mortgage recording tax to document the loan transaction."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$400,000",
+     "calc": "illustrative loan amount chosen by author"
+    },
+    {
+     "figure": "$1,400",
+     "calc": "400000/100*0.35 = 1400.0"
+    },
+    {
+     "figure": "$800",
+     "calc": "400000*0.002 = 800.0 (2 mills = $0.002 per dollar)"
+    },
+    {
+     "figure": "$2,200",
+     "calc": "1400+800 = 2200"
+    },
+    {
+     "figure": "$2,000",
+     "calc": "400000/100*0.50 = 2000.0"
+    },
+    {
+     "figure": "$1,000",
+     "calc": "400000/100*0.25 = 1000.0 (each of two 25-cent portions)"
+    },
+    {
+     "figure": "$4,000",
+     "calc": "2000+1000+1000 = 4000"
+    },
+    {
+     "figure": "$0.20",
+     "calc": "0.002*100 = 0.2 per $100 (2 mills)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85038b3d437ddc2ee46b"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-27T17:27:00-04:00",
+   "topic": "draw-fraud-red-flags",
+   "kind": "evergreen",
+   "text": "Three draw request red flags a lender can check before paying.\n\n1. The same invoice in more than one draw. Trinity describes one invoice submitted across multiple draws or projects.\n\n2. An invoice altered to show higher quantities or prices.\n\n3. A sub billing ahead of the work in place. Corpay describes this on progress payments.\n\nOne way to test this is comparing invoices with inspection findings. These tactics exploit gaps between documentation, inspections and draw approvals.\n\nNo single flag proves intent. It is a reason to ask a question.\n\nvaultedonline.com",
+   "alt": "Checklist graphic titled Draw fraud red flags with three flags: the same invoice in more than one draw, an invoice altered to show higher quantities or prices, and billing ahead of the work in place, plus a step to compare invoices with the inspection report.",
+   "image": "images/2026-10-27/1727-fb-draw-fraud-red-flags.png",
+   "sources": [
+    {
+     "title": "Construction Lending Fraud: Key Risks and How Lenders Can Prevent It",
+     "publisher": "Trinity Real Estate Solutions",
+     "url": "https://www.trinityonline.com/blog/fraud",
+     "date": "2026-05-08",
+     "quote": "A supplier invoice is altered to show higher quantities or prices ... the same invoice is submitted across multiple draws or multiple projects. These tactics exploit gaps between documentation, inspections, and draw approvals. None of these indicators alone prove intent."
+    },
+    {
+     "title": "Construction Payment Fraud: Red Flags, Common Schemes, and the Controls That Stop Them",
+     "publisher": "Corpay",
+     "url": "https://www.corpay.com/en-CHI/resources/blog/construction-payment-fraud",
+     "date": "2026-07-01",
+     "quote": "a sub bills ahead of the work in place, banking on the schedule of values being front-loaded. The same invoice arrives twice, once by email and once through a portal."
+    },
+    {
+     "title": "Fraud Friday: 9 Fake Lien Waivers, Zero Work; Muncie Contractor Indicted on $188,000 Construction Loan Draw Fraud",
+     "publisher": "The Coleman Report",
+     "url": "https://colemanreport.com/fraud-friday-9-fake-lien-waivers-zero-work-muncie-contractor-indicted-on-188000-construction-loan-draw-fraud/",
+     "date": "2026-07-17",
+     "quote": "A proper site inspection most likely would have caught the fraud."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "3 red flags",
+     "calc": "count of numbered items in the post: 3"
+    },
+    {
+     "figure": "3 (graphic)",
+     "calc": "same count"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85140b5343d070f584f5"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-28T08:56:00-04:00",
+   "topic": "census-new-residential-sept-2026",
+   "kind": "data",
+   "text": "Single-family housing starts were at a seasonally adjusted annual rate of 859,000 in September, the Census Bureau and HUD reported on October 20, 2026. That is 4.6% below the revised August figure of 900,000. Single-family permits were 845,000, down 4.0% from 880,000.\n\nThe catch: Census puts a margin of error of plus or minus 10.0% on the starts change, a range that includes zero. One month is a data point, not a trend.\n\nRehab and construction lenders can compare permits, starts and completions (840,000) across several releases before drawing conclusions.\n\nvaultedonline.com",
+   "alt": "Bar chart of single-family housing starts, 900,000 in August (revised) and 859,000 in September, and permits, 880,000 and 845,000, with cards for 840,000 completions and a plus or minus 10.0 percent margin on starts.",
+   "image": "images/2026-10-28/0856-fb-census-new-residential-sept.png",
+   "sources": [
+    {
+     "title": "New Residential Construction, September 2026",
+     "publisher": "U.S. Census Bureau and HUD",
+     "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+     "date": "2026-10-20",
+     "quote": "Privately-owned housing starts in September were at a seasonally adjusted annual rate of 1,221,000."
+    },
+    {
+     "title": "New Residential Construction, September 2026",
+     "publisher": "U.S. Census Bureau and HUD",
+     "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+     "date": "2026-10-20",
+     "quote": "Single-family housing starts in September were at a rate of 859,000; this is 4.6 percent (\u00b110.0 percent)* below the revised August figure of 900,000."
+    },
+    {
+     "title": "New Residential Construction, September 2026",
+     "publisher": "U.S. Census Bureau and HUD",
+     "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+     "date": "2026-10-20",
+     "quote": "Single-family authorizations in September were at a rate of 845,000; this is 4.0 percent below the revised August figure of 880,000."
+    },
+    {
+     "title": "New Residential Construction, September 2026",
+     "publisher": "U.S. Census Bureau and HUD",
+     "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+     "date": "2026-10-20",
+     "quote": "Single-family housing completions in September were at a rate of 840,000"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "4.6%",
+     "calc": "round((1-859/900)*100,1) = 4.6"
+    },
+    {
+     "figure": "4.0%",
+     "calc": "round((1-845/880)*100,1) = 4.0"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85140b5343d070f5854d"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-28T12:47:00-04:00",
+   "topic": "lender-breakeven-sale-price",
+   "kind": "evergreen",
+   "text": "A $180,000 loan at 12 percent defaults after 9 months. What sale price gets the lender whole?\n\nSimple interest is $16,200. Add $9,000 in legal and carrying costs (illustrative) and the lender is owed $205,200.\n\nSelling costs come off the top. One source puts seller closing costs at roughly 6 to 10 percent, used here as a proxy. At 8 percent, each sale dollar nets 92 cents, so breakeven is $205,200 / 0.92 = $223,044, about 124 percent of the loan. A $200,000 sale nets $184,000 and leaves the lender $21,200 short.\n\nLenders can run this math before setting LTV.\n\nvaultedonline.com",
+   "alt": "Bar showing a $223,044 breakeven sale price built from $180,000 principal, $16,200 interest, $9,000 legal and carry, and $17,844 selling costs at 8 percent. Cards: $205,200 owed, 124 percent of the loan, and $21,200 short at a $200,000 sale. Illustrative.",
+   "image": "images/2026-10-28/1247-fb-lender-breakeven-sale-price.png",
+   "sources": [
+    {
+     "title": "What Are the Closing Costs for a Home Seller?",
+     "publisher": "NerdWallet",
+     "url": "https://www.nerdwallet.com/mortgages/learn/closing-costs-home-seller",
+     "date": "2026-07-02",
+     "quote": "Closing costs for a seller can amount to roughly 6% to 10% of the sale price."
+    },
+    {
+     "title": "How Much Are Closing Costs for Sellers?",
+     "publisher": "Zillow",
+     "url": "https://www.zillow.com/learn/closing-costs-for-sellers/",
+     "date": "2025-09-16",
+     "quote": "As the seller expect to pay 8%-10% of the home sale price in closing costs."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$180,000 loan, 12 percent, 9 months, $9,000 legal and carry, 8 percent selling costs",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$16,200",
+     "calc": "180000*0.12*9/12 = 16200.0"
+    },
+    {
+     "figure": "$205,200",
+     "calc": "180000+16200+9000 = 205200"
+    },
+    {
+     "figure": "92 cents",
+     "calc": "1-0.08 = 0.92"
+    },
+    {
+     "figure": "$223,044",
+     "calc": "205200/0.92 = 223043.478, rounded up to the dollar"
+    },
+    {
+     "figure": "124 percent",
+     "calc": "223043.478/180000 = 1.2391 -> 124%"
+    },
+    {
+     "figure": "$184,000",
+     "calc": "200000*0.92 = 184000.0"
+    },
+    {
+     "figure": "$21,200",
+     "calc": "205200-184000 = 21200"
+    },
+    {
+     "figure": "$17,844",
+     "calc": "223044*0.08 = 17843.52 -> 17,844 (graphic)"
+    },
+    {
+     "figure": "$200,000",
+     "calc": "illustrative sale price"
+    },
+    {
+     "figure": "0.92",
+     "calc": "1-0.08 = 0.92 (divisor)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85156887a2efc12a0bd8"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-28T17:09:00-04:00",
+   "topic": "ofac-screening",
+   "kind": "evergreen",
+   "text": "Your borrower LLC is not on any sanctions list. Is it clear to lend? Not always.\n\nOFAC, a Treasury office, publishes the SDN List, short for Specially Designated Nationals. Assets of listed persons are blocked, and US persons are generally prohibited from dealing with them.\n\nThe catch: an entity owned 50 percent or more in total by blocked persons is blocked too, even if its own name is not listed. Two blocked owners at 25 percent each count.\n\nOFAC enforces civil penalties on a strict liability basis. Lenders can screen borrowers and their owners before closing.",
+   "alt": "Diagram of OFAC's 50 percent rule example: Blocked Person X owns 25 percent and Blocked Person Y owns another 25 percent of Entity A, so the 50 percent total makes Entity A blocked even if not named on the SDN List. Takeaway: lenders can screen borrowers and their owners.",
+   "image": "images/2026-10-28/1709-li-ofac-screening.png",
+   "sources": [
+    {
+     "title": "18. What is an SDN?",
+     "publisher": "U.S. Treasury, Office of Foreign Assets Control",
+     "url": "https://ofac.treasury.gov/faqs/18",
+     "date": "2002-09-10",
+     "quote": "Specially Designated Nationals or SDNs. Their assets are blocked, and U.S. persons are generally prohibited from dealing with them."
+    },
+    {
+     "title": "399. Aggregating blocked persons ownership (50 Percent Rule)",
+     "publisher": "U.S. Treasury, Office of Foreign Assets Control",
+     "url": "https://ofac.treasury.gov/faqs/topic/1521",
+     "date": "2014-08-13",
+     "quote": "OFAC's 50 Percent Rule applies to entities owned 50 percent or more in the aggregate by one or more blocked persons. If Blocked Person X owns 25 percent of Entity A, and Blocked Person Y owns another 25 percent of Entity A, Entity A is considered to be blocked."
+    },
+    {
+     "title": "91. What lists does OFAC maintain?",
+     "publisher": "U.S. Treasury, Office of Foreign Assets Control",
+     "url": "https://ofac.treasury.gov/faqs/91",
+     "date": "2024-08-21",
+     "quote": "are blocked regardless of whether the entity itself is listed on the SDN List."
+    },
+    {
+     "title": "Updated Advisory on Potential Sanctions Risks for Facilitating Ransomware Payments",
+     "publisher": "U.S. Treasury, Office of Foreign Assets Control",
+     "url": "https://ofac.treasury.gov/media/912981/download",
+     "date": "2021-09-21",
+     "quote": "OFAC may impose civil penalties for sanctions violations based on strict liability, meaning that a person subject to U.S. jurisdiction may be held civilly liable even if such person did not know"
+    },
+    {
+     "title": "Who Must Comply With OFAC Sanctions? Requirements & Checklist",
+     "publisher": "Sanctions Lawyers",
+     "url": "https://sanctionslawyers.net/blog-en/who-must-comply-with-ofac-sanctions/",
+     "date": "2026-10-20",
+     "quote": "OFAC applies strict liability for civil violations: intent is not required"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "50 percent",
+     "calc": "25 + 25 = 50, OFAC FAQ 399 example (owners 25 percent each, not an illustrative input of ours)"
+    },
+    {
+     "figure": "LLC borrower",
+     "calc": "illustrative situation, no numbers"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85276887a2efc12a1092"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-28T17:27:00-04:00",
+   "topic": "subordination-basics",
+   "kind": "evergreen",
+   "text": "A borrower wants to refinance, but a second lender already holds a lien on the property. Now what?\n\nThe new lender may ask that second lender to sign a subordination agreement. One lienholder agrees to lower the priority of its lien so that another lien moves ahead of it.\n\nWhy? If the second lender does not sign, the new lender might not refinance. The cost to the lender stepping back: subordinate liens might not get paid after a foreclosure.\n\nTakeaway: a lender asked to subordinate can first check what sits ahead of it.\n\nvaultedonline.com",
+   "alt": "Before and after lien order. Before: existing first lien is position 1, second lien is position 2. After the subordination agreement: new refinance loan is position 1, second lien is lowered to position 2. Notes: the new lender might not refinance without it; subordinate liens might not get paid after a foreclosure.",
+   "image": "images/2026-10-28/1727-fb-subordination-basics.png",
+   "sources": [
+    {
+     "title": "What a Subordination Agreement Means for Your Mortgage Refinance",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/what-subordination-agreement.html",
+     "date": "2023-11-09",
+     "quote": "A \"subordination agreement\" is a contract to prioritize one debt over another for repayment. ... the new lender might not refinance the first mortgage. ... subordinate (low priority) liens might not get paid after a foreclosure."
+    },
+    {
+     "title": "Subordination Agreement",
+     "publisher": "Barnes Walker",
+     "url": "https://barneswalker.com/legal-glossary/s/subordination-agreement/",
+     "date": "2026-10-25 (accessed; page undated)",
+     "quote": "one lienholder agrees to lower the priority of its lien so that another lien moves ahead of it ... the senior lender is paid first before the subordinate lender receives any proceeds"
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ade85160b5343d070f585a0"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-29T08:25:00-04:00",
+   "topic": "beige-book-real-estate-oct-2026",
+   "kind": "data",
+   "text": "Two Federal Reserve districts, same Beige Book, different home sales readings.\n\nIn the October 14, 2026 report, Boston says closed residential home sales decreased moderately in August year over year. Atlanta says home sales improved moderately, though many buyers had difficulty qualifying for a mortgage and sellers offered discounts and incentives.\n\nCommercial real estate was roughly stable in Boston and expanded modestly in Atlanta.\n\nTakeaway: one national headline can hide very different local markets. Lenders can check recent local sales before relying on a resale assumption.\n\nvaultedonline.com",
+   "alt": "Two cards compare the Federal Reserve Beige Book of October 14, 2026. Boston: closed home sales decreased moderately in August year over year; commercial real estate roughly stable. Atlanta: home sales improved moderately; commercial real estate expanded modestly.",
+   "image": "images/2026-10-29/0825-fb-beige-book-real-estate.png",
+   "sources": [
+    {
+     "title": "Beige Book October 2026, Boston",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-boston.htm",
+     "date": "2026-10-14",
+     "quote": "Closed residential home sales decreased moderately in August on a year-over-year basis on average. Commercial real estate activity was roughly stable on balance."
+    },
+    {
+     "title": "Beige Book October 2026, Atlanta",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-atlanta.htm",
+     "date": "2026-10-14",
+     "quote": "Home sales improved moderately across the Sixth District, and contacts noted many buyers had difficulty qualifying for a mortgage. Commercial real estate conditions expanded modestly on balance."
+    },
+    {
+     "title": "Beige Book October 2026, summary",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610-summary.htm",
+     "date": "2026-10-14",
+     "quote": "Boston: Home sales showed new weakness. Atlanta: Residential real estate saw moderate growth."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "October 14, 2026 / October 5, 2026",
+     "calc": "report date and information cutoff from the Fed pages; no arithmetic"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade85163d5b27036bf6428c"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-29T12:47:00-04:00",
+   "topic": "cost-of-capital-spread",
+   "kind": "evergreen",
+   "text": "A fund raises $5,000,000 at a 7 percent cost and lends it all at an 11.5 percent yield. What is left?\n\nThe difference is the spread: 11.5 minus 7 is 4.5 percentage points. On $5,000,000, that is $575,000 of interest earned against $350,000 owed, or $225,000 a year before expenses and losses.\n\nNow the cost of capital rises one point to 8 percent. The spread shrinks to 3.5 points, or $175,000. One point on the cost side removed about 22 percent of the spread income.\n\nLenders can compare the spread, not just the loan rate, when they price new loans.\n\nvaultedonline.com",
+   "alt": "Graphic for an illustrative $5,000,000 fund. Cards show $575,000 interest earned at an 11.5 percent yield, $350,000 owed at a 7 percent cost, and $225,000 of spread. Two bars show the spread falling from 4.5 to 3.5 points when cost rises to 8 percent, a $50,000 drop.",
+   "image": "images/2026-10-29/1247-fb-cost-of-capital-spread.png",
+   "sources": [
+    {
+     "title": "Net interest spread",
+     "publisher": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Net_interest_spread",
+     "date": "2026-10-25 (accessed; page undated)",
+     "quote": "Net interest spread is expressed as interest yield on earning assets (any asset, such as a loan, that generates interest income) minus interest rates paid on borrowed funds."
+    },
+    {
+     "title": "Net Interest Margin and Spread Analysis",
+     "publisher": "Umbrex",
+     "url": "https://umbrex.com/resources/industry-analyses/how-to-analyze-a-commercial-bank/net-interest-margin-and-spread-analysis/",
+     "date": "2026-03-25",
+     "quote": "Interest Spread = (Yield on Interest-Earning Assets) \u2013 (Cost of Interest-Bearing Liabilities)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$5,000,000 fund, 7 percent cost, 8 percent cost, 11.5 percent yield",
+     "calc": "illustrative inputs"
+    },
+    {
+     "figure": "$575,000",
+     "calc": "5_000_000*0.115 = 575000"
+    },
+    {
+     "figure": "$350,000",
+     "calc": "5_000_000*0.07 = 350000"
+    },
+    {
+     "figure": "4.5 percentage points",
+     "calc": "11.5-7 = 4.5"
+    },
+    {
+     "figure": "$225,000",
+     "calc": "575000-350000 = 225000"
+    },
+    {
+     "figure": "3.5 points",
+     "calc": "11.5-8 = 3.5"
+    },
+    {
+     "figure": "$175,000",
+     "calc": "5_000_000*0.035 = 175000"
+    },
+    {
+     "figure": "$50,000",
+     "calc": "225000-175000 = 50000"
+    },
+    {
+     "figure": "22 percent",
+     "calc": "50000/225000 = 0.2222"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6adf4f222cad517d9eff5e16"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-29T15:40:00-04:00",
+   "topic": "servicing-in-house-or-third-party",
+   "kind": "evergreen",
+   "text": "Moving loan servicing out of the house does not move every responsibility with it.\n\nFor residential mortgages, Freddie Mac describes a servicer as the main point of contact, one that collects payments, passes them to the lender, and funds escrow for tax and insurance bills.\n\nFor banks, regulators add the other side. Joint guidance says using third parties does not diminish a banking organization responsibility to meet its requirements. Private lender rules vary.\n\nBefore choosing, a lender can write down what the servicer will do and what stays with the lender.",
+   "alt": "Comparison of in-house servicing and a third-party servicer across payments, escrow, borrower contact and responsibility. Under bank guidance, using third parties does not diminish responsibility, so lenders can ask what the servicer does and what stays with them.",
+   "image": "images/2026-10-29/1540-li-servicing-in-house-or-third-party.png",
+   "sources": [
+    {
+     "title": "Mortgage Servicers: Who Are They and How They Can Help",
+     "publisher": "Freddie Mac",
+     "url": "https://myhome.freddiemac.com/blog/homeownership/mortgage-servicers-who-are-they-and-how-they-can-help",
+     "date": "2025-10-27",
+     "quote": "In turn, the servicer distributes your payment to your lender and funds your escrow account, if you have one."
+    },
+    {
+     "title": "Interagency Guidance on Third-Party Relationships",
+     "publisher": "Federal Reserve, FDIC and OCC",
+     "url": "https://www.federalreserve.gov/frrs/guidance/interagency-guidance-on-third-party-relationships.htm",
+     "date": "2023-06-06",
+     "quote": "A banking organization's use of third parties does not diminish its responsibility to meet these requirements"
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ade8528bd33ce99c394cde9"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-29T17:27:00-04:00",
+   "topic": "assignment-of-rents",
+   "kind": "evergreen",
+   "text": "A borrower defaults on a rental loan. Tenants still pay the borrower. Can the lender collect that rent instead?\n\nThat is the job of an assignment of rents. The borrower assigns the rents to the lender, and the lender grants the borrower a license to collect them. One law firm calls that license revocable upon default.\n\nAfter default, enforcement generally requires added steps, which may include notice to the borrower and direction letters to tenants. The clause is not self-executing in many states, and receivership is a common enforcement tool.\n\nLenders can ask counsel how it works locally.\n\nvaultedonline.com",
+   "alt": "Three step cards: rents assigned to the lender with a license for the borrower to collect, license revocable upon default, then notice and direction letters to tenants. A panel says the clause varies by state and is not self-executing in many states.",
+   "image": "images/2026-10-29/1727-fb-assignment-of-rents.png",
+   "sources": [
+    {
+     "title": "Understanding the Rents, Issues, and Profits Clause in Mortgage Lending",
+     "publisher": "Cummings Law",
+     "url": "https://www.cummings.law/understanding-the-rents-issues-and-profits-clause-in-mortgage-lending/",
+     "date": "2026-10-25",
+     "quote": "The clause is not self-executing in many states. Other jurisdictions rely on case law, which may require judicial intervention or receivership before the lender may collect. Per the page: enforcement generally requires additional steps, which may include providing notice to the borrower, serving direction letters on tenants, revoking the borrower's license to collect."
+    },
+    {
+     "title": "Assignment of Leases and Rents: Absolutely Collateral",
+     "publisher": "Jeffrey B. Steiner, DLA Piper (ALM Media, via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/news/assignment-leases-rents-absolutely-collateral-053703329.html",
+     "date": "2018-03-20",
+     "quote": "In turn, the lender grants the borrower a license, revocable upon an event of default, to collect and use the rents."
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ae09ec7c8df6b6a011ec82a"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-30T08:00:00-04:00",
+   "topic": "monthly-market-data-oct-2026",
+   "kind": "data",
+   "text": "Homes took a median of 29 days to go pending in September, Zillow reports. That is two days longer than a year earlier.\n\nNewly pending sales fell 8.5% from a year earlier. Pending means under contract, not closed.\n\nIllustrative: a $330,000 loan at 10% interest-only, actual/365, accrues about $90.41 a day. If the clock starts at listing, 29 days is $2,622 of interest, and the two extra days add $181.\n\nLenders can ask what listing time a borrower's exit plan assumes and compare it with current data.\n\nvaultedonline.com",
+   "alt": "Timeline bar: 29 days to go pending, then closing still ahead. Cards: Zillow September 2026 median 29 days to go pending, 2 days longer than a year ago; newly pending sales down 8.5 percent; illustrative interest of $2,622 over 29 days on $330,000 at 10 percent.",
+   "image": "images/2026-10-30/0800-fb-zillow-days-to-pending.png",
+   "sources": [
+    {
+     "title": "Winter Has Arrived Early in the Housing Market as Newly Pending Sales Fall 8.5% (Zillow September Market Report)",
+     "publisher": "Zillow Research",
+     "url": "https://www.zillow.com/research/september-2026-market-report/",
+     "date": "2026-10-06",
+     "quote": "Homes took a median of 29 days to go pending in September. That was two days longer than a year earlier and two days longer than August."
+    },
+    {
+     "title": "Zillow September Market Report (research page)",
+     "publisher": "Zillow Research",
+     "url": "https://www.zillow.com/research/september-2026-market-report/",
+     "date": "2026-10-06",
+     "quote": "Newly pending sales, a leading indicator of future closings, fell 8.5% year over year."
+    },
+    {
+     "title": "Zillow's September Market Report shows an early winter in the housing market as newly pending sales fall 8.5%",
+     "publisher": "Zillow Media Room",
+     "url": "https://zillow.mediaroom.com/2026-10-06-Zillows-September-Market-Report-shows-an-early-winter-in-the-housing-market-as-newly-pending-sales-fall-8-5",
+     "date": "2026-10-06",
+     "quote": "Newly pending sales, which measures listings that changed from for-sale to pending status rather than closed sales"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$330,000 at 10% interest-only",
+     "calc": "illustrative input chosen by me"
+    },
+    {
+     "figure": "$90.41",
+     "calc": "330000*0.10/365 = 90.41 (actual/365)"
+    },
+    {
+     "figure": "$2,622",
+     "calc": "330000*0.10/365*29 = 2621.92"
+    },
+    {
+     "figure": "$181",
+     "calc": "330000*0.10/365*2 = 180.82"
+    },
+    {
+     "figure": "27 days (year-ago, graphic not printed)",
+     "calc": "29 - 2 = 27"
+    },
+    {
+     "figure": "365",
+     "calc": "days in year for actual/365 daily interest basis (illustrative convention)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ae09ec9c8df6b6a011ec8d6"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-30T12:47:00-04:00",
+   "topic": "percent-vs-milestone-draws",
+   "kind": "evergreen",
+   "text": "Same $120,000 rehab budget, two ways to release it.\n\nPercent complete: an inspector verifies the job is 50 percent done, so $60,000 is earned (50 percent x $120,000).\n\nMilestone: money is tied to checkpoints. Picture four hypothetical checkpoints of $30,000 each. If the work is 50 percent done but only the first checkpoint is verified, $30,000 is released.\n\nBoth are meant to follow verified work, not the calendar. Lenders can spell out in the loan documents which method applies and how partial work is treated.\n\nvaultedonline.com",
+   "alt": "Illustrative $120,000 rehab budget at 50 percent complete. Percent-complete draw: $60,000 earned. Milestone draw with four hypothetical $30,000 checkpoints and only the first verified: $30,000 released, the rest waits.",
+   "image": "images/2026-10-30/1247-fb-percent-vs-milestone-draws.png",
+   "sources": [
+    {
+     "title": "Draw Schedules Explained: How Construction Loan Funding Works",
+     "publisher": "Yieldi",
+     "url": "https://yieldi.com/draw-schedule-construction-lending/",
+     "date": "2026-05-21",
+     "quote": "Funds are released based on % complete, usually verified by inspection."
+    },
+    {
+     "title": "Draw Schedules Explained: How Construction Loan Funding Works (milestone)",
+     "publisher": "Yieldi",
+     "url": "https://yieldi.com/draw-schedule-construction-lending/",
+     "date": "2026-05-21",
+     "quote": "Funds are released at clear construction checkpoints."
+    },
+    {
+     "title": "Construction Loan Draw Schedules Explained: How Inspections, Disbursements, and Cash Flow Really Work",
+     "publisher": "Clion Capital",
+     "url": "https://blog.clioncapital.com/construction-loan-draw-schedule-explained",
+     "date": "2026-06-09",
+     "quote": "A draw schedule is a legally binding disbursement plan tied to verified construction milestones, not calendar dates."
+    },
+    {
+     "title": "Construction Draw Schedules in 2026: How Lenders Release Funds and What Can Go Wrong",
+     "publisher": "Yieldstack",
+     "url": "https://yieldstack.ai/blog/construction-draw-schedules-guide",
+     "date": "2026-03-22",
+     "quote": "Draws tied to overall project completion percentage, verified by inspection."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$120,000",
+     "calc": "illustrative rehab budget chosen by author"
+    },
+    {
+     "figure": "50 percent",
+     "calc": "illustrative verified percent complete chosen by author"
+    },
+    {
+     "figure": "$60,000",
+     "calc": "120000*50//100 = 60000"
+    },
+    {
+     "figure": "four checkpoints",
+     "calc": "illustrative, hypothetical count chosen by author"
+    },
+    {
+     "figure": "$30,000",
+     "calc": "120000//4 = 30000 per hypothetical checkpoint; one verified = 30000*1 = 30000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ae1f19c06fb8ec00cf52d43"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-10-30T14:00:00-04:00",
+   "topic": "rtl-securitization",
+   "kind": "data",
+   "text": "How big is the residential transition loan securitization market? KBRA projects about $4.8 billion of issuance for 2026, down about 12 percent from $5.5 billion in 2025.\n\nIssuance was $6.2 billion in 2024. KBRA says the 2024 and 2025 levels were approximately three times 2023.\n\nRated deals are expected to reach about $3.5 billion, around 73 percent of the 2026 projection.\n\nTakeaway: these are projected full-year numbers, not a final count, and rated deals make up the larger share.",
+   "alt": "Bar chart of KBRA RTL securitization issuance: $6.2 billion in 2024, $5.5 billion in 2025, and a projected $4.8 billion for 2026, of which about $3.5 billion is rated (73 percent). The 2026 projection is down 12 percent from 2025.",
+   "image": "images/2026-10-30/1400-li-rtl-securitization.png",
+   "sources": [
+    {
+     "title": "KBRA Releases Research: Laying the Foundation: The Evolution of RTL Lending",
+     "publisher": "KBRA",
+     "url": "https://www.kbra.com/publications/CfwBDnbf/kbra-releases-research-laying-the-foundation-the-evolution-of-rtl-lending?format=web",
+     "date": "2026-07-30",
+     "quote": "We project FY 2026 issuance to total approximately $4.8 billion, down 12% year-over-year; total annual issuance rising to $6.2 billion in 2024 and $5.5 billion in 2025, approximately 3x the 2023 levels; rated issuance to reach approximately $3.5 billion, representing approximately 73% of projected 2026 RTL securitization volume; RTL representing less than 5% of expected full-year (FY) 2026 private-label securities (PLS) issuance."
+    },
+    {
+     "title": "Rated Deals Gain Ground In RTL Securitization Market",
+     "publisher": "National Mortgage Professional",
+     "url": "https://nationalmortgageprofessional.com/news/rated-deals-gain-ground-rtl-securitization-market",
+     "date": "2026-08-03",
+     "quote": "KBRA projects approximately $4.8 billion in RTL securitization issuance for full-year 2026, down 12% from $5.5 billion in 2025. Annual issuance reached $6.2 billion in 2024 and $5.5 billion in 2025, roughly three times the level recorded in 2023. Rated issuance is expected to reach approximately $3.5 billion, representing about 73% of this year's projected RTL securitization volume."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$1.3 billion",
+     "calc": "round(4.8-3.5,1) = 1.3 (graphic only: unrated remainder by subtraction)"
+    },
+    {
+     "figure": "73 percent check",
+     "calc": "round(3.5/4.8*100,1) = 72.9, consistent with KBRA approximately 73%"
+    },
+    {
+     "figure": "12 percent check",
+     "calc": "round((5.5-4.8)/5.5*100,1) = 12.7, KBRA states down 12% on unrounded figures"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ade8529bd33ce99c394ce13"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-30T17:27:00-04:00",
+   "topic": "final-draw-conditions",
+   "kind": "evergreen",
+   "text": "What does a final draw wait on? Two lender guides name overlapping items.\n\nA hard money guide says the last draw \"usually requires final inspection, a certificate of occupancy, and a final lien waiver.\" A commercial construction guide lists a certificate of occupancy, final unconditional lien waivers from all tiers, and a final title endorsement with no open liens.\n\nRequirements vary by lender, loan and state.\n\nLenders can share the final draw list with the borrower early, so the last release is not waiting on paperwork.\n\nvaultedonline.com",
+   "alt": "Two side-by-side checklists. A hard money guide lists final inspection, certificate of occupancy and a final lien waiver for the last draw. A commercial guide lists certificate of occupancy, final unconditional lien waivers from all tiers, and a final title endorsement with no open liens. Items in both are in gold.",
+   "image": "images/2026-10-30/1727-fb-final-draw-conditions.png",
+   "sources": [
+    {
+     "title": "How ADU Builders Draw Funds on a Hard Money Construction Loan",
+     "publisher": "Lendmire",
+     "url": "https://www.lendmire.com/adu-builders-draw-funds-on-a-hard-money/",
+     "date": "2026-10-23",
+     "quote": "The last draw usually requires final inspection, a certificate of occupancy, and a final lien waiver."
+    },
+    {
+     "title": "Commercial Construction Loan Draw Schedule (2026)",
+     "publisher": "Terrapin Capital Group",
+     "url": "https://terrapincg.com/news/commercial-construction-loan-draw-schedule-2026",
+     "date": "2026-04-24",
+     "quote": "Before final funds release, the lender verifies: ... temporary or permanent CO issued by AHJ; final Unconditional lien waivers from all tiers; final title endorsement with no open liens"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "2 guides; 3 items each",
+     "calc": "count of items in each checklist: 3 and 3"
+    },
+    {
+     "figure": "overlap highlighted in gold",
+     "calc": "certificate of occupancy and final lien waiver(s) appear in both lists (editorial comparison, no numbers)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ae1f19e06fb8ec00cf52ded"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-31T09:32:00-04:00",
+   "topic": "ny-fed-hhdc",
+   "kind": "data",
+   "text": "How many mortgages are slipping 90 days late? The New York Fed's Q2 2026 household debt report, released August 11, 2026, has a number worth knowing.\n\nThe annualized share of mortgage balances newly becoming 90 or more days late was 1.52 percent, up from 1.29 percent a year earlier. That is 0.23 points, or about 18 percent higher.\n\nThese are household mortgages in general, not private loans, and $505 billion of new mortgage debt was originated in the quarter.\n\nLenders can treat it as a backdrop, then check their own loans one by one.\n\nvaultedonline.com",
+   "alt": "Two cards compare the share of mortgage balances newly 90 or more days late: 1.29 percent in Q2 2025 and 1.52 percent in Q2 2026, a rise of 0.23 points or about 18 percent. A third card shows $505 billion of mortgages originated in Q2 2026. NY Fed data.",
+   "image": "images/2026-10-31/0932-fb-ny-fed-hhdc.png",
+   "sources": [
+    {
+     "title": "Household Debt Balances Decreased Slightly; Credit Card Delinquency Transition Rates Remained Steady",
+     "publisher": "Federal Reserve Bank of New York",
+     "url": "https://www.newyorkfed.org/newsevents/news/research/2026/20260811",
+     "date": "2026-08-11",
+     "quote": "Mortgage Debt | 1.29% | 1.52% (Flow into Serious Delinquency (90 days or more delinquent), Q2 2025 vs Q2 2026). Rates represent annualized shares of balances transitioning into delinquency. The pace of mortgage originations was largely steady with $505 billion newly originated in Q2 2026."
+    },
+    {
+     "title": "Quarterly Report on Household Debt and Credit, 2026Q2",
+     "publisher": "Federal Reserve Bank of New York",
+     "url": "https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2026q2.pdf",
+     "date": "2026-08-11",
+     "quote": "There was $505 billion in newly originated mortgage debt in 2026Q2."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "0.23",
+     "calc": "round(1.52-1.29,2) = 0.23"
+    },
+    {
+     "figure": "about 18 percent",
+     "calc": "round((1.52/1.29-1)*100,1) = 17.8"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ae1f1a141c946fe22ccf646"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-31T13:47:00-04:00",
+   "topic": "protective-advances-ltv",
+   "kind": "evergreen",
+   "text": "A borrower stops paying the property tax bill, and the lender pays it. What happens to the loan?\n\nThat payment is called a protective advance: money a lender pays for an expense the borrower was supposed to cover, such as delinquent property taxes or lapsed hazard insurance. One source says it gets added to the loan balance and accrues interest.\n\nIllustrative: a $250,000 loan on a $350,000 value is 71.4 percent LTV. Add a $6,500 advance and the balance is $256,500, or 73.3 percent.\n\nLenders can recheck LTV after any advance. Terms vary by lender and state.\n\nvaultedonline.com",
+   "alt": "Two bars compare an illustrative $250,000 loan on a $350,000 property before and after a $6,500 protective advance. LTV rises from 71.4 percent to 73.3 percent as the balance grows to $256,500.",
+   "image": "images/2026-10-31/1347-fb-protective-advances-ltv.png",
+   "sources": [
+    {
+     "title": "Protective Advances: Definition, Rules, and Borrower Rights",
+     "publisher": "LegalClarity",
+     "url": "https://legalclarity.org/protective-advances-definition-rules-and-borrower-rights/",
+     "date": "2026-05-13",
+     "quote": "A protective advance is a payment made by a lender to cover an expense the borrower was supposed to cover. These advances get added to your loan balance and accrue interest."
+    },
+    {
+     "title": "Protective Advances",
+     "publisher": "Justia Contracts Dictionary",
+     "url": "https://dictionary.contracts.justia.com/protective-advances",
+     "date": "2026-10-25",
+     "quote": "All sums advanced for the purpose of payment of real estate taxes ... insurance premiums, other items ... reasonably necessary to protect the Collateral from forfeiture, casualty, loss or waste. (page undated, accessed 2026-10-25)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$250,000 loan, $350,000 value, $6,500 advance",
+     "calc": "illustrative inputs"
+    },
+    {
+     "figure": "71.4 percent",
+     "calc": "250000/350000*100 = 71.43"
+    },
+    {
+     "figure": "$256,500",
+     "calc": "250000+6500 = 256500"
+    },
+    {
+     "figure": "73.3 percent",
+     "calc": "256500/350000*100 = 73.29"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ae1f1a441c946fe22ccf6b3"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-10-31T17:27:00-04:00",
+   "topic": "judicial-vs-nonjudicial",
+   "kind": "evergreen",
+   "text": "Two loans default on the same day, in two different states. One lender must file a lawsuit. The other may not need a court at all.\n\nThat is the gap between judicial and nonjudicial foreclosure. In a judicial state, a court oversees the case, and Nolo says it can last several months or even years in some cases. In a nonjudicial state, a trustee typically handles it, and Nolo says it can take just a few months or less.\n\nProcedures differ widely by state. Lenders can ask counsel which process applies to a loan.\n\nvaultedonline.com",
+   "alt": "Two comparison cards. Judicial: the lender must file a lawsuit, a court oversees through hearings, and it can take several months or even years in some cases. Nonjudicial: power of sale with no court order first, a trustee typically handles it, and it often takes a few months or less. Varies by state.",
+   "image": "images/2026-10-31/1727-fb-judicial-vs-nonjudicial.png",
+   "sources": [
+    {
+     "title": "The Difference Between a Judicial and Nonjudicial Foreclosure",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/the-difference-between-a-judicial-and-nonjudicial-foreclosure.html",
+     "date": "2026-10-25",
+     "quote": "In states with a judicial foreclosure process, the lender must file a lawsuit to foreclose. The court system usually isn't involved in states that permit a nonjudicial foreclosure process. A trustee typically handles a nonjudicial foreclosure. The judicial foreclosure process can be lengthy, frequently lasting several months or even years in some cases. Nonjudicial foreclosure procedures differ widely from state to state. (page undated, accessed 2026-10-25; the nonjudicial process is often quicker, \"often lasting just a few months or less.\")"
+    },
+    {
+     "title": "non-judicial foreclosure",
+     "publisher": "Cornell Legal Information Institute (Wex)",
+     "url": "https://www.law.cornell.edu/wex/non-judicial_foreclosure",
+     "date": "2023-08-01",
+     "quote": "A non-judicial foreclosure is when lenders foreclose property without getting a court order first. (Last reviewed in August of 2023 by the Wex Definitions Team.)"
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ae34327650dab96a3729ffc"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-01T10:15:00-05:00",
+   "topic": "loan-file-contents",
+   "kind": "evergreen",
+   "text": "What should be in a private loan file on closing day, and on payoff day?\n\nAt closing, a file can hold the signed note, the deed of trust or mortgage, any guaranty, the business purpose certification and the entity certificate, among others.\n\nA servicer boarding checklist lists the title policy, the insurance declarations page, the most recent tax bill and the borrower payment history.\n\nAt payoff, FDIC guidance says a lender should provide a recordable lien release. For consumer mortgages, the CFPB says the original note should be returned and the release may be delayed.\n\nVaries by lender and state.\n\nvaultedonline.com",
+   "alt": "Three checklist columns. At closing: signed note, deed of trust or mortgage, guaranty, business purpose certification, entity certificate. During the loan: title policy, insurance declarations page, tax bill, payment history. At payoff: recordable lien release, original note returned, release may be delayed.",
+   "image": "images/2026-11-01/1015-fb-loan-file-contents.png",
+   "sources": [
+    {
+     "title": "The Essential Loan Documents Checklist For Lenders",
+     "publisher": "Fortra Law",
+     "url": "https://fortralaw.com/the-essential-loan-documents-checklist-for-lenders/",
+     "date": "2024-02-16",
+     "quote": "At a minimum, a set of loan documents should include the following: Promissory Note; Security Instrument (Deed of Trust / Mortgage); Guaranty; Business Purpose of Loan Certification; Entity Certificate."
+    },
+    {
+     "title": "Servicing File Content Requirements",
+     "publisher": "Superior Loan Servicing",
+     "url": "https://superiorloanservicing.com/wp-content/uploads/2022/03/New-Loan-Boarding-Document-Checklist_2022.pdf",
+     "date": "2026-10-25 (accessed; page undated)",
+     "quote": "Title Insurance Policy and any subsequent endorsements; Insurance Declarations Page or EOI/COI; Most Recent Tax Bill, if applicable; Borrower Payment History."
+    },
+    {
+     "title": "Obtaining a Lien Release",
+     "publisher": "FDIC",
+     "url": "https://www.fdic.gov/bank-failures/obtaining-lien-release",
+     "date": "2026-10-25 (accessed; page undated)",
+     "quote": "Once the loan is repaid, the lender should provide a recordable lien release document."
+    },
+    {
+     "title": "After I have paid off my mortgage, how do I check if my lien was released?",
+     "publisher": "CFPB",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/after-i-have-paid-off-my-mortgage-how-do-i-check-if-my-lien-was-released-en-206/",
+     "date": "2024-09-13",
+     "quote": "After you pay off your mortgage, your lender should also return the original note to you. Note that there may be a delay between the time you pay off your mortgage and the release of your lien."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "no numeric figures",
+     "calc": "post and graphic contain no numbers other than dates in the footnote"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ae3432a1d52e172a105da4f"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-01T13:47:00-05:00",
+   "topic": "flip-vs-hold-exit",
+   "kind": "evergreen",
+   "text": "Illustrative: one $210,000 loan. Two exits. Two different ways the lender gets repaid.\n\nFlip: the house sells at its $300,000 after-repair value. Selling costs of 6 percent take $18,000, leaving $282,000. That is $72,000 above the loan, before interest and other costs.\n\nHold: a refinance repays the loan, and the new lender looks at rent. With $2,400 rent, a $2,050 payment gives 1.17 coverage. A $2,600 payment gives 0.92, under a 1.0 floor one lender cites, so the refinance may not work.\n\nLenders can ask which exit is planned, then test it with that exit's own numbers.\n\nvaultedonline.com",
+   "alt": "Two comparison cards for one $210,000 loan. Flip: $300,000 sale less 6 percent costs of $18,000 leaves $282,000, which is $72,000 above the loan. Hold: $2,400 rent over a $2,050 payment is 1.17 coverage; over a $2,600 payment it is 0.92, under a 1.0 floor.",
+   "image": "images/2026-11-01/1347-fb-flip-vs-hold-exit.png",
+   "sources": [
+    {
+     "title": "Hard Money Loan Exit Strategy For Real Estate Investors",
+     "publisher": "Lendmire",
+     "url": "https://www.lendmire.com/hard-money-loan-exit-strategy-for-real-estate-investors/",
+     "date": "2026-10-15",
+     "quote": "The sale proceeds retire the loan at closing, and anything left over is yours."
+    },
+    {
+     "title": "5 Hard Money Loan Exit Strategies",
+     "publisher": "North Coast Financial, Inc.",
+     "url": "https://www.northcoastfinancialinc.com/5-hard-money-loan-exit-strategies/",
+     "date": "2026-09-23",
+     "quote": "The borrower sells the property and the sales transaction pays off the balance of the hard money loan."
+    },
+    {
+     "title": "Fix to Rent Loans: How Bridge-to-DSCR Financing Works",
+     "publisher": "Ridge Street Capital",
+     "url": "https://www.ridgestreetcap.com/blog/fix-to-rent-loans",
+     "date": "2026-10-09",
+     "quote": "the monthly rental income must at least equal the full loan payment"
+    },
+    {
+     "title": "Hard Money Loan Exit Strategy For Real Estate Investors (refinance and DSCR sizing)",
+     "publisher": "Lendmire",
+     "url": "https://www.lendmire.com/hard-money-loan-exit-strategy-for-real-estate-investors/",
+     "date": "2026-10-15",
+     "quote": "The DSCR loan is sized off value and rent coverage."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$300,000 after-repair value, $210,000 loan, 6 percent selling costs, $2,400 rent, $2,050 and $2,600 payments",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$18,000",
+     "calc": "300000*0.06 = 18000.0"
+    },
+    {
+     "figure": "$282,000",
+     "calc": "300000-18000 = 282000"
+    },
+    {
+     "figure": "$72,000",
+     "calc": "282000-210000 = 72000"
+    },
+    {
+     "figure": "1.17",
+     "calc": "2400/2050 = 1.1707"
+    },
+    {
+     "figure": "0.92",
+     "calc": "2400/2600 = 0.9231"
+    },
+    {
+     "figure": "1.0 floor",
+     "calc": "coverage of 1.0 means rent equals payment; 2400/2400 = 1.0 (floor cited by Ridge Street; varies by lender)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6ae3432df67cfc9914efd1e1"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-01T17:27:00-05:00",
+   "topic": "deed-in-lieu",
+   "kind": "evergreen",
+   "text": "A borrower in default offers to hand over the property instead of facing foreclosure. That is a deed in lieu of foreclosure: the borrower conveys the property to the lender.\n\nOne source says the lender who accepts takes title subject to all liens and claims affecting the property. A deed in lieu does not wipe out junior liens the way a foreclosure can.\n\nOne source says a lender should hesitate before accepting where junior liens or judgments are outstanding. Some may choose foreclosure for clean title. Varies by state.\n\nCheck what sits on title before deciding.\n\nvaultedonline.com",
+   "alt": "Navy graphic titled Deed in lieu of foreclosure, look at what stays on title. Three bars list junior liens, judgments and mechanic's liens that a title search can show, above a gold bar for the lender taking the deed. Cards compare deed in lieu with foreclosure.",
+   "image": "images/2026-11-01/1727-fb-deed-in-lieu.png",
+   "sources": [
+    {
+     "title": "Distressed Real Estate During the COVID-19 Pandemic: Deeds in Lieu of Foreclosure Involving Commercial Real Estate",
+     "publisher": "Pillsbury Winthrop Shaw Pittman",
+     "url": "https://www.pillsburylaw.com/en/news-and-insights/deeds-in-lieu-of-foreclosure-covid-19.html",
+     "date": "2020-08-12",
+     "quote": "the lender who accepts a deed in lieu will take title subject to all liens and claims affecting the property."
+    },
+    {
+     "title": "Deeds in Lieu of Foreclosure: Advantages, Disadvantages, and Drafting",
+     "publisher": "Attorneys' Title Guaranty Fund, Inc.",
+     "url": "https://www.atgf.com/tools-publications/pubs/deeds-lieu-foreclosure-advantages-disadvantages-and-drafting",
+     "date": "2012-03-29",
+     "quote": "A lender should also hesitate before accepting a lieu deed where there are outstanding subordinate liens or judgments"
+    },
+    {
+     "title": "Deeds in Lieu of Foreclosure",
+     "publisher": "LoneStarLandLaw.com (David J. Willis)",
+     "url": "https://lonestarlandlaw.com/deeds-in-lieu-of-foreclosure/",
+     "date": "2026-10-12",
+     "quote": "A DIL, unlike a foreclosure, does not wipe out subordinate liens or intervening interests."
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6ae492964233ff6805be757d"
+  }
+ ]
 }
