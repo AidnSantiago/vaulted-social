@@ -1,0 +1,1232 @@
+{
+ "week_start": "2026-11-02",
+ "posts": [
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-02T08:42:00-05:00",
+   "topic": "fomc-oct-2026",
+   "kind": "data",
+   "text": "The Federal Reserve held its federal funds target range at 3-3/4 to 4 percent on October 28, 2026, in a 10 to 2 vote.\n\nThe Fed does not set the prime rate. Individual banks do, and many base it partly on that target. The Fed's H.15 release shows prime at 7.00 percent on October 29, 2026.\n\nIllustrative: prime plus 1.5 is 8.50 percent. On $520,000 interest-only, that is $3,683.33 a month. Each quarter point of change moves it $108.33.\n\nPrime did not move, so neither did that payment. Lenders can check the note for the index and adjustment date.\n\nvaultedonline.com",
+   "alt": "Four cards. The Fed held its target range at 3-3/4 to 4 percent on October 28, 2026, and bank prime is 7.00 percent. An illustrative $520,000 interest-only loan at prime plus 1.5 costs $3,683.33 a month; each quarter point adds $108.33.",
+   "image": "images/2026-11-02/0842-fb-fomc-oct-2026.png",
+   "sources": [
+    {
+     "title": "Federal Reserve issues FOMC statement",
+     "publisher": "Federal Reserve Board",
+     "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+     "date": "2026-10-28",
+     "quote": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate. The Federal Open Market Committee approved the following statement for release by a 10 \u2013 2 vote:"
+    },
+    {
+     "title": "Selected Interest Rates (H.15)",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/releases/h15/",
+     "date": "2026-10-30",
+     "quote": "Bank prime loan, October 29, 2026: 7.00. Rate posted by a majority of top 25 (by assets in domestic offices) insured U.S.-chartered commercial banks."
+    },
+    {
+     "title": "What is the prime rate, and does the Federal Reserve set the prime rate?",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/faqs/credit_12846.htm",
+     "date": "2013-08-02",
+     "quote": "The prime rate is an interest rate determined by individual banks. Although the Federal Reserve has no direct role in setting the prime rate, many banks choose to set their prime rates based partly on the target level of the federal funds rate"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$520,000, prime plus 1.5",
+     "calc": "illustrative loan inputs chosen by author, interest-only"
+    },
+    {
+     "figure": "8.50 percent",
+     "calc": "7.00 + 1.50 = 8.50"
+    },
+    {
+     "figure": "$3,683.33",
+     "calc": "520000*0.085/12 = 3683.33"
+    },
+    {
+     "figure": "$108.33",
+     "calc": "520000*0.0025/12 = 108.33"
+    },
+    {
+     "figure": "$3,791.67 (graphic) / 8.75 percent",
+     "calc": "520000*0.0875/12 = 3791.67; 8.50+0.25 = 8.75"
+    },
+    {
+     "figure": "10 to 2",
+     "calc": "vote count from the FOMC statement quote"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-02T11:34:00-05:00",
+   "topic": "sloos-oct-2026",
+   "kind": "data",
+   "text": "Is bank money getting easier or harder for construction and land deals? The Fed asked loan officers.\n\nIn the survey released May 4, 2026, covering the first quarter, 61 banks answered on construction and land development standards. Most left them basically unchanged, 48 banks or 78.7 percent. Another 13.1 percent tightened somewhat and 8.2 percent eased somewhat.\n\nDemand moved the other way. Of 60 banks, 21.7 percent reported weaker demand, while only 6 reported stronger demand.\n\nBank appetite is one input a lender can watch alongside local deal flow.",
+   "alt": "Two stacked bars from the Fed April 2026 loan officer survey, first quarter 2026. Construction and land standards: 13.1 percent tightened, 78.7 percent unchanged, 8.2 percent eased. Demand: 21.7 percent weaker, 68.3 percent about the same, 6 of 60 banks stronger.",
+   "image": "images/2026-11-02/1134-li-sloos-oct-2026.png",
+   "sources": [
+    {
+     "title": "The April 2026 Senior Loan Officer Opinion Survey on Bank Lending Practices - Table 1",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/data/sloos/sloos-202604-table-1.htm",
+     "date": "2026-05-04",
+     "quote": "Q7 construction and land development standards, All Respondents: Tightened somewhat 8 (13.1%), Remained basically unchanged 48 (78.7%), Eased somewhat 5 (8.2%), Total 61. Q10 demand: Moderately stronger 6, About the same 41 (68.3%), Moderately weaker 12 (20.0%), Substantially weaker 1 (1.7%), Total 60."
+    },
+    {
+     "title": "April 2026 Senior Loan Officer Opinion Survey on Bank Lending Practices",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/data/documents/sloos-202604.pdf",
+     "date": "2026-05-04",
+     "quote": "For release at 2:00 p.m. ET May 4, 2026. Regarding demand for CRE loans, a moderate net share of banks reported weaker demand for CLD loans, while demand was basically unchanged for NFNR and MF loans."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "21.7 percent",
+     "calc": "round(100*(12+1)/60,1) = 21.7"
+    },
+    {
+     "figure": "13",
+     "calc": "12+1 = 13 banks weaker"
+    },
+    {
+     "figure": "68.3 percent",
+     "calc": "41/60 = 68.3 (also in source)"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-02T12:47:00-05:00",
+   "topic": "default-carry-cost",
+   "kind": "evergreen",
+   "text": "A borrower stops paying on a $420,000 loan at 11 percent, and the loan heads to foreclosure. What does waiting cost the lender each month?\n\nLost interest: $420,000 x 11 percent / 12 = $3,850.\nProperty taxes: $5,400 / 12 = $450.\nInsurance: $3,000 / 12 = $250.\n\nThat is $4,550 a month, or $36,400 over 8 months. Those inputs are illustrative.\n\nATTOM data reported by HousingWire put the Q2 2026 national average foreclosure at 563 days. At that average, the carry would run longer.\n\nLenders can add a carry estimate to their loss math before a loan goes bad.\n\nvaultedonline.com",
+   "alt": "Bar chart of illustrative carry on a $420,000 loan at 11 percent in foreclosure: $3,850 lost interest, $450 taxes, $250 insurance a month, building from $4,550 in month 1 to $36,400 after 8 months.",
+   "image": "images/2026-11-02/1247-fb-default-carry-cost.png",
+   "sources": [
+    {
+     "title": "Foreclosures climb 21% in first half of 2026 as timelines shorten",
+     "publisher": "HousingWire (reporting ATTOM)",
+     "url": "https://www.housingwire.com/articles/us-foreclosures-rise-2026-midyear-attom-report/",
+     "date": "2026-07-16",
+     "quote": "Properties foreclosed in the second quarter of 2026 spent an average of 563 days in the process"
+    },
+    {
+     "title": "Foreclosures Rise in First Half of 2026, Report Finds",
+     "publisher": "RISMedia (reporting ATTOM)",
+     "url": "https://www.rismedia.com/2026/07/16/foreclosures-rise-first-half-2026-attom/",
+     "date": "2026-07-16",
+     "quote": "The average time for a foreclosure came in at 563 days, the quickest turnaround since 2013."
+    },
+    {
+     "title": "The Process, Data, and Costs of Mortgage Foreclosure",
+     "publisher": "Congressional Research Service (via EveryCRSReport)",
+     "url": "https://www.everycrsreport.com/reports/RL34232.html",
+     "date": "2008-10-20",
+     "quote": "the lender still incurs costs such as forgone interest, property taxes"
+    },
+    {
+     "title": "Carry Costs in Private Lending: What They Are and How to Control Them",
+     "publisher": "Note Servicing Center",
+     "url": "https://noteservicingcenter.com/private-lendings-silent-profit-eater-understanding-mitigating-carry-costs/",
+     "date": "2026-11-01",
+     "quote": "property taxes, insurance, maintenance, and legal fees accrue continuously, directly reducing net returns"
+    },
+    {
+     "title": "The Carrying Costs for a Foreclosed House",
+     "publisher": "Pocketsense",
+     "url": "https://pocketsense.com/carrying-costs-foreclosed-house-15194.html",
+     "date": "2022-08-30",
+     "quote": "These costs include property taxes, insurance, preservation and marketing costs, and personnel expenses."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$420,000, 11 percent, $5,400, $3,000, 8 months",
+     "calc": "illustrative inputs chosen by me ($380,000 from assignment replaced because ledger default-interest used it on 2026-10-15)"
+    },
+    {
+     "figure": "$3,850",
+     "calc": "420000*0.11/12 = 3850.0"
+    },
+    {
+     "figure": "$450",
+     "calc": "5400/12 = 450.0"
+    },
+    {
+     "figure": "$250",
+     "calc": "3000/12 = 250.0"
+    },
+    {
+     "figure": "$4,550",
+     "calc": "3850+450+250 = 4550"
+    },
+    {
+     "figure": "$36,400",
+     "calc": "4550*8 = 36400"
+    },
+    {
+     "figure": "$9,100 / $13,650 / $18,200 / $22,750 / $27,300 / $31,850",
+     "calc": "4550*k for k=2..7 = 9100, 13650, 18200, 22750, 27300, 31850"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-02T17:27:00-05:00",
+   "topic": "bridge-loan-definition",
+   "kind": "evergreen",
+   "text": "What is a bridge loan actually bridging?\n\nA bridge loan is short-term financing that covers a temporary gap in funding. In real estate, that gap can be a property that is not yet eligible for permanent financing.\n\nTerms vary by lender. PNC describes a few months to one year as typical. Adventures in CRE says a few months to several years.\n\nThe exit matters as much as the gap. One source calls refinancing into a permanent loan the typical exit. Lenders can weigh the exit as heavily as the gap.\n\nvaultedonline.com",
+   "alt": "Three cards in a row: the gap (property not yet eligible for permanent financing), the bridge (a short-term loan covering the temporary gap), and the exit (refinance into a permanent loan). Below, PNC cites a few months to one year; Adventures in CRE cites a few months to several years.",
+   "image": "images/2026-11-02/1727-fb-bridge-loan-definition.png",
+   "sources": [
+    {
+     "title": "What Is a Bridge Loan?",
+     "publisher": "PNC",
+     "url": "https://www.pnc.com/insights/personal-finance/borrow/what-is-a-bridge-loan.html",
+     "date": "2025-04-07",
+     "quote": "A bridge loan is a short-term financing option that covers temporary gaps in funding. The loan term typically ranges between a few months and one year."
+    },
+    {
+     "title": "Bridge Loan - Glossary of CRE Terms",
+     "publisher": "Adventures in CRE",
+     "url": "https://www.adventuresincre.com/glossary/bridge-loan/",
+     "date": "2025-07-02",
+     "quote": "Also referred to as a mini-perm, in real estate a bridge loan is a short-term loan typically provided to developers and value-add real estate investors and is used to \"bridge\" periods during which the property is not eligible for permanent financing. The term of a bridge loan can be anywhere from a few months to several years. The typical exit strategy is to refinance into a permanent loan with a lower interest rate"
+    },
+    {
+     "title": "Bridge Loan: What It Is and How It Works",
+     "publisher": "LendingTree",
+     "url": "https://www.lendingtree.com/home/mortgage/bridge-financing-basics/",
+     "date": "2025-04-24",
+     "quote": "A bridge loan is a short-term loan that allows you to purchase a new home before selling your current one."
+    }
+   ],
+   "derived": [],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-03T09:15:00-05:00",
+   "topic": "land-loans",
+   "kind": "evergreen",
+   "text": "How much could a $240,000 parcel of raw land support as a loan?\n\nFederal interagency real estate lending guidelines list supervisory loan-to-value limits of 65 percent for raw land and 75 percent for land development. They say institutions should set internal limits that do not exceed these.\n\nOn $240,000, 65 percent is $156,000. At 75 percent it is $180,000, a $24,000 gap.\n\nThese guidelines address regulated institutions, and private lender limits vary by lender. Some lenders look at them as a reference point when sizing a land loan.\n\nvaultedonline.com",
+   "alt": "Bar chart for an illustrative $240,000 parcel: a $156,000 bar at the 65 percent raw land supervisory limit and a $180,000 bar at the 75 percent land development limit, a $24,000 gap, from federal bank lending guidelines.",
+   "image": "images/2026-11-03/0915-fb-land-loans.png",
+   "sources": [
+    {
+     "title": "Interagency Guidelines for Real Estate Lending Policies (12 CFR Part 208, Appendix C)",
+     "publisher": "Cornell LII (eCFR text)",
+     "url": "https://www.law.cornell.edu/cfr/text/12/appendix-C_to_part_208",
+     "date": "2026-11-01",
+     "quote": "Institutions should establish their own internal loan-to-value limits for real estate loans. Raw land | 65; Land development | 75 (page undated, accessed 2026-11-01)"
+    },
+    {
+     "title": "SR 93-33 (FIS), Interagency Guidelines on real estate lending",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/boarddocs/SRLetters/1993/sr9333.htm",
+     "date": "1993-06-14",
+     "quote": "the loan generally should be considered a raw land loan with a 65 percent supervisory LTV. / The applicable supervisory LTV for such loans is 75 percent which corresponds to the land development loan category."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$240,000",
+     "calc": "illustrative appraised value chosen by author"
+    },
+    {
+     "figure": "$156,000",
+     "calc": "240000*0.65 = 156000"
+    },
+    {
+     "figure": "$180,000",
+     "calc": "240000*0.75 = 180000"
+    },
+    {
+     "figure": "$24,000",
+     "calc": "180000-156000 = 24000"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-03T10:21:00-05:00",
+   "topic": "loan-loss-reserve",
+   "kind": "evergreen",
+   "text": "A lender holds $4,350,000 of loans. Not every loan will pay as agreed. How do banks account for that?\n\nA loss reserve, called an allowance for credit losses in bank accounting, is an estimate of expected credit losses. The Federal Reserve says losses can be measured on a pool basis when loans share similar risk characteristics.\n\nIllustrative: $2,900,000 at 1.2 percent is $34,800. $1,450,000 at 3.0 percent is $43,500. Together that is $78,300, or 1.8 percent of the book.\n\nHistorical loss information is generally a starting point, adjusted for current conditions.",
+   "alt": "Bar split into two loan pools of an illustrative $4,350,000 book: $2,900,000 at 1.2 percent and $1,450,000 at 3.0 percent. Reserves of $34,800 and $43,500 add to $78,300, which is 1.8 percent of the book.",
+   "image": "images/2026-11-03/1021-li-loan-loss-reserve.png",
+   "sources": [
+    {
+     "title": "Frequently Asked Questions on the Current Expected Credit Losses Methodology",
+     "publisher": "Board of Governors of the Federal Reserve System",
+     "url": "https://www.federalreserve.gov/frrs/guidance/frequently-asked-questions-on-the-current-expected-credit-losses-methodology.htm",
+     "date": "2026-11-01 (accessed; page undated)",
+     "quote": "the allowance for credit losses is an estimate of the expected credit losses on financial assets measured at amortized cost"
+    },
+    {
+     "title": "Frequently Asked Questions on the Current Expected Credit Losses Methodology (Q8, pooling)",
+     "publisher": "Board of Governors of the Federal Reserve System",
+     "url": "https://www.federalreserve.gov/frrs/guidance/frequently-asked-questions-on-the-current-expected-credit-losses-methodology.htm",
+     "date": "2026-11-01 (accessed; page undated)",
+     "quote": "measure expected credit losses on financial assets carried at amortized cost on a collective or pool basis"
+    },
+    {
+     "title": "Frequently Asked Questions on the Current Expected Credit Losses Methodology (Q24)",
+     "publisher": "Board of Governors of the Federal Reserve System",
+     "url": "https://www.federalreserve.gov/frrs/guidance/frequently-asked-questions-on-the-current-expected-credit-losses-methodology.htm",
+     "date": "2026-11-01 (accessed; page undated)",
+     "quote": "Historical loss information will generally provide an appropriate starting point"
+    },
+    {
+     "title": "Joint Statement on the New Accounting Standard on Financial Instruments (FIL-39-2016)",
+     "publisher": "FDIC",
+     "url": "https://www.fdic.gov/news/financial-institution-letters/2016/fil16039.html",
+     "date": "2016-06-17",
+     "quote": "the allowance for credit losses is a valuation account measured as the difference between the amortized cost basis"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$4,350,000",
+     "calc": "illustrative: 2900000 + 1450000 = 4350000"
+    },
+    {
+     "figure": "$2,900,000 at 1.2 percent",
+     "calc": "illustrative inputs"
+    },
+    {
+     "figure": "$1,450,000 at 3.0 percent",
+     "calc": "illustrative inputs"
+    },
+    {
+     "figure": "$34,800",
+     "calc": "2900000*0.012 = 34800"
+    },
+    {
+     "figure": "$43,500",
+     "calc": "1450000*0.03 = 43500"
+    },
+    {
+     "figure": "$78,300",
+     "calc": "34800+43500 = 78300"
+    },
+    {
+     "figure": "1.8 percent",
+     "calc": "78300/4350000*100 = 1.8"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-03T12:47:00-05:00",
+   "topic": "combined-ltv-second-lien",
+   "kind": "evergreen",
+   "text": "A first lien of $270,000 on a $450,000 property is 60 percent LTV. Add a $63,000 second lien and the risk picture changes.\n\nCombined LTV adds every loan balance on the property, then divides by its value: ($270,000 + $63,000) / $450,000 = 74 percent.\n\nThe first lender gets first dibs on sale proceeds, so the second lien is first to take a shortfall. If value drops 10 percent to $405,000, combined LTV rises to 82.2 percent.\n\nLenders can compute it before funding and again if value changes. Illustrative numbers.\n\nvaultedonline.com",
+   "alt": "Bar showing a $450,000 property split into a $270,000 first lien, a $63,000 second lien and $117,000 left over. Cards show first lien LTV 60 percent, combined LTV 74 percent, and 82.2 percent if value drops 10 percent to $405,000. Illustrative numbers.",
+   "image": "images/2026-11-03/1247-fb-combined-ltv-second-lien.png",
+   "sources": [
+    {
+     "title": "What Is Combined Loan-to-Value Ratio?",
+     "publisher": "Experian",
+     "url": "https://www.experian.com/blogs/ask-experian/what-is-combined-loan-to-value-ratio/",
+     "date": "2024-01-15",
+     "quote": "It's calculated by adding up your primary mortgage loan balance and your desired home equity loan amount then dividing that sum by your home's value. ... your mortgage lender gets first dibs on the proceeds from selling the home. ... there's a risk that the home equity lender won't get enough from the sale to cover the full amount you owe. ... a higher CLTV poses more of a risk to lenders."
+    },
+    {
+     "title": "Combined loan-to-value ratio",
+     "publisher": "Bankrate",
+     "url": "https://www.bankrate.com/glossary/c/combined-loan-to-value-ratio",
+     "date": "2026-07-31",
+     "quote": "This factors in all of the loan balances on the property: the outstanding balance on the first mortgage..."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$450,000 / $270,000 / $63,000",
+     "calc": "illustrative inputs chosen from assignment"
+    },
+    {
+     "figure": "60 percent",
+     "calc": "270000/450000 = 0.6"
+    },
+    {
+     "figure": "$333,000",
+     "calc": "270000+63000 = 333000"
+    },
+    {
+     "figure": "74 percent",
+     "calc": "333000/450000 = 0.74"
+    },
+    {
+     "figure": "10 percent drop, $405,000",
+     "calc": "450000*0.90 = 405000 (illustrative 10 percent drop)"
+    },
+    {
+     "figure": "82.2 percent",
+     "calc": "333000/405000 = 0.8222"
+    },
+    {
+     "figure": "$117,000",
+     "calc": "450000-270000-63000 = 117000"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-03T17:27:00-05:00",
+   "topic": "open-permits-risk",
+   "kind": "evergreen",
+   "text": "Work that was never closed out with the city can follow a property into your loan file.\n\nThree places it can show up:\n\nValue. Appraisers may not be able to count an unpermitted addition as gross living area, even if the work looks high quality.\n\nInsurance. Unpermitted additions may not be covered under a homeowner's policy.\n\nClosing. When an open permit appears in city records, a lender may not know whether the work was completed properly, and may suspend the mortgage.\n\nChecking permit records early can avoid last-minute surprises. Rules vary by state and lender.\n\nvaultedonline.com",
+   "alt": "Three cards titled value, insurance and closing. Each says what unpermitted or open-permit work may do: space may not count as official gross living area, additions may not be covered by homeowner's insurance, and a lender may suspend the mortgage. No figures.",
+   "image": "images/2026-11-03/1727-fb-open-permits-risk.png",
+   "sources": [
+    {
+     "title": "Permits & Unpermitted Additions: What Loan Officers and Homeowners Need to Know",
+     "publisher": "AAA AMC",
+     "url": "https://www.aaa-amc.net/post/permits-unpermitted-additions-what-loan-officers-and-homeowners-need-to-know",
+     "date": "2026-05-20",
+     "quote": "appraisers may not be able to include that space as an official gross living area. Even if the improvement looks high quality, missing permits can limit how the space is treated in the report."
+    },
+    {
+     "title": "What Is Unpermitted Work? Risks, Disclosure, and What to Do About It",
+     "publisher": "Shovels",
+     "url": "https://www.shovels.ai/blog/unpermitted-work/",
+     "date": "2026-05-06",
+     "quote": "Unpermitted additions may not be covered under homeowner's insurance."
+    },
+    {
+     "title": "Open Permit Blocking a Florida Mortgage?",
+     "publisher": "Lendworth",
+     "url": "https://www.lendworth.com/blog/lendworth-usa-2/open-permit-or-unpermitted-addition-found-before-your-florida-mortgage-closing-how-to-save-the-deal-1428",
+     "date": "2026-09-01",
+     "quote": "When an open permit appears in municipal records, the lender may not know whether the work was completed properly, inspected or abandoned before completion. The lender may suspend the mortgage, the appraiser may refuse to give value to the improvement and the insurance company may question whether the altered area can be covered."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "Three topics (value, insurance, closing)",
+     "calc": "count of cards, no numeric figures used"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-04T08:56:00-05:00",
+   "topic": "pending-home-sales-sep-2026",
+   "kind": "data",
+   "text": "Pending home sales fell 7.3% in September from August, and 11.3% from a year earlier, NAR reported on October 20, 2026.\n\nA pending sale is a signed contract that has not closed. NAR says a sale usually is finalized within one or two months of signing.\n\nSo fewer contracts now may mean fewer closings and payoffs in the months ahead. Illustrative: a $265,000 loan at 12% interest-only accrues $2,650 a month. Each month a sale slips is another $2,650 of interest the borrower carries.\n\nLenders can check exit timelines against current contract activity.\n\nvaultedonline.com",
+   "alt": "Graphic: NAR pending home sales for September 2026 fell 7.3 percent from August and 11.3 percent from a year earlier. Regional drops: Northeast 4.2, Midwest 6.5, South 8.2, West 9.2 percent. Illustrative $265,000 loan at 12 percent costs $2,650 a month.",
+   "image": "images/2026-11-04/0856-fb-pending-home-sales-sep-2026.png",
+   "sources": [
+    {
+     "title": "Pending Home Sales Decreased 7.3% in September",
+     "publisher": "National Association of Realtors",
+     "url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-7-3-percent-in-september",
+     "date": "2026-10-20",
+     "quote": "Pending home sales in September decreased by 7.3% month-over-month and 11.3% year-over-year"
+    },
+    {
+     "title": "Pending Home Sales Decreased 7.3% in September (definition)",
+     "publisher": "National Association of Realtors",
+     "url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-7-3-percent-in-september",
+     "date": "2026-10-20",
+     "quote": "A sale is listed as pending when the contract has been signed but the transaction has not closed, and the sale usually is finalized within one or two months of signing."
+    },
+    {
+     "title": "Pending Home Sales Decreased 7.3% in September (regions)",
+     "publisher": "National Association of Realtors",
+     "url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-7-3-percent-in-september",
+     "date": "2026-10-20",
+     "quote": "Northeast 4.2% decrease month-over-month; Midwest 6.5% decrease month-over-month; South 8.2% decrease month-over-month; West 9.2% decrease month-over-month"
+    },
+    {
+     "title": "Pending Home Sales Decreased in September, NAR Report Shows",
+     "publisher": "The MortgagePoint",
+     "url": "https://themortgagepoint.com/2026/10/20/pending-home-sales-decreased-in-september-nar-shows/",
+     "date": "2026-10-20",
+     "quote": "7.3% decrease month-over-month; 11.3% decrease year-over-year; NAR says a pending sale usually closes within one or two months of signing."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$265,000, 12%, interest-only",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$2,650",
+     "calc": "265000*0.12/12 = 2650.0"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-04T12:47:00-05:00",
+   "topic": "loss-severity-math",
+   "kind": "evergreen",
+   "text": "A foreclosure sale brings $305,000 on a $290,000 loan. Is the lender whole? Not necessarily.\n\nIllustrative math:\nSale $305,000 less 8 percent selling costs = $280,600 net.\nOwed: $290,000 balance + $19,000 accrued interest + $13,000 costs = $322,000.\nLoss: $322,000 less $280,600 = $41,400.\n\nOver the $290,000 balance, that is 14.3 percent loss severity.\n\nTwo studies of residential mortgages measure severity as net loss over unpaid balance, and some leave out lost interest. Without it, this loss is $22,400, or 7.7 percent.\n\nLenders can state which definition they use.\n\nvaultedonline.com",
+   "alt": "Two bars for an illustrative foreclosure sale: the lender is owed $322,000 ($290,000 balance, $19,000 interest, $13,000 costs); the $305,000 sale nets $280,600 after 8 percent selling costs, leaving a $41,400 loss. Severity is 14.3 percent with lost interest, 7.7 percent without.",
+   "image": "images/2026-11-04/1247-fb-loss-severity-math.png",
+   "sources": [
+    {
+     "title": "Mortgage Loss Severities: What Keeps Them So High?",
+     "publisher": "Federal Reserve Bank of Philadelphia (WP 20-37)",
+     "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-37.pdf",
+     "date": "2020-09-01",
+     "quote": "We define the loss severity rate as the total net loss divided by the UPB at liquidation, in which total net loss includes net sales losses (net sale proceeds minus UPB), and liquidation expenses offset by non-mortgage insurance (non-MI) recoveries. Selling expenses are subtracted from gross sales proceeds to derive net sale proceeds."
+    },
+    {
+     "title": "Loss Severity on Residential Mortgages: Evidence from Freddie Mac's Newest Data",
+     "publisher": "Urban Institute",
+     "url": "https://www.urban.org/sites/default/files/publication/39566/2000092-Loss-Severity-on-Residential-Mortgages.pdf",
+     "date": "2015-02-01",
+     "quote": "We calculate severity as the unpaid principal balance of the loan plus expenses, less the net sales proceeds, less recoveries from MI and other sources as a percentage of the unpaid principal balance. Some readers may note that we have not included lost interest in our calculation of severity."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$290,000 / $19,000 / $13,000 / $305,000 / 8 percent",
+     "calc": "illustrative inputs chosen by assignment ($14,000 costs swapped to $13,000 because $14,000 is in ledger.json)"
+    },
+    {
+     "figure": "$280,600",
+     "calc": "305000*(1-0.08) = 280600"
+    },
+    {
+     "figure": "$322,000",
+     "calc": "290000+19000+13000 = 322000"
+    },
+    {
+     "figure": "$41,400",
+     "calc": "322000-280600 = 41400"
+    },
+    {
+     "figure": "14.3 percent",
+     "calc": "41400/290000*100 = 14.2759 -> 14.3"
+    },
+    {
+     "figure": "$22,400",
+     "calc": "290000+13000-280600 = 22400"
+    },
+    {
+     "figure": "7.7 percent",
+     "calc": "22400/290000*100 = 7.7241 -> 7.7"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-04T17:27:00-05:00",
+   "topic": "post-closing-liquidity",
+   "kind": "evergreen",
+   "text": "A borrower can have enough cash to close and still be one bad month from trouble.\n\nThat is why lenders can look at post-closing liquidity: the liquid assets a borrower still has after the loan closes and all transaction costs are paid.\n\nOne SBA lending source says a borrower with zero liquidity after closing is a significantly higher default risk. Another says reserves show a borrower can keep paying while a property recovers from a vacancy.\n\nLenders can also check what counts. Gifts, unsecured borrowed funds and home equity generally do not. Requirements depend on the loan program.\n\nvaultedonline.com",
+   "alt": "Three step cards: liquid assets before the deal, close the loan and pay all costs, cash left is post-closing liquidity. Below, a note that reserves show a borrower can keep paying while a property recovers, and that gifts, unsecured borrowed funds and home equity generally do not count.",
+   "image": "images/2026-11-04/1727-fb-post-closing-liquidity.png",
+   "sources": [
+    {
+     "title": "What is Post Close Liquidity When Buying a Business with an SBA Loan?",
+     "publisher": "GoSBA Loans",
+     "url": "https://gosbaloans.com/guide/post-close-liquidity-sba-loan/",
+     "date": "2026-06-10",
+     "quote": "liquid assets a borrower will have remaining after the loan closes and all transaction costs are paid. From the lender's perspective, a borrower with zero liquidity after closing is a significantly higher default risk."
+    },
+    {
+     "title": "How to Meet DSCR Reserve Requirements Without Draining Cash",
+     "publisher": "Lendmire",
+     "url": "https://www.lendmire.com/meet-dscr-reserve-requirements/",
+     "date": "2026-11-01",
+     "quote": "Rent can dip. A tenant can leave. Reserves show you can keep paying while the property recovers. Gifts, unsecured borrowed funds, and home equity generally do not count."
+    },
+    {
+     "title": "B3-4.1-01, Minimum Reserve Requirements",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b3-4.1-01/minimum-reserve-requirements",
+     "date": "2024-08-07",
+     "quote": "Liquid financial reserves are those liquid or near liquid assets that are available to a borrower after the mortgage closes."
+    }
+   ],
+   "derived": [],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-05T08:25:00-05:00",
+   "topic": "pmms-oct29-2026",
+   "kind": "data",
+   "text": "Freddie Mac says the 30-year fixed rate averaged 7.24 percent as of October 29, 2026. A year earlier it was 6.17 percent, so rates are 1.07 points higher.\n\nA borrower's refinance exit depends on the rate available when the new loan closes.\n\nIllustrative: a $370,000 refinance, 30 years, principal and interest. At 6.17 percent the payment is $2,258.94 a month. At 7.24 percent it is $2,521.54, about $263 more.\n\nLenders can ask whether a borrower's refinance exit still works at today's rate. Rates vary by lender.\n\nvaultedonline.com",
+   "alt": "Bar chart of the Freddie Mac 30-year fixed average: 6.17 percent a year earlier and 7.24 percent as of October 29, 2026, up 1.07 points. Illustrative $370,000 loan over 30 years: payment $2,258.94 at 6.17 percent, $2,521.54 at 7.24 percent, about $263 more a month.",
+   "image": "images/2026-11-05/0825-fb-pmms-oct29-2026.png",
+   "sources": [
+    {
+     "title": "Mortgage Rates (PMMS)",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-10-29 (accessed 2026-11-01; page undated)",
+     "quote": "The 30-year fixed-rate mortgage averaged 7.24% as of October 29, 2026, down from last week when it averaged 7.32%. A year ago at this time, the 30-year FRM averaged 6.17%."
+    },
+    {
+     "title": "30-Year Fixed Rate Mortgage Average in the United States (MORTGAGE30US)",
+     "publisher": "FRED, Federal Reserve Bank of St. Louis (Freddie Mac data)",
+     "url": "https://fred.stlouisfed.org/graph/?g=1XU7Y",
+     "date": "2026-10-29",
+     "quote": "2026-10-29: 7.24 (last updated Oct 29, 2026)"
+    },
+    {
+     "title": "Freddie Mac US 30 year mortgage average is 6.17%",
+     "publisher": "InvestingLive",
+     "url": "https://images.investinglive.com/news/freddie-mac-us-30-year-mortgage-average-is-617-20251030/",
+     "date": "2025-10-30",
+     "quote": "The US 30 year fixed-rate mortgage came in at 6.17% in the October 30 week."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "1.07 points",
+     "calc": "round(7.24-6.17,2) = 1.07"
+    },
+    {
+     "figure": "$370,000, 30 years",
+     "calc": "illustrative loan amount and term chosen by author"
+    },
+    {
+     "figure": "$2,258.94",
+     "calc": "P*i/(1-(1+i)**-360), P=370000, i=6.17/1200 = 2258.94"
+    },
+    {
+     "figure": "$2,521.54",
+     "calc": "same formula, i=7.24/1200 = 2521.54"
+    },
+    {
+     "figure": "about $263",
+     "calc": "2521.54-2258.94 = 262.60 (unrounded 262.61), rounded to 263"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-05T12:47:00-05:00",
+   "topic": "partial-release-pricing",
+   "kind": "evergreen",
+   "text": "A $900,000 loan is secured by 4 lots, each valued at $300,000. One lot sells. What must be paid down to release it?\n\nPro rata is $225,000, or 900,000 divided by 4. The price can be set higher. At 120 percent of the allocated amount, it is $270,000.\n\nThe remaining $630,000 loan then sits on 3 lots worth $900,000, or 70 percent loan to value. Pro rata would leave $675,000 against $900,000, or 75 percent.\n\nOne legal glossary cited by a lender site describes release prices of about 110 to 125 percent. Terms vary by lender.\n\nvaultedonline.com",
+   "alt": "Two cards compare releasing one lot from a $900,000 loan on 4 lots worth $300,000 each. Pro rata release pays down $225,000, leaving $675,000 on $900,000 of value, 75 percent. A 120 percent release pays $270,000, leaving $630,000, 70 percent.",
+   "image": "images/2026-11-05/1247-fb-partial-release-pricing.png",
+   "sources": [
+    {
+     "title": "DSCR Blanket Loan Release Prices, Paydowns and Lender Consent",
+     "publisher": "Lendmire",
+     "url": "https://www.lendmire.com/blanket-loan-release-prices/",
+     "date": "2026-10-11",
+     "quote": "That keeps the leftover loan from becoming under-collateralized. [Article cites a legal glossary as describing] release prices of about 110% to 125% of the pro rata allocation."
+    },
+    {
+     "title": "Partial Release Clauses on Commercial Loans",
+     "publisher": "C-Loans (George Blackburne)",
+     "url": "https://info.c-loans.com/bid/53456/partial-release-clauses-on-commercial-loans",
+     "date": "2009-12-17",
+     "quote": "by 120% of $30,000 ($36,000) in order to get a premium lot (culs-de-sac or view lot) released."
+    },
+    {
+     "title": "Blanket Loan Release Clause: Selling One Property",
+     "publisher": "Lending Street",
+     "url": "https://lendingstreet.io/blanket-loan-release-clause.html",
+     "date": "2026-11-01 (accessed; page undated)",
+     "quote": "Release prices are commonly 110% to 125% of the property's allocated loan amount."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$900,000 loan, 4 lots, $300,000 each, 120 percent",
+     "calc": "illustrative inputs chosen from assignment"
+    },
+    {
+     "figure": "$225,000",
+     "calc": "900000/4 = 225000.0"
+    },
+    {
+     "figure": "$270,000",
+     "calc": "225000*1.2 = 270000.0"
+    },
+    {
+     "figure": "$630,000",
+     "calc": "900000-270000 = 630000"
+    },
+    {
+     "figure": "$675,000",
+     "calc": "900000-225000 = 675000"
+    },
+    {
+     "figure": "$900,000 remaining value",
+     "calc": "300000*3 = 900000"
+    },
+    {
+     "figure": "70 percent",
+     "calc": "630000/900000 = 0.70"
+    },
+    {
+     "figure": "75 percent",
+     "calc": "675000/900000 = 0.75"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-05T15:40:00-05:00",
+   "topic": "participation-vs-assignment",
+   "kind": "evergreen",
+   "text": "A lender sells part of a loan to an investor. Is that a participation or assignment? The answer decides who the borrower deals with.\n\nIn a participation, the lead lender keeps title to the loan, stays the borrower contact and manages servicing. The buyer is not a creditor of the borrower and cannot act against the borrower or collateral independently.\n\nIn an assignment, the entire note changes hands. The buyer replaces the seller as lender.\n\nBefore buying or selling, lenders can confirm with counsel who holds title, who services and who can enforce. Terms vary by agreement.",
+   "alt": "Comparison graphic of participation versus assignment. In a participation the lead lender keeps title, stays the borrower contact and manages servicing, and the buyer is not a creditor of the borrower. In an assignment the entire note changes hands and the buyer replaces the seller as lender.",
+   "image": "images/2026-11-05/1540-li-participation-vs-assignment.png",
+   "sources": [
+    {
+     "title": "Participations in the Fund Finance Market",
+     "publisher": "Mayer Brown",
+     "url": "https://www.mayerbrown.com/en/insights/publications/2025/05/participations-in-the-fund-finance-market",
+     "date": "2025-05-06",
+     "quote": "the Lender of Record retains title to the loan and maintains a direct relationship with the borrower. | The Participant is not a creditor of the borrower | the assignee is the acknowledged replacement of the assignor"
+    },
+    {
+     "title": "Loan Participation Agreements in Private Lending",
+     "publisher": "Geraci LLP",
+     "url": "https://geracillp.com/understanding-loan-participation-agreements/",
+     "date": "2026-06-01",
+     "quote": "Once the loan is funded, the lead lender manages all servicing functions. | Participants cannot independently pursue the borrower, file liens, or take legal action against the collateral. | Unlike a loan assignment, where the entire note changes hands, a participation preserves the lead lender's position as the sole point of contact with the borrower."
+    },
+    {
+     "title": "Loan Participations",
+     "publisher": "Dykema (Commercial Law Newsletter)",
+     "url": "https://www.dykema.com/a/web/7nNyKHMcDUU3LzNBW8BwLQ/3h9m93/2012.07_connor_commerci",
+     "date": "2012-07-01",
+     "quote": "the loan documentation is only between the lead and the borrower. | services the loan, acting as the lender which deals with the borrower."
+    }
+   ],
+   "derived": [],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-05T17:27:00-05:00",
+   "topic": "hazard-insurance-lapse",
+   "kind": "evergreen",
+   "text": "A borrower's hazard insurance lapses. What can the lender do?\n\nLoan documents can let the lender buy coverage and charge the borrower. That is force-placed insurance, also called lender-placed. It may protect the lender more than the borrower, may omit personal property and liability coverage, and often costs more than a standard policy.\n\nFor covered home mortgages, federal servicing rules require written notice at least 45 days before a charge, and cancellation within 15 days of proof of coverage. Terms vary, and business-purpose loans may fall outside those rules.\n\nLenders can request renewal proof before a lapse.\n\nvaultedonline.com",
+   "alt": "Navy graphic titled Borrower insurance lapses. What can the lender do? Three steps for covered home mortgages: coverage lapses, written notice 45 days or more before a charge, and cancellation within 15 days of proof of coverage. Three cards say a force-placed policy may protect the lender more, may omit personal property and liability, and can cost much more.",
+   "image": "images/2026-11-05/1727-fb-hazard-insurance-lapse.png",
+   "sources": [
+    {
+     "title": "Force-Placed & Lender Placed Insurance",
+     "publisher": "Progressive",
+     "url": "https://www.progressive.com/answers/force-placed-insurance/",
+     "date": "2023-08-15",
+     "quote": "Force-placed insurance happens when your mortgage company or auto lender purchases an insurance policy on your vehicle or home. It may protect the lender more than you, may be missing coverages that protect you, like personal property and liability coverage, and can be much more expensive than a regular policy. Your lender is legally required to cancel your force-placed insurance within 15 days."
+    },
+    {
+     "title": "12 CFR 1024.37 Force-placed insurance",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/rules-policy/regulations/1024/37/",
+     "date": "2026-11-01 (accessed; page undated)",
+     "quote": "at least 45 days before a servicer assesses on a borrower such charge or fee"
+    },
+    {
+     "title": "12 CFR 1024.37 Force-placed insurance",
+     "publisher": "Cornell Legal Information Institute",
+     "url": "https://www.law.cornell.edu/cfr/text/12/1024.37",
+     "date": "2026-11-01 (accessed; page undated)",
+     "quote": "Within 15 days of receiving, from the borrower or otherwise, evidence demonstrating that the borrower has had hazard insurance coverage in place, a servicer shall cancel the force-placed insurance."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "45 days and 15 days",
+     "calc": "quoted regulation periods (written notice before a charge; cancellation after proof of coverage); no arithmetic"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-06T08:00:00-05:00",
+   "topic": "mortgage-vs-deed-of-trust",
+   "kind": "evergreen",
+   "text": "Same default, two different documents. What the lender holds can change the foreclosure path.\n\nA mortgage is a two-party arrangement: borrower and lender. A mortgage foreclosure most often occurs judicially, which means it is filed in a court.\n\nA deed of trust is a three-party arrangement. A trustee holds title for the lender until the loan is repaid, and a power-of-sale clause can allow a nonjudicial foreclosure with no court oversight.\n\nWhich instrument is used, and how it is enforced, varies by state. Lenders can confirm both before funding in a new state.\n\nvaultedonline.com",
+   "alt": "Two comparison cards. Mortgage: two parties, borrower and lender; foreclosure most often judicial, filed in a court. Deed of trust: three parties, borrower, lender and trustee; foreclosure often nonjudicial under a power-of-sale clause. A panel notes this varies by state.",
+   "image": "images/2026-11-06/0800-fb-mortgage-vs-deed-of-trust.png",
+   "sources": [
+    {
+     "title": "Deed of Trust vs. Mortgage: What Private Lenders Need to Know",
+     "publisher": "Geraci LLP",
+     "url": "https://geracillp.com/deed-of-trust-vs-mortgage-private-lending-basics/",
+     "date": "2024-06-04",
+     "quote": "A mortgage is a two-party arrangement. A deed of trust is a three-party arrangement. In practice, the state where the collateral is located determines which instrument is recognized and how it is enforced."
+    },
+    {
+     "title": "Deed of Trust vs Mortgage: What's the Difference",
+     "publisher": "Chase",
+     "url": "https://www.chase.com/personal/mortgage/education/managing-your-mortgage/deed-of-trust-vs-mortgage",
+     "date": "2025-10-30",
+     "quote": "Foreclosure of a mortgage most often occurs judicially\u2014this means it is filed in a court of law. Foreclosure of a deed of trust is often completed non-judicially, which means the court is not involved."
+    },
+    {
+     "title": "What Is a Power of Sale Foreclosure?",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/what-is-power-sale-foreclosure.html",
+     "date": "2026-11-01 (accessed; page undated)",
+     "quote": "With a power of sale foreclosure, also called a \"nonjudicial\" foreclosure, the lender can foreclose without court oversight. Each state has its own requirements."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "two / three parties",
+     "calc": "words only, quoted from sources; no computed figures"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-06T12:47:00-05:00",
+   "topic": "overrun-ltc-math",
+   "kind": "evergreen",
+   "text": "Illustrative: a $241,000 flip with a $57,500 rehab budget. The loan is 85 percent of purchase plus 100 percent of rehab, or $262,350. Loan to cost: $262,350 / $298,500, about 87.9 percent.\n\nThen the rehab runs $14,500 over. Total cost is now $313,000.\n\nIf the lender funds the overrun, the loan becomes $276,850 and LTC rises to 88.5 percent. If the borrower pays it, the loan stays $262,350 and LTC falls to 83.8 percent.\n\nLenders can decide who covers an overrun before approving a change.\n\nvaultedonline.com",
+   "alt": "Three comparison cards for an illustrative $241,000 purchase with a $57,500 rehab. Start: loan $262,350, cost $298,500, 87.9 percent loan to cost. After a $14,500 overrun: lender funds, 88.5 percent; borrower pays, 83.8 percent.",
+   "image": "images/2026-11-06/1247-fb-overrun-ltc-math.png",
+   "sources": [
+    {
+     "title": "Fix and Flip Loans: Loan-To-Value (LTV) VS Loan-To-Cost (LTC)",
+     "publisher": "FCTD",
+     "url": "https://www.fctd.com/blog/fix-flip-loans-loan-to-value-ltv-vs-loan-to-cost-ltc",
+     "date": "2024-02-03",
+     "quote": "To calculate LTC, divide the loan amount by the total project cost and then express this figure as a percentage."
+    },
+    {
+     "title": "LTC, LTV & LtPP: Loan to Cost vs Loan to Value in Hard Money",
+     "publisher": "Backflip",
+     "url": "https://backflip.com/explaining-ltc-ltv-ltpp-loan-to-cost-in-hard-money/",
+     "date": "2025-03-21",
+     "quote": "LTC (Loan to Cost) is the ratio that compares the loan amount to the Total Project Cost (which is defined as the sum of the Purchase Price and the Rehab Cost), in %."
+    },
+    {
+     "title": "Construction Lending 101",
+     "publisher": "Scotsman Guide",
+     "url": "https://www.scotsmanguide.com/browse/content/construction-lending-101",
+     "date": "2019-10-30",
+     "quote": "If that occurs, the lender has the right to declare a loan out of balance."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$241,000 purchase price; $57,500 rehab budget; $14,500 overrun",
+     "calc": "illustrative inputs chosen by author (assigned $210,000/$60,000 appear in ledger.json, so replaced; $15,000 replaced for variety)"
+    },
+    {
+     "figure": "$204,850",
+     "calc": "0.85 * 241000 = 204850.0"
+    },
+    {
+     "figure": "$262,350",
+     "calc": "0.85*241000 + 57500 = 262350.0"
+    },
+    {
+     "figure": "$298,500",
+     "calc": "241000 + 57500 = 298500"
+    },
+    {
+     "figure": "87.9 percent",
+     "calc": "262350 / 298500 * 100 = 87.8894"
+    },
+    {
+     "figure": "$313,000",
+     "calc": "298500 + 14500 = 313000"
+    },
+    {
+     "figure": "$276,850",
+     "calc": "262350 + 14500 = 276850.0"
+    },
+    {
+     "figure": "88.5 percent",
+     "calc": "276850 / 313000 * 100 = 88.4505"
+    },
+    {
+     "figure": "83.8 percent",
+     "calc": "262350 / 313000 * 100 = 83.8179"
+    },
+    {
+     "figure": "$36,150",
+     "calc": "298500 - 262350 = 36150.0 (also 313000 - 276850)"
+    },
+    {
+     "figure": "$50,650",
+     "calc": "313000 - 262350 = 50650.0"
+    },
+    {
+     "figure": "85 percent / 100 percent",
+     "calc": "illustrative loan terms"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-06T14:00:00-05:00",
+   "topic": "nonaccrual-basics",
+   "kind": "evergreen",
+   "text": "When should a lender stop counting interest as income?\n\nOne bank call report criterion treats an asset as nonaccrual when principal or interest has been in default 90 days or more, unless it is both well secured and in the process of collection. Accounting guidance also says accrual is generally suspended when collecting interest is less than probable.\n\nIllustrative: a $192,000 loan at 9.25 percent interest only earns $1,480 a month. Three unpaid months is $4,440 that may show as income but is not cash. Private lenders can check how investor reports label it. Not accounting advice.",
+   "alt": "Three cards each showing $1,480 of unpaid monthly interest on an illustrative $192,000 loan at 9.25 percent, a bar totaling $4,440 for three unpaid months, and two cards giving the call report 90 day nonaccrual test and the accounting guidance on suspending accrual.",
+   "image": "images/2026-11-06/1400-li-nonaccrual-basics.png",
+   "sources": [
+    {
+     "title": "FFIEC 051 Schedule RC-N, Past Due and Nonaccrual Loans, Leases, and Other Assets (instructions, rev. 6-21)",
+     "publisher": "FDIC / FFIEC",
+     "url": "https://www.fdic.gov/resources/bankers/call-reports/crinst-051/2021/2021-06-051-rc-n.pdf",
+     "date": "2021-06-01",
+     "quote": "Principal or interest has been in default for a period of 90 days or more unless the asset is both well secured and in the process of collection."
+    },
+    {
+     "title": "6.10 Non-accrual loans",
+     "publisher": "PwC Viewpoint",
+     "url": "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/loans_and_investment/loans_and_investment_US/chapter_6_interest_i_US/610_nonaccrual_loans_US.html",
+     "date": "2025-03-12",
+     "quote": "the accrual of interest income is generally suspended when the collection of interest is less than probable"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$192,000 loan, 9.25 percent, interest only",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$1,480",
+     "calc": "192000*0.0925/12 = 1480.0"
+    },
+    {
+     "figure": "$4,440",
+     "calc": "1480*3 = 4440"
+    },
+    {
+     "figure": "3 months",
+     "calc": "illustrative, about 90 days"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-06T17:27:00-05:00",
+   "topic": "preliminary-notices",
+   "kind": "evergreen",
+   "text": "A subcontractor the lender never hired sends a preliminary notice. Now what?\n\nIn some states, subs and suppliers send one to protect lien rights. In California it is due within 20 days of first furnishing work, and the construction lender is among the recipients. Nevada covers work in the 31 days before the notice. Rules vary by state.\n\nOne approach: a lender can log the arrival date, compare the sender to the names on draw requests, and ask the borrower whether that party is under contract.\n\nA notice preserves the sender's lien rights.\n\nvaultedonline.com",
+   "alt": "Graphic titled A sub sends a preliminary notice. What can the lender do? Two cards: California notice due within 20 days of first furnishing work; Nevada lien right covers work in the 31 days before notice. Three steps: log the date, match the name, ask the borrower.",
+   "image": "images/2026-11-06/1727-fb-preliminary-notices.png",
+   "sources": [
+    {
+     "title": "California Civil Code section 8200 (preliminary notice recipients)",
+     "publisher": "California Public Law",
+     "url": "https://california.public.law/codes/civil_code_section_8200",
+     "date": "2026-10-26",
+     "quote": "(3) The construction lender or reputed construction lender, if any."
+    },
+    {
+     "title": "California Civil Code section 8204",
+     "publisher": "California Public Law",
+     "url": "https://california.public.law/codes/civil_code_section_8204",
+     "date": "2026-10-26",
+     "quote": "A preliminary notice shall be given not later than 20 days after the claimant has first furnished work"
+    },
+    {
+     "title": "2010 California Code, Civil Code 8200-8216",
+     "publisher": "Justia",
+     "url": "https://law.justia.com/codes/california/2010/civ/8200-8216.html",
+     "date": "2010-01-01",
+     "quote": "A preliminary notice shall be given not later than 20 days after the claimant has first furnished work"
+    },
+    {
+     "title": "20 Day Preliminary Notice in California: What It Is and Why It Matters",
+     "publisher": "BayLegal",
+     "url": "https://baylegal.com/20-day-preliminary-notice-in-california-what-it-is-and-why-it-matters/",
+     "date": "2026-04-20",
+     "quote": "must serve this notice within 20 days of first furnishing labor or materials"
+    },
+    {
+     "title": "NRS 108.245",
+     "publisher": "Nevada Public Law",
+     "url": "https://nevada.public.law/statutes/nrs_108.245",
+     "date": "2025-05-26",
+     "quote": "in the 31 days before the date the notice of right to lien is given"
+    },
+    {
+     "title": "2025 Nevada Revised Statutes, NRS 108.245",
+     "publisher": "Justia",
+     "url": "https://law.justia.com/codes/nevada/chapter-108/statute-108-245",
+     "date": "2025-01-01",
+     "quote": "the 31 days before the date the notice of right to lien is given"
+    },
+    {
+     "title": "50 State Lien Law Notice Requirements 2023-24",
+     "publisher": "Seyfarth Shaw",
+     "url": "https://www.seyfarth.com/dir_docs/documents/50-state-guides/50-State-Lien-Law-Notice-Requirements-2023-24-Edition.pdf",
+     "date": "2023-10-01",
+     "quote": "Arizona requires that Written notice must be given within 20 days of first providing labor, services or materials to Owner; Nevada sets a longer window, 31 days."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "20 days / 31 days",
+     "calc": "statutory figures from sources, no arithmetic"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-07T09:32:00-05:00",
+   "topic": "judgment-liens",
+   "kind": "evergreen",
+   "text": "A borrower loses a lawsuit before your loan closes. Does that judgment now sit on the property you are lending against?\n\nIt depends on the state. In Texas, a recorded and indexed abstract of judgment constitutes a lien on and attaches to the defendant's real property, including property acquired after recording. In Missouri's covered counties, no judgment is a lien on real estate until an abstract is entered in a record, and those liens rank by the sequence of entry.\n\nLenders can search county records for judgments against a borrower and ask a title professional how local law ranks them.\n\nvaultedonline.com",
+   "alt": "Graphic titled A judgment is not a lien until it reaches the record. Three steps: court judgment, abstract recorded or entered in a county record, lien can attach to real property. Texas: recorded and indexed abstract attaches, including later-acquired property. Missouri: no lien until entered; ranked by sequence of entry.",
+   "image": "images/2026-11-07/0932-fb-judgment-liens.png",
+   "sources": [
+    {
+     "title": "Texas Property Code Section 52.001",
+     "publisher": "Public.Law (Texas statutes)",
+     "url": "https://texas.public.law/statutes/tex._prop._code_section_52.001",
+     "date": "2025-05-26",
+     "quote": "constitutes a lien on and attaches to any real property of the defendant ... including real property acquired after such recording and indexing"
+    },
+    {
+     "title": "Missouri Revised Statutes Section 511.500",
+     "publisher": "Missouri Revisor of Statutes",
+     "url": "https://www.revisor.mo.gov/main/OneSection.aspx?section=511.500",
+     "date": "1997-08-28",
+     "quote": "No judgment hereafter rendered by any court shall be a lien on real estate ... until an abstract of the judgment shall be entered in a record ... shall have priority according to the sequence of and from the time of its respective entry into the record"
+    }
+   ],
+   "derived": [],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-07T13:47:00-05:00",
+   "topic": "debt-yield",
+   "kind": "evergreen",
+   "text": "A lender compares two loan requests. Property A has $96,000 of NOI on a $1,200,000 loan. Property B has $84,000 on $1,000,000. Which has more income behind each dollar lent?\n\nDebt yield is net operating income divided by the loan amount. A is 8 percent. B is 8.4 percent, so B has the higher debt yield despite less NOI.\n\nUnlike DSCR, it uses no interest rate or amortization schedule. Unlike LTV, it uses no appraised value.\n\nLenders can read it alongside DSCR and LTV, since each ratio answers a different question.\n\nvaultedonline.com",
+   "alt": "Two cards compare loan requests. Property A: NOI $96,000, loan $1,200,000, debt yield 8 percent. Property B: NOI $84,000, loan $1,000,000, debt yield 8.4 percent. Below, DSCR depends on rate and amortization, LTV on appraised value, debt yield only on NOI and loan amount.",
+   "image": "images/2026-11-07/1347-fb-debt-yield.png",
+   "sources": [
+    {
+     "title": "What is Debt Yield",
+     "publisher": "Lev",
+     "url": "https://www.lev.com/blog/debt-yield",
+     "date": "2026-05-11",
+     "quote": "Debt yield is the property's net operating income divided by the loan amount, expressed as a percentage. Unlike DSCR (which depends on the interest rate and amortization schedule) and LTV (which depends on the appraised value), debt yield depends only on two property-specific numbers: NOI and loan amount."
+    },
+    {
+     "title": "Debt Yield",
+     "publisher": "Wall Street Prep",
+     "url": "https://www.wallstreetprep.com/knowledge/debt-yield/",
+     "date": "2024-02-27",
+     "quote": "The debt yield is unique, however, because the metric is independent of fluctuating interest rates and real estate market values and is unaffected by the borrowing term, i.e. length of the loan amortization schedule."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$96,000 / $1,200,000 / $84,000 / $1,000,000",
+     "calc": "illustrative inputs"
+    },
+    {
+     "figure": "8 percent",
+     "calc": "96000/1200000 = 0.08"
+    },
+    {
+     "figure": "8.4 percent",
+     "calc": "84000/1000000 = 0.084"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-08T10:15:00-05:00",
+   "topic": "automatic-stay",
+   "kind": "evergreen",
+   "text": "A foreclosure sale is on the calendar. Then the borrower files for bankruptcy. What happens?\n\nThe U.S. Courts glossary calls the automatic stay an injunction that usually comes into force automatically when a bankruptcy case is filed. It stops actions such as foreclosures against the debtor and property of the bankruptcy estate.\n\nOne law firm says it takes effect without notice to creditors. One court lists common reasons to seek relief: the debtor is behind on payments, or there is no equity.\n\nQuestions about a bankruptcy filing are for the lender's attorney.\n\nvaultedonline.com",
+   "alt": "Three step cards: the borrower files, foreclosure actions stop under the automatic stay, and a party can file a motion for relief from the stay. A panel lists common reasons one court gives for relief: behind on payments or no equity.",
+   "image": "images/2026-11-08/1015-fb-automatic-stay.png",
+   "sources": [
+    {
+     "title": "Automatic stay (glossary of legal terms)",
+     "publisher": "U.S. Courts",
+     "url": "https://www.uscourts.gov/glossary-legal-terms/automatic-stay",
+     "date": "2026-11-01",
+     "quote": "An injunction that usually comes into force automatically when a bankruptcy case is filed. This stops actions such as lawsuits, foreclosures, garnishments, and most collection activities against the debtor and property of the bankruptcy estate."
+    },
+    {
+     "title": "Relief from the Automatic Stay",
+     "publisher": "Jimerson Firm",
+     "url": "https://www.jimersonfirm.com/services/bankruptcy-and-restructuring/relief-from-the-automatic-stay/",
+     "date": "2026-11-01",
+     "quote": "Upon filing the petition, this stay, or injunction, becomes effective automatically and without notice to creditors."
+    },
+    {
+     "title": "Automatic Stay: 362: RELIEF: Real Property; Foreclosure",
+     "publisher": "U.S. Bankruptcy Court, Central District of California",
+     "url": "https://www.cacb.uscourts.gov/the-central-guide/automatic%C2%A0stay%C2%A0-%C2%A7-362%C2%A0-relief-real-property-foreclosure",
+     "date": "2026-11-01",
+     "quote": "Common reasons are the debtor is behind on payments or there is no equity in the property,"
+    }
+   ],
+   "derived": [],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-08T13:47:00-05:00",
+   "topic": "sale-waterfall-math",
+   "kind": "evergreen",
+   "text": "A home sells at a foreclosure sale for $410,000. The first lien is $330,000. Where does the other $80,000 go?\n\nOne source lists the order as sale expenses, the mortgage being foreclosed, junior liens in priority order, then the owner if anything remains. That source adds that each category is paid in full before the next. Surplus rules vary by state.\n\nIllustrative: $410,000 less $12,000 costs leaves $398,000. The first lien takes $330,000, leaving $68,000. The $60,000 second lien is paid, leaving $8,000 for the owner.\n\nTakeaway: lenders can run this waterfall before counting on a sale price.\n\nvaultedonline.com",
+   "alt": "Four bars show a $410,000 foreclosure sale paid in order: $12,000 sale costs leaves $398,000; $330,000 first lien leaves $68,000; $60,000 second lien leaves $8,000; the last $8,000 goes to the owner. Illustrative example.",
+   "image": "images/2026-11-08/1347-fb-sale-waterfall-math.png",
+   "sources": [
+    {
+     "title": "Real Property Quick Tip: How to Distribute Foreclosure Sale Proceeds",
+     "publisher": "UWorld Legal",
+     "url": "https://legal.uworld.com/blog/bar-review/real-property-quick-tip-how-to-distribute-foreclosure-sale-proceeds/",
+     "date": "2021-01-18",
+     "quote": "When property is sold at a foreclosure sale, the proceeds from that sale are distributed in the following order of priority: Expenses from the sale (e.g., attorney's fees, court costs); Mortgage being foreclosed; Junior liens, in order of lien priority; Debtor, if any surplus remains. The amount owed in each category must be completely paid off before the proceeds can be used to pay off the next category."
+    },
+    {
+     "title": "How to Claim Foreclosure Surplus Funds",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/what-happens-to-excess-proceeds-from-a-foreclosure-sale.html",
+     "date": "2026-11-01",
+     "quote": "The laws that govern foreclosure surplus funds vary from jurisdiction to jurisdiction. (Also: Then, any excess proceeds left over after paying off these liens belong to the former homeowner. Page undated, accessed 2026-11-01.)"
+    },
+    {
+     "title": "Where Do Surplus Proceeds from a Foreclosure Sale Go?",
+     "publisher": "Porter Simon",
+     "url": "https://portersimon.com/where-do-surplus-proceeds-from-a-foreclosure-sale-go/",
+     "date": "2020-06-12",
+     "quote": "The Code of Civil Procedure spells it out. (California order: foreclosure costs, then the foreclosing lender's secured loan, then junior lienors by priority, then any remainder to the owner.)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$410,000, $12,000, $330,000, $60,000",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$80,000",
+     "calc": "410000-330000 = 80000"
+    },
+    {
+     "figure": "$398,000",
+     "calc": "410000-12000 = 398000"
+    },
+    {
+     "figure": "$68,000",
+     "calc": "410000-12000-330000 = 68000"
+    },
+    {
+     "figure": "$8,000",
+     "calc": "410000-12000-330000-60000 = 8000"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-08T17:27:00-05:00",
+   "topic": "wraparound-loans",
+   "kind": "evergreen",
+   "text": "What does a wraparound mortgage do to your lien position?\n\nThe seller keeps the existing mortgage in place. The buyer pays the seller each month, and the seller pays the original lender.\n\nThe wrap loan sits behind the original mortgage in second, or junior, lien position. That adds two risks. If the seller stops paying, the original lender can foreclose even when the buyer pays on time. And a due-on-sale clause may let that lender demand full repayment.\n\nLenders can confirm who pays the underlying loan before relying on a wrap.\n\nvaultedonline.com",
+   "alt": "Diagram of a wraparound loan. Buyer pays the seller, the seller pays the original lender, who holds the first lien. The wraparound loan sits second, as a junior lien. Two risks: the seller stops paying, or a due-on-sale clause.",
+   "image": "images/2026-11-08/1727-fb-wraparound-loans.png",
+   "sources": [
+    {
+     "title": "What Is A Wraparound Mortgage?",
+     "publisher": "Rocket Mortgage",
+     "url": "https://www.quickenloans.com/learn/wraparound-mortgage",
+     "date": "2024-01-11",
+     "quote": "a seller keeps paying their existing mortgage while a buyer makes monthly payments to the seller"
+    },
+    {
+     "title": "What Is A Wraparound Mortgage? (seller lender foreclosure)",
+     "publisher": "Rocket Mortgage",
+     "url": "https://www.quickenloans.com/learn/wraparound-mortgage",
+     "date": "2024-01-11",
+     "quote": "the seller\u2019s lender can foreclose on the home while you\u2019re living in it"
+    },
+    {
+     "title": "Wraparound Mortgage: What It Means for Home Buyers in 2026",
+     "publisher": "AmeriSave",
+     "url": "https://www.amerisave.com/glossary/wraparound-mortgage-what-it-means-for-home-buyers-in",
+     "date": "2026-10-11",
+     "quote": "The buyer sends monthly payments to the seller, who then turns around and pays their original lender from those funds."
+    },
+    {
+     "title": "Wraparound Mortgage: What It Means for Home Buyers in 2026 (lien position)",
+     "publisher": "AmeriSave",
+     "url": "https://www.amerisave.com/glossary/wraparound-mortgage-what-it-means-for-home-buyers-in",
+     "date": "2026-10-11",
+     "quote": "sits behind it in second, or junior, lien position."
+    },
+    {
+     "title": "Wraparound Mortgage: What It Means for Home Buyers in 2026 (due-on-sale)",
+     "publisher": "AmeriSave",
+     "url": "https://www.amerisave.com/glossary/wraparound-mortgage-what-it-means-for-home-buyers-in",
+     "date": "2026-10-11",
+     "quote": "a due-on-sale clause lets the lender demand full repayment."
+    },
+    {
+     "title": "Wraparound mortgage",
+     "publisher": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wraparound_mortgage",
+     "date": "2026-11-01",
+     "quote": "wraparound mortgage transactions may give the bank or other mortgagees the right to call the superior notes due"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "no numeric example",
+     "calc": "post and graphic contain no figures; word count 100 or fewer computed in Python"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  }
+ ]
+}
