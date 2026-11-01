@@ -58,8 +58,8 @@
      "calc": "vote count from the FOMC statement quote"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdc1902c3fb1dec330c3"
   },
   {
    "channel": "li",
@@ -99,8 +99,8 @@
      "calc": "41/60 = 68.3 (also in source)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cde2902c3fb1dec33b8a"
   },
   {
    "channel": "fb",
@@ -177,8 +177,8 @@
      "calc": "4550*k for k=2..7 = 9100, 13650, 18200, 22750, 27300, 31850"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdc3779ee9f13cbff582"
   },
   {
    "channel": "fb",
@@ -212,8 +212,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdc62da2578c188afc9a"
   },
   {
    "channel": "fb",
@@ -257,8 +257,8 @@
      "calc": "180000-156000 = 24000"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdc9779ee9f13cbff638"
   },
   {
    "channel": "li",
@@ -328,8 +328,8 @@
      "calc": "78300/4350000*100 = 1.8"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cde5d016796999f89337"
   },
   {
    "channel": "fb",
@@ -385,8 +385,8 @@
      "calc": "450000-270000-63000 = 117000"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdcbd016796999f88c5b"
   },
   {
    "channel": "fb",
@@ -425,8 +425,8 @@
      "calc": "count of cards, no numeric figures used"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdd12da2578c188affd0"
   },
   {
    "channel": "fb",
@@ -476,8 +476,8 @@
      "calc": "265000*0.12/12 = 2650.0"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdd4d016796999f88e78"
   },
   {
    "channel": "fb",
@@ -533,8 +533,8 @@
      "calc": "22400/290000*100 = 7.7241 -> 7.7"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdd7d016796999f88f7a"
   },
   {
    "channel": "fb",
@@ -568,8 +568,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cdd9d016796999f89060"
   },
   {
    "channel": "fb",
@@ -624,8 +624,8 @@
      "calc": "2521.54-2258.94 = 262.60 (unrounded 262.61), rounded to 263"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cddc01fa08ffbe729e71"
   },
   {
    "channel": "fb",
@@ -692,7 +692,7 @@
      "calc": "675000/900000 = 0.75"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -727,8 +727,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cde7902c3fb1dec33c14"
   },
   {
    "channel": "fb",
@@ -767,7 +767,7 @@
      "calc": "quoted regulation periods (written notice before a charge; cancellation after proof of coverage); no arithmetic"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -807,7 +807,7 @@
      "calc": "words only, quoted from sources; no computed figures"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -891,7 +891,7 @@
      "calc": "illustrative loan terms"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -936,8 +936,8 @@
      "calc": "illustrative, about 90 days"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae7cde948ce42a6b43189ef"
   },
   {
    "channel": "fb",
@@ -1004,7 +1004,7 @@
      "calc": "statutory figures from sources, no arithmetic"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1032,7 +1032,7 @@
     }
    ],
    "derived": [],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1073,7 +1073,7 @@
      "calc": "84000/1000000 = 0.084"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1108,7 +1108,7 @@
     }
    ],
    "derived": [],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1164,7 +1164,7 @@
      "calc": "410000-12000-330000-60000 = 8000"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1225,7 +1225,7 @@
      "calc": "post and graphic contain no figures; word count 100 or fewer computed in Python"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   }
  ]

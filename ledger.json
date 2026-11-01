@@ -1789,6 +1789,450 @@
     "https://www.atgf.com/tools-publications/pubs/deeds-lieu-foreclosure-advantages-disadvantages-and-drafting",
     "https://lonestarlandlaw.com/deeds-in-lieu-of-foreclosure/"
    ]
+  },
+  {
+   "key": "fomc-oct-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-02",
+   "title": "The Federal Reserve held its federal funds target range at 3-3/4 to 4 percent on October 2",
+   "figures": [
+    "$520,000, prime plus 1.5",
+    "8.50 percent",
+    "$3,683.33",
+    "$108.33",
+    "$3,791.67 (graphic) / 8.75 percent",
+    "10 to 2"
+   ],
+   "sources": [
+    "https://federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "https://www.federalreserve.gov/releases/h15/",
+    "https://www.federalreserve.gov/faqs/credit_12846.htm"
+   ]
+  },
+  {
+   "key": "sloos-oct-2026",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-02",
+   "title": "Is bank money getting easier or harder for construction and land deals? The Fed asked loan",
+   "figures": [
+    "21.7 percent",
+    "13",
+    "68.3 percent"
+   ],
+   "sources": [
+    "https://www.federalreserve.gov/data/sloos/sloos-202604-table-1.htm",
+    "https://www.federalreserve.gov/data/documents/sloos-202604.pdf"
+   ]
+  },
+  {
+   "key": "default-carry-cost",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-02",
+   "title": "A borrower stops paying on a $420,000 loan at 11 percent, and the loan heads to foreclosur",
+   "figures": [
+    "$420,000, 11 percent, $5,400, $3,000, 8 months",
+    "$3,850",
+    "$450",
+    "$250",
+    "$4,550",
+    "$36,400",
+    "$9,100 / $13,650 / $18,200 / $22,750 / $27,300 / $31,850"
+   ],
+   "sources": [
+    "https://www.housingwire.com/articles/us-foreclosures-rise-2026-midyear-attom-report/",
+    "https://www.rismedia.com/2026/07/16/foreclosures-rise-first-half-2026-attom/",
+    "https://www.everycrsreport.com/reports/RL34232.html",
+    "https://noteservicingcenter.com/private-lendings-silent-profit-eater-understanding-mitigating-carry-costs/",
+    "https://pocketsense.com/carrying-costs-foreclosed-house-15194.html"
+   ]
+  },
+  {
+   "key": "bridge-loan-definition",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-02",
+   "title": "What is a bridge loan actually bridging?",
+   "figures": [],
+   "sources": [
+    "https://www.pnc.com/insights/personal-finance/borrow/what-is-a-bridge-loan.html",
+    "https://www.adventuresincre.com/glossary/bridge-loan/",
+    "https://www.lendingtree.com/home/mortgage/bridge-financing-basics/"
+   ]
+  },
+  {
+   "key": "land-loans",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-03",
+   "title": "How much could a $240,000 parcel of raw land support as a loan?",
+   "figures": [
+    "$240,000",
+    "$156,000",
+    "$180,000",
+    "$24,000"
+   ],
+   "sources": [
+    "https://www.law.cornell.edu/cfr/text/12/appendix-C_to_part_208",
+    "https://www.federalreserve.gov/boarddocs/SRLetters/1993/sr9333.htm"
+   ]
+  },
+  {
+   "key": "loan-loss-reserve",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-03",
+   "title": "A lender holds $4,350,000 of loans. Not every loan will pay as agreed. How do banks accoun",
+   "figures": [
+    "$4,350,000",
+    "$2,900,000 at 1.2 percent",
+    "$1,450,000 at 3.0 percent",
+    "$34,800",
+    "$43,500",
+    "$78,300",
+    "1.8 percent"
+   ],
+   "sources": [
+    "https://www.federalreserve.gov/frrs/guidance/frequently-asked-questions-on-the-current-expected-credit-losses-methodology.htm",
+    "https://www.federalreserve.gov/frrs/guidance/frequently-asked-questions-on-the-current-expected-credit-losses-methodology.htm",
+    "https://www.federalreserve.gov/frrs/guidance/frequently-asked-questions-on-the-current-expected-credit-losses-methodology.htm",
+    "https://www.fdic.gov/news/financial-institution-letters/2016/fil16039.html"
+   ]
+  },
+  {
+   "key": "combined-ltv-second-lien",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-03",
+   "title": "A first lien of $270,000 on a $450,000 property is 60 percent LTV. Add a $63,000 second li",
+   "figures": [
+    "$450,000 / $270,000 / $63,000",
+    "60 percent",
+    "$333,000",
+    "74 percent",
+    "10 percent drop, $405,000",
+    "82.2 percent",
+    "$117,000"
+   ],
+   "sources": [
+    "https://www.experian.com/blogs/ask-experian/what-is-combined-loan-to-value-ratio/",
+    "https://www.bankrate.com/glossary/c/combined-loan-to-value-ratio"
+   ]
+  },
+  {
+   "key": "open-permits-risk",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-03",
+   "title": "Work that was never closed out with the city can follow a property into your loan file.",
+   "figures": [
+    "Three topics (value, insurance, closing)"
+   ],
+   "sources": [
+    "https://www.aaa-amc.net/post/permits-unpermitted-additions-what-loan-officers-and-homeowners-need-to-know",
+    "https://www.shovels.ai/blog/unpermitted-work/",
+    "https://www.lendworth.com/blog/lendworth-usa-2/open-permit-or-unpermitted-addition-found-before-your-florida-mortgage-closing-how-to-save-the-deal-1428"
+   ]
+  },
+  {
+   "key": "pending-home-sales-sep-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-04",
+   "title": "Pending home sales fell 7.3% in September from August, and 11.3% from a year earlier, NAR ",
+   "figures": [
+    "$265,000, 12%, interest-only",
+    "$2,650"
+   ],
+   "sources": [
+    "https://www.nar.realtor/newsroom/pending-home-sales-decreased-7-3-percent-in-september",
+    "https://www.nar.realtor/newsroom/pending-home-sales-decreased-7-3-percent-in-september",
+    "https://www.nar.realtor/newsroom/pending-home-sales-decreased-7-3-percent-in-september",
+    "https://themortgagepoint.com/2026/10/20/pending-home-sales-decreased-in-september-nar-shows/"
+   ]
+  },
+  {
+   "key": "loss-severity-math",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-04",
+   "title": "A foreclosure sale brings $305,000 on a $290,000 loan. Is the lender whole? Not necessaril",
+   "figures": [
+    "$290,000 / $19,000 / $13,000 / $305,000 / 8 percent",
+    "$280,600",
+    "$322,000",
+    "$41,400",
+    "14.3 percent",
+    "$22,400",
+    "7.7 percent"
+   ],
+   "sources": [
+    "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-37.pdf",
+    "https://www.urban.org/sites/default/files/publication/39566/2000092-Loss-Severity-on-Residential-Mortgages.pdf"
+   ]
+  },
+  {
+   "key": "post-closing-liquidity",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-04",
+   "title": "A borrower can have enough cash to close and still be one bad month from trouble.",
+   "figures": [],
+   "sources": [
+    "https://gosbaloans.com/guide/post-close-liquidity-sba-loan/",
+    "https://www.lendmire.com/meet-dscr-reserve-requirements/",
+    "https://selling-guide.fanniemae.com/sel/b3-4.1-01/minimum-reserve-requirements"
+   ]
+  },
+  {
+   "key": "pmms-oct29-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-05",
+   "title": "Freddie Mac says the 30-year fixed rate averaged 7.24 percent as of October 29, 2026. A ye",
+   "figures": [
+    "1.07 points",
+    "$370,000, 30 years",
+    "$2,258.94",
+    "$2,521.54",
+    "about $263"
+   ],
+   "sources": [
+    "https://www.freddiemac.com/pmms",
+    "https://fred.stlouisfed.org/graph/?g=1XU7Y",
+    "https://images.investinglive.com/news/freddie-mac-us-30-year-mortgage-average-is-617-20251030/"
+   ]
+  },
+  {
+   "key": "partial-release-pricing",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-05",
+   "title": "A $900,000 loan is secured by 4 lots, each valued at $300,000. One lot sells. What must be",
+   "figures": [
+    "$900,000 loan, 4 lots, $300,000 each, 120 percent",
+    "$225,000",
+    "$270,000",
+    "$630,000",
+    "$675,000",
+    "$900,000 remaining value",
+    "70 percent",
+    "75 percent"
+   ],
+   "sources": [
+    "https://www.lendmire.com/blanket-loan-release-prices/",
+    "https://info.c-loans.com/bid/53456/partial-release-clauses-on-commercial-loans",
+    "https://lendingstreet.io/blanket-loan-release-clause.html"
+   ]
+  },
+  {
+   "key": "participation-vs-assignment",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-05",
+   "title": "A lender sells part of a loan to an investor. Is that a participation or assignment? The a",
+   "figures": [],
+   "sources": [
+    "https://www.mayerbrown.com/en/insights/publications/2025/05/participations-in-the-fund-finance-market",
+    "https://geracillp.com/understanding-loan-participation-agreements/",
+    "https://www.dykema.com/a/web/7nNyKHMcDUU3LzNBW8BwLQ/3h9m93/2012.07_connor_commerci"
+   ]
+  },
+  {
+   "key": "hazard-insurance-lapse",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-05",
+   "title": "A borrower's hazard insurance lapses. What can the lender do?",
+   "figures": [
+    "45 days and 15 days"
+   ],
+   "sources": [
+    "https://www.progressive.com/answers/force-placed-insurance/",
+    "https://www.consumerfinance.gov/rules-policy/regulations/1024/37/",
+    "https://www.law.cornell.edu/cfr/text/12/1024.37"
+   ]
+  },
+  {
+   "key": "mortgage-vs-deed-of-trust",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-06",
+   "title": "Same default, two different documents. What the lender holds can change the foreclosure pa",
+   "figures": [
+    "two / three parties"
+   ],
+   "sources": [
+    "https://geracillp.com/deed-of-trust-vs-mortgage-private-lending-basics/",
+    "https://www.chase.com/personal/mortgage/education/managing-your-mortgage/deed-of-trust-vs-mortgage",
+    "https://www.nolo.com/legal-encyclopedia/what-is-power-sale-foreclosure.html"
+   ]
+  },
+  {
+   "key": "overrun-ltc-math",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-06",
+   "title": "Illustrative: a $241,000 flip with a $57,500 rehab budget. The loan is 85 percent of purch",
+   "figures": [
+    "$241,000 purchase price; $57,500 rehab budget; $14,500 overrun",
+    "$204,850",
+    "$262,350",
+    "$298,500",
+    "87.9 percent",
+    "$313,000",
+    "$276,850",
+    "88.5 percent",
+    "83.8 percent",
+    "$36,150",
+    "$50,650",
+    "85 percent / 100 percent"
+   ],
+   "sources": [
+    "https://www.fctd.com/blog/fix-flip-loans-loan-to-value-ltv-vs-loan-to-cost-ltc",
+    "https://backflip.com/explaining-ltc-ltv-ltpp-loan-to-cost-in-hard-money/",
+    "https://www.scotsmanguide.com/browse/content/construction-lending-101"
+   ]
+  },
+  {
+   "key": "nonaccrual-basics",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-06",
+   "title": "When should a lender stop counting interest as income?",
+   "figures": [
+    "$192,000 loan, 9.25 percent, interest only",
+    "$1,480",
+    "$4,440",
+    "3 months"
+   ],
+   "sources": [
+    "https://www.fdic.gov/resources/bankers/call-reports/crinst-051/2021/2021-06-051-rc-n.pdf",
+    "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/loans_and_investment/loans_and_investment_US/chapter_6_interest_i_US/610_nonaccrual_loans_US.html"
+   ]
+  },
+  {
+   "key": "preliminary-notices",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-06",
+   "title": "A subcontractor the lender never hired sends a preliminary notice. Now what?",
+   "figures": [
+    "20 days / 31 days"
+   ],
+   "sources": [
+    "https://california.public.law/codes/civil_code_section_8200",
+    "https://california.public.law/codes/civil_code_section_8204",
+    "https://law.justia.com/codes/california/2010/civ/8200-8216.html",
+    "https://baylegal.com/20-day-preliminary-notice-in-california-what-it-is-and-why-it-matters/",
+    "https://nevada.public.law/statutes/nrs_108.245",
+    "https://law.justia.com/codes/nevada/chapter-108/statute-108-245",
+    "https://www.seyfarth.com/dir_docs/documents/50-state-guides/50-State-Lien-Law-Notice-Requirements-2023-24-Edition.pdf"
+   ]
+  },
+  {
+   "key": "judgment-liens",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-07",
+   "title": "A borrower loses a lawsuit before your loan closes. Does that judgment now sit on the prop",
+   "figures": [],
+   "sources": [
+    "https://texas.public.law/statutes/tex._prop._code_section_52.001",
+    "https://www.revisor.mo.gov/main/OneSection.aspx?section=511.500"
+   ]
+  },
+  {
+   "key": "debt-yield",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-07",
+   "title": "A lender compares two loan requests. Property A has $96,000 of NOI on a $1,200,000 loan. P",
+   "figures": [
+    "$96,000 / $1,200,000 / $84,000 / $1,000,000",
+    "8 percent",
+    "8.4 percent"
+   ],
+   "sources": [
+    "https://www.lev.com/blog/debt-yield",
+    "https://www.wallstreetprep.com/knowledge/debt-yield/"
+   ]
+  },
+  {
+   "key": "automatic-stay",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "A foreclosure sale is on the calendar. Then the borrower files for bankruptcy. What happen",
+   "figures": [],
+   "sources": [
+    "https://www.uscourts.gov/glossary-legal-terms/automatic-stay",
+    "https://www.jimersonfirm.com/services/bankruptcy-and-restructuring/relief-from-the-automatic-stay/",
+    "https://www.cacb.uscourts.gov/the-central-guide/automatic%C2%A0stay%C2%A0-%C2%A7-362%C2%A0-relief-real-property-foreclosure"
+   ]
+  },
+  {
+   "key": "sale-waterfall-math",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "A home sells at a foreclosure sale for $410,000. The first lien is $330,000. Where does th",
+   "figures": [
+    "$410,000, $12,000, $330,000, $60,000",
+    "$80,000",
+    "$398,000",
+    "$68,000",
+    "$8,000"
+   ],
+   "sources": [
+    "https://legal.uworld.com/blog/bar-review/real-property-quick-tip-how-to-distribute-foreclosure-sale-proceeds/",
+    "https://www.nolo.com/legal-encyclopedia/what-happens-to-excess-proceeds-from-a-foreclosure-sale.html",
+    "https://portersimon.com/where-do-surplus-proceeds-from-a-foreclosure-sale-go/"
+   ]
+  },
+  {
+   "key": "wraparound-loans",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "What does a wraparound mortgage do to your lien position?",
+   "figures": [
+    "no numeric example"
+   ],
+   "sources": [
+    "https://www.quickenloans.com/learn/wraparound-mortgage",
+    "https://www.quickenloans.com/learn/wraparound-mortgage",
+    "https://www.amerisave.com/glossary/wraparound-mortgage-what-it-means-for-home-buyers-in",
+    "https://www.amerisave.com/glossary/wraparound-mortgage-what-it-means-for-home-buyers-in",
+    "https://www.amerisave.com/glossary/wraparound-mortgage-what-it-means-for-home-buyers-in",
+    "https://en.wikipedia.org/wiki/Wraparound_mortgage"
+   ]
   }
  ]
 }
