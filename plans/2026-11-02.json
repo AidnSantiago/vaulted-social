@@ -692,8 +692,8 @@
      "calc": "675000/900000 = 0.75"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae8951bbf0a4c296cb5c47b"
   },
   {
    "channel": "li",
