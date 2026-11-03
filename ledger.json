@@ -2241,7 +2241,12 @@
    ],
    "date": "2026-11-03",
    "title": "Intercreditor agreements: payment order, standstill, cure and consent",
-   "figures": "Illustrative: $1,150,000 net sale; $780,000 senior; $245,000 junior; $125,000 owner remainder",
+   "figures": [
+    "$1,150,000 net sale (illustrative)",
+    "$780,000 senior (illustrative)",
+    "$245,000 junior (illustrative)",
+    "$125,000 owner remainder"
+   ],
    "sources": [
     "HelloData https://www.hellodata.ai/help-articles/what-is-an-intercreditor-agreement-in-real-estate",
     "HelloData https://www.hellodata.ai/help-articles/what-is-an-intercreditor-agreement-in-real-estate",
