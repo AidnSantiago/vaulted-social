@@ -537,6 +537,57 @@
    "buffer_id": "6ae7cdd7d016796999f88f7a"
   },
   {
+   "channel": "li",
+   "slot_local": "2026-11-04T17:09:00-05:00",
+   "topic": "intercreditor-basics",
+   "kind": "evergreen",
+   "text": "A senior lender holds $780,000 and a junior lender holds $245,000 on the same property. The sale nets $1,150,000. Who is paid first?\n\nAn intercreditor agreement is a contract between lenders to the same borrower. It can set the payment order. In a waterfall, the senior is paid in full first: $780,000. The junior is next: $245,000. The owner receives the remaining $125,000.\n\nIt may cover standstill periods that hold back junior enforcement, junior cure rights, and consent to loan modifications.\n\nTerms vary by agreement. Lenders can read the payment order before funding a junior loan. Not legal advice.",
+   "alt": "Stacked bar of an illustrative $1,150,000 net sale paid left to right: senior lender $780,000, junior lender $245,000, owner $125,000. Three cards note what an intercreditor agreement can cover: payment order, standstill, and cure and consent rights.",
+   "image": "images/2026-11-04/1709-li-intercreditor-basics.png",
+   "sources": [
+    {
+     "title": "What is an Intercreditor Agreement in Real Estate?",
+     "publisher": "HelloData",
+     "url": "https://www.hellodata.ai/help-articles/what-is-an-intercreditor-agreement-in-real-estate",
+     "date": "2026-11-03 (accessed; page undated)",
+     "quote": "Payment Waterfall: Details the order in which revenue or proceeds from the asset will be distributed among the creditors."
+    },
+    {
+     "title": "What is an Intercreditor Agreement in Real Estate? (definition and cure, standstill)",
+     "publisher": "HelloData",
+     "url": "https://www.hellodata.ai/help-articles/what-is-an-intercreditor-agreement-in-real-estate",
+     "date": "2026-11-03 (accessed; page undated)",
+     "quote": "Standstill Periods: Restricts when junior lenders can take enforcement actions. Cure Rights: Allows junior lenders to cure defaults on behalf of the borrower. An Intercreditor Agreement is a legal contract between multiple creditors who have lent money to the same borrower"
+    },
+    {
+     "title": "Secured Real Estate Financing, Inter-Creditor Agreements: A Standstill With A Time Limit Is Not A True Standstill",
+     "publisher": "Blaney",
+     "url": "https://www.blaney.com/articles/secured-real-estate-financing-inter-creditor-agreements-a-standstill-with-a-time-limit-is-not-a-true-standstill",
+     "date": "2017-03-01",
+     "quote": "In other words, the subordinate lender has to \"stand still\" and wait to see what the prior lender will do."
+    },
+    {
+     "title": "Key Provisions to Focus on when Negotiating Intercreditor Agreements",
+     "publisher": "White and Williams LLP",
+     "url": "https://www.whiteandwilliams.com/resources-alerts-Key-Provisions-to-Focus-On-When-Negotiating-Intercreditor-Agreements",
+     "date": "2017-10-05",
+     "quote": "The ability to cure defaults under the mortgage loan is a critical element (page also says the consent of the other lender will be required for loan document modifications that increase the borrower's financial obligations, stress the property, or reduce likelihood of repayment)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$1,150,000 / $780,000 / $245,000",
+     "calc": "illustrative inputs chosen by assignment (junior changed from 260,000 to 245,000 because 260,000 is in ledger.json from 2026-10-23)"
+    },
+    {
+     "figure": "$125,000",
+     "calc": "1150000-780000-245000 = 125000"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
    "channel": "fb",
    "slot_local": "2026-11-04T17:27:00-05:00",
    "topic": "post-closing-liquidity",
@@ -767,8 +818,8 @@
      "calc": "quoted regulation periods (written notice before a charge; cancellation after proof of coverage); no arithmetic"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae9e66665793c1b5a4a93db"
   },
   {
    "channel": "fb",
@@ -807,8 +858,8 @@
      "calc": "words only, quoted from sources; no computed figures"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae9e66887e4378742d87d01"
   },
   {
    "channel": "fb",
