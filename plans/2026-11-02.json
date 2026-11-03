@@ -584,8 +584,8 @@
      "calc": "1150000-780000-245000 = 125000"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6ae9e7447a88f34c1e94320a"
   },
   {
    "channel": "fb",

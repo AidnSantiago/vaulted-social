@@ -2233,6 +2233,21 @@
     "https://www.amerisave.com/glossary/wraparound-mortgage-what-it-means-for-home-buyers-in",
     "https://en.wikipedia.org/wiki/Wraparound_mortgage"
    ]
+  },
+  {
+   "key": "intercreditor-basics",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-03",
+   "title": "Intercreditor agreements: payment order, standstill, cure and consent",
+   "figures": "Illustrative: $1,150,000 net sale; $780,000 senior; $245,000 junior; $125,000 owner remainder",
+   "sources": [
+    "HelloData https://www.hellodata.ai/help-articles/what-is-an-intercreditor-agreement-in-real-estate",
+    "HelloData https://www.hellodata.ai/help-articles/what-is-an-intercreditor-agreement-in-real-estate",
+    "Blaney https://www.blaney.com/articles/secured-real-estate-financing-inter-creditor-agreements-a-standstill-with-a-time-limit-is-not-a-true-standstill",
+    "White and Williams LLP https://www.whiteandwilliams.com/resources-alerts-Key-Provisions-to-Focus-On-When-Negotiating-Intercreditor-Agreements"
+   ]
   }
  ]
 }
