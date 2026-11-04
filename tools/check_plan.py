@@ -10,7 +10,7 @@ Plan file shape (one file per week, named for the Monday of the week):
   "week_start": "2026-10-12",
   "posts": [
     {
-      "channel": "fb" | "li",
+      "channel": "fb" | "li" | "lc",   # lc = Vaulted Online LinkedIn page; li = Aidan personal LinkedIn
       "slot_local": "2026-10-12T17:27:00-04:00",          # exact Buffer slot, from tools/slots.py
       "topic": "cross-collateralization",                 # kebab-case key, also written to ledger.json
       "kind": "evergreen" | "data",
@@ -113,8 +113,8 @@ def main():
     for i, p in enumerate(posts, 1):
         ch = p.get("channel")
         text = p.get("text", "")
-        if ch not in ("fb", "li"):
-            F(i, "channel must be fb or li")
+        if ch not in ("fb", "li", "lc"):
+            F(i, "channel must be fb, li or lc")
             continue
         # slot
         try:
@@ -190,9 +190,9 @@ def main():
         if not (40 <= len(alt) <= 420):
             F(i, "alt text must be 40-420 characters")
         img = p.get("image", "")
-        m = re.fullmatch(r"images/(\d{4}-\d{2}-\d{2})/(\d{4})-(fb|li)-[a-z0-9]+(-[a-z0-9]+)*\.png", img)
+        m = re.fullmatch(r"images/(\d{4}-\d{2}-\d{2})/(\d{4})-(fb|li|lc)-[a-z0-9]+(-[a-z0-9]+)*\.png", img)
         if not m:
-            F(i, "image path must look like images/YYYY-MM-DD/HHMM-fb-slug.png")
+            F(i, "image path must look like images/YYYY-MM-DD/HHMM-fb-slug.png (fb, li or lc)")
         else:
             if m.group(1) != f"{slot:%Y-%m-%d}" or m.group(2) != f"{slot:%H%M}" or m.group(3) != ch:
                 F(i, "image path date, time and channel must match the slot")

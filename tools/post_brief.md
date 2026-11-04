@@ -5,7 +5,7 @@ Used by the Sunday weekly build and the daily top-up. The orchestrator pastes th
 Vaulted (vaultedonline.com) is software for private and hard money real estate lenders. Its Facebook Page and LinkedIn profile publish short educational posts for private and hard money lenders and new investors. You build exactly ONE post, described in your ASSIGNMENT. Be efficient: you are one of several people building posts in parallel.
 
 ## ASSIGNMENT (given after this brief)
-channel (fb or li); slot_local (ISO time with offset, Eastern); topic key; kind (evergreen or data); format; angle; illustrative example numbers to use; numbers to avoid; a backup topic; the week's Monday date (YYYY-MM-DD); today's date.
+channel (fb, li or lc; lc is the Vaulted Online LinkedIn page and follows the LinkedIn rules); slot_local (ISO time with offset, Eastern); topic key; kind (evergreen or data); format; angle; illustrative example numbers to use; numbers to avoid; a backup topic; the week's Monday date (YYYY-MM-DD); today's date.
 
 ## Boundaries
 - Work only in /home/claude/vaulted-social (a public git repo, already cloned) and /tmp. Create only the files listed under DELIVERABLES. Do not edit or delete any existing file. Do NOT run any git command. Do NOT call Buffer, Gmail or any other connector tool. Do not print or store secrets.
@@ -23,7 +23,7 @@ channel (fb or li); slot_local (ISO time with offset, Eastern); topic key; kind 
 
 ## Writing spec
 - Facebook: 75 to 100 words, not counting the final line. The final line is exactly: vaultedonline.com (on its own line, after a blank line).
-- LinkedIn: 75 to 100 words, no link, no hashtags, no apostrophes (write "does not", rephrase possessives) and none of these characters: ( ) [ ] { } < > @ # * _ ~ | \ . Spell out "percent". No final link line.
+- LinkedIn (channels li and lc): 75 to 100 words, no link, no hashtags, no apostrophes (write "does not", rephrase possessives) and none of these characters: ( ) [ ] { } < > @ # * _ ~ | \ . Spell out "percent". No final link line.
 - Open with a specific hook (a question, a number, or a short real situation). Give the useful mechanic with numbers. Close with a plain takeaway.
 - Plain language. Short paragraphs separated by a blank line. Straight quotes. No emojis, no hashtags, no em or en dashes (use commas and periods), no exclamation marks. Do not write "Vaulted can/will/helps ..." and do not mention the product.
 - Alt text for the graphic: 40 to 420 characters describing what it shows and its key figures.
@@ -31,7 +31,7 @@ channel (fb or li); slot_local (ISO time with offset, Eastern); topic key; kind 
 ## Graphic spec
 - One 2160x2160 PNG (1080x1080 CSS pixels at 2x) built with tools/gfx_lib.py (shell, panel, stat_card, step_cards, render and plain HTML/CSS inside the body). House style: navy gradient, gold/steel/cream palette, small-caps eyebrow, a two-line serif headline (first line cream, second line gold, each at most 38 characters), a one-line subtitle, ONE clear visual that shows the post's numbers or mechanism (bar chart, timeline, step cards, stat cards, formula with an example, comparison cards, waterfall), a dashed takeaway panel, a source footnote naming each source with its date, and the Vaulted mark (the shell adds it). Choose a layout that differs from the other posts in the same week.
 - Every number on the graphic must be in the post, in a source quote, or be arithmetic noted in the footnote. No product claims. Wording on the graphic must not claim more than the post does.
-- Image path: images/<YYYY-MM-DD>/<HHMM>-<fb|li>-<slug>.png, where date and time are the slot's local Eastern date and 24-hour time (for example images/2026-10-12/1727-fb-cross-collateral.png).
+- Image path: images/<YYYY-MM-DD>/<HHMM>-<fb|li|lc>-<slug>.png, where date and time are the slot's local Eastern date and 24-hour time (for example images/2026-10-12/1727-fb-cross-collateral.png).
 - Render with gfx_lib.render. Read every WARN line it prints (overlapping text, text at a box edge, a line over text, outside the frame) and fix each one. Then open the PNG (downscaled copy) with Read and LOOK at it: orphaned words, awkward wraps, a footnote crowding the Vaulted mark, bars that do not match their numbers. Fix and re-render until clean (at most 5 renders).
 - Builder script skeleton:
 ```python
@@ -46,7 +46,7 @@ def gfx():
     body = ...
     return shell("Headline line one", "headline line two", "subtitle", body, "Source: ... (date). Arithmetic: ...", 840)
 
-PAGES = {"<slug>": ("images/<YYYY-MM-DD>/<HHMM>-<fb|li>-<slug>.png", gfx)}
+PAGES = {"<slug>": ("images/<YYYY-MM-DD>/<HHMM>-<fb|li|lc>-<slug>.png", gfx)}
 if __name__ == "__main__":
     render([PAGES[k] for k in (sys.argv[1:] or list(PAGES))], ROOT)
 ```

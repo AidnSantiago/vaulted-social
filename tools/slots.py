@@ -4,9 +4,9 @@
 The model must not do day-of-week, daylight-saving or UTC arithmetic in its head. Use this instead.
 
     python3 tools/slots.py --queue /tmp/queue.json [--now 2026-10-11T18:30:00-04:00] [--cap 10]
-                           [--schedule fb=/tmp/fb_schedule.json] [--schedule li=/tmp/li_schedule.json]
+                           [--schedule fb=/tmp/fb_schedule.json] [--schedule li=/tmp/li_schedule.json] [--schedule lc=...]
 
---queue      JSON list of already scheduled posts: [{"channel": "fb" | "li", "dueAt": "2026-10-12T21:27:00.000Z"}, ...]
+--queue      JSON list of already scheduled posts: [{"channel": "fb" | "li" | "lc", "dueAt": "2026-10-12T21:27:00.000Z"}, ...]
              (copy channelService + dueAt out of Buffer's list_posts result; "facebook"/"linkedin" also work)
 --now        Defaults to the real current time. Everything is computed in America/New_York.
 --cap        Scheduled posts a channel may hold at once (Buffer free plan: 10 per channel).
@@ -36,8 +36,13 @@ SLOTS = {  # weekly slots (ET), the source of truth. Facebook: 3 a day (morning,
            "thu": ["08:25", "12:47", "17:27"], "fri": ["08:00", "12:47", "17:27"], "sat": ["09:32", "13:47", "17:27"],
            "sun": ["10:15", "13:47", "17:27"]},
     "li": {"mon": ["11:34"], "tue": ["10:21"], "wed": ["17:09"], "thu": ["15:40"], "fri": ["14:00"]},
+    # "lc" = the Vaulted Online LinkedIn page (Buffer channel 6aea93eee29c69a171557f60, added 2026-11-04). 1 each weekday,
+    # at times that never coincide with the "li" slots (Aidan Santiago's personal LinkedIn profile).
+    "lc": {"mon": ["09:07"], "tue": ["13:12"], "wed": ["08:33"], "thu": ["11:08"], "fri": ["09:44"]},
 }
-CHANNEL_ALIASES = {"facebook": "fb", "fb": "fb", "linkedin": "li", "li": "li"}
+# Both LinkedIn channels report channelService "linkedin" in Buffer, so write /tmp/queue.json keys by channelId, never by service:
+# 6ac5678a6a5c39ccb6364795 -> "fb", 6ac5688a6a5c39ccb6364feb -> "li", 6aea93eee29c69a171557f60 -> "lc".
+CHANNEL_ALIASES = {"facebook": "fb", "fb": "fb", "linkedin": "li", "li": "li", "lc": "lc"}
 
 
 def parse_dt(s):
@@ -95,7 +100,7 @@ def main():
         sched[CHANNEL_ALIASES[ch]] = load_schedule(path)
 
     queue = json.load(open(a.queue))
-    taken = {"fb": [], "li": []}
+    taken = {"fb": [], "li": [], "lc": []}
     for q in queue:
         ch = CHANNEL_ALIASES.get(str(q.get("channel", q.get("channelService", ""))).lower())
         if ch:
@@ -103,7 +108,7 @@ def main():
 
     print(f"now {now:%a %Y-%m-%d %H:%M %Z}   window ends {end:%a %Y-%m-%d %H:%M %Z}   cap {a.cap} scheduled per channel")
     result = []
-    for ch, label in (("fb", "FACEBOOK"), ("li", "LINKEDIN")):
+    for ch, label in (("fb", "FACEBOOK"), ("li", "LINKEDIN (Aidan profile)"), ("lc", "LINKEDIN (Vaulted Online page)")):
         used = len(taken[ch])
         capacity = max(0, a.cap - used)
         slots = slots_between(sched[ch], now, end)
