@@ -942,8 +942,8 @@
      "calc": "illustrative loan terms"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6aec89dd7dcf8f3b73683ec0"
   },
   {
    "channel": "li",
@@ -1055,8 +1055,8 @@
      "calc": "statutory figures from sources, no arithmetic"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6aec89de7dcf8f3b73683f05"
   },
   {
    "channel": "fb",
@@ -1083,8 +1083,8 @@
     }
    ],
    "derived": [],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6aec89de368462a0c0e50f9c"
   },
   {
    "channel": "fb",
@@ -1124,8 +1124,8 @@
      "calc": "84000/1000000 = 0.084"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6aec89df7dcf8f3b73683f51"
   },
   {
    "channel": "fb",
@@ -1171,8 +1171,8 @@
      "calc": "counts of list items and quoted source figures; no computation"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6aec89e00a5aa24b7149ca24"
   },
   {
    "channel": "fb",
@@ -1206,8 +1206,8 @@
     }
    ],
    "derived": [],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6aec89e00a5aa24b7149ca4b"
   },
   {
    "channel": "fb",
@@ -1215,7 +1215,7 @@
    "topic": "sale-waterfall-math",
    "kind": "evergreen",
    "text": "A home sells at a foreclosure sale for $410,000. The first lien is $330,000. Where does the other $80,000 go?\n\nOne source lists the order as sale expenses, the mortgage being foreclosed, junior liens in priority order, then the owner if anything remains. That source adds that each category is paid in full before the next. Surplus rules vary by state.\n\nIllustrative: $410,000 less $12,000 costs leaves $398,000. The first lien takes $330,000, leaving $68,000. The $60,000 second lien is paid, leaving $8,000 for the owner.\n\nTakeaway: lenders can run this waterfall before counting on a sale price.\n\nvaultedonline.com",
-   "alt": "Four bars show a $410,000 foreclosure sale paid in order: $12,000 sale costs leaves $398,000; $330,000 first lien leaves $68,000; $60,000 second lien leaves $8,000; the last $8,000 goes to the owner. Illustrative example.",
+   "alt": "Four bars show a $410,000 foreclosure sale paid in order: $12,000 sale costs leaves $398,000; $330,000 first lien leaves $68,000; $60,000 second lien is paid, leaving $8,000; the last $8,000 goes to the owner. Illustrative example.",
    "image": "images/2026-11-08/1347-fb-sale-waterfall-math.png",
    "sources": [
     {
@@ -1262,8 +1262,8 @@
      "calc": "410000-12000-330000-60000 = 8000"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6aec89e1368462a0c0e51178"
   },
   {
    "channel": "fb",

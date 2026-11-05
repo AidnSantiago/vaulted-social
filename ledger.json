@@ -2253,6 +2253,23 @@
     "Blaney https://www.blaney.com/articles/secured-real-estate-financing-inter-creditor-agreements-a-standstill-with-a-time-limit-is-not-a-true-standstill",
     "White and Williams LLP https://www.whiteandwilliams.com/resources-alerts-Key-Provisions-to-Focus-On-When-Negotiating-Intercreditor-Agreements"
    ]
+  },
+  {
+   "key": "comps-checks",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-07",
+   "title": "Checklist for reviewing comparable sales behind an appraised value",
+   "figures": [
+    "3 closed comps minimum",
+    "12 months",
+    "market-based adjustments"
+   ],
+   "sources": [
+    "Fannie Mae Selling Guide B4-1.3-08 https://selling-guide.fanniemae.com (2025-06-04)",
+    "Fannie Mae Selling Guide B4-1.3-09 (2025-06-04)"
+   ]
   }
  ]
 }
