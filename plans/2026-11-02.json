@@ -1129,6 +1129,53 @@
   },
   {
    "channel": "fb",
+   "slot_local": "2026-11-07T17:27:00-05:00",
+   "topic": "comps-checks",
+   "kind": "evergreen",
+   "text": "What is a comp? A recent sale of a similar property. Lenders can check the comps behind an appraised value.\n\nFannie Mae's conventional guide is a useful reference. It says a minimum of three closed comparables must be reported, and sales closed within the last 12 months should be used.\n\nLenders can ask:\n1. When did each comp close?\n2. How many miles away is it?\n3. Are size and condition similar?\n4. What supports each adjustment?\n\nThe guide says adjustments must reflect the market, not a rule of thumb. Standards vary by lender.\n\nvaultedonline.com",
+   "alt": "Checklist graphic with four checks on comparable sales in an appraisal: recency (closed within the last 12 months), distance in miles, similarity of size and condition, and what supports each adjustment. Footer notes at least 3 comps.",
+   "image": "images/2026-11-07/1727-fb-comps-checks.png",
+   "sources": [
+    {
+     "title": "B4-1.3-08, Comparable Sales",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-08/comparable-sales",
+     "date": "2025-06-04",
+     "quote": "A minimum of three closed comparables must be reported in the sales comparison approach."
+    },
+    {
+     "title": "B4-1.3-08, Comparable Sales",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-08/comparable-sales",
+     "date": "2025-06-04",
+     "quote": "Comparable sales that have closed within the last 12 months should be used in the appraisal;"
+    },
+    {
+     "title": "B4-1.3-08, Comparable Sales",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-08/comparable-sales",
+     "date": "2025-06-04",
+     "quote": "Comparable sales should have similar physical and legal characteristics when compared to the subject property."
+    },
+    {
+     "title": "B4-1.3-09, Adjustments to Comparable Sales",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b4-1.3-09/adjustments-comparable-sales",
+     "date": "2025-06-04",
+     "quote": "The appraiser's adjustments must reflect the market's reaction (that is, market based adjustments)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "4 checks, 3 comps, 12 months",
+     "calc": "counts of list items and quoted source figures; no computation"
+    }
+   ],
+   "status": "planned",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
    "slot_local": "2026-11-08T10:15:00-05:00",
    "topic": "automatic-stay",
    "kind": "evergreen",
