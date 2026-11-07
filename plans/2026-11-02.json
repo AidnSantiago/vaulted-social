@@ -1323,8 +1323,8 @@
      "calc": "post and graphic contain no figures; word count 100 or fewer computed in Python"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6aef2c3a004e4879a75c21f4"
   }
  ]
 }
