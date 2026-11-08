@@ -63,8 +63,8 @@
      "calc": "int(d/730*560) for d=30,90,730 -> 23, 69, 560 px"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109a79214322f6882f09e"
   },
   {
    "channel": "li",
@@ -107,8 +107,8 @@
      "calc": "520*2.4/5.9 = 211.5 px, 520*5.9/5.9 = 520 px (scale only)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109cc562f2e6de9ebee0c"
   },
   {
    "channel": "fb",
@@ -172,8 +172,8 @@
      "calc": "280000*(1+0.11/12)**n for n=2..5 and /400000 (graphic)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109a851492b796e6b0c48"
   },
   {
    "channel": "fb",
@@ -200,8 +200,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109a99214322f6882f106"
   },
   {
    "channel": "fb",
@@ -269,8 +269,8 @@
      "calc": "372000-372000*0.983 = 6324.0 (not printed)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109aad6bbae6fa11b1c12"
   },
   {
    "channel": "li",
@@ -302,8 +302,8 @@
      "calc": "as-of date: today, 2026-11-08; MBA index page listed Q1 2026 and search found Q2 2026 as latest, Q3 2026 not yet found"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109cd004e4879a7e9f0b0"
   },
   {
    "channel": "fb",
@@ -375,8 +375,8 @@
      "calc": "188000+71280 = 259280; 188000+73920 = 261920 (footnote only)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109aa51492b796e6b0cc4"
   },
   {
    "channel": "fb",
@@ -429,8 +429,8 @@
      "calc": "post and graphic contain no numbers; qualitative educational post"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109ba51492b796e6b15cb"
   },
   {
    "channel": "fb",
@@ -469,8 +469,8 @@
      "calc": "15200 + 1200 = 16400 (specialty trade + residential building), matches NAHB total"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109bb004e4879a7e9edb5"
   },
   {
    "channel": "fb",
@@ -537,8 +537,8 @@
      "calc": "(9.5+11.25+12.5)/3 = 11.0833"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109bc51492b796e6b1606"
   },
   {
    "channel": "li",
@@ -598,8 +598,8 @@
      "calc": "ELFA page shows May/June 2022 issue only; 2022-05-01 used as placeholder date, graphic prints May/June 2022"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109ce51492b796e6b19fa"
   },
   {
    "channel": "fb",
@@ -645,8 +645,8 @@
      "calc": "ordinal labels for the simplified payment order; no computation"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109bc229bf05dafe06a03"
   },
   {
    "channel": "fb",
@@ -689,8 +689,8 @@
      "calc": "944*43/100 = 405.92 px, 944*49/100 = 462.56 px (graphic scale only)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109bd004e4879a7e9ee18"
   },
   {
    "channel": "fb",
@@ -766,7 +766,7 @@
      "calc": "rounded 42843.75"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -820,8 +820,8 @@
      "calc": "post and graphic contain no statistics; 'varies by state' reflects Wisconsin, Connecticut and New York-specific sources cited by the three articles"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109ce9214322f6882ff69"
   },
   {
    "channel": "fb",
@@ -867,7 +867,7 @@
      "calc": "all figures (six months; three to six months) are quoted from sources"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -893,7 +893,7 @@
      "calc": "round(8482/259666*100,1) = 3.3"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -950,7 +950,7 @@
      "calc": "44000/2200000*100 = 2.0; 10.2-8.2 = 2.0"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -958,7 +958,7 @@
    "slot_local": "2026-11-13T14:00:00-05:00",
    "topic": "environmental-basics",
    "kind": "evergreen",
-   "text": "A lender asks for a Phase I. What does that report cover?\n\nA Phase I environmental site assessment reviews site records, includes a site visit, and interviews people who know the property. An environmental professional writes it up. It does not include lab testing of samples.\n\nIt looks for a recognized environmental condition: the presence or likely presence of hazardous substances or petroleum products at the property.\n\nEPA says buyers seeking liability protection can follow ASTM E1527-21, with work updated within one year, and key parts within 180 days, before acquisition.\n\nLenders can ask which standard and timing they want.",
+   "text": "A lender asks for a Phase I. What does that report cover?\n\nA Phase I environmental site assessment reviews site records, includes a site visit, and interviews people who know the property. It does not include lab testing of samples.\n\nIt looks for a recognized environmental condition: the presence or likely presence of hazardous substances or petroleum products at the property.\n\nEPA recognizes ASTM E1527-21 as one standard for buyers seeking liability protection, with work updated within one year, and key parts within 180 days, before acquisition.\n\nLenders can ask which standard and timing they want.",
    "alt": "Navy graphic titled What a Phase I environmental report covers. Three steps: records, site visit, interviews. It looks for a recognized environmental condition and does not include lab testing of samples. EPA says the inquiry is done or updated within 1 year, key elements within 180 days.",
    "image": "images/2026-11-13/1400-li-environmental-basics.png",
    "sources": [
@@ -1015,8 +1015,8 @@
      "calc": "quoted from EPA page; no arithmetic"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6af109cf229bf05dafe06ec2"
   },
   {
    "channel": "fb",
@@ -1055,7 +1055,7 @@
      "calc": "No numeric figures; post contains no illustrative or computed numbers. Word count of body computed in Python."
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1095,7 +1095,7 @@
      "calc": "len(body.split()) of post excluding link line"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1194,7 +1194,7 @@
      "calc": "illustrative term"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1241,7 +1241,7 @@
      "calc": "list numbering of checklist items, not data"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1269,7 +1269,7 @@
     }
    ],
    "derived": [],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1333,7 +1333,7 @@
      "calc": "illustrative"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1380,7 +1380,7 @@
      "calc": "post uses only the 90-day figure from the cited source"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   }
  ]

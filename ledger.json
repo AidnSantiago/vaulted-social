@@ -2270,6 +2270,450 @@
     "Fannie Mae Selling Guide B4-1.3-08 https://selling-guide.fanniemae.com (2025-06-04)",
     "Fannie Mae Selling Guide B4-1.3-09 (2025-06-04)"
    ]
+  },
+  {
+   "key": "redemption-period",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "The sale is over. Is the borrower out?",
+   "figures": [
+    "730 days",
+    "bar widths"
+   ],
+   "sources": [
+    "FindLaw https://www.findlaw.com/realestate/foreclosure/statutory-redemption.html (2026-09-24)",
+    "FindLaw https://www.findlaw.com/realestate/foreclosure/statutory-redemption.html (2026-09-24)",
+    "Nolo https://www.alllaw.com/articles/nolo/foreclosure/right-of-redemption.html (2024-02-20)"
+   ]
+  },
+  {
+   "key": "fed-financial-stability-nov-2026",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-08",
+   "title": "What does the Federal Reserve say about commercial real estate right now?",
+   "figures": [
+    "Latest edition",
+    "bar widths 2.4 vs 5.9"
+   ],
+   "sources": [
+    "Federal Reserve Board https://www.federalreserve.gov/publications/2026-may-financial-stability-report-borrowing.htm (2026-05-28)",
+    "Federal Reserve Board https://www.federalreserve.gov/publications/2026-may-financial-stability-report-asset-valuations.htm (2026-05-28)",
+    "Orrick InfoBytes https://infobytes.orrick.com/2026-05-22/fed-releases-its-semiannual-financial-stability-report/ (2026-05-22)"
+   ]
+  },
+  {
+   "key": "capitalized-interest-ltv",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "A $280,000 loan on a $400,000 property starts at 70% LTV. Suppose nothing is paid for six months and the 11% i",
+   "figures": [
+    "$280,000 loan, $400,000 value, 11% rate, 6 months, 70%",
+    "$2,567",
+    "$282,567",
+    "$295,757",
+    "73.9%",
+    "$120,000"
+   ],
+   "sources": [
+    "Consumer Financial Protection Bureau https://www.consumerfinance.gov/ask-cfpb/how-does-interest-accrue-while-i-am-in-school-en-593/ (2024-05-28)",
+    "Federal Student Aid (U.S. Department of Education) https://studentaid.gov/articles/financial-aid-dictionary/ (2026-11-08 (accessed; page undated))"
+   ]
+  },
+  {
+   "key": "deficiency-judgment",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "A foreclosure sale does not always bring in enough to cover the loan. What happens to the gap?",
+   "figures": [],
+   "sources": [
+    "Nolo https://www.alllaw.com/articles/nolo/foreclosure/deficiency-judgments.html (2024-02-20)",
+    "LegalMatch https://legalmatch.com/law-library/article/deficiency-judgments.html (2023-03-08)"
+   ]
+  },
+  {
+   "key": "redfin-market-oct-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "Redfin, four weeks ending October 25, 2026: the U.S. median home-sale price was $389,601, down 0.1% from a yea",
+   "figures": [
+    "$372,000",
+    "$365,676",
+    "$6,324"
+   ],
+   "sources": [
+    "Redfin https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/ (2026-10-29)",
+    "Redfin https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/ (2026-10-29)",
+    "Redfin https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/ (2026-10-29)"
+   ]
+  },
+  {
+   "key": "mba-cref-originations-q3-2026",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-08",
+   "title": "Commercial and multifamily loan originations were 16 percent higher in the second quarter of 2026 than a year ",
+   "figures": [
+    "November 8, 2026"
+   ],
+   "sources": [
+    "MBA Newslink (Mortgage Bankers Association) https://newslink.mba.org/mba-newslinks/2026/august/mba-newslink-friday-august-7-2026/commercial-multifamily-borrowing-increased-16-in-the-second-quarter-of-2026/ (2026-08-06)",
+    "Mortgage Bankers Association https://www.mba.org/docs/default-source/research-and-forecasts/cmf-originations-index/2q26cmforiginationssurvey.pdf?sfvrsn=eb1bfcfc_1 (2026-08-06)"
+   ]
+  },
+  {
+   "key": "contingency-reserve-math",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "How big should a rehab contingency line be?",
+   "figures": [
+    "$188,000 purchase, $66,000 hard costs, 8% and 12% contingency, loan = 90% of purchase + full budget",
+    "$5,280",
+    "$7,920",
+    "$71,280",
+    "$73,920",
+    "$240,480"
+   ],
+   "sources": [
+    "MCAP https://mcap.com/blog/how-to-budget-for-your-construction-project (2024-11-12)",
+    "Kiavi https://www.kiavi.com/blog/rehab-over-budget-contingency-options (2026-08-10)"
+   ]
+  },
+  {
+   "key": "entity-borrowers",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "An individual signs for themselves. An LLC cannot sign anything on its own, so a person signs for it. How does",
+   "figures": [
+    "no numeric figures"
+   ],
+   "sources": [
+    "Geraci Law Firm https://geracillp.com/private-lending-authority-disputes-how-to-avoid-50k-losses/ (2026-06-22)",
+    "Geraci Law Firm https://geracillp.com/private-lending-authority-disputes-how-to-avoid-50k-losses/ (2026-06-22)",
+    "Spilman Thomas & Battle, PLLC https://spilmanlaw.com/dataentry/resources/attorney-articles/banking-finance/another-limited-liability-company-wants-a-loan (2023-08-11)"
+   ]
+  },
+  {
+   "key": "bls-residential-construction-jobs-oct-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "Residential construction lost 16,400 jobs in October, the largest monthly drop since March 2021, per NAHB anal",
+   "figures": [
+    "16,400"
+   ],
+   "sources": [
+    "NAHB Eye On Housing (Jing Fu) https://eyeonhousing.org/2026/11/hiring-rebounds-in-october-but-residential-construction-employment-declines/ (2026-11-06)",
+    "Engineering News-Record (ENR) https://www.enr.com/articles/64222-construction-jobs-declined-in-october-as-residential-contractors-shed-164k-workers (2026-11-06)",
+    "U.S. Bureau of Labor Statistics https://www.bls.gov/news.release/empsit.htm (2026-11-06)"
+   ]
+  },
+  {
+   "key": "portfolio-yield-weighted-avg",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "Three loans, three rates. What is the portfolio yield?",
+   "figures": [
+    "$205,000 at 9.5%, $415,000 at 11.25%, $435,000 at 12.5%",
+    "$19,475",
+    "$46,687.50",
+    "$54,375",
+    "$120,537.50",
+    "$1,055,000"
+   ],
+   "sources": [
+    "CFPB https://www.consumerfinance.gov/ask-cfpb/should-i-consolidate-refinance-student-loans-en-561/ (2024-12-03)",
+    "FINRA https://www.finra.org/finra-data/fixed-income/mbs/glossary (2026-11-08 (accessed; page undated))",
+    "Fannie Mae https://capitalmarkets.fanniemae.com/sites/capmrkt/files/migrated-files/resources/file/mbs/pdf/pool-talk-glossary-rpls-042516.pdf (2016-04-01)"
+   ]
+  },
+  {
+   "key": "ucc-filings",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-08",
+   "title": "A lender records a mortgage and assumes everything is covered. A mortgage is a real property document, and the",
+   "figures": [
+    "graphic date note"
+   ],
+   "sources": [
+    "Cornell Law School Legal Information Institute https://www.law.cornell.edu/ucc/9/9-109 (2026-11-08 (accessed; page undated))",
+    "Cornell Law School Legal Information Institute https://www.law.cornell.edu/ucc/9/9-501 (2026-11-08 (accessed; page undated))",
+    "Cornell Law School Legal Information Institute https://www.law.cornell.edu/ucc/9/9-102 (2026-11-08 (accessed; page undated))"
+   ]
+  },
+  {
+   "key": "hoa-lien-priority",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "Can an HOA lien come ahead of a first mortgage?",
+   "figures": [
+    "1, 2, 3 (graphic order labels)"
+   ],
+   "sources": [
+    "Nolo https://www.nolo.com/legal-encyclopedia/homeowners-association-super-liens.html (2025-08-19)",
+    "Colorado Revised Statutes (public.law) https://colorado.public.law/statutes/crs_38-33.3-316 (2026-11-08)",
+    "Justia, Nevada Revised Statutes https://law.justia.com/codes/nevada/2022/chapter-116/statute-116-3116/ (2026-11-08)"
+   ]
+  },
+  {
+   "key": "ice-first-look-sep-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "Which loans are heading to foreclosure? ICE says loans originated in 2022 or later made up 43 percent of Septe",
+   "figures": [
+    "12 basis points",
+    "Bars 43/100 and 49/100 of track"
+   ],
+   "sources": [
+    "Intercontinental Exchange (ICE) https://s2.q4cdn.com/154085107/files/doc_news/ICE-First-Look-September-Delinquencies-Track-Seasonal-Norms-as-Foreclosure-Pipeline-Shifts-Toward-Recent-Vintages-2026.pdf (2026-10-27)",
+    "HousingWire https://www.housingwire.com/articles/mortgage-delinquency-september-ice/ (2026-10-27)",
+    "The MortgagePoint https://themortgagepoint.com/2026/10/28/ice-first-look-september-delinquencies-track-seasonal-norms-foreclosures-trend-up/ (2026-10-28)"
+   ]
+  },
+  {
+   "key": "warehouse-line-spread-math",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "What does a $750,000 loan earn on the lender's own money when a credit line funds part of it?",
+   "figures": [
+    "$750,000",
+    "10.75 percent",
+    "7.75 percent",
+    "65 percent",
+    "$487,500",
+    "$262,500"
+   ],
+   "sources": [
+    "Axos Bank https://www.axosbank.com/commercial/insights/lending/what-is-warehouse-lending (2025-12-11)",
+    "Customers Bank https://www.customersbank.com/?p=26343 (2026-11-08 (accessed; page undated))"
+   ]
+  },
+  {
+   "key": "receiver-appointment",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-08",
+   "title": "The tenants keep paying rent on a building in foreclosure. Who collects it?",
+   "figures": [
+    "no numeric figures"
+   ],
+   "sources": [
+    "von Briesen & Roper, s.c. https://www.vonbriesen.com/legal-news/2265/the-critical-role-of-the-foreclosure-receiver (2013-12-18)",
+    "von Briesen & Roper, s.c. https://www.vonbriesen.com/legal-news/2265/the-critical-role-of-the-foreclosure-receiver (2013-12-18)",
+    "Neubert, Pepe & Monteith, P.C. https://npmlaw.com/article/connecticut-receivership-law-for-commercial-foreclosures-what-lenders-need-to-know/ (2026-05-27)"
+   ]
+  },
+  {
+   "key": "seasoning-requirements",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "You rehabbed a property and the appraisal came in well above what you paid. Will the exit lender count it?",
+   "figures": [
+    "no illustrative numbers"
+   ],
+   "sources": [
+    "Fannie Mae Selling Guide https://selling-guide.fanniemae.com/sel/b2-1.3-03/cash-out-refinance-transactions (2025-12-10)",
+    "Axiant Partners https://axiantpartners.com/dscr-loans/articles/dscr-loans-no-seasoning/ (2026-09-02)",
+    "Axiant Partners https://axiantpartners.com/dscr-loans/articles/dscr-loans-no-seasoning/ (2026-09-02)"
+   ]
+  },
+  {
+   "key": "attom-vacant-foreclosure-q3-2026",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "Out of 259,666 U.S. residential properties in the foreclosure process in ATTOM's Q3 2026 report, about 3.3 per",
+   "figures": [
+    "3.3 percent"
+   ],
+   "sources": [
+    "ATTOM https://www.attomdata.com/news/market-trends/foreclosures/q3-2026-vacancy-and-zombie-foreclosure-report/ (2026-08-27)"
+   ]
+  },
+  {
+   "key": "net-yield-after-loss-rate",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "A lender advertises 10.2 percent on a $2,200,000 portfolio. Then one loan loses $44,000. What is the yield now",
+   "figures": [
+    "$2,200,000",
+    "10.2 percent",
+    "$44,000",
+    "$224,400",
+    "$180,400",
+    "8.2 percent"
+   ],
+   "sources": [
+    "WallStreetMojo https://wallstreetmojo.com/net-yield (2026-01-14)",
+    "Law Insider https://www.lawinsider.com/dictionary/net-yield (2026-11-08 (accessed; page undated))"
+   ]
+  },
+  {
+   "key": "environmental-basics",
+   "channels": [
+    "li"
+   ],
+   "date": "2026-11-08",
+   "title": "A lender asks for a Phase I. What does that report cover?",
+   "figures": [
+    "ASTM E1527-21",
+    "one year / 1 year / 180 days"
+   ],
+   "sources": [
+    "U.S. EPA https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries (2026-05-07)",
+    "U.S. EPA https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries (2026-05-07)",
+    "U.S. EPA https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries (2026-05-07)"
+   ]
+  },
+  {
+   "key": "draw-photo-documentation",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "A draw request says the work is done. Photos are how a lender can see it.",
+   "figures": [
+    "none"
+   ],
+   "sources": [
+    "CompanyCam https://companycam.com/resources/blog/construction-photo-documentation-a-contractors-guide-to-protecting-your-work (2026-02-17)",
+    "Projul https://projul.com/blog/construction-progress-photos-best-practices/ (2025-08-13)",
+    "Trinity https://www.trinityonline.com/blog/three-critical-factors-of-a-draw-inspection (2021-08-09)"
+   ]
+  },
+  {
+   "key": "asset-based-lending",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "What does asset-based lending mean?",
+   "figures": [
+    "word count"
+   ],
+   "sources": [
+    "Hammerle Morris Law Firm https://hammerle.com/blog/what-is-asset-based-lending-in-real-estate/ (2020-04-02)",
+    "U.S. Small Business Administration https://www.sba.gov/blog/asset-based-lending-what-upside-downside (2017-12-31)",
+    "Consumer Financial Protection Bureau (Regulation Z) https://www.consumerfinance.gov/rules-policy/regulations/1026/43/ (2026-11-08 (accessed; page undated))"
+   ]
+  },
+  {
+   "key": "origination-points-split",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "A $355,000 loan closes with 2.5 points. Does the lender keep all of them?",
+   "figures": [
+    "$355,000",
+    "2.5 points",
+    "1 point to broker",
+    "10.3 percent",
+    "$8,875",
+    "$3,550"
+   ],
+   "sources": [
+    "Private Lender Link https://privatelenderlink.com/2021/12/origination-fees-points-for-private-hard-money-loans/ (2023-07-07)",
+    "Private Lender Link https://privatelenderlink.com/2021/12/origination-fees-points-for-private-hard-money-loans/ (2023-07-07)",
+    "Capital Funding https://capitalfunding.com/blog/hard-money-lender-fee-structures-a-brokers-guide/ (2026-07-05)"
+   ]
+  },
+  {
+   "key": "zoning-use-verification",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "Lending on a conversion or a multi-unit building? Zoning is the first gate for whether a plan is allowed.",
+   "figures": [
+    "1, 2, 3, 4"
+   ],
+   "sources": [
+    "City of Orlando https://orlando.gov/Building-Development/Planning-Approvals/Request-a-Zoning-Verification-Letter (2026-11-08 (accessed; page undated))",
+    "City of Sioux Falls https://www.siouxfalls.gov/government/departments/planning-development/zoning/zvl (2026-11-08 (accessed; page undated))",
+    "Gary D. Taylor, Iowa State University (community-planning.extension.org) https://community-planning.extension.org/nonconforming-uses-aka-grandfathered-uses-in-zoning (2026-11-08 (accessed; page undated))"
+   ]
+  },
+  {
+   "key": "portfolio-loan-meaning",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "What makes a loan a portfolio loan?",
+   "figures": [],
+   "sources": [
+    "Rocket Mortgage (Quicken Loans) https://www.quickenloans.com/learn/portfolio-loan (2024-09-20)",
+    "Experian https://www.experian.com/blogs/ask-experian/what-is-portfolio-mortgage/ (2025-04-10)"
+   ]
+  },
+  {
+   "key": "first-payment-stub-interest",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "A $325,000 loan closes on November 19. How much interest covers the odd days before the first full month?",
+   "figures": [
+    "$325,000, 10 percent, closing Nov 19, 30-day month",
+    "12 days",
+    "$90.28",
+    "$1,083.33",
+    "$2,798.61",
+    "$2,708.33"
+   ],
+   "sources": [
+    "Chase https://www.chase.com/personal/mortgage/education/financing-a-home/what-is-prepaid-interest (2026-07-17)",
+    "Corporate Finance Institute https://corporatefinanceinstitute.com/resources/derivatives/day-count-convention/ (2020-08-19)",
+    "Commercial Loan Direct https://commercialloandirect.com/definition/actual-360 (2026-11-08)"
+   ]
+  },
+  {
+   "key": "occupancy-vacant-vs-tenanted",
+   "channels": [
+    "fb"
+   ],
+   "date": "2026-11-08",
+   "title": "Vacant or tenanted? The same collateral can follow two different paths after foreclosure.",
+   "figures": [
+    "no illustrative numbers"
+   ],
+   "sources": [
+    "Starfield & Smith https://starfieldsmith.com/2017/02/best-practices-snda-fundamentals/ (2017-02-22)",
+    "Starfield & Smith https://starfieldsmith.com/2017/02/best-practices-snda-fundamentals/ (2017-02-22)",
+    "Wealth Management (Robert Machson, attorney) https://www.wealthmanagement.com/real-estate/a-quick-lesson-in-two-vital-legal-documents (2003-05-01)"
+   ]
   }
  ]
 }
