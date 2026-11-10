@@ -1,1387 +1,1387 @@
 {
-  "week_start": "2026-11-09",
-  "posts": [
+ "week_start": "2026-11-09",
+ "posts": [
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-09T08:42:00-05:00",
+   "topic": "redemption-period",
+   "kind": "evergreen",
+   "text": "The sale is over. Is the borrower out?\n\nIn about half of states, not necessarily. A statutory right of redemption lets the borrower reclaim the property for a set time after the sale, typically by paying the bid price plus interest and fees.\n\nThe window varies by state. FindLaw says it ranges from 30 days to as high as two years. Nolo lists Maine at 90 days from the judgment, unless the borrower appeals. Tennessee lists two years, and it may be waived in the loan documents.\n\nLenders can add the state redemption period to their exit timeline.\n\nvaultedonline.com",
+   "alt": "Graphic titled After the sale, the clock may still be running. About half of states give a right to redeem after the sale; periods range from 30 days to two years. Bars compare 30 days, Maine at 90 days from judgment, and Tennessee at two years. Redeeming typically costs bid price plus interest and fees.",
+   "image": "images/2026-11-09/0842-fb-redemption-period.png",
+   "sources": [
     {
-      "channel": "fb",
-      "slot_local": "2026-11-09T08:42:00-05:00",
-      "topic": "redemption-period",
-      "kind": "evergreen",
-      "text": "The sale is over. Is the borrower out?\n\nIn about half of states, not necessarily. A statutory right of redemption lets the borrower reclaim the property for a set time after the sale, typically by paying the bid price plus interest and fees.\n\nThe window varies by state. FindLaw says it ranges from 30 days to as high as two years. Nolo lists Maine at 90 days from the judgment, unless the borrower appeals. Tennessee lists two years, and it may be waived in the loan documents.\n\nLenders can add the state redemption period to their exit timeline.\n\nvaultedonline.com",
-      "alt": "Graphic titled After the sale, the clock may still be running. About half of states give a right to redeem after the sale; periods range from 30 days to two years. Bars compare 30 days, Maine at 90 days from judgment, and Tennessee at two years. Redeeming typically costs bid price plus interest and fees.",
-      "image": "images/2026-11-09/0842-fb-redemption-period.png",
-      "sources": [
-        {
-          "title": "Statutory Redemption",
-          "publisher": "FindLaw",
-          "url": "https://www.findlaw.com/realestate/foreclosure/statutory-redemption.html",
-          "date": "2026-09-24",
-          "quote": "The redemption period ranges from 30 days to as high as two years."
-        },
-        {
-          "title": "Statutory Redemption (same page, second quote)",
-          "publisher": "FindLaw",
-          "url": "https://www.findlaw.com/realestate/foreclosure/statutory-redemption.html",
-          "date": "2026-09-24",
-          "quote": "This option is only available during the redemption period following the sale."
-        },
-        {
-          "title": "The Right of Redemption",
-          "publisher": "Nolo",
-          "url": "https://www.alllaw.com/articles/nolo/foreclosure/right-of-redemption.html",
-          "date": "2024-02-20",
-          "quote": "About half of the states have a law that gives homeowners the right to redeem the home for a period of time after the foreclosure sale."
-        },
-        {
-          "title": "The Right of Redemption (payment)",
-          "publisher": "Nolo",
-          "url": "https://www.alllaw.com/articles/nolo/foreclosure/right-of-redemption.html",
-          "date": "2024-02-20",
-          "quote": "To redeem after a foreclosure sale, the borrower must typically pay the bid price, plus interest and other allowable fees, to the person or entity that bought the property at the foreclosure sale or the total mortgage debt owed to the lender, plus certain other allowable charges."
-        },
-        {
-          "title": "The Right of Redemption (Maine, Tennessee)",
-          "publisher": "Nolo",
-          "url": "https://www.alllaw.com/articles/nolo/foreclosure/right-of-redemption.html",
-          "date": "2024-02-20",
-          "quote": "Maine: Yes, 90 days from the date the foreclosure judgment is entered, unless borrower appeals. Tennessee: Yes, within two years after foreclosure. Right of redemption may be waived in mortgage or deed of trust."
-        },
-        {
-          "title": "Right of Redemption",
-          "publisher": "Chase",
-          "url": "https://www.chase.com/personal/mortgage/education/owning-a-home/right-of-redemption",
-          "date": "2025-07-28",
-          "quote": "Real estate right of redemption laws are governed by the state and can vary widely depending on the jurisdiction."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "730 days",
-          "calc": "2*365 = 730 (two years in days, used only for bar scale)"
-        },
-        {
-          "figure": "bar widths",
-          "calc": "int(d/730*560) for d=30,90,730 -> 23, 69, 560 px"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109a79214322f6882f09e"
+     "title": "Statutory Redemption",
+     "publisher": "FindLaw",
+     "url": "https://www.findlaw.com/realestate/foreclosure/statutory-redemption.html",
+     "date": "2026-09-24",
+     "quote": "The redemption period ranges from 30 days to as high as two years."
     },
     {
-      "channel": "li",
-      "slot_local": "2026-11-09T11:34:00-05:00",
-      "topic": "fed-financial-stability-nov-2026",
-      "kind": "data",
-      "text": "What does the Federal Reserve say about commercial real estate right now?\n\nIts May 2026 Financial Stability Report says a large volume of CRE debt is scheduled to mature over the coming year, which raises the possibility of forced sales. Extending or modifying maturing loans has helped limit that risk, though that option may be increasingly limited.\n\nCRE credit outstanding was 3,368 billion dollars at the end of 2025, growing 2.4 percent in a year versus a 5.9 percent long-run average.\n\nLenders can ask how a borrower repays at maturity if a refinance is not available.",
-      "alt": "Graphic of the Federal Reserve May 2026 Financial Stability Report on commercial real estate: CRE credit of 3,368 billion dollars at the end of 2025, growth of 2.4 percent versus a 5.9 percent long-run average, and notes on maturing debt, loan extensions and cap rates.",
-      "image": "images/2026-11-09/1134-li-fed-financial-stability-nov-2026.png",
-      "sources": [
-        {
-          "title": "Financial Stability Report, May 2026: 2. Borrowing by Businesses and Households (Table 2.1)",
-          "publisher": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-borrowing.htm",
-          "date": "2026-05-28",
-          "quote": "Table 2.1. Outstanding amounts of nonfinancial business and household credit: Commercial real estate credit 3,368 billion dollars; growth 2024:Q4 to 2025:Q4 2.4 percent; average annual growth 1997 to 2025:Q4 5.9 percent. The data extend through 2025:Q4."
-        },
-        {
-          "title": "Financial Stability Report, May 2026: 1. Asset Valuations",
-          "publisher": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-asset-valuations.htm",
-          "date": "2026-05-28",
-          "quote": "A large volume of CRE debt is scheduled to mature over the coming year. Lenders' willingness to extend or modify maturing loans has helped to limit this risk to date. Capitalization rates ... have recovered from historical lows reached in 2022, rising to a level just below its historical average."
-        },
-        {
-          "title": "Fed releases its semiannual Financial Stability Report",
-          "publisher": "Orrick InfoBytes",
-          "url": "https://infobytes.orrick.com/2026-05-22/fed-releases-its-semiannual-financial-stability-report/",
-          "date": "2026-05-22",
-          "quote": "a large volume of CRE debt scheduled to mature over the coming year raises the possibility of forced sales."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "Latest edition",
-          "calc": "No November 2026 edition found as of 2026-11-08; May 2026 edition (released 2026-05-08) used"
-        },
-        {
-          "figure": "bar widths 2.4 vs 5.9",
-          "calc": "520*2.4/5.9 = 211.5 px, 520*5.9/5.9 = 520 px (scale only)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109cc562f2e6de9ebee0c"
+     "title": "Statutory Redemption (same page, second quote)",
+     "publisher": "FindLaw",
+     "url": "https://www.findlaw.com/realestate/foreclosure/statutory-redemption.html",
+     "date": "2026-09-24",
+     "quote": "This option is only available during the redemption period following the sale."
     },
     {
-      "channel": "fb",
-      "slot_local": "2026-11-09T12:47:00-05:00",
-      "topic": "capitalized-interest-ltv",
-      "kind": "evergreen",
-      "text": "A $280,000 loan on a $400,000 property starts at 70% LTV. Suppose nothing is paid for six months and the 11% interest is capitalized monthly.\n\nCapitalized interest is unpaid interest added to the loan's principal balance. Each month, interest then accrues on the larger balance.\n\nIllustrative: month one adds $2,567, so the balance is $282,567. By month six it is $295,757 and LTV is 73.9%, assuming the value stays at $400,000. The equity cushion shrinks from $120,000 to $104,243 with no new money advanced.\n\nLenders can check LTV on the current balance, not only the original loan amount.\n\nvaultedonline.com",
-      "alt": "Seven bars show a $280,000 loan balance growing each month as 11 percent interest is capitalized, reaching $295,757 at month six. LTV rises from 70.0% to 73.9% on a $400,000 value, and the equity cushion falls from $120,000 to $104,243. Illustrative.",
-      "image": "images/2026-11-09/1247-fb-capitalized-interest-ltv.png",
-      "sources": [
-        {
-          "title": "How does interest accrue while I am in school?",
-          "publisher": "Consumer Financial Protection Bureau",
-          "url": "https://www.consumerfinance.gov/ask-cfpb/how-does-interest-accrue-while-i-am-in-school-en-593/",
-          "date": "2024-05-28",
-          "quote": "Interest accrued while you're in school can be \"capitalized,\" meaning it is added to your loan's unpaid principal balance. When capitalization occurs, you are charged interest on interest."
-        },
-        {
-          "title": "Financial Aid Dictionary",
-          "publisher": "Federal Student Aid (U.S. Department of Education)",
-          "url": "https://studentaid.gov/articles/financial-aid-dictionary/",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "Interest capitalization occurs when unpaid interest is added to a loan’s principal balance."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$280,000 loan, $400,000 value, 11% rate, 6 months, 70%",
-          "calc": "illustrative inputs; 280000/400000 = 0.70"
-        },
-        {
-          "figure": "$2,567",
-          "calc": "280000*0.11/12 = 2566.67, rounded"
-        },
-        {
-          "figure": "$282,567",
-          "calc": "280000*(1+0.11/12)**1 = 282566.67"
-        },
-        {
-          "figure": "$295,757",
-          "calc": "280000*(1+0.11/12)**6 = 295757.26"
-        },
-        {
-          "figure": "73.9%",
-          "calc": "295757.26/400000*100 = 73.94"
-        },
-        {
-          "figure": "$120,000",
-          "calc": "400000-280000"
-        },
-        {
-          "figure": "$104,243",
-          "calc": "400000-295757.26 = 104242.74"
-        },
-        {
-          "figure": "$15,757",
-          "calc": "295757.26-280000 = 15757.26"
-        },
-        {
-          "figure": "$285,157, $287,771, $290,409, $293,071; 70.6%, 71.3%, 71.9%, 72.6%, 73.3%",
-          "calc": "280000*(1+0.11/12)**n for n=2..5 and /400000 (graphic)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109a851492b796e6b0c48"
+     "title": "The Right of Redemption",
+     "publisher": "Nolo",
+     "url": "https://www.alllaw.com/articles/nolo/foreclosure/right-of-redemption.html",
+     "date": "2024-02-20",
+     "quote": "About half of the states have a law that gives homeowners the right to redeem the home for a period of time after the foreclosure sale."
     },
     {
-      "channel": "fb",
-      "slot_local": "2026-11-09T17:27:00-05:00",
-      "topic": "deficiency-judgment",
-      "kind": "evergreen",
-      "text": "A foreclosure sale does not always bring in enough to cover the loan. What happens to the gap?\n\nThat gap is the deficiency: the mortgage debt minus the foreclosure sale price. A deficiency judgment is a money judgment against the borrower for that difference.\n\nWhether a lender can pursue it, and how, varies by state. In a judicial foreclosure, the lender can usually request it in the foreclosure lawsuit. After a nonjudicial foreclosure, the lender must sue separately. Some states prohibit or limit it.\n\nLenders can check state rules early, since they affect what recovery is possible.\n\nvaultedonline.com",
-      "alt": "Graphic titled When a foreclosure sale falls short of the debt. A formula shows debt owed minus sale price equals the deficiency. Three cards note that judicial foreclosures can include the request, nonjudicial ones need a separate suit, and some states prohibit or limit it.",
-      "image": "images/2026-11-09/1727-fb-deficiency-judgment.png",
-      "sources": [
-        {
-          "title": "Deficiency Judgments (Anti-Deficiency Laws)",
-          "publisher": "Nolo",
-          "url": "https://www.alllaw.com/articles/nolo/foreclosure/deficiency-judgments.html",
-          "date": "2024-02-20",
-          "quote": "A \"deficiency judgment\" is a money judgment against a borrower for the difference between the total amount of the mortgage debt and the foreclosure sale price. As you can see, deficiency judgment laws vary widely from state to state and can be complex. In judicial foreclosures, the bank can usually request the judgment as part of the foreclosure lawsuit. With a nonjudicial foreclosure, the bank must sue the borrower following the foreclosure to get a deficiency judgment. These laws prohibit foreclosing banks from suing borrowers for deficiency judgments. Many states that allow banks to seek deficiency judgments limit the amount that banks can recover."
-        },
-        {
-          "title": "Deficiency Judgments",
-          "publisher": "LegalMatch",
-          "url": "https://legalmatch.com/law-library/article/deficiency-judgments.html",
-          "date": "2023-03-08",
-          "quote": "The ability of a lender to seek a deficiency judgment is determined by the laws of the state where the property is situated. Some jurisdictions have rules that prevent or limit a lender's ability to pursue a deficiency judgment."
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6af109a99214322f6882f106"
+     "title": "The Right of Redemption (payment)",
+     "publisher": "Nolo",
+     "url": "https://www.alllaw.com/articles/nolo/foreclosure/right-of-redemption.html",
+     "date": "2024-02-20",
+     "quote": "To redeem after a foreclosure sale, the borrower must typically pay the bid price, plus interest and other allowable fees, to the person or entity that bought the property at the foreclosure sale or the total mortgage debt owed to the lender, plus certain other allowable charges."
     },
     {
-      "channel": "fb",
-      "slot_local": "2026-11-10T09:15:00-05:00",
-      "topic": "redfin-market-oct-2026",
-      "kind": "data",
-      "text": "Redfin, four weeks ending October 25, 2026: the U.S. median home-sale price was $389,601, down 0.1% from a year earlier. Pending sales fell 15.9% year over year to the lowest level in Redfin records. Median days on market was 50, and 21.5% of listings had price drops.\n\nFor a lender underwriting a flip exit, a list price is not a sale price. The average sale-to-list ratio was 98.3%, so a $372,000 list price (illustrative) points to about $365,676.\n\nLenders can stress test an exit on a lower price and a longer sale timeline.\n\nvaultedonline.com",
-      "alt": "Redfin data for the four weeks ending October 25, 2026: median sale price $389,601, down 0.1 percent; pending sales down 15.9 percent year over year; 50 median days on market; 21.5 percent of listings with price drops. Illustrative $372,000 list price at 98.3 percent sale-to-list is $365,676.",
-      "image": "images/2026-11-10/0915-fb-redfin-market-oct-2026.png",
-      "sources": [
-        {
-          "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
-          "publisher": "Redfin",
-          "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
-          "date": "2026-10-29",
-          "quote": "The median home-sale price was $389,601, down 0.1% year over year."
-        },
-        {
-          "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
-          "publisher": "Redfin",
-          "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
-          "date": "2026-10-29",
-          "quote": "Pending sales (seasonally adjusted) | 276,352 | -15.9% | -1.8% | Lowest level in our records"
-        },
-        {
-          "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
-          "publisher": "Redfin",
-          "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
-          "date": "2026-10-29",
-          "quote": "Median days on market | 50 | 1"
-        },
-        {
-          "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
-          "publisher": "Redfin",
-          "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
-          "date": "2026-10-29",
-          "quote": "Share of home listings with price drops | 21.5% | Up from 20.9%"
-        },
-        {
-          "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
-          "publisher": "Redfin",
-          "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
-          "date": "2026-10-29",
-          "quote": "Average sale-to-list price ratio | 98.3% | Unchanged"
-        },
-        {
-          "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
-          "publisher": "Redfin",
-          "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
-          "date": "2026-10-29",
-          "quote": "What to know about the U.S. housing market for the four weeks ending October 25:"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$372,000",
-          "calc": "illustrative list price chosen by author"
-        },
-        {
-          "figure": "$365,676",
-          "calc": "372000*0.983 = 365676.0"
-        },
-        {
-          "figure": "$6,324",
-          "calc": "372000-372000*0.983 = 6324.0 (not printed)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109aad6bbae6fa11b1c12"
+     "title": "The Right of Redemption (Maine, Tennessee)",
+     "publisher": "Nolo",
+     "url": "https://www.alllaw.com/articles/nolo/foreclosure/right-of-redemption.html",
+     "date": "2024-02-20",
+     "quote": "Maine: Yes, 90 days from the date the foreclosure judgment is entered, unless borrower appeals. Tennessee: Yes, within two years after foreclosure. Right of redemption may be waived in mortgage or deed of trust."
     },
     {
-      "channel": "li",
-      "slot_local": "2026-11-10T10:21:00-05:00",
-      "topic": "mba-cref-originations-q3-2026",
-      "kind": "data",
-      "text": "Commercial and multifamily loan originations were 16 percent higher in the second quarter of 2026 than a year earlier, and up 12 percent from the first quarter. That is the latest MBA release we reviewed, published August 6, 2026.\n\nInside the total, year over year, investor-driven lender loans rose 18 percent, multifamily rose 8 percent, and loans from government sponsored enterprises fell 17 percent.\n\nFor a private lender this is market context, not a forecast. When more capital is active, borrowers can have more options, so it helps to know which lender types are growing. Local markets vary.",
-      "alt": "Graphic: MBA commercial and multifamily originations, second quarter 2026, up 16 percent from a year earlier and 12 percent from the prior quarter. Bars show year-over-year change by lender type: CMBS plus 68, depositories plus 61, investor-driven lenders plus 18, GSEs minus 17, life insurance companies minus 27 percent.",
-      "image": "images/2026-11-10/1021-li-mba-cref-originations-q3-2026.png",
-      "sources": [
-        {
-          "title": "Commercial/Multifamily Borrowing Increased 16% in the Second Quarter",
-          "publisher": "MBA Newslink (Mortgage Bankers Association)",
-          "url": "https://newslink.mba.org/mba-newslinks/2026/august/mba-newslink-friday-august-7-2026/commercial-multifamily-borrowing-increased-16-in-the-second-quarter-of-2026/",
-          "date": "2026-08-06",
-          "quote": "Commercial and multifamily mortgage loan originations were 16% higher in the second quarter of 2026 compared to a year earlier, and increased 12% from the first quarter of 2026. Investor-driven lender loans had an 18% increase, multifamily properties an 8% increase, government sponsored enterprises a 17% decrease. CMBS increased by 68% year-over-year, depositories a 61% increase, life insurance company loans a 27% decrease."
-        },
-        {
-          "title": "Quarterly Survey of Commercial/Multifamily Mortgage Bankers Originations, Second Quarter 2026",
-          "publisher": "Mortgage Bankers Association",
-          "url": "https://www.mba.org/docs/default-source/research-and-forecasts/cmf-originations-index/2q26cmforiginationssurvey.pdf?sfvrsn=eb1bfcfc_1",
-          "date": "2026-08-06",
-          "quote": "were 16 percent higher in the second quarter of 2026 compared to a year earlier; increased 12 percent from the first quarter of 2026; an 18 percent increase in investor-driven lender loans; an 8 percent increase for multifamily properties (page undated, accessed 2026-11-08)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "November 8, 2026",
-          "calc": "as-of date: today, 2026-11-08; MBA index page listed Q1 2026 and search found Q2 2026 as latest, Q3 2026 not yet found"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109cd004e4879a7e9f0b0"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-10T12:47:00-05:00",
-      "topic": "contingency-reserve-math",
-      "kind": "evergreen",
-      "text": "How big should a rehab contingency line be?\n\nSources give a wide range. MCAP, a Canadian lender, says a contingency can run 3% to 10% of construction costs. Kiavi says to consider at least 10-15% of the renovation budget. Your lender's terms may differ.\n\nIllustrative: $188,000 purchase, $66,000 hard costs, loan of 90% of purchase plus the full budget.\n\nAt 8%: $5,280 contingency, $71,280 budget, $240,480 loan.\n\nAt 12%: $7,920 contingency, $73,920 budget, $243,120 loan.\n\nThe loan rises $2,640, while loan to cost barely moves (92.7% to 92.8%). Size the line on purpose.\n\nvaultedonline.com",
-      "alt": "Two cards compare a rehab contingency of 8 percent and 12 percent on a $188,000 purchase with $66,000 hard costs. Contingency $5,280 vs $7,920, budget $71,280 vs $73,920, loan $240,480 vs $243,120, loan to cost 92.7% vs 92.8%. Illustrative.",
-      "image": "images/2026-11-10/1247-fb-contingency-reserve-math.png",
-      "sources": [
-        {
-          "title": "How to budget for your construction project",
-          "publisher": "MCAP",
-          "url": "https://mcap.com/blog/how-to-budget-for-your-construction-project",
-          "date": "2024-11-12",
-          "quote": "A contingency can range from 3% to 10% of the construction costs"
-        },
-        {
-          "title": "Rehab over budget contingency options",
-          "publisher": "Kiavi",
-          "url": "https://www.kiavi.com/blog/rehab-over-budget-contingency-options",
-          "date": "2026-08-10",
-          "quote": "Consider setting a contingency of at least 10-15% of the renovation budget."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$188,000 purchase, $66,000 hard costs, 8% and 12% contingency, loan = 90% of purchase + full budget",
-          "calc": "illustrative inputs chosen by author (assignment numbers 195000/72000 appear in ledger within 12 weeks, so changed)"
-        },
-        {
-          "figure": "$5,280",
-          "calc": "66000*0.08 = 5280"
-        },
-        {
-          "figure": "$7,920",
-          "calc": "66000*0.12 = 7920"
-        },
-        {
-          "figure": "$71,280",
-          "calc": "66000+5280 = 71280"
-        },
-        {
-          "figure": "$73,920",
-          "calc": "66000+7920 = 73920"
-        },
-        {
-          "figure": "$240,480",
-          "calc": "0.9*188000+71280 = 240480"
-        },
-        {
-          "figure": "$243,120",
-          "calc": "0.9*188000+73920 = 243120"
-        },
-        {
-          "figure": "$2,640",
-          "calc": "243120-240480 = 2640"
-        },
-        {
-          "figure": "92.7%",
-          "calc": "240480/(188000+71280) = 240480/259280 = 0.9275 -> 92.7"
-        },
-        {
-          "figure": "92.8%",
-          "calc": "243120/(188000+73920) = 243120/261920 = 0.9282 -> 92.8"
-        },
-        {
-          "figure": "$259,280 / $261,920",
-          "calc": "188000+71280 = 259280; 188000+73920 = 261920 (footnote only)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109aa51492b796e6b0cc4"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-10T17:27:00-05:00",
-      "topic": "entity-borrowers",
-      "kind": "evergreen",
-      "text": "An individual signs for themselves. An LLC cannot sign anything on its own, so a person signs for it. How does a lender know that person had the authority?\n\nOne law firm puts it this way: \"Articles establish existence; Operating Agreements establish authority.\"\n\nLenders can ask for the articles of organization, a good standing certificate, the operating agreement, and a resolution naming the loan and the signer. Lenders can also ask for a personal guaranty, which can make the owner liable alongside the LLC.\n\nWhat is required varies by state and by lender. Not legal advice.\n\nvaultedonline.com",
-      "alt": "Comparison table of lending to an individual versus an LLC. For an LLC, a person signs for the entity, so lenders can ask for articles, a good standing certificate, an operating agreement and a resolution naming the loan and signer. A personal guaranty can add the owner as a second obligor. A signature is evidence, not proof of authority.",
-      "image": "images/2026-11-10/1727-fb-entity-borrowers.png",
-      "sources": [
-        {
-          "title": "Private Lending Authority Disputes: How to Avoid $50K+ Losses",
-          "publisher": "Geraci Law Firm",
-          "url": "https://geracillp.com/private-lending-authority-disputes-how-to-avoid-50k-losses/",
-          "date": "2026-06-22",
-          "quote": "The failure mode is consistent across cases: Articles establish existence; Operating Agreements establish authority."
-        },
-        {
-          "title": "Private Lending Authority Disputes: How to Avoid $50K+ Losses (signature and resolution)",
-          "publisher": "Geraci Law Firm",
-          "url": "https://geracillp.com/private-lending-authority-disputes-how-to-avoid-50k-losses/",
-          "date": "2026-06-22",
-          "quote": "A signed document is evidence that someone signed. It is not proof that anyone had authority to do so. The resolution should reference the specific loan, property address, and lender."
-        },
-        {
-          "title": "Another Limited Liability Company Wants A Loan",
-          "publisher": "Spilman Thomas & Battle, PLLC",
-          "url": "https://spilmanlaw.com/dataentry/resources/attorney-articles/banking-finance/another-limited-liability-company-wants-a-loan",
-          "date": "2023-08-11",
-          "quote": "the loan officer should request the borrower to provide a current certified copy of the articles of organization (page metadata 2023-08-11; body dated 2011-10-13); also a certificate of good standing (or certificate of existence) from the secretary of state; a copy of the operating agreement, as amended; written evidence consistent with the operating agreement of its authority to enter into the loan documents."
-        },
-        {
-          "title": "Personal Liability for LLC Mortgages",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/personal-liability-mortgages-held-llc-corporation.html",
-          "date": "2024-09-26",
-          "quote": "Signing a personal guarantee for an LLC mortgage is the same as co-signing the loan."
-        },
-        {
-          "title": "Borrowing Through an LLC on a Private Loan: What to Know",
-          "publisher": "US Lending & Company",
-          "url": "https://uslendingco.com/insights/borrowing-through-an-llc-private-loan/",
-          "date": "2026-02-07",
-          "quote": "Lenders want formation documents, the operating agreement, an authorizing resolution and ownership detail."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "no numeric figures",
-          "calc": "post and graphic contain no numbers; qualitative educational post"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109ba51492b796e6b15cb"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-11T08:56:00-05:00",
-      "topic": "bls-residential-construction-jobs-oct-2026",
-      "kind": "data",
-      "text": "Residential construction lost 16,400 jobs in October, the largest monthly drop since March 2021, per NAHB analysis of BLS data released November 6, 2026.\n\nPer ENR, specialty trade contractors accounted for 15,200 of that and residential building contractors cut 1,200. Over 12 months the sector is down a net 40,200 jobs, and it now employs about 3.3 million people.\n\nOne month is not a trend. But for a rehab lender, trade crews help set the pace of draws. Lenders can ask each contractor how many crews are committed to the project and what happens if a trade runs short.\n\nvaultedonline.com",
-      "alt": "Graphic titled Residential construction shed 16,400 jobs in October 2026. Stat cards show minus 16,400 residential jobs in October, minus 40,200 net over 12 months, and minus 3,000 for all construction. A bar chart shows residential specialty trade contractors down 15,200 and residential builders down 1,200.",
-      "image": "images/2026-11-11/0856-fb-bls-residential-construction-jobs-oct-2026.png",
-      "sources": [
-        {
-          "title": "Hiring Rebounds in October, but Residential Construction Employment Declines",
-          "publisher": "NAHB Eye On Housing (Jing Fu)",
-          "url": "https://eyeonhousing.org/2026/11/hiring-rebounds-in-october-but-residential-construction-employment-declines/",
-          "date": "2026-11-06",
-          "quote": "Within the industry, residential construction employment fell by 16,400, the largest monthly decline since March 2021. Over the last 12 months, residential construction has shed a net of 40,200 jobs. Residential construction employment stood at 3.3 million in October."
-        },
-        {
-          "title": "Construction Jobs Declined in October as Residential Contractors Shed 16.4K Workers",
-          "publisher": "Engineering News-Record (ENR)",
-          "url": "https://www.enr.com/articles/64222-construction-jobs-declined-in-october-as-residential-contractors-shed-164k-workers",
-          "date": "2026-11-06",
-          "quote": "The steepest decline in jobs came from residential specialty trade contractors, with a reported drop of 15,200 positions. Residential building contractors cut an estimated 1,200 jobs during October, BLS reported. Construction employment declined by 3,000 jobs during October, according to the Bureau of Labor Statistics monthly jobs report."
-        },
-        {
-          "title": "Employment Situation News Release - 2026 M10 Results",
-          "publisher": "U.S. Bureau of Labor Statistics",
-          "url": "https://www.bls.gov/news.release/empsit.htm",
-          "date": "2026-11-06",
-          "quote": "Transmission of material in this news release is embargoed until 8:30 a.m. (ET) Friday, November 6, 2026"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "16,400",
-          "calc": "15200 + 1200 = 16400 (specialty trade + residential building), matches NAHB total"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109bb004e4879a7e9edb5"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-11T12:47:00-05:00",
-      "topic": "portfolio-yield-weighted-avg",
-      "kind": "evergreen",
-      "text": "Three loans, three rates. What is the portfolio yield?\n\nIllustrative: $205,000 at 9.5%, $415,000 at 11.25%, $435,000 at 12.5%.\n\nA simple average of the rates is 11.08%. A weighted average counts each rate in proportion to its balance. Annual interest is $19,475 + $46,687.50 + $54,375 = $120,537.50, and $120,537.50 / $1,055,000 = 11.43%.\n\nThe simple average understates the yield because the biggest balance carries the highest rate. FINRA describes a mortgage pool's coupon as a weighted average of its mortgages' rates.\n\nTakeaway: when balances differ, weight each rate by its balance.\n\nvaultedonline.com",
-      "alt": "Illustrative three-loan table: $205,000 at 9.5%, $415,000 at 11.25%, $435,000 at 12.5%, total $1,055,000 earning $120,537.50 a year. Simple average rate 11.08% versus balance-weighted 11.43%.",
-      "image": "images/2026-11-11/1247-fb-portfolio-yield-weighted-avg.png",
-      "sources": [
-        {
-          "title": "Should I consolidate or refinance my student loans?",
-          "publisher": "CFPB",
-          "url": "https://www.consumerfinance.gov/ask-cfpb/should-i-consolidate-refinance-student-loans-en-561/",
-          "date": "2024-12-03",
-          "quote": "A Direct Consolidation Loan has a fixed interest rate that's the weighted average of the interest rates of the loans being consolidated, rounded up to the nearest one-eighth of a percent."
-        },
-        {
-          "title": "Mortgage-Backed Securities (MBS) Data Glossary",
-          "publisher": "FINRA",
-          "url": "https://www.finra.org/finra-data/fixed-income/mbs/glossary",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "The weighted average coupon (WAC) is the weighted-average gross interest rates of the pool of mortgages that underlay a mortgage-backed security (MBS) at the time the securities were issued."
-        },
-        {
-          "title": "Fannie Mae PoolTalk Glossary",
-          "publisher": "Fannie Mae",
-          "url": "https://capitalmarkets.fanniemae.com/sites/capmrkt/files/migrated-files/resources/file/mbs/pdf/pool-talk-glossary-rpls-042516.pdf",
-          "date": "2016-04-01",
-          "quote": "The weighted average of the \"Current Interest Rate\" for all the mortgage loans in the MBS pool."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$205,000 at 9.5%, $415,000 at 11.25%, $435,000 at 12.5%",
-          "calc": "illustrative inputs chosen by author"
-        },
-        {
-          "figure": "$19,475",
-          "calc": "205000*0.095 = 19475.0"
-        },
-        {
-          "figure": "$46,687.50",
-          "calc": "415000*0.1125 = 46687.5"
-        },
-        {
-          "figure": "$54,375",
-          "calc": "435000*0.125 = 54375.0"
-        },
-        {
-          "figure": "$120,537.50",
-          "calc": "19475+46687.5+54375 = 120537.5"
-        },
-        {
-          "figure": "$1,055,000",
-          "calc": "205000+415000+435000 = 1055000"
-        },
-        {
-          "figure": "11.43%",
-          "calc": "120537.5/1055000*100 = 11.4254"
-        },
-        {
-          "figure": "11.08%",
-          "calc": "(9.5+11.25+12.5)/3 = 11.0833"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109bc51492b796e6b1606"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-11T17:09:00-05:00",
-      "topic": "ucc-filings",
-      "kind": "evergreen",
-      "text": "A lender records a mortgage and assumes everything is covered. A mortgage is a real property document, and the UCC generally excludes liens on real property from secured transactions rules.\n\nEquipment is personal property. So is a borrower entity membership interest, commonly treated as a general intangible. A UCC financing statement is the usual filing to perfect many personal property interests.\n\nGoods attached to land may be fixtures. A fixture filing is recorded where mortgages are recorded. It does not perfect interests in non-fixture goods.\n\nLenders can search both. Filing offices depend on the collateral and state.",
-      "alt": "Comparison graphic. A mortgage covers real property, the land and building, and is filed in county land records. A UCC financing statement covers personal property such as equipment and membership interests, in a separate UCC filing office. Fixture filings go where mortgages are recorded. Search both.",
-      "image": "images/2026-11-11/1709-li-ucc-filings.png",
-      "sources": [
-        {
-          "title": "UCC 9-109 Scope",
-          "publisher": "Cornell Law School Legal Information Institute",
-          "url": "https://www.law.cornell.edu/ucc/9/9-109",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "the creation or transfer of an interest in or lien on real property, including a lease or rents thereunder."
-        },
-        {
-          "title": "UCC 9-501 Filing Office",
-          "publisher": "Cornell Law School Legal Information Institute",
-          "url": "https://www.law.cornell.edu/ucc/9/9-501",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "the office designated for the filing or recording of a record of a mortgage on the related real property, if: ... (B) the financing statement is filed as a fixture filing and the collateral is goods that are or are to become fixtures"
-        },
-        {
-          "title": "UCC 9-102 Definitions",
-          "publisher": "Cornell Law School Legal Information Institute",
-          "url": "https://www.law.cornell.edu/ucc/9/9-102",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "\"Fixtures\" means goods that have become so related to particular real property that an interest in them arises under real property law."
-        },
-        {
-          "title": "How Florida UCC Financing Statements Impact Real Property Title",
-          "publisher": "Violette Law Firm",
-          "url": "https://www.violettelawfirm.com/blog/2025/december/how-florida-ucc-financing-statements-impact-real/",
-          "date": "2025-12-18",
-          "quote": "A UCC-1 financing statement is a public filing that \"perfects\" a creditor's security interest in a debtor's personal property"
-        },
-        {
-          "title": "When Goods and Realty Collide: Come Together",
-          "publisher": "Equipment Leasing and Finance Association",
-          "url": "https://www.elfaonline.org/communications/may-june-2022/when-goods-and-realty-collide",
-          "date": "2022-05-01",
-          "quote": "A \"fixture filing\" will not perfect a lender's interest in non-fixture goods."
-        },
-        {
-          "title": "Article 8 Opt-In for LLC Membership Interests: How to Perfect a Security Interest",
-          "publisher": "Henson Efron",
-          "url": "https://hensonefron.com/protecting-your-security-interest-in-an-llc-membership-interest-methods-and-considerations-for-perfecting/",
-          "date": "2018-09-18",
-          "quote": "Most commonly, a membership interest in an LLC is considered a general intangible."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "graphic date note",
-          "calc": "ELFA page shows May/June 2022 issue only; 2022-05-01 used as placeholder date, graphic prints May/June 2022"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109ce51492b796e6b19fa"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-11T17:27:00-05:00",
-      "topic": "hoa-lien-priority",
-      "kind": "evergreen",
-      "text": "Can an HOA lien come ahead of a first mortgage?\n\nIn some states, part of it can. Nolo describes a super lien as the portion of an HOA lien given higher priority than even a first-mortgage holder. In Colorado, six months of assessments get that status. In Nevada, it is nine months.\n\nForeclosing a super lien may eliminate the first mortgage. Rules and amounts vary by state.\n\nLenders can ask in diligence whether the property sits in an HOA, whether assessments are current, and whether state law gives HOAs a super lien.\n\nvaultedonline.com",
-      "alt": "Graphic titled Can an HOA lien jump ahead of your first mortgage. Cards show Colorado six months and Nevada nine months of assessments with super-lien status, a simplified payment order of super-lien portion, first mortgage, then rest of the HOA lien, and a diligence prompt.",
-      "image": "images/2026-11-11/1727-fb-hoa-lien-priority.png",
-      "sources": [
-        {
-          "title": "Homeowners Association Super Liens",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/homeowners-association-super-liens.html",
-          "date": "2025-08-19",
-          "quote": "In Nevada, nine months of assessments have super-lien status. (Page also defines a super lien as \"that portion of an HOA lien that's given higher priority than even a first-mortgage holder\" and gives Colorado as six months' worth of common expense assessments.)"
-        },
-        {
-          "title": "C.R.S. Section 38-33.3-316",
-          "publisher": "Colorado Revised Statutes (public.law)",
-          "url": "https://colorado.public.law/statutes/crs_38-33.3-316",
-          "date": "2026-11-08",
-          "quote": "during the six months immediately preceding institution by either the association or any party holding a lien senior (page current through Fall 2025; accessed 2026-11-08)"
-        },
-        {
-          "title": "NRS 116.3116 (2022)",
-          "publisher": "Justia, Nevada Revised Statutes",
-          "url": "https://law.justia.com/codes/nevada/2022/chapter-116/statute-116-3116/",
-          "date": "2026-11-08",
-          "quote": "A lien under this section is prior to all security interests described in paragraph (b) of subsection 2 to the extent of: (2022 edition; accessed 2026-11-08; page undated)"
-        },
-        {
-          "title": "HOA SUPER LIEN",
-          "publisher": "My Compliance Resource",
-          "url": "https://mycomplianceresource.com/hoa-super-lien/",
-          "date": "2014-09-30",
-          "quote": "it may eliminate the first mortgage, as well as any other junior liens on the property."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "1, 2, 3 (graphic order labels)",
-          "calc": "ordinal labels for the simplified payment order; no computation"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109bc229bf05dafe06a03"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-12T08:25:00-05:00",
-      "topic": "ice-first-look-sep-2026",
-      "kind": "data",
-      "text": "Which loans are heading to foreclosure? ICE says loans originated in 2022 or later made up 43 percent of September 2026 foreclosure starts and 49 percent of completed foreclosure sales.\n\nThe backdrop: the national delinquency rate rose 12 basis points to 3.66 percent, roughly in line with seasonal norms. Foreclosure starts fell 3 percent year over year, but active foreclosure inventory reached its highest level since early 2019.\n\nThis covers all U.S. mortgages, not private loans. Lenders can still review delinquencies by origination date to see where trouble is building.\n\nvaultedonline.com",
-      "alt": "Graphic titled Loans from 2022 or later in the foreclosure pipeline. Stat cards show a 3.66 percent national delinquency rate in September 2026 and active foreclosure inventory at its highest level since early 2019. Two bars show 43 percent of foreclosure starts and 49 percent of completed sales came from loans originated in 2022 or later.",
-      "image": "images/2026-11-12/0825-fb-ice-first-look-sep-2026.png",
-      "sources": [
-        {
-          "title": "ICE First Look: September Delinquencies Track Seasonal Norms as Foreclosure Pipeline Shifts Toward Recent Vintages",
-          "publisher": "Intercontinental Exchange (ICE)",
-          "url": "https://s2.q4cdn.com/154085107/files/doc_news/ICE-First-Look-September-Delinquencies-Track-Seasonal-Norms-as-Foreclosure-Pipeline-Shifts-Toward-Recent-Vintages-2026.pdf",
-          "date": "2026-10-27",
-          "quote": "The national delinquency rate rose 12 basis points (bps) to 3.66% in September, roughly in line with its seasonal norm."
-        },
-        {
-          "title": "Mortgage delinquency rate rises to 3.66% in September, ICE says",
-          "publisher": "HousingWire",
-          "url": "https://www.housingwire.com/articles/mortgage-delinquency-september-ice/",
-          "date": "2026-10-27",
-          "quote": "Loans originated in 2022 or later accounted for 43% of foreclosure starts and 49% of completed foreclosure sales"
-        },
-        {
-          "title": "ICE First Look: September Delinquencies Track Seasonal Norms; Foreclosures Trend Up",
-          "publisher": "The MortgagePoint",
-          "url": "https://themortgagepoint.com/2026/10/28/ice-first-look-september-delinquencies-track-seasonal-norms-foreclosures-trend-up/",
-          "date": "2026-10-28",
-          "quote": "completed sales rose 15% and active foreclosure inventory rose by 37%, hitting its highest level since early 2019. While foreclosure starts were down 3% year over year in September"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "12 basis points",
-          "calc": "0.12 percentage points as stated by ICE; no computation"
-        },
-        {
-          "figure": "Bars 43/100 and 49/100 of track",
-          "calc": "944*43/100 = 405.92 px, 944*49/100 = 462.56 px (graphic scale only)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109bd004e4879a7e9ee18"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-12T12:47:00-05:00",
-      "topic": "warehouse-line-spread-math",
-      "kind": "evergreen",
-      "text": "What does a $750,000 loan earn on the lender's own money when a credit line funds part of it?\n\nA warehouse line is short-term, revolving borrowing that mortgage lenders use to fund loans before selling them. Say a lender uses a similar line. Terms vary by lender.\n\nThe loan earns 10.75 percent, or $80,625 a year. The line funds 65 percent, $487,500, at 7.75 percent, costing $37,781.25. The spread is $42,843.75 on $262,500 of the lender's own money, or 16.32 percent.\n\nThat ignores fees and losses. Compare line cost to loan yield first.\n\nvaultedonline.com",
-      "alt": "Stacked bar splitting a $750,000 loan into a $487,500 credit line at 7.75 percent and $262,500 of lender equity, with cards showing $80,625 interest earned, $37,781 line interest and a $42,844 spread, equal to 16.32 percent on equity. Illustrative.",
-      "image": "images/2026-11-12/1247-fb-warehouse-line-spread-math.png",
-      "sources": [
-        {
-          "title": "What is warehouse lending?",
-          "publisher": "Axos Bank",
-          "url": "https://www.axosbank.com/commercial/insights/lending/what-is-warehouse-lending",
-          "date": "2025-12-11",
-          "quote": "Warehouse lending is a short-term, revolving line of credit that helps mortgage lenders fund loans before selling them."
-        },
-        {
-          "title": "How Warehouse Lending Works for Mortgage Originators",
-          "publisher": "Customers Bank",
-          "url": "https://www.customersbank.com/?p=26343",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "Warehouse lenders like Customers Bank are financial institutions that provide short-term funding to mortgage originators"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$750,000",
-          "calc": "illustrative loan amount"
-        },
-        {
-          "figure": "10.75 percent",
-          "calc": "illustrative loan rate"
-        },
-        {
-          "figure": "7.75 percent",
-          "calc": "illustrative line rate"
-        },
-        {
-          "figure": "65 percent",
-          "calc": "illustrative share funded by line"
-        },
-        {
-          "figure": "$487,500",
-          "calc": "750000*0.65 = 487500.0"
-        },
-        {
-          "figure": "$262,500",
-          "calc": "750000-487500 = 262500.0 (35 percent)"
-        },
-        {
-          "figure": "$80,625",
-          "calc": "750000*0.1075 = 80625.0"
-        },
-        {
-          "figure": "$37,781.25",
-          "calc": "487500*0.0775 = 37781.25"
-        },
-        {
-          "figure": "$42,843.75",
-          "calc": "80625-37781.25 = 42843.75"
-        },
-        {
-          "figure": "16.32 percent",
-          "calc": "42843.75/262500*100 = 16.3214"
-        },
-        {
-          "figure": "$37,781",
-          "calc": "rounded 37781.25"
-        },
-        {
-          "figure": "$42,844",
-          "calc": "rounded 42843.75"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af1cf3698f73321515701f2"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-12T15:40:00-05:00",
-      "topic": "receiver-appointment",
-      "kind": "evergreen",
-      "text": "The tenants keep paying rent on a building in foreclosure. Who collects it?\n\nA lender can ask the court to appoint a receiver. A receiver is an unbiased third party who protects the property from damage and lost rental income. Depending on the order, the receiver may collect rents, operate the property and arrange repairs. The receiver generally does not take title.\n\nCourts may look at whether the borrower turned over rents and whether the property is maintained. Timing and standards vary by state and by the loan documents.\n\nLenders can ask counsel early whether a receiver fits the loan.",
-      "alt": "Two cards. A receiver may collect rents from tenants, operate and manage the property, arrange repairs and maintenance, and report to the court. Courts may weigh unturned rents, poor maintenance, danger of waste or loss, and collateral at risk. Powers vary by state.",
-      "image": "images/2026-11-12/1540-li-receiver-appointment.png",
-      "sources": [
-        {
-          "title": "The Critical Role of the Foreclosure Receiver",
-          "publisher": "von Briesen & Roper, s.c.",
-          "url": "https://www.vonbriesen.com/legal-news/2265/the-critical-role-of-the-foreclosure-receiver",
-          "date": "2013-12-18",
-          "quote": "The appointed receiver does not take title to the property."
-        },
-        {
-          "title": "The Critical Role of the Foreclosure Receiver (rent in danger)",
-          "publisher": "von Briesen & Roper, s.c.",
-          "url": "https://www.vonbriesen.com/legal-news/2265/the-critical-role-of-the-foreclosure-receiver",
-          "date": "2013-12-18",
-          "quote": "collect and receive rent, hire and pay for maintenance, make necessary repairs, pay property taxes."
-        },
-        {
-          "title": "Connecticut Receivership Law for Commercial Foreclosures: What Lenders Need to Know",
-          "publisher": "Neubert, Pepe & Monteith, P.C.",
-          "url": "https://npmlaw.com/article/connecticut-receivership-law-for-commercial-foreclosures-what-lenders-need-to-know/",
-          "date": "2026-05-27",
-          "quote": "The borrower has failed to turn over rents, income, or other proceeds generated by the property"
-        },
-        {
-          "title": "Connecticut Receivership Law (authority)",
-          "publisher": "Neubert, Pepe & Monteith, P.C.",
-          "url": "https://npmlaw.com/article/connecticut-receivership-law-for-commercial-foreclosures-what-lenders-need-to-know/",
-          "date": "2026-05-27",
-          "quote": "Depending on the scope of the appointment order, the receiver's authority may include:"
-        },
-        {
-          "title": "Commercial Real Estate Foreclosure",
-          "publisher": "Nolo (via AllLaw)",
-          "url": "https://www.alllaw.com/articles/nolo/foreclosure/overview-commercial-foreclosure-process.html",
-          "date": "2023-07-21",
-          "quote": "A \"receiver\" is an unbiased third party that the court appoints to protect the property from damage or lost rental income."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "no numeric figures",
-          "calc": "post and graphic contain no statistics; 'varies by state' reflects Wisconsin, Connecticut and New York-specific sources cited by the three articles"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109ce9214322f6882ff69"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-12T17:27:00-05:00",
-      "topic": "seasoning-requirements",
-      "kind": "evergreen",
-      "text": "You rehabbed a property and the appraisal came in well above what you paid. Will the exit lender count it?\n\nThat depends on seasoning: how long you must own a property before a lender refinances against its current appraised value. Inside the window, many lenders lend against the lower of the appraised value and the purchase price.\n\nFannie Mae generally requires six months on title for a cash-out refinance, with exceptions. A number of DSCR lenders use current value after three to six months. Rules vary by lender.\n\nAsk early what seasoning the exit lender requires.\n\nvaultedonline.com",
-      "alt": "Graphic titled What is seasoning, and why does it shape your exit. Two cards show Fannie Mae cash-out refinance at 6 months on title and some DSCR lenders at 3 to 6 months. Two comparison cards show lower of appraised value or purchase price inside the window, and current appraised value after it.",
-      "image": "images/2026-11-12/1727-fb-seasoning-requirements.png",
-      "sources": [
-        {
-          "title": "B2-1.3-03, Cash-Out Refinance Transactions (12/10/2025)",
-          "publisher": "Fannie Mae Selling Guide",
-          "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-03/cash-out-refinance-transactions",
-          "date": "2025-12-10",
-          "quote": "At least one borrower must have been on title for at least for six months prior to the disbursement date of the new loan."
-        },
-        {
-          "title": "DSCR Loans With No Seasoning: Refinance at Current Value",
-          "publisher": "Axiant Partners",
-          "url": "https://axiantpartners.com/dscr-loans/articles/dscr-loans-no-seasoning/",
-          "date": "2026-09-02",
-          "quote": "Seasoning is how long you must own a property before a lender will refinance against its current appraised value"
-        },
-        {
-          "title": "DSCR Loans With No Seasoning: Refinance at Current Value (lower-of sentence)",
-          "publisher": "Axiant Partners",
-          "url": "https://axiantpartners.com/dscr-loans/articles/dscr-loans-no-seasoning/",
-          "date": "2026-09-02",
-          "quote": "many lenders lend against the lower of the appraised value and your purchase price; a number of DSCR lenders will use current value after three to six months"
-        },
-        {
-          "title": "Does a DSCR Cash-Out Refinance Have a Seasoning Requirement?",
-          "publisher": "Lendmire",
-          "url": "https://www.lendmire.com/dscr-cash-out-refinance-have-a-seasoning-requirement/",
-          "date": "2026-10-15",
-          "quote": "It is lender policy rather than law, so it varies by program and by file."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "no illustrative numbers",
-          "calc": "all figures (six months; three to six months) are quoted from sources"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-13T08:00:00-05:00",
-      "topic": "attom-vacant-foreclosure-q3-2026",
-      "kind": "data",
-      "text": "Out of 259,666 U.S. residential properties in the foreclosure process in ATTOM's Q3 2026 report, about 3.3 percent, or 8,482, were \"zombies.\" ATTOM uses that word when owners abandon a property before the foreclosure ends.\n\nOverall, 1.3 percent of U.S. residential properties were vacant, unchanged from the prior quarter and a year earlier. By state, the rate ran from 0.3 percent in New Hampshire to 2.4 percent in Oklahoma and Kansas.\n\nFor a lender, an empty property raises collateral questions. Lenders can ask who is maintaining it and what the insurance policy requires when it sits vacant.\n\nvaultedonline.com",
-      "alt": "Graphic of ATTOM Q3 2026 report data: 259,666 residential properties in foreclosure, 8,482 of them zombies (about 3.3 percent). Bars show vacancy of 0.3 percent in New Hampshire, 1.3 percent nationally and 2.4 percent in Oklahoma and Kansas.",
-      "image": "images/2026-11-13/0800-fb-attom-vacant-foreclosure-q3-2026.png",
-      "sources": [
-        {
-          "title": "National Vacancy Rate Doesn't Budge in Third Quarter (Vacant Property and Zombie Foreclosure Report)",
-          "publisher": "ATTOM",
-          "url": "https://www.attomdata.com/news/market-trends/foreclosures/q3-2026-vacancy-and-zombie-foreclosure-report/",
-          "date": "2026-08-27",
-          "quote": "Out of the country’s 104.6 million residential properties, 259,666 were in the foreclosure process in the third quarter of 2026. About 3.3 percent of those, or 8,482 properties, were “zombies,” meaning the owners had abandoned the properties before the end of their foreclosure proceedings. Overall: 1.3 percent of residential properties in the United States were vacant in the third quarter of the year. That was the same rate as the previous quarter as well as the third quarter of 2025. The states with the highest overall home vacancy rates in the third quarter were Oklahoma (2.4 percent); the lowest vacancy rates were in New Hampshire (0.3 percent)."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "3.3 percent",
-          "calc": "round(8482/259666*100,1) = 3.3"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-13T12:47:00-05:00",
-      "topic": "net-yield-after-loss-rate",
-      "kind": "evergreen",
-      "text": "A lender advertises 10.2 percent on a $2,200,000 portfolio. Then one loan loses $44,000. What is the yield now?\n\nHere, net yield means interest earned minus losses, divided by the amount lent.\n\nGross: $2,200,000 times 10.2 percent is $224,400 of interest.\n\nNet: $224,400 minus $44,000 is $180,400. Divided by $2,200,000, that is 8.2 percent.\n\nThe loss equals 2.0 percent of the portfolio, so it took 2.0 points off the yield.\n\nTakeaway: a gross rate shows what borrowers owe on paper. Net yield shows what the lender kept.\n\nvaultedonline.com",
-      "alt": "Bar chart for an illustrative $2,200,000 portfolio: $224,400 interest earned, minus a $44,000 loss, leaves $180,400 kept. Two cards compare gross yield of 10.2 percent with net yield of 8.2 percent after the loss.",
-      "image": "images/2026-11-13/1247-fb-net-yield-after-loss-rate.png",
-      "sources": [
-        {
-          "title": "Net Yield",
-          "publisher": "WallStreetMojo",
-          "url": "https://wallstreetmojo.com/net-yield",
-          "date": "2026-01-14",
-          "quote": "Net yield is a measure that defines the returns on the investment after deducting all expenses and costs"
-        },
-        {
-          "title": "Net Yield definition",
-          "publisher": "Law Insider",
-          "url": "https://www.lawinsider.com/dictionary/net-yield",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "Net Yield means Gross Yield less impairments."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$2,200,000",
-          "calc": "illustrative portfolio size, chosen by author"
-        },
-        {
-          "figure": "10.2 percent",
-          "calc": "illustrative gross rate, chosen by author"
-        },
-        {
-          "figure": "$44,000",
-          "calc": "illustrative single loss, chosen by author"
-        },
-        {
-          "figure": "$224,400",
-          "calc": "2200000*0.102 = 224400"
-        },
-        {
-          "figure": "$180,400",
-          "calc": "224400-44000 = 180400"
-        },
-        {
-          "figure": "8.2 percent",
-          "calc": "180400/2200000*100 = 8.2"
-        },
-        {
-          "figure": "2.0 percent / 2.0 points",
-          "calc": "44000/2200000*100 = 2.0; 10.2-8.2 = 2.0"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-13T14:00:00-05:00",
-      "topic": "environmental-basics",
-      "kind": "evergreen",
-      "text": "A lender asks for a Phase I. What does that report cover?\n\nA Phase I environmental site assessment reviews site records, includes a site visit, and interviews people who know the property. It does not include lab testing of samples.\n\nIt looks for a recognized environmental condition: the presence or likely presence of hazardous substances or petroleum products at the property.\n\nEPA recognizes ASTM E1527-21 as one standard for buyers seeking liability protection, with work updated within one year, and key parts within 180 days, before acquisition.\n\nLenders can ask which standard and timing they want.",
-      "alt": "Navy graphic titled What a Phase I environmental report covers. Three steps: records, site visit, interviews. It looks for a recognized environmental condition and does not include lab testing of samples. EPA says the inquiry is done or updated within 1 year, key elements within 180 days.",
-      "image": "images/2026-11-13/1400-li-environmental-basics.png",
-      "sources": [
-        {
-          "title": "Brownfields All Appropriate Inquiries",
-          "publisher": "U.S. EPA",
-          "url": "https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries",
-          "date": "2026-05-07",
-          "quote": "AAI must be conducted or updated within one year before the date of acquisition of a property."
-        },
-        {
-          "title": "Brownfields All Appropriate Inquiries (180-day element)",
-          "publisher": "U.S. EPA",
-          "url": "https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries",
-          "date": "2026-05-07",
-          "quote": "must be conducted or updated within 180 days before acquiring ownership of a property."
-        },
-        {
-          "title": "Brownfields All Appropriate Inquiries (standard)",
-          "publisher": "U.S. EPA",
-          "url": "https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries",
-          "date": "2026-05-07",
-          "quote": "AAI may be conducted in compliance with either of these standards to obtain protection from potential liability"
-        },
-        {
-          "title": "What are All Appropriate Inquiries? fact sheet",
-          "publisher": "U.S. EPA",
-          "url": "https://www.epa.gov/system/files/documents/2025-02/aai_factsheet.pdf",
-          "date": "2026-03-01",
-          "quote": "ASTM E1527-21 ... may be used to comply with the provisions of the rule."
-        },
-        {
-          "title": "A Users Guide to Phase I Environmental Site Assessments",
-          "publisher": "West Virginia DEP",
-          "url": "https://dep.wv.gov/dlr/oer/brownfieldsection/Brownfields%20Assistance%20Program/Documents/A%20User%27s%20Guide%20to%20Phase%20I%20Environmental%20Site%20Assessments.pdf",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "This process includes reviewing site records, visiting the site, and interviewing individuals with site knowledge."
-        },
-        {
-          "title": "A Users Guide to Phase I ESAs (sampling, REC)",
-          "publisher": "West Virginia DEP",
-          "url": "https://dep.wv.gov/dlr/oer/brownfieldsection/Brownfields%20Assistance%20Program/Documents/A%20User%27s%20Guide%20to%20Phase%20I%20Environmental%20Site%20Assessments.pdf",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "Note that a Phase I ESA does not involve collection and laboratory analysis of environmental samples. The term Recognized Environmental Condition (REC) means the presence or likely presence of hazardous substances or petroleum products in, on, or at a property"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "ASTM E1527-21",
-          "calc": "standard name quoted from EPA page; no arithmetic"
-        },
-        {
-          "figure": "one year / 1 year / 180 days",
-          "calc": "quoted from EPA page; no arithmetic"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6af109cf229bf05dafe06ec2"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-13T17:27:00-05:00",
-      "topic": "draw-photo-documentation",
-      "kind": "evergreen",
-      "text": "A draw request says the work is done. Photos are how a lender can see it.\n\nJobsite photo guides suggest photos that hold up on their own, and lenders can ask for them:\n\nDated and geotagged, so the record is traceable.\n\nA wide shot first, then close-ups of the detail.\n\nThe same spot and angle each time, so progress is obvious.\n\nIn focus, clearly showing the item. Blurry or small photos may mean an inspector is asked to return to the property.\n\nWhat a lender accepts varies by lender, so confirm it before the borrower submits.\n\nvaultedonline.com",
-      "alt": "Checklist graphic titled What photos can back up a draw request. Four checks on a progress photo: dated and geotagged, wide first then close, same spot and same angle, and in focus. A note says what photos a lender accepts varies by lender.",
-      "image": "images/2026-11-13/1727-fb-draw-photo-documentation.png",
-      "sources": [
-        {
-          "title": "Construction Photo Documentation: A Contractor's Guide to Protecting Your Work",
-          "publisher": "CompanyCam",
-          "url": "https://companycam.com/resources/blog/construction-photo-documentation-a-contractors-guide-to-protecting-your-work",
-          "date": "2026-02-17",
-          "quote": "Shoot from identical angles and in similar lighting conditions so the transformation is obvious. Each photo should carry an automatic timestamp and GPS tag."
-        },
-        {
-          "title": "Construction Progress Photos Best Practices",
-          "publisher": "Projul",
-          "url": "https://projul.com/blog/construction-progress-photos-best-practices/",
-          "date": "2025-08-13",
-          "quote": "Start with a wide shot of the room or area, then move to medium shots, then close-ups. Shoot from the same angles consistently. Use automatic timestamps and geotags."
-        },
-        {
-          "title": "Three Critical Factors of a Draw Inspection",
-          "publisher": "Trinity",
-          "url": "https://www.trinityonline.com/blog/three-critical-factors-of-a-draw-inspection",
-          "date": "2021-08-09",
-          "quote": "All photos must be in focus, clearly show the item(s), and must be taken at the highest quality setting possible. If photos are blurry, are too small, or do not match the requirements on the stated documentation, an inspector may be asked to return to the property to provide better evidence of the findings."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "none",
-          "calc": "No numeric figures; post contains no illustrative or computed numbers. Word count of body computed in Python."
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-14T09:32:00-05:00",
-      "topic": "asset-based-lending",
-      "kind": "evergreen",
-      "text": "What does asset-based lending mean?\n\nIt means the loan is secured by collateral, with the focus on the collateral. One law firm says the focus is on the collateral and not primarily on the borrower.\n\nConventional lenders, the same firm says, are more concerned with credit record, income, balance sheet, and cash flow. For consumer loans secured by a home, federal rules require a good faith ability-to-repay determination that considers income or assets other than the home. Business purpose loans are outside that rule.\n\nTakeaway: with asset-based loans, the property carries the file. Rules vary by state.\n\nvaultedonline.com",
-      "alt": "Two cards compare underwriting focus. Asset-based lending: the focus is the collateral, not primarily the borrower. Conventional lending: the borrower's credit record, income, balance sheet and cash flow. A note adds that the federal consumer ability-to-repay rule looks at income or assets other than the home.",
-      "image": "images/2026-11-14/0932-fb-asset-based-lending.png",
-      "sources": [
-        {
-          "title": "What is Asset-Based Lending in Real Estate?",
-          "publisher": "Hammerle Morris Law Firm",
-          "url": "https://hammerle.com/blog/what-is-asset-based-lending-in-real-estate/",
-          "date": "2020-04-02",
-          "quote": "To say it another way: in asset-based lending, the focus is on the collateral and not primarily on the borrower. In contrast, conventional lenders, such as banks and credit unions, are more concerned with the borrower's credit record, income, balance sheet, and cash flow."
-        },
-        {
-          "title": "Asset-Based Lending: What is the Upside and Downside?",
-          "publisher": "U.S. Small Business Administration",
-          "url": "https://www.sba.gov/blog/asset-based-lending-what-upside-downside",
-          "date": "2017-12-31",
-          "quote": "Asset-based lending is a loan or line of credit issued to a business that is secured by some form of collateral."
-        },
-        {
-          "title": "12 CFR 1026.43 Minimum standards for transactions secured by a dwelling",
-          "publisher": "Consumer Financial Protection Bureau (Regulation Z)",
-          "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/43/",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "The consumer's current or reasonably expected income or assets, other than the value of the dwelling, including any real property attached to the dwelling, that secures the loan; ... Section 1026.43 does not apply to an extension of credit primarily for a business, commercial, or agricultural purpose, even if it is secured by a dwelling."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "word count",
-          "calc": "len(body.split()) of post excluding link line"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-14T13:47:00-05:00",
-      "topic": "origination-points-split",
-      "kind": "evergreen",
-      "text": "A $355,000 loan closes with 2.5 points. Does the lender keep all of them?\n\nPoints are a percentage of the loan amount charged for originating it. Here, 2.5 points is $8,875. If 1 point goes to a broker, that is $3,550, leaving the lender $5,325.\n\nAdd 12 months of interest-only at 10.3 percent, $36,565, and the lender collects $41,890. That is an 11.8 percent yield. Keep all 2.5 points and it is $45,440, or 12.8 percent.\n\nBroker fees can be built into points. It varies by lender. Compare yields on the points you actually keep. Numbers illustrative.\n\nvaultedonline.com",
-      "alt": "Stacked bar splitting 2.5 points ($8,875) on an illustrative $355,000 loan: 1 point ($3,550) to a broker and 1.5 points ($5,325) kept by the lender. Two cards: 11.8 percent lender yield with the broker share, 12.8 percent keeping all points, at 10.3 percent interest-only for 12 months.",
-      "image": "images/2026-11-14/1347-fb-origination-points-split.png",
-      "sources": [
-        {
-          "title": "Origination Fees / Points for Private Mortgages (aka Hard Money Loans)",
-          "publisher": "Private Lender Link",
-          "url": "https://privatelenderlink.com/2021/12/origination-fees-points-for-private-hard-money-loans/",
-          "date": "2023-07-07",
-          "quote": "a percentage of the loan amount which the lender charges just for originating the loan"
-        },
-        {
-          "title": "Origination Fees / Points for Private Mortgages (aka Hard Money Loans)",
-          "publisher": "Private Lender Link",
-          "url": "https://privatelenderlink.com/2021/12/origination-fees-points-for-private-hard-money-loans/",
-          "date": "2023-07-07",
-          "quote": "So an origination fee of two and a half points may be stated as \"250 basis points\" or \"250 bips\" for short."
-        },
-        {
-          "title": "Hard Money Lender Fee Structures: A Broker's Guide",
-          "publisher": "Capital Funding",
-          "url": "https://capitalfunding.com/blog/hard-money-lender-fee-structures-a-brokers-guide/",
-          "date": "2026-07-05",
-          "quote": "typically embedded within origination points rather than listed as a separate line item."
-        },
-        {
-          "title": "origination fee",
-          "publisher": "Cornell Law School LII Wex",
-          "url": "https://www.law.cornell.edu/wex/origination_fee",
-          "date": "2020-07-01",
-          "quote": "a fee paid to a lender to process a loan application."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$355,000",
-          "calc": "illustrative loan amount"
-        },
-        {
-          "figure": "2.5 points",
-          "calc": "illustrative"
-        },
-        {
-          "figure": "1 point to broker",
-          "calc": "illustrative"
-        },
-        {
-          "figure": "10.3 percent",
-          "calc": "illustrative interest-only rate, 12 months"
-        },
-        {
-          "figure": "$8,875",
-          "calc": "355000*2.5/100 = 8875"
-        },
-        {
-          "figure": "$3,550",
-          "calc": "355000*1/100 = 3550"
-        },
-        {
-          "figure": "$5,325",
-          "calc": "8875-3550 = 5325"
-        },
-        {
-          "figure": "$36,565",
-          "calc": "355000*10.3/100 = 36565"
-        },
-        {
-          "figure": "$41,890",
-          "calc": "36565+5325 = 41890"
-        },
-        {
-          "figure": "$45,440",
-          "calc": "36565+8875 = 45440"
-        },
-        {
-          "figure": "11.8 percent",
-          "calc": "41890/355000*100 = 11.8"
-        },
-        {
-          "figure": "12.8 percent",
-          "calc": "45440/355000*100 = 12.8"
-        },
-        {
-          "figure": "1.0 point",
-          "calc": "12.8-11.8 = 1.0"
-        },
-        {
-          "figure": "12 months",
-          "calc": "illustrative term"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-14T17:27:00-05:00",
-      "topic": "zoning-use-verification",
-      "kind": "evergreen",
-      "text": "Lending on a conversion or a multi-unit building? Zoning is the first gate for whether a plan is allowed.\n\nLenders can run a short check:\n\n1. Get the zoning district in writing. Some cities issue a zoning verification letter.\n\n2. Ask whether the planned use is permitted, not only the district.\n\n3. Ask whether the current use is legal nonconforming. That status can be lost after abandonment or destruction.\n\n4. Ask about code violations separately. Some cities handle Fire Code requests apart from the zoning letter.\n\nWhat a letter covers varies by city. Not legal advice.\n\nvaultedonline.com",
-      "alt": "Checklist graphic for lenders verifying zoning on a conversion or multi-unit loan: get the zoning district in writing, confirm the planned use is permitted, check whether the current use is nonconforming, and ask about code violations separately. Varies by city.",
-      "image": "images/2026-11-14/1727-fb-zoning-use-verification.png",
-      "sources": [
-        {
-          "title": "Request a Zoning Verification Letter",
-          "publisher": "City of Orlando",
-          "url": "https://orlando.gov/Building-Development/Planning-Approvals/Request-a-Zoning-Verification-Letter",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "The Zoning Official is not authorized to address whether existing development on the property conforms"
-        },
-        {
-          "title": "Zoning Verification Requests",
-          "publisher": "City of Sioux Falls",
-          "url": "https://www.siouxfalls.gov/government/departments/planning-development/zoning/zvl",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "Requests for information regarding Fire Code violations must be made separately"
-        },
-        {
-          "title": "Nonconforming Uses aka Grandfathered Uses in Zoning",
-          "publisher": "Gary D. Taylor, Iowa State University (community-planning.extension.org)",
-          "url": "https://community-planning.extension.org/nonconforming-uses-aka-grandfathered-uses-in-zoning",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "Once a nonconforming use has been abandoned, its resumption can be prohibited."
-        },
-        {
-          "title": "Nonconforming Use",
-          "publisher": "IRMI",
-          "url": "https://www.irmi.com/term/insurance-definitions/nonconforming-use",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "is often revoked when a building is damaged beyond a certain percentage of its value"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "1, 2, 3, 4",
-          "calc": "list numbering of checklist items, not data"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-15T10:15:00-05:00",
-      "topic": "portfolio-loan-meaning",
-      "kind": "evergreen",
-      "text": "What makes a loan a portfolio loan?\n\nThe lender keeps it on its own books instead of selling it in the secondary market.\n\nThat choice changes the lender's options. Lenders get to set the loan terms and documentation requirements on portfolio loans, which allows some flexibility. It also means taking on more risk when credit and underwriting criteria are loosened.\n\nIt changes cash, too. A lender that sells a loan can use the proceeds to fund additional mortgages. Holding a loan keeps that capital tied up.\n\nHolding keeps control of the terms.\n\nvaultedonline.com",
-      "alt": "Two comparison cards. A sold loan is held by the buyer and the lender receives sale proceeds that can fund additional mortgages. A portfolio loan stays on the lender's books as an investment asset, with the lender free to set terms and taking on more risk.",
-      "image": "images/2026-11-15/1015-fb-portfolio-loan-meaning.png",
-      "sources": [
-        {
-          "title": "Portfolio Loans: Defined And Explained",
-          "publisher": "Rocket Mortgage (Quicken Loans)",
-          "url": "https://www.quickenloans.com/learn/portfolio-loan",
-          "date": "2024-09-20",
-          "quote": "Portfolio loans are loans the lender keeps on its own books and does not sell. The lender, meanwhile, can use the proceeds from selling the loan to fund additional mortgages."
-        },
-        {
-          "title": "What Is a Portfolio Mortgage?",
-          "publisher": "Experian",
-          "url": "https://www.experian.com/blogs/ask-experian/what-is-portfolio-mortgage/",
-          "date": "2025-04-10",
-          "quote": "A portfolio loan is a type of mortgage a lender keeps instead of selling in the secondary market. Lenders get to set the loan terms and documentation requirements on portfolio loans, allowing for some flexibility. Lenders take on more risk when they loosen credit and underwriting criteria"
-        }
-      ],
-      "derived": [],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-15T13:47:00-05:00",
-      "topic": "first-payment-stub-interest",
-      "kind": "evergreen",
-      "text": "A $325,000 loan closes on November 19. How much interest covers the odd days before the first full month?\n\nIllustrative, at 10 percent: the 19th through the 30th is 12 days. Actual/360 counts real days over a 360-day year, so $325,000 x 10 percent / 360 is about $90.28 a day, or $1,083.33 for the stub.\n\nDay count matters again later. In a 31-day month, actual/360 charges 31 days, $2,798.61. A 30/360 note treats every month as 30 days: $2,708.33.\n\nLenders can confirm the day count and start date in the note. These vary by lender.\n\nvaultedonline.com",
-      "alt": "Graphic: a November calendar strip with days 19 to 30 highlighted, 12 days of stub interest. Stat cards show $90.28 per day and $1,083.33 stub on an illustrative $325,000 loan at 10 percent, actual/360. Bars compare a 31-day month: $2,798.61 actual/360 vs $2,708.33 30/360.",
-      "image": "images/2026-11-15/1347-fb-first-payment-stub-interest.png",
-      "sources": [
-        {
-          "title": "What is prepaid interest",
-          "publisher": "Chase",
-          "url": "https://www.chase.com/personal/mortgage/education/financing-a-home/what-is-prepaid-interest",
-          "date": "2026-07-17",
-          "quote": "If you close on June 15th, you will pay $800 in prepaid interest at closing to cover June 15th through June 30th."
-        },
-        {
-          "title": "Day Count Convention",
-          "publisher": "Corporate Finance Institute",
-          "url": "https://corporatefinanceinstitute.com/resources/derivatives/day-count-convention/",
-          "date": "2020-08-19",
-          "quote": "The 30/360 basis determines the denominator of an accrual factor (days in the year) as 360"
-        },
-        {
-          "title": "Actual 360",
-          "publisher": "Commercial Loan Direct",
-          "url": "https://commercialloandirect.com/definition/actual-360",
-          "date": "2026-11-08",
-          "quote": "the interest for any given period is determined by using the actual number of days in the month"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$325,000, 10 percent, closing Nov 19, 30-day month",
-          "calc": "illustrative inputs"
-        },
-        {
-          "figure": "12 days",
-          "calc": "30 - 19 + 1 = 12"
-        },
-        {
-          "figure": "$90.28",
-          "calc": "325000*0.10/360 = 90.2778"
-        },
-        {
-          "figure": "$1,083.33",
-          "calc": "325000*0.10/360*12 = 1083.33"
-        },
-        {
-          "figure": "$2,798.61",
-          "calc": "325000*0.10/360*31 = 2798.61"
-        },
-        {
-          "figure": "$2,708.33",
-          "calc": "325000*0.10/12 = 2708.33"
-        },
-        {
-          "figure": "31-day month, 31 days",
-          "calc": "illustrative"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-15T17:27:00-05:00",
-      "topic": "occupancy-vacant-vs-tenanted",
-      "kind": "evergreen",
-      "text": "Vacant or tenanted? The same collateral can follow two different paths after foreclosure.\n\nVacant: there is no tenant lease to work around.\n\nTenanted: one law firm notes a foreclosed property must often be sold subject to the remaining lease term. In residential foreclosures, federal law requires a new owner to give a bona fide tenant 90 days notice before eviction. A commercial lease may even rank ahead of the mortgage.\n\nLenders can review the lease term, rent, deposits and subordination language, and ask for an estoppel. Rules vary by state. Not legal advice.\n\nvaultedonline.com",
-      "alt": "Two comparison cards, Vacant and Tenanted. Vacant: no tenant lease to work around. Tenanted: sale may be subject to the remaining lease term, 90 days notice to a bona fide tenant under federal law, a lease may rank ahead of the mortgage, and lease review covers term, rent, deposits and subordination.",
-      "image": "images/2026-11-15/1727-fb-occupancy-vacant-vs-tenanted.png",
-      "sources": [
-        {
-          "title": "Best Practices: SNDA Fundamentals",
-          "publisher": "Starfield & Smith",
-          "url": "https://starfieldsmith.com/2017/02/best-practices-snda-fundamentals/",
-          "date": "2017-02-22",
-          "quote": "A foreclosed upon property must often be sold subject to the remaining lease term."
-        },
-        {
-          "title": "Best Practices: SNDA Fundamentals (commercial lease rank)",
-          "publisher": "Starfield & Smith",
-          "url": "https://starfieldsmith.com/2017/02/best-practices-snda-fundamentals/",
-          "date": "2017-02-22",
-          "quote": "In many jurisdictions, a commercial tenant's pre-existing leasehold interest may be senior even to a recorded mortgage."
-        },
-        {
-          "title": "A Quick Lesson in Two Vital Legal Documents",
-          "publisher": "Wealth Management (Robert Machson, attorney)",
-          "url": "https://www.wealthmanagement.com/real-estate/a-quick-lesson-in-two-vital-legal-documents",
-          "date": "2003-05-01",
-          "quote": "the status of rent payments and security deposits and any lease defaults."
-        },
-        {
-          "title": "Restoration of the federal Protecting Tenants at Foreclosure Act (PTFA)",
-          "publisher": "National Housing Law Project",
-          "url": "https://www.nhlp.org/wp-content/uploads/2018.08-Restoration-of-the-PTFA-1.pdf",
-          "date": "2026-11-08 (accessed; page undated)",
-          "quote": "the new owner after a foreclosure must provide bona fide tenants at least 90 days' notice prior to eviction."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "no illustrative numbers",
-          "calc": "post uses only the 90-day figure from the cited source"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
+     "title": "Right of Redemption",
+     "publisher": "Chase",
+     "url": "https://www.chase.com/personal/mortgage/education/owning-a-home/right-of-redemption",
+     "date": "2025-07-28",
+     "quote": "Real estate right of redemption laws are governed by the state and can vary widely depending on the jurisdiction."
     }
-  ]
+   ],
+   "derived": [
+    {
+     "figure": "730 days",
+     "calc": "2*365 = 730 (two years in days, used only for bar scale)"
+    },
+    {
+     "figure": "bar widths",
+     "calc": "int(d/730*560) for d=30,90,730 -> 23, 69, 560 px"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109a79214322f6882f09e"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-09T11:34:00-05:00",
+   "topic": "fed-financial-stability-nov-2026",
+   "kind": "data",
+   "text": "What does the Federal Reserve say about commercial real estate right now?\n\nIts May 2026 Financial Stability Report says a large volume of CRE debt is scheduled to mature over the coming year, which raises the possibility of forced sales. Extending or modifying maturing loans has helped limit that risk, though that option may be increasingly limited.\n\nCRE credit outstanding was 3,368 billion dollars at the end of 2025, growing 2.4 percent in a year versus a 5.9 percent long-run average.\n\nLenders can ask how a borrower repays at maturity if a refinance is not available.",
+   "alt": "Graphic of the Federal Reserve May 2026 Financial Stability Report on commercial real estate: CRE credit of 3,368 billion dollars at the end of 2025, growth of 2.4 percent versus a 5.9 percent long-run average, and notes on maturing debt, loan extensions and cap rates.",
+   "image": "images/2026-11-09/1134-li-fed-financial-stability-nov-2026.png",
+   "sources": [
+    {
+     "title": "Financial Stability Report, May 2026: 2. Borrowing by Businesses and Households (Table 2.1)",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-borrowing.htm",
+     "date": "2026-05-28",
+     "quote": "Table 2.1. Outstanding amounts of nonfinancial business and household credit: Commercial real estate credit 3,368 billion dollars; growth 2024:Q4 to 2025:Q4 2.4 percent; average annual growth 1997 to 2025:Q4 5.9 percent. The data extend through 2025:Q4."
+    },
+    {
+     "title": "Financial Stability Report, May 2026: 1. Asset Valuations",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-asset-valuations.htm",
+     "date": "2026-05-28",
+     "quote": "A large volume of CRE debt is scheduled to mature over the coming year. Lenders' willingness to extend or modify maturing loans has helped to limit this risk to date. Capitalization rates ... have recovered from historical lows reached in 2022, rising to a level just below its historical average."
+    },
+    {
+     "title": "Fed releases its semiannual Financial Stability Report",
+     "publisher": "Orrick InfoBytes",
+     "url": "https://infobytes.orrick.com/2026-05-22/fed-releases-its-semiannual-financial-stability-report/",
+     "date": "2026-05-22",
+     "quote": "a large volume of CRE debt scheduled to mature over the coming year raises the possibility of forced sales."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "Latest edition",
+     "calc": "No November 2026 edition found as of 2026-11-08; May 2026 edition (released 2026-05-08) used"
+    },
+    {
+     "figure": "bar widths 2.4 vs 5.9",
+     "calc": "520*2.4/5.9 = 211.5 px, 520*5.9/5.9 = 520 px (scale only)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109cc562f2e6de9ebee0c"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-09T12:47:00-05:00",
+   "topic": "capitalized-interest-ltv",
+   "kind": "evergreen",
+   "text": "A $280,000 loan on a $400,000 property starts at 70% LTV. Suppose nothing is paid for six months and the 11% interest is capitalized monthly.\n\nCapitalized interest is unpaid interest added to the loan's principal balance. Each month, interest then accrues on the larger balance.\n\nIllustrative: month one adds $2,567, so the balance is $282,567. By month six it is $295,757 and LTV is 73.9%, assuming the value stays at $400,000. The equity cushion shrinks from $120,000 to $104,243 with no new money advanced.\n\nLenders can check LTV on the current balance, not only the original loan amount.\n\nvaultedonline.com",
+   "alt": "Seven bars show a $280,000 loan balance growing each month as 11 percent interest is capitalized, reaching $295,757 at month six. LTV rises from 70.0% to 73.9% on a $400,000 value, and the equity cushion falls from $120,000 to $104,243. Illustrative.",
+   "image": "images/2026-11-09/1247-fb-capitalized-interest-ltv.png",
+   "sources": [
+    {
+     "title": "How does interest accrue while I am in school?",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/how-does-interest-accrue-while-i-am-in-school-en-593/",
+     "date": "2024-05-28",
+     "quote": "Interest accrued while you're in school can be \"capitalized,\" meaning it is added to your loan's unpaid principal balance. When capitalization occurs, you are charged interest on interest."
+    },
+    {
+     "title": "Financial Aid Dictionary",
+     "publisher": "Federal Student Aid (U.S. Department of Education)",
+     "url": "https://studentaid.gov/articles/financial-aid-dictionary/",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "Interest capitalization occurs when unpaid interest is added to a loan’s principal balance."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$280,000 loan, $400,000 value, 11% rate, 6 months, 70%",
+     "calc": "illustrative inputs; 280000/400000 = 0.70"
+    },
+    {
+     "figure": "$2,567",
+     "calc": "280000*0.11/12 = 2566.67, rounded"
+    },
+    {
+     "figure": "$282,567",
+     "calc": "280000*(1+0.11/12)**1 = 282566.67"
+    },
+    {
+     "figure": "$295,757",
+     "calc": "280000*(1+0.11/12)**6 = 295757.26"
+    },
+    {
+     "figure": "73.9%",
+     "calc": "295757.26/400000*100 = 73.94"
+    },
+    {
+     "figure": "$120,000",
+     "calc": "400000-280000"
+    },
+    {
+     "figure": "$104,243",
+     "calc": "400000-295757.26 = 104242.74"
+    },
+    {
+     "figure": "$15,757",
+     "calc": "295757.26-280000 = 15757.26"
+    },
+    {
+     "figure": "$285,157, $287,771, $290,409, $293,071; 70.6%, 71.3%, 71.9%, 72.6%, 73.3%",
+     "calc": "280000*(1+0.11/12)**n for n=2..5 and /400000 (graphic)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109a851492b796e6b0c48"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-09T17:27:00-05:00",
+   "topic": "deficiency-judgment",
+   "kind": "evergreen",
+   "text": "A foreclosure sale does not always bring in enough to cover the loan. What happens to the gap?\n\nThat gap is the deficiency: the mortgage debt minus the foreclosure sale price. A deficiency judgment is a money judgment against the borrower for that difference.\n\nWhether a lender can pursue it, and how, varies by state. In a judicial foreclosure, the lender can usually request it in the foreclosure lawsuit. After a nonjudicial foreclosure, the lender must sue separately. Some states prohibit or limit it.\n\nLenders can check state rules early, since they affect what recovery is possible.\n\nvaultedonline.com",
+   "alt": "Graphic titled When a foreclosure sale falls short of the debt. A formula shows debt owed minus sale price equals the deficiency. Three cards note that judicial foreclosures can include the request, nonjudicial ones need a separate suit, and some states prohibit or limit it.",
+   "image": "images/2026-11-09/1727-fb-deficiency-judgment.png",
+   "sources": [
+    {
+     "title": "Deficiency Judgments (Anti-Deficiency Laws)",
+     "publisher": "Nolo",
+     "url": "https://www.alllaw.com/articles/nolo/foreclosure/deficiency-judgments.html",
+     "date": "2024-02-20",
+     "quote": "A \"deficiency judgment\" is a money judgment against a borrower for the difference between the total amount of the mortgage debt and the foreclosure sale price. As you can see, deficiency judgment laws vary widely from state to state and can be complex. In judicial foreclosures, the bank can usually request the judgment as part of the foreclosure lawsuit. With a nonjudicial foreclosure, the bank must sue the borrower following the foreclosure to get a deficiency judgment. These laws prohibit foreclosing banks from suing borrowers for deficiency judgments. Many states that allow banks to seek deficiency judgments limit the amount that banks can recover."
+    },
+    {
+     "title": "Deficiency Judgments",
+     "publisher": "LegalMatch",
+     "url": "https://legalmatch.com/law-library/article/deficiency-judgments.html",
+     "date": "2023-03-08",
+     "quote": "The ability of a lender to seek a deficiency judgment is determined by the laws of the state where the property is situated. Some jurisdictions have rules that prevent or limit a lender's ability to pursue a deficiency judgment."
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6af109a99214322f6882f106"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-10T09:15:00-05:00",
+   "topic": "redfin-market-oct-2026",
+   "kind": "data",
+   "text": "Redfin, four weeks ending October 25, 2026: the U.S. median home-sale price was $389,601, down 0.1% from a year earlier. Pending sales fell 15.9% year over year to the lowest level in Redfin records. Median days on market was 50, and 21.5% of listings had price drops.\n\nFor a lender underwriting a flip exit, a list price is not a sale price. The average sale-to-list ratio was 98.3%, so a $372,000 list price (illustrative) points to about $365,676.\n\nLenders can stress test an exit on a lower price and a longer sale timeline.\n\nvaultedonline.com",
+   "alt": "Redfin data for the four weeks ending October 25, 2026: median sale price $389,601, down 0.1 percent; pending sales down 15.9 percent year over year; 50 median days on market; 21.5 percent of listings with price drops. Illustrative $372,000 list price at 98.3 percent sale-to-list is $365,676.",
+   "image": "images/2026-11-10/0915-fb-redfin-market-oct-2026.png",
+   "sources": [
+    {
+     "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
+     "publisher": "Redfin",
+     "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
+     "date": "2026-10-29",
+     "quote": "The median home-sale price was $389,601, down 0.1% year over year."
+    },
+    {
+     "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
+     "publisher": "Redfin",
+     "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
+     "date": "2026-10-29",
+     "quote": "Pending sales (seasonally adjusted) | 276,352 | -15.9% | -1.8% | Lowest level in our records"
+    },
+    {
+     "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
+     "publisher": "Redfin",
+     "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
+     "date": "2026-10-29",
+     "quote": "Median days on market | 50 | 1"
+    },
+    {
+     "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
+     "publisher": "Redfin",
+     "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
+     "date": "2026-10-29",
+     "quote": "Share of home listings with price drops | 21.5% | Up from 20.9%"
+    },
+    {
+     "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
+     "publisher": "Redfin",
+     "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
+     "date": "2026-10-29",
+     "quote": "Average sale-to-list price ratio | 98.3% | Unchanged"
+    },
+    {
+     "title": "U.S. Home-Sale Prices Just Fell for the First Time in 3 Years",
+     "publisher": "Redfin",
+     "url": "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
+     "date": "2026-10-29",
+     "quote": "What to know about the U.S. housing market for the four weeks ending October 25:"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$372,000",
+     "calc": "illustrative list price chosen by author"
+    },
+    {
+     "figure": "$365,676",
+     "calc": "372000*0.983 = 365676.0"
+    },
+    {
+     "figure": "$6,324",
+     "calc": "372000-372000*0.983 = 6324.0 (not printed)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109aad6bbae6fa11b1c12"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-10T10:21:00-05:00",
+   "topic": "mba-cref-originations-q3-2026",
+   "kind": "data",
+   "text": "Commercial and multifamily loan originations were 16 percent higher in the second quarter of 2026 than a year earlier, and up 12 percent from the first quarter. That is the latest MBA release we reviewed, published August 6, 2026.\n\nInside the total, year over year, investor-driven lender loans rose 18 percent, multifamily rose 8 percent, and loans from government sponsored enterprises fell 17 percent.\n\nFor a private lender this is market context, not a forecast. When more capital is active, borrowers can have more options, so it helps to know which lender types are growing. Local markets vary.",
+   "alt": "Graphic: MBA commercial and multifamily originations, second quarter 2026, up 16 percent from a year earlier and 12 percent from the prior quarter. Bars show year-over-year change by lender type: CMBS plus 68, depositories plus 61, investor-driven lenders plus 18, GSEs minus 17, life insurance companies minus 27 percent.",
+   "image": "images/2026-11-10/1021-li-mba-cref-originations-q3-2026.png",
+   "sources": [
+    {
+     "title": "Commercial/Multifamily Borrowing Increased 16% in the Second Quarter",
+     "publisher": "MBA Newslink (Mortgage Bankers Association)",
+     "url": "https://newslink.mba.org/mba-newslinks/2026/august/mba-newslink-friday-august-7-2026/commercial-multifamily-borrowing-increased-16-in-the-second-quarter-of-2026/",
+     "date": "2026-08-06",
+     "quote": "Commercial and multifamily mortgage loan originations were 16% higher in the second quarter of 2026 compared to a year earlier, and increased 12% from the first quarter of 2026. Investor-driven lender loans had an 18% increase, multifamily properties an 8% increase, government sponsored enterprises a 17% decrease. CMBS increased by 68% year-over-year, depositories a 61% increase, life insurance company loans a 27% decrease."
+    },
+    {
+     "title": "Quarterly Survey of Commercial/Multifamily Mortgage Bankers Originations, Second Quarter 2026",
+     "publisher": "Mortgage Bankers Association",
+     "url": "https://www.mba.org/docs/default-source/research-and-forecasts/cmf-originations-index/2q26cmforiginationssurvey.pdf?sfvrsn=eb1bfcfc_1",
+     "date": "2026-08-06",
+     "quote": "were 16 percent higher in the second quarter of 2026 compared to a year earlier; increased 12 percent from the first quarter of 2026; an 18 percent increase in investor-driven lender loans; an 8 percent increase for multifamily properties (page undated, accessed 2026-11-08)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "November 8, 2026",
+     "calc": "as-of date: today, 2026-11-08; MBA index page listed Q1 2026 and search found Q2 2026 as latest, Q3 2026 not yet found"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109cd004e4879a7e9f0b0"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-10T12:47:00-05:00",
+   "topic": "contingency-reserve-math",
+   "kind": "evergreen",
+   "text": "How big should a rehab contingency line be?\n\nSources give a wide range. MCAP, a Canadian lender, says a contingency can run 3% to 10% of construction costs. Kiavi says to consider at least 10-15% of the renovation budget. Your lender's terms may differ.\n\nIllustrative: $188,000 purchase, $66,000 hard costs, loan of 90% of purchase plus the full budget.\n\nAt 8%: $5,280 contingency, $71,280 budget, $240,480 loan.\n\nAt 12%: $7,920 contingency, $73,920 budget, $243,120 loan.\n\nThe loan rises $2,640, while loan to cost barely moves (92.7% to 92.8%). Size the line on purpose.\n\nvaultedonline.com",
+   "alt": "Two cards compare a rehab contingency of 8 percent and 12 percent on a $188,000 purchase with $66,000 hard costs. Contingency $5,280 vs $7,920, budget $71,280 vs $73,920, loan $240,480 vs $243,120, loan to cost 92.7% vs 92.8%. Illustrative.",
+   "image": "images/2026-11-10/1247-fb-contingency-reserve-math.png",
+   "sources": [
+    {
+     "title": "How to budget for your construction project",
+     "publisher": "MCAP",
+     "url": "https://mcap.com/blog/how-to-budget-for-your-construction-project",
+     "date": "2024-11-12",
+     "quote": "A contingency can range from 3% to 10% of the construction costs"
+    },
+    {
+     "title": "Rehab over budget contingency options",
+     "publisher": "Kiavi",
+     "url": "https://www.kiavi.com/blog/rehab-over-budget-contingency-options",
+     "date": "2026-08-10",
+     "quote": "Consider setting a contingency of at least 10-15% of the renovation budget."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$188,000 purchase, $66,000 hard costs, 8% and 12% contingency, loan = 90% of purchase + full budget",
+     "calc": "illustrative inputs chosen by author (assignment numbers 195000/72000 appear in ledger within 12 weeks, so changed)"
+    },
+    {
+     "figure": "$5,280",
+     "calc": "66000*0.08 = 5280"
+    },
+    {
+     "figure": "$7,920",
+     "calc": "66000*0.12 = 7920"
+    },
+    {
+     "figure": "$71,280",
+     "calc": "66000+5280 = 71280"
+    },
+    {
+     "figure": "$73,920",
+     "calc": "66000+7920 = 73920"
+    },
+    {
+     "figure": "$240,480",
+     "calc": "0.9*188000+71280 = 240480"
+    },
+    {
+     "figure": "$243,120",
+     "calc": "0.9*188000+73920 = 243120"
+    },
+    {
+     "figure": "$2,640",
+     "calc": "243120-240480 = 2640"
+    },
+    {
+     "figure": "92.7%",
+     "calc": "240480/(188000+71280) = 240480/259280 = 0.9275 -> 92.7"
+    },
+    {
+     "figure": "92.8%",
+     "calc": "243120/(188000+73920) = 243120/261920 = 0.9282 -> 92.8"
+    },
+    {
+     "figure": "$259,280 / $261,920",
+     "calc": "188000+71280 = 259280; 188000+73920 = 261920 (footnote only)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109aa51492b796e6b0cc4"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-10T17:27:00-05:00",
+   "topic": "entity-borrowers",
+   "kind": "evergreen",
+   "text": "An individual signs for themselves. An LLC cannot sign anything on its own, so a person signs for it. How does a lender know that person had the authority?\n\nOne law firm puts it this way: \"Articles establish existence; Operating Agreements establish authority.\"\n\nLenders can ask for the articles of organization, a good standing certificate, the operating agreement, and a resolution naming the loan and the signer. Lenders can also ask for a personal guaranty, which can make the owner liable alongside the LLC.\n\nWhat is required varies by state and by lender. Not legal advice.\n\nvaultedonline.com",
+   "alt": "Comparison table of lending to an individual versus an LLC. For an LLC, a person signs for the entity, so lenders can ask for articles, a good standing certificate, an operating agreement and a resolution naming the loan and signer. A personal guaranty can add the owner as a second obligor. A signature is evidence, not proof of authority.",
+   "image": "images/2026-11-10/1727-fb-entity-borrowers.png",
+   "sources": [
+    {
+     "title": "Private Lending Authority Disputes: How to Avoid $50K+ Losses",
+     "publisher": "Geraci Law Firm",
+     "url": "https://geracillp.com/private-lending-authority-disputes-how-to-avoid-50k-losses/",
+     "date": "2026-06-22",
+     "quote": "The failure mode is consistent across cases: Articles establish existence; Operating Agreements establish authority."
+    },
+    {
+     "title": "Private Lending Authority Disputes: How to Avoid $50K+ Losses (signature and resolution)",
+     "publisher": "Geraci Law Firm",
+     "url": "https://geracillp.com/private-lending-authority-disputes-how-to-avoid-50k-losses/",
+     "date": "2026-06-22",
+     "quote": "A signed document is evidence that someone signed. It is not proof that anyone had authority to do so. The resolution should reference the specific loan, property address, and lender."
+    },
+    {
+     "title": "Another Limited Liability Company Wants A Loan",
+     "publisher": "Spilman Thomas & Battle, PLLC",
+     "url": "https://spilmanlaw.com/dataentry/resources/attorney-articles/banking-finance/another-limited-liability-company-wants-a-loan",
+     "date": "2023-08-11",
+     "quote": "the loan officer should request the borrower to provide a current certified copy of the articles of organization (page metadata 2023-08-11; body dated 2011-10-13); also a certificate of good standing (or certificate of existence) from the secretary of state; a copy of the operating agreement, as amended; written evidence consistent with the operating agreement of its authority to enter into the loan documents."
+    },
+    {
+     "title": "Personal Liability for LLC Mortgages",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/personal-liability-mortgages-held-llc-corporation.html",
+     "date": "2024-09-26",
+     "quote": "Signing a personal guarantee for an LLC mortgage is the same as co-signing the loan."
+    },
+    {
+     "title": "Borrowing Through an LLC on a Private Loan: What to Know",
+     "publisher": "US Lending & Company",
+     "url": "https://uslendingco.com/insights/borrowing-through-an-llc-private-loan/",
+     "date": "2026-02-07",
+     "quote": "Lenders want formation documents, the operating agreement, an authorizing resolution and ownership detail."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "no numeric figures",
+     "calc": "post and graphic contain no numbers; qualitative educational post"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109ba51492b796e6b15cb"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-11T08:56:00-05:00",
+   "topic": "bls-residential-construction-jobs-oct-2026",
+   "kind": "data",
+   "text": "Residential construction lost 16,400 jobs in October, the largest monthly drop since March 2021, per NAHB analysis of BLS data released November 6, 2026.\n\nPer ENR, specialty trade contractors accounted for 15,200 of that and residential building contractors cut 1,200. Over 12 months the sector is down a net 40,200 jobs, and it now employs about 3.3 million people.\n\nOne month is not a trend. But for a rehab lender, trade crews help set the pace of draws. Lenders can ask each contractor how many crews are committed to the project and what happens if a trade runs short.\n\nvaultedonline.com",
+   "alt": "Graphic titled Residential construction shed 16,400 jobs in October 2026. Stat cards show minus 16,400 residential jobs in October, minus 40,200 net over 12 months, and minus 3,000 for all construction. A bar chart shows residential specialty trade contractors down 15,200 and residential builders down 1,200.",
+   "image": "images/2026-11-11/0856-fb-bls-residential-construction-jobs-oct-2026.png",
+   "sources": [
+    {
+     "title": "Hiring Rebounds in October, but Residential Construction Employment Declines",
+     "publisher": "NAHB Eye On Housing (Jing Fu)",
+     "url": "https://eyeonhousing.org/2026/11/hiring-rebounds-in-october-but-residential-construction-employment-declines/",
+     "date": "2026-11-06",
+     "quote": "Within the industry, residential construction employment fell by 16,400, the largest monthly decline since March 2021. Over the last 12 months, residential construction has shed a net of 40,200 jobs. Residential construction employment stood at 3.3 million in October."
+    },
+    {
+     "title": "Construction Jobs Declined in October as Residential Contractors Shed 16.4K Workers",
+     "publisher": "Engineering News-Record (ENR)",
+     "url": "https://www.enr.com/articles/64222-construction-jobs-declined-in-october-as-residential-contractors-shed-164k-workers",
+     "date": "2026-11-06",
+     "quote": "The steepest decline in jobs came from residential specialty trade contractors, with a reported drop of 15,200 positions. Residential building contractors cut an estimated 1,200 jobs during October, BLS reported. Construction employment declined by 3,000 jobs during October, according to the Bureau of Labor Statistics monthly jobs report."
+    },
+    {
+     "title": "Employment Situation News Release - 2026 M10 Results",
+     "publisher": "U.S. Bureau of Labor Statistics",
+     "url": "https://www.bls.gov/news.release/empsit.htm",
+     "date": "2026-11-06",
+     "quote": "Transmission of material in this news release is embargoed until 8:30 a.m. (ET) Friday, November 6, 2026"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "16,400",
+     "calc": "15200 + 1200 = 16400 (specialty trade + residential building), matches NAHB total"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109bb004e4879a7e9edb5"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-11T12:47:00-05:00",
+   "topic": "portfolio-yield-weighted-avg",
+   "kind": "evergreen",
+   "text": "Three loans, three rates. What is the portfolio yield?\n\nIllustrative: $205,000 at 9.5%, $415,000 at 11.25%, $435,000 at 12.5%.\n\nA simple average of the rates is 11.08%. A weighted average counts each rate in proportion to its balance. Annual interest is $19,475 + $46,687.50 + $54,375 = $120,537.50, and $120,537.50 / $1,055,000 = 11.43%.\n\nThe simple average understates the yield because the biggest balance carries the highest rate. FINRA describes a mortgage pool's coupon as a weighted average of its mortgages' rates.\n\nTakeaway: when balances differ, weight each rate by its balance.\n\nvaultedonline.com",
+   "alt": "Illustrative three-loan table: $205,000 at 9.5%, $415,000 at 11.25%, $435,000 at 12.5%, total $1,055,000 earning $120,537.50 a year. Simple average rate 11.08% versus balance-weighted 11.43%.",
+   "image": "images/2026-11-11/1247-fb-portfolio-yield-weighted-avg.png",
+   "sources": [
+    {
+     "title": "Should I consolidate or refinance my student loans?",
+     "publisher": "CFPB",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/should-i-consolidate-refinance-student-loans-en-561/",
+     "date": "2024-12-03",
+     "quote": "A Direct Consolidation Loan has a fixed interest rate that's the weighted average of the interest rates of the loans being consolidated, rounded up to the nearest one-eighth of a percent."
+    },
+    {
+     "title": "Mortgage-Backed Securities (MBS) Data Glossary",
+     "publisher": "FINRA",
+     "url": "https://www.finra.org/finra-data/fixed-income/mbs/glossary",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "The weighted average coupon (WAC) is the weighted-average gross interest rates of the pool of mortgages that underlay a mortgage-backed security (MBS) at the time the securities were issued."
+    },
+    {
+     "title": "Fannie Mae PoolTalk Glossary",
+     "publisher": "Fannie Mae",
+     "url": "https://capitalmarkets.fanniemae.com/sites/capmrkt/files/migrated-files/resources/file/mbs/pdf/pool-talk-glossary-rpls-042516.pdf",
+     "date": "2016-04-01",
+     "quote": "The weighted average of the \"Current Interest Rate\" for all the mortgage loans in the MBS pool."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$205,000 at 9.5%, $415,000 at 11.25%, $435,000 at 12.5%",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$19,475",
+     "calc": "205000*0.095 = 19475.0"
+    },
+    {
+     "figure": "$46,687.50",
+     "calc": "415000*0.1125 = 46687.5"
+    },
+    {
+     "figure": "$54,375",
+     "calc": "435000*0.125 = 54375.0"
+    },
+    {
+     "figure": "$120,537.50",
+     "calc": "19475+46687.5+54375 = 120537.5"
+    },
+    {
+     "figure": "$1,055,000",
+     "calc": "205000+415000+435000 = 1055000"
+    },
+    {
+     "figure": "11.43%",
+     "calc": "120537.5/1055000*100 = 11.4254"
+    },
+    {
+     "figure": "11.08%",
+     "calc": "(9.5+11.25+12.5)/3 = 11.0833"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109bc51492b796e6b1606"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-11T17:09:00-05:00",
+   "topic": "ucc-filings",
+   "kind": "evergreen",
+   "text": "A lender records a mortgage and assumes everything is covered. A mortgage is a real property document, and the UCC generally excludes liens on real property from secured transactions rules.\n\nEquipment is personal property. So is a borrower entity membership interest, commonly treated as a general intangible. A UCC financing statement is the usual filing to perfect many personal property interests.\n\nGoods attached to land may be fixtures. A fixture filing is recorded where mortgages are recorded. It does not perfect interests in non-fixture goods.\n\nLenders can search both. Filing offices depend on the collateral and state.",
+   "alt": "Comparison graphic. A mortgage covers real property, the land and building, and is filed in county land records. A UCC financing statement covers personal property such as equipment and membership interests, in a separate UCC filing office. Fixture filings go where mortgages are recorded. Search both.",
+   "image": "images/2026-11-11/1709-li-ucc-filings.png",
+   "sources": [
+    {
+     "title": "UCC 9-109 Scope",
+     "publisher": "Cornell Law School Legal Information Institute",
+     "url": "https://www.law.cornell.edu/ucc/9/9-109",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "the creation or transfer of an interest in or lien on real property, including a lease or rents thereunder."
+    },
+    {
+     "title": "UCC 9-501 Filing Office",
+     "publisher": "Cornell Law School Legal Information Institute",
+     "url": "https://www.law.cornell.edu/ucc/9/9-501",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "the office designated for the filing or recording of a record of a mortgage on the related real property, if: ... (B) the financing statement is filed as a fixture filing and the collateral is goods that are or are to become fixtures"
+    },
+    {
+     "title": "UCC 9-102 Definitions",
+     "publisher": "Cornell Law School Legal Information Institute",
+     "url": "https://www.law.cornell.edu/ucc/9/9-102",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "\"Fixtures\" means goods that have become so related to particular real property that an interest in them arises under real property law."
+    },
+    {
+     "title": "How Florida UCC Financing Statements Impact Real Property Title",
+     "publisher": "Violette Law Firm",
+     "url": "https://www.violettelawfirm.com/blog/2025/december/how-florida-ucc-financing-statements-impact-real/",
+     "date": "2025-12-18",
+     "quote": "A UCC-1 financing statement is a public filing that \"perfects\" a creditor's security interest in a debtor's personal property"
+    },
+    {
+     "title": "When Goods and Realty Collide: Come Together",
+     "publisher": "Equipment Leasing and Finance Association",
+     "url": "https://www.elfaonline.org/communications/may-june-2022/when-goods-and-realty-collide",
+     "date": "2022-05-01",
+     "quote": "A \"fixture filing\" will not perfect a lender's interest in non-fixture goods."
+    },
+    {
+     "title": "Article 8 Opt-In for LLC Membership Interests: How to Perfect a Security Interest",
+     "publisher": "Henson Efron",
+     "url": "https://hensonefron.com/protecting-your-security-interest-in-an-llc-membership-interest-methods-and-considerations-for-perfecting/",
+     "date": "2018-09-18",
+     "quote": "Most commonly, a membership interest in an LLC is considered a general intangible."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "graphic date note",
+     "calc": "ELFA page shows May/June 2022 issue only; 2022-05-01 used as placeholder date, graphic prints May/June 2022"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109ce51492b796e6b19fa"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-11T17:27:00-05:00",
+   "topic": "hoa-lien-priority",
+   "kind": "evergreen",
+   "text": "Can an HOA lien come ahead of a first mortgage?\n\nIn some states, part of it can. Nolo describes a super lien as the portion of an HOA lien given higher priority than even a first-mortgage holder. In Colorado, six months of assessments get that status. In Nevada, it is nine months.\n\nForeclosing a super lien may eliminate the first mortgage. Rules and amounts vary by state.\n\nLenders can ask in diligence whether the property sits in an HOA, whether assessments are current, and whether state law gives HOAs a super lien.\n\nvaultedonline.com",
+   "alt": "Graphic titled Can an HOA lien jump ahead of your first mortgage. Cards show Colorado six months and Nevada nine months of assessments with super-lien status, a simplified payment order of super-lien portion, first mortgage, then rest of the HOA lien, and a diligence prompt.",
+   "image": "images/2026-11-11/1727-fb-hoa-lien-priority.png",
+   "sources": [
+    {
+     "title": "Homeowners Association Super Liens",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/homeowners-association-super-liens.html",
+     "date": "2025-08-19",
+     "quote": "In Nevada, nine months of assessments have super-lien status. (Page also defines a super lien as \"that portion of an HOA lien that's given higher priority than even a first-mortgage holder\" and gives Colorado as six months' worth of common expense assessments.)"
+    },
+    {
+     "title": "C.R.S. Section 38-33.3-316",
+     "publisher": "Colorado Revised Statutes (public.law)",
+     "url": "https://colorado.public.law/statutes/crs_38-33.3-316",
+     "date": "2026-11-08",
+     "quote": "during the six months immediately preceding institution by either the association or any party holding a lien senior (page current through Fall 2025; accessed 2026-11-08)"
+    },
+    {
+     "title": "NRS 116.3116 (2022)",
+     "publisher": "Justia, Nevada Revised Statutes",
+     "url": "https://law.justia.com/codes/nevada/2022/chapter-116/statute-116-3116/",
+     "date": "2026-11-08",
+     "quote": "A lien under this section is prior to all security interests described in paragraph (b) of subsection 2 to the extent of: (2022 edition; accessed 2026-11-08; page undated)"
+    },
+    {
+     "title": "HOA SUPER LIEN",
+     "publisher": "My Compliance Resource",
+     "url": "https://mycomplianceresource.com/hoa-super-lien/",
+     "date": "2014-09-30",
+     "quote": "it may eliminate the first mortgage, as well as any other junior liens on the property."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "1, 2, 3 (graphic order labels)",
+     "calc": "ordinal labels for the simplified payment order; no computation"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109bc229bf05dafe06a03"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-12T08:25:00-05:00",
+   "topic": "ice-first-look-sep-2026",
+   "kind": "data",
+   "text": "Which loans are heading to foreclosure? ICE says loans originated in 2022 or later made up 43 percent of September 2026 foreclosure starts and 49 percent of completed foreclosure sales.\n\nThe backdrop: the national delinquency rate rose 12 basis points to 3.66 percent, roughly in line with seasonal norms. Foreclosure starts fell 3 percent year over year, but active foreclosure inventory reached its highest level since early 2019.\n\nThis covers all U.S. mortgages, not private loans. Lenders can still review delinquencies by origination date to see where trouble is building.\n\nvaultedonline.com",
+   "alt": "Graphic titled Loans from 2022 or later in the foreclosure pipeline. Stat cards show a 3.66 percent national delinquency rate in September 2026 and active foreclosure inventory at its highest level since early 2019. Two bars show 43 percent of foreclosure starts and 49 percent of completed sales came from loans originated in 2022 or later.",
+   "image": "images/2026-11-12/0825-fb-ice-first-look-sep-2026.png",
+   "sources": [
+    {
+     "title": "ICE First Look: September Delinquencies Track Seasonal Norms as Foreclosure Pipeline Shifts Toward Recent Vintages",
+     "publisher": "Intercontinental Exchange (ICE)",
+     "url": "https://s2.q4cdn.com/154085107/files/doc_news/ICE-First-Look-September-Delinquencies-Track-Seasonal-Norms-as-Foreclosure-Pipeline-Shifts-Toward-Recent-Vintages-2026.pdf",
+     "date": "2026-10-27",
+     "quote": "The national delinquency rate rose 12 basis points (bps) to 3.66% in September, roughly in line with its seasonal norm."
+    },
+    {
+     "title": "Mortgage delinquency rate rises to 3.66% in September, ICE says",
+     "publisher": "HousingWire",
+     "url": "https://www.housingwire.com/articles/mortgage-delinquency-september-ice/",
+     "date": "2026-10-27",
+     "quote": "Loans originated in 2022 or later accounted for 43% of foreclosure starts and 49% of completed foreclosure sales"
+    },
+    {
+     "title": "ICE First Look: September Delinquencies Track Seasonal Norms; Foreclosures Trend Up",
+     "publisher": "The MortgagePoint",
+     "url": "https://themortgagepoint.com/2026/10/28/ice-first-look-september-delinquencies-track-seasonal-norms-foreclosures-trend-up/",
+     "date": "2026-10-28",
+     "quote": "completed sales rose 15% and active foreclosure inventory rose by 37%, hitting its highest level since early 2019. While foreclosure starts were down 3% year over year in September"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "12 basis points",
+     "calc": "0.12 percentage points as stated by ICE; no computation"
+    },
+    {
+     "figure": "Bars 43/100 and 49/100 of track",
+     "calc": "944*43/100 = 405.92 px, 944*49/100 = 462.56 px (graphic scale only)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109bd004e4879a7e9ee18"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-12T12:47:00-05:00",
+   "topic": "warehouse-line-spread-math",
+   "kind": "evergreen",
+   "text": "What does a $750,000 loan earn on the lender's own money when a credit line funds part of it?\n\nA warehouse line is short-term, revolving borrowing that mortgage lenders use to fund loans before selling them. Say a lender uses a similar line. Terms vary by lender.\n\nThe loan earns 10.75 percent, or $80,625 a year. The line funds 65 percent, $487,500, at 7.75 percent, costing $37,781.25. The spread is $42,843.75 on $262,500 of the lender's own money, or 16.32 percent.\n\nThat ignores fees and losses. Compare line cost to loan yield first.\n\nvaultedonline.com",
+   "alt": "Stacked bar splitting a $750,000 loan into a $487,500 credit line at 7.75 percent and $262,500 of lender equity, with cards showing $80,625 interest earned, $37,781 line interest and a $42,844 spread, equal to 16.32 percent on equity. Illustrative.",
+   "image": "images/2026-11-12/1247-fb-warehouse-line-spread-math.png",
+   "sources": [
+    {
+     "title": "What is warehouse lending?",
+     "publisher": "Axos Bank",
+     "url": "https://www.axosbank.com/commercial/insights/lending/what-is-warehouse-lending",
+     "date": "2025-12-11",
+     "quote": "Warehouse lending is a short-term, revolving line of credit that helps mortgage lenders fund loans before selling them."
+    },
+    {
+     "title": "How Warehouse Lending Works for Mortgage Originators",
+     "publisher": "Customers Bank",
+     "url": "https://www.customersbank.com/?p=26343",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "Warehouse lenders like Customers Bank are financial institutions that provide short-term funding to mortgage originators"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$750,000",
+     "calc": "illustrative loan amount"
+    },
+    {
+     "figure": "10.75 percent",
+     "calc": "illustrative loan rate"
+    },
+    {
+     "figure": "7.75 percent",
+     "calc": "illustrative line rate"
+    },
+    {
+     "figure": "65 percent",
+     "calc": "illustrative share funded by line"
+    },
+    {
+     "figure": "$487,500",
+     "calc": "750000*0.65 = 487500.0"
+    },
+    {
+     "figure": "$262,500",
+     "calc": "750000-487500 = 262500.0 (35 percent)"
+    },
+    {
+     "figure": "$80,625",
+     "calc": "750000*0.1075 = 80625.0"
+    },
+    {
+     "figure": "$37,781.25",
+     "calc": "487500*0.0775 = 37781.25"
+    },
+    {
+     "figure": "$42,843.75",
+     "calc": "80625-37781.25 = 42843.75"
+    },
+    {
+     "figure": "16.32 percent",
+     "calc": "42843.75/262500*100 = 16.3214"
+    },
+    {
+     "figure": "$37,781",
+     "calc": "rounded 37781.25"
+    },
+    {
+     "figure": "$42,844",
+     "calc": "rounded 42843.75"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af1cf3698f73321515701f2"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-12T15:40:00-05:00",
+   "topic": "receiver-appointment",
+   "kind": "evergreen",
+   "text": "The tenants keep paying rent on a building in foreclosure. Who collects it?\n\nA lender can ask the court to appoint a receiver. A receiver is an unbiased third party who protects the property from damage and lost rental income. Depending on the order, the receiver may collect rents, operate the property and arrange repairs. The receiver generally does not take title.\n\nCourts may look at whether the borrower turned over rents and whether the property is maintained. Timing and standards vary by state and by the loan documents.\n\nLenders can ask counsel early whether a receiver fits the loan.",
+   "alt": "Two cards. A receiver may collect rents from tenants, operate and manage the property, arrange repairs and maintenance, and report to the court. Courts may weigh unturned rents, poor maintenance, danger of waste or loss, and collateral at risk. Powers vary by state.",
+   "image": "images/2026-11-12/1540-li-receiver-appointment.png",
+   "sources": [
+    {
+     "title": "The Critical Role of the Foreclosure Receiver",
+     "publisher": "von Briesen & Roper, s.c.",
+     "url": "https://www.vonbriesen.com/legal-news/2265/the-critical-role-of-the-foreclosure-receiver",
+     "date": "2013-12-18",
+     "quote": "The appointed receiver does not take title to the property."
+    },
+    {
+     "title": "The Critical Role of the Foreclosure Receiver (rent in danger)",
+     "publisher": "von Briesen & Roper, s.c.",
+     "url": "https://www.vonbriesen.com/legal-news/2265/the-critical-role-of-the-foreclosure-receiver",
+     "date": "2013-12-18",
+     "quote": "collect and receive rent, hire and pay for maintenance, make necessary repairs, pay property taxes."
+    },
+    {
+     "title": "Connecticut Receivership Law for Commercial Foreclosures: What Lenders Need to Know",
+     "publisher": "Neubert, Pepe & Monteith, P.C.",
+     "url": "https://npmlaw.com/article/connecticut-receivership-law-for-commercial-foreclosures-what-lenders-need-to-know/",
+     "date": "2026-05-27",
+     "quote": "The borrower has failed to turn over rents, income, or other proceeds generated by the property"
+    },
+    {
+     "title": "Connecticut Receivership Law (authority)",
+     "publisher": "Neubert, Pepe & Monteith, P.C.",
+     "url": "https://npmlaw.com/article/connecticut-receivership-law-for-commercial-foreclosures-what-lenders-need-to-know/",
+     "date": "2026-05-27",
+     "quote": "Depending on the scope of the appointment order, the receiver's authority may include:"
+    },
+    {
+     "title": "Commercial Real Estate Foreclosure",
+     "publisher": "Nolo (via AllLaw)",
+     "url": "https://www.alllaw.com/articles/nolo/foreclosure/overview-commercial-foreclosure-process.html",
+     "date": "2023-07-21",
+     "quote": "A \"receiver\" is an unbiased third party that the court appoints to protect the property from damage or lost rental income."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "no numeric figures",
+     "calc": "post and graphic contain no statistics; 'varies by state' reflects Wisconsin, Connecticut and New York-specific sources cited by the three articles"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109ce9214322f6882ff69"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-12T17:27:00-05:00",
+   "topic": "seasoning-requirements",
+   "kind": "evergreen",
+   "text": "You rehabbed a property and the appraisal came in well above what you paid. Will the exit lender count it?\n\nThat depends on seasoning: how long you must own a property before a lender refinances against its current appraised value. Inside the window, many lenders lend against the lower of the appraised value and the purchase price.\n\nFannie Mae generally requires six months on title for a cash-out refinance, with exceptions. A number of DSCR lenders use current value after three to six months. Rules vary by lender.\n\nAsk early what seasoning the exit lender requires.\n\nvaultedonline.com",
+   "alt": "Graphic titled What is seasoning, and why does it shape your exit. Two cards show Fannie Mae cash-out refinance at 6 months on title and some DSCR lenders at 3 to 6 months. Two comparison cards show lower of appraised value or purchase price inside the window, and current appraised value after it.",
+   "image": "images/2026-11-12/1727-fb-seasoning-requirements.png",
+   "sources": [
+    {
+     "title": "B2-1.3-03, Cash-Out Refinance Transactions (12/10/2025)",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-03/cash-out-refinance-transactions",
+     "date": "2025-12-10",
+     "quote": "At least one borrower must have been on title for at least for six months prior to the disbursement date of the new loan."
+    },
+    {
+     "title": "DSCR Loans With No Seasoning: Refinance at Current Value",
+     "publisher": "Axiant Partners",
+     "url": "https://axiantpartners.com/dscr-loans/articles/dscr-loans-no-seasoning/",
+     "date": "2026-09-02",
+     "quote": "Seasoning is how long you must own a property before a lender will refinance against its current appraised value"
+    },
+    {
+     "title": "DSCR Loans With No Seasoning: Refinance at Current Value (lower-of sentence)",
+     "publisher": "Axiant Partners",
+     "url": "https://axiantpartners.com/dscr-loans/articles/dscr-loans-no-seasoning/",
+     "date": "2026-09-02",
+     "quote": "many lenders lend against the lower of the appraised value and your purchase price; a number of DSCR lenders will use current value after three to six months"
+    },
+    {
+     "title": "Does a DSCR Cash-Out Refinance Have a Seasoning Requirement?",
+     "publisher": "Lendmire",
+     "url": "https://www.lendmire.com/dscr-cash-out-refinance-have-a-seasoning-requirement/",
+     "date": "2026-10-15",
+     "quote": "It is lender policy rather than law, so it varies by program and by file."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "no illustrative numbers",
+     "calc": "all figures (six months; three to six months) are quoted from sources"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af320c3efda8cf29ac89dc8"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-13T08:00:00-05:00",
+   "topic": "attom-vacant-foreclosure-q3-2026",
+   "kind": "data",
+   "text": "Out of 259,666 U.S. residential properties in the foreclosure process in ATTOM's Q3 2026 report, about 3.3 percent, or 8,482, were \"zombies.\" ATTOM uses that word when owners abandon a property before the foreclosure ends.\n\nOverall, 1.3 percent of U.S. residential properties were vacant, unchanged from the prior quarter and a year earlier. By state, the rate ran from 0.3 percent in New Hampshire to 2.4 percent in Oklahoma and Kansas.\n\nFor a lender, an empty property raises collateral questions. Lenders can ask who is maintaining it and what the insurance policy requires when it sits vacant.\n\nvaultedonline.com",
+   "alt": "Graphic of ATTOM Q3 2026 report data: 259,666 residential properties in foreclosure, 8,482 of them zombies (about 3.3 percent). Bars show vacancy of 0.3 percent in New Hampshire, 1.3 percent nationally and 2.4 percent in Oklahoma and Kansas.",
+   "image": "images/2026-11-13/0800-fb-attom-vacant-foreclosure-q3-2026.png",
+   "sources": [
+    {
+     "title": "National Vacancy Rate Doesn't Budge in Third Quarter (Vacant Property and Zombie Foreclosure Report)",
+     "publisher": "ATTOM",
+     "url": "https://www.attomdata.com/news/market-trends/foreclosures/q3-2026-vacancy-and-zombie-foreclosure-report/",
+     "date": "2026-08-27",
+     "quote": "Out of the country’s 104.6 million residential properties, 259,666 were in the foreclosure process in the third quarter of 2026. About 3.3 percent of those, or 8,482 properties, were “zombies,” meaning the owners had abandoned the properties before the end of their foreclosure proceedings. Overall: 1.3 percent of residential properties in the United States were vacant in the third quarter of the year. That was the same rate as the previous quarter as well as the third quarter of 2025. The states with the highest overall home vacancy rates in the third quarter were Oklahoma (2.4 percent); the lowest vacancy rates were in New Hampshire (0.3 percent)."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "3.3 percent",
+     "calc": "round(8482/259666*100,1) = 3.3"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af320c4b7c40e4eb41368ad"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-13T12:47:00-05:00",
+   "topic": "net-yield-after-loss-rate",
+   "kind": "evergreen",
+   "text": "A lender advertises 10.2 percent on a $2,200,000 portfolio. Then one loan loses $44,000. What is the yield now?\n\nHere, net yield means interest earned minus losses, divided by the amount lent.\n\nGross: $2,200,000 times 10.2 percent is $224,400 of interest.\n\nNet: $224,400 minus $44,000 is $180,400. Divided by $2,200,000, that is 8.2 percent.\n\nThe loss equals 2.0 percent of the portfolio, so it took 2.0 points off the yield.\n\nTakeaway: a gross rate shows what borrowers owe on paper. Net yield shows what the lender kept.\n\nvaultedonline.com",
+   "alt": "Bar chart for an illustrative $2,200,000 portfolio: $224,400 interest earned, minus a $44,000 loss, leaves $180,400 kept. Two cards compare gross yield of 10.2 percent with net yield of 8.2 percent after the loss.",
+   "image": "images/2026-11-13/1247-fb-net-yield-after-loss-rate.png",
+   "sources": [
+    {
+     "title": "Net Yield",
+     "publisher": "WallStreetMojo",
+     "url": "https://wallstreetmojo.com/net-yield",
+     "date": "2026-01-14",
+     "quote": "Net yield is a measure that defines the returns on the investment after deducting all expenses and costs"
+    },
+    {
+     "title": "Net Yield definition",
+     "publisher": "Law Insider",
+     "url": "https://www.lawinsider.com/dictionary/net-yield",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "Net Yield means Gross Yield less impairments."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$2,200,000",
+     "calc": "illustrative portfolio size, chosen by author"
+    },
+    {
+     "figure": "10.2 percent",
+     "calc": "illustrative gross rate, chosen by author"
+    },
+    {
+     "figure": "$44,000",
+     "calc": "illustrative single loss, chosen by author"
+    },
+    {
+     "figure": "$224,400",
+     "calc": "2200000*0.102 = 224400"
+    },
+    {
+     "figure": "$180,400",
+     "calc": "224400-44000 = 180400"
+    },
+    {
+     "figure": "8.2 percent",
+     "calc": "180400/2200000*100 = 8.2"
+    },
+    {
+     "figure": "2.0 percent / 2.0 points",
+     "calc": "44000/2200000*100 = 2.0; 10.2-8.2 = 2.0"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-13T14:00:00-05:00",
+   "topic": "environmental-basics",
+   "kind": "evergreen",
+   "text": "A lender asks for a Phase I. What does that report cover?\n\nA Phase I environmental site assessment reviews site records, includes a site visit, and interviews people who know the property. It does not include lab testing of samples.\n\nIt looks for a recognized environmental condition: the presence or likely presence of hazardous substances or petroleum products at the property.\n\nEPA recognizes ASTM E1527-21 as one standard for buyers seeking liability protection, with work updated within one year, and key parts within 180 days, before acquisition.\n\nLenders can ask which standard and timing they want.",
+   "alt": "Navy graphic titled What a Phase I environmental report covers. Three steps: records, site visit, interviews. It looks for a recognized environmental condition and does not include lab testing of samples. EPA says the inquiry is done or updated within 1 year, key elements within 180 days.",
+   "image": "images/2026-11-13/1400-li-environmental-basics.png",
+   "sources": [
+    {
+     "title": "Brownfields All Appropriate Inquiries",
+     "publisher": "U.S. EPA",
+     "url": "https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries",
+     "date": "2026-05-07",
+     "quote": "AAI must be conducted or updated within one year before the date of acquisition of a property."
+    },
+    {
+     "title": "Brownfields All Appropriate Inquiries (180-day element)",
+     "publisher": "U.S. EPA",
+     "url": "https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries",
+     "date": "2026-05-07",
+     "quote": "must be conducted or updated within 180 days before acquiring ownership of a property."
+    },
+    {
+     "title": "Brownfields All Appropriate Inquiries (standard)",
+     "publisher": "U.S. EPA",
+     "url": "https://www.epa.gov/brownfields/brownfields-all-appropriate-inquiries",
+     "date": "2026-05-07",
+     "quote": "AAI may be conducted in compliance with either of these standards to obtain protection from potential liability"
+    },
+    {
+     "title": "What are All Appropriate Inquiries? fact sheet",
+     "publisher": "U.S. EPA",
+     "url": "https://www.epa.gov/system/files/documents/2025-02/aai_factsheet.pdf",
+     "date": "2026-03-01",
+     "quote": "ASTM E1527-21 ... may be used to comply with the provisions of the rule."
+    },
+    {
+     "title": "A Users Guide to Phase I Environmental Site Assessments",
+     "publisher": "West Virginia DEP",
+     "url": "https://dep.wv.gov/dlr/oer/brownfieldsection/Brownfields%20Assistance%20Program/Documents/A%20User%27s%20Guide%20to%20Phase%20I%20Environmental%20Site%20Assessments.pdf",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "This process includes reviewing site records, visiting the site, and interviewing individuals with site knowledge."
+    },
+    {
+     "title": "A Users Guide to Phase I ESAs (sampling, REC)",
+     "publisher": "West Virginia DEP",
+     "url": "https://dep.wv.gov/dlr/oer/brownfieldsection/Brownfields%20Assistance%20Program/Documents/A%20User%27s%20Guide%20to%20Phase%20I%20Environmental%20Site%20Assessments.pdf",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "Note that a Phase I ESA does not involve collection and laboratory analysis of environmental samples. The term Recognized Environmental Condition (REC) means the presence or likely presence of hazardous substances or petroleum products in, on, or at a property"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "ASTM E1527-21",
+     "calc": "standard name quoted from EPA page; no arithmetic"
+    },
+    {
+     "figure": "one year / 1 year / 180 days",
+     "calc": "quoted from EPA page; no arithmetic"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6af109cf229bf05dafe06ec2"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-13T17:27:00-05:00",
+   "topic": "draw-photo-documentation",
+   "kind": "evergreen",
+   "text": "A draw request says the work is done. Photos are how a lender can see it.\n\nJobsite photo guides suggest photos that hold up on their own, and lenders can ask for them:\n\nDated and geotagged, so the record is traceable.\n\nA wide shot first, then close-ups of the detail.\n\nThe same spot and angle each time, so progress is obvious.\n\nIn focus, clearly showing the item. Blurry or small photos may mean an inspector is asked to return to the property.\n\nWhat a lender accepts varies by lender, so confirm it before the borrower submits.\n\nvaultedonline.com",
+   "alt": "Checklist graphic titled What photos can back up a draw request. Four checks on a progress photo: dated and geotagged, wide first then close, same spot and same angle, and in focus. A note says what photos a lender accepts varies by lender.",
+   "image": "images/2026-11-13/1727-fb-draw-photo-documentation.png",
+   "sources": [
+    {
+     "title": "Construction Photo Documentation: A Contractor's Guide to Protecting Your Work",
+     "publisher": "CompanyCam",
+     "url": "https://companycam.com/resources/blog/construction-photo-documentation-a-contractors-guide-to-protecting-your-work",
+     "date": "2026-02-17",
+     "quote": "Shoot from identical angles and in similar lighting conditions so the transformation is obvious. Each photo should carry an automatic timestamp and GPS tag."
+    },
+    {
+     "title": "Construction Progress Photos Best Practices",
+     "publisher": "Projul",
+     "url": "https://projul.com/blog/construction-progress-photos-best-practices/",
+     "date": "2025-08-13",
+     "quote": "Start with a wide shot of the room or area, then move to medium shots, then close-ups. Shoot from the same angles consistently. Use automatic timestamps and geotags."
+    },
+    {
+     "title": "Three Critical Factors of a Draw Inspection",
+     "publisher": "Trinity",
+     "url": "https://www.trinityonline.com/blog/three-critical-factors-of-a-draw-inspection",
+     "date": "2021-08-09",
+     "quote": "All photos must be in focus, clearly show the item(s), and must be taken at the highest quality setting possible. If photos are blurry, are too small, or do not match the requirements on the stated documentation, an inspector may be asked to return to the property to provide better evidence of the findings."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "none",
+     "calc": "No numeric figures; post contains no illustrative or computed numbers. Word count of body computed in Python."
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-14T09:32:00-05:00",
+   "topic": "asset-based-lending",
+   "kind": "evergreen",
+   "text": "What does asset-based lending mean?\n\nIt means the loan is secured by collateral, with the focus on the collateral. One law firm says the focus is on the collateral and not primarily on the borrower.\n\nConventional lenders, the same firm says, are more concerned with credit record, income, balance sheet, and cash flow. For consumer loans secured by a home, federal rules require a good faith ability-to-repay determination that considers income or assets other than the home. Business purpose loans are outside that rule.\n\nTakeaway: with asset-based loans, the property carries the file. Rules vary by state.\n\nvaultedonline.com",
+   "alt": "Two cards compare underwriting focus. Asset-based lending: the focus is the collateral, not primarily the borrower. Conventional lending: the borrower's credit record, income, balance sheet and cash flow. A note adds that the federal consumer ability-to-repay rule looks at income or assets other than the home.",
+   "image": "images/2026-11-14/0932-fb-asset-based-lending.png",
+   "sources": [
+    {
+     "title": "What is Asset-Based Lending in Real Estate?",
+     "publisher": "Hammerle Morris Law Firm",
+     "url": "https://hammerle.com/blog/what-is-asset-based-lending-in-real-estate/",
+     "date": "2020-04-02",
+     "quote": "To say it another way: in asset-based lending, the focus is on the collateral and not primarily on the borrower. In contrast, conventional lenders, such as banks and credit unions, are more concerned with the borrower's credit record, income, balance sheet, and cash flow."
+    },
+    {
+     "title": "Asset-Based Lending: What is the Upside and Downside?",
+     "publisher": "U.S. Small Business Administration",
+     "url": "https://www.sba.gov/blog/asset-based-lending-what-upside-downside",
+     "date": "2017-12-31",
+     "quote": "Asset-based lending is a loan or line of credit issued to a business that is secured by some form of collateral."
+    },
+    {
+     "title": "12 CFR 1026.43 Minimum standards for transactions secured by a dwelling",
+     "publisher": "Consumer Financial Protection Bureau (Regulation Z)",
+     "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/43/",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "The consumer's current or reasonably expected income or assets, other than the value of the dwelling, including any real property attached to the dwelling, that secures the loan; ... Section 1026.43 does not apply to an extension of credit primarily for a business, commercial, or agricultural purpose, even if it is secured by a dwelling."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "word count",
+     "calc": "len(body.split()) of post excluding link line"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-14T13:47:00-05:00",
+   "topic": "origination-points-split",
+   "kind": "evergreen",
+   "text": "A $355,000 loan closes with 2.5 points. Does the lender keep all of them?\n\nPoints are a percentage of the loan amount charged for originating it. Here, 2.5 points is $8,875. If 1 point goes to a broker, that is $3,550, leaving the lender $5,325.\n\nAdd 12 months of interest-only at 10.3 percent, $36,565, and the lender collects $41,890. That is an 11.8 percent yield. Keep all 2.5 points and it is $45,440, or 12.8 percent.\n\nBroker fees can be built into points. It varies by lender. Compare yields on the points you actually keep. Numbers illustrative.\n\nvaultedonline.com",
+   "alt": "Stacked bar splitting 2.5 points ($8,875) on an illustrative $355,000 loan: 1 point ($3,550) to a broker and 1.5 points ($5,325) kept by the lender. Two cards: 11.8 percent lender yield with the broker share, 12.8 percent keeping all points, at 10.3 percent interest-only for 12 months.",
+   "image": "images/2026-11-14/1347-fb-origination-points-split.png",
+   "sources": [
+    {
+     "title": "Origination Fees / Points for Private Mortgages (aka Hard Money Loans)",
+     "publisher": "Private Lender Link",
+     "url": "https://privatelenderlink.com/2021/12/origination-fees-points-for-private-hard-money-loans/",
+     "date": "2023-07-07",
+     "quote": "a percentage of the loan amount which the lender charges just for originating the loan"
+    },
+    {
+     "title": "Origination Fees / Points for Private Mortgages (aka Hard Money Loans)",
+     "publisher": "Private Lender Link",
+     "url": "https://privatelenderlink.com/2021/12/origination-fees-points-for-private-hard-money-loans/",
+     "date": "2023-07-07",
+     "quote": "So an origination fee of two and a half points may be stated as \"250 basis points\" or \"250 bips\" for short."
+    },
+    {
+     "title": "Hard Money Lender Fee Structures: A Broker's Guide",
+     "publisher": "Capital Funding",
+     "url": "https://capitalfunding.com/blog/hard-money-lender-fee-structures-a-brokers-guide/",
+     "date": "2026-07-05",
+     "quote": "typically embedded within origination points rather than listed as a separate line item."
+    },
+    {
+     "title": "origination fee",
+     "publisher": "Cornell Law School LII Wex",
+     "url": "https://www.law.cornell.edu/wex/origination_fee",
+     "date": "2020-07-01",
+     "quote": "a fee paid to a lender to process a loan application."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$355,000",
+     "calc": "illustrative loan amount"
+    },
+    {
+     "figure": "2.5 points",
+     "calc": "illustrative"
+    },
+    {
+     "figure": "1 point to broker",
+     "calc": "illustrative"
+    },
+    {
+     "figure": "10.3 percent",
+     "calc": "illustrative interest-only rate, 12 months"
+    },
+    {
+     "figure": "$8,875",
+     "calc": "355000*2.5/100 = 8875"
+    },
+    {
+     "figure": "$3,550",
+     "calc": "355000*1/100 = 3550"
+    },
+    {
+     "figure": "$5,325",
+     "calc": "8875-3550 = 5325"
+    },
+    {
+     "figure": "$36,565",
+     "calc": "355000*10.3/100 = 36565"
+    },
+    {
+     "figure": "$41,890",
+     "calc": "36565+5325 = 41890"
+    },
+    {
+     "figure": "$45,440",
+     "calc": "36565+8875 = 45440"
+    },
+    {
+     "figure": "11.8 percent",
+     "calc": "41890/355000*100 = 11.8"
+    },
+    {
+     "figure": "12.8 percent",
+     "calc": "45440/355000*100 = 12.8"
+    },
+    {
+     "figure": "1.0 point",
+     "calc": "12.8-11.8 = 1.0"
+    },
+    {
+     "figure": "12 months",
+     "calc": "illustrative term"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-14T17:27:00-05:00",
+   "topic": "zoning-use-verification",
+   "kind": "evergreen",
+   "text": "Lending on a conversion or a multi-unit building? Zoning is the first gate for whether a plan is allowed.\n\nLenders can run a short check:\n\n1. Get the zoning district in writing. Some cities issue a zoning verification letter.\n\n2. Ask whether the planned use is permitted, not only the district.\n\n3. Ask whether the current use is legal nonconforming. That status can be lost after abandonment or destruction.\n\n4. Ask about code violations separately. Some cities handle Fire Code requests apart from the zoning letter.\n\nWhat a letter covers varies by city. Not legal advice.\n\nvaultedonline.com",
+   "alt": "Checklist graphic for lenders verifying zoning on a conversion or multi-unit loan: get the zoning district in writing, confirm the planned use is permitted, check whether the current use is nonconforming, and ask about code violations separately. Varies by city.",
+   "image": "images/2026-11-14/1727-fb-zoning-use-verification.png",
+   "sources": [
+    {
+     "title": "Request a Zoning Verification Letter",
+     "publisher": "City of Orlando",
+     "url": "https://orlando.gov/Building-Development/Planning-Approvals/Request-a-Zoning-Verification-Letter",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "The Zoning Official is not authorized to address whether existing development on the property conforms"
+    },
+    {
+     "title": "Zoning Verification Requests",
+     "publisher": "City of Sioux Falls",
+     "url": "https://www.siouxfalls.gov/government/departments/planning-development/zoning/zvl",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "Requests for information regarding Fire Code violations must be made separately"
+    },
+    {
+     "title": "Nonconforming Uses aka Grandfathered Uses in Zoning",
+     "publisher": "Gary D. Taylor, Iowa State University (community-planning.extension.org)",
+     "url": "https://community-planning.extension.org/nonconforming-uses-aka-grandfathered-uses-in-zoning",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "Once a nonconforming use has been abandoned, its resumption can be prohibited."
+    },
+    {
+     "title": "Nonconforming Use",
+     "publisher": "IRMI",
+     "url": "https://www.irmi.com/term/insurance-definitions/nonconforming-use",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "is often revoked when a building is damaged beyond a certain percentage of its value"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "1, 2, 3, 4",
+     "calc": "list numbering of checklist items, not data"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-15T10:15:00-05:00",
+   "topic": "portfolio-loan-meaning",
+   "kind": "evergreen",
+   "text": "What makes a loan a portfolio loan?\n\nThe lender keeps it on its own books instead of selling it in the secondary market.\n\nThat choice changes the lender's options. Lenders get to set the loan terms and documentation requirements on portfolio loans, which allows some flexibility. It also means taking on more risk when credit and underwriting criteria are loosened.\n\nIt changes cash, too. A lender that sells a loan can use the proceeds to fund additional mortgages. Holding a loan keeps that capital tied up.\n\nHolding keeps control of the terms.\n\nvaultedonline.com",
+   "alt": "Two comparison cards. A sold loan is held by the buyer and the lender receives sale proceeds that can fund additional mortgages. A portfolio loan stays on the lender's books as an investment asset, with the lender free to set terms and taking on more risk.",
+   "image": "images/2026-11-15/1015-fb-portfolio-loan-meaning.png",
+   "sources": [
+    {
+     "title": "Portfolio Loans: Defined And Explained",
+     "publisher": "Rocket Mortgage (Quicken Loans)",
+     "url": "https://www.quickenloans.com/learn/portfolio-loan",
+     "date": "2024-09-20",
+     "quote": "Portfolio loans are loans the lender keeps on its own books and does not sell. The lender, meanwhile, can use the proceeds from selling the loan to fund additional mortgages."
+    },
+    {
+     "title": "What Is a Portfolio Mortgage?",
+     "publisher": "Experian",
+     "url": "https://www.experian.com/blogs/ask-experian/what-is-portfolio-mortgage/",
+     "date": "2025-04-10",
+     "quote": "A portfolio loan is a type of mortgage a lender keeps instead of selling in the secondary market. Lenders get to set the loan terms and documentation requirements on portfolio loans, allowing for some flexibility. Lenders take on more risk when they loosen credit and underwriting criteria"
+    }
+   ],
+   "derived": [],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-15T13:47:00-05:00",
+   "topic": "first-payment-stub-interest",
+   "kind": "evergreen",
+   "text": "A $325,000 loan closes on November 19. How much interest covers the odd days before the first full month?\n\nIllustrative, at 10 percent: the 19th through the 30th is 12 days. Actual/360 counts real days over a 360-day year, so $325,000 x 10 percent / 360 is about $90.28 a day, or $1,083.33 for the stub.\n\nDay count matters again later. In a 31-day month, actual/360 charges 31 days, $2,798.61. A 30/360 note treats every month as 30 days: $2,708.33.\n\nLenders can confirm the day count and start date in the note. These vary by lender.\n\nvaultedonline.com",
+   "alt": "Graphic: a November calendar strip with days 19 to 30 highlighted, 12 days of stub interest. Stat cards show $90.28 per day and $1,083.33 stub on an illustrative $325,000 loan at 10 percent, actual/360. Bars compare a 31-day month: $2,798.61 actual/360 vs $2,708.33 30/360.",
+   "image": "images/2026-11-15/1347-fb-first-payment-stub-interest.png",
+   "sources": [
+    {
+     "title": "What is prepaid interest",
+     "publisher": "Chase",
+     "url": "https://www.chase.com/personal/mortgage/education/financing-a-home/what-is-prepaid-interest",
+     "date": "2026-07-17",
+     "quote": "If you close on June 15th, you will pay $800 in prepaid interest at closing to cover June 15th through June 30th."
+    },
+    {
+     "title": "Day Count Convention",
+     "publisher": "Corporate Finance Institute",
+     "url": "https://corporatefinanceinstitute.com/resources/derivatives/day-count-convention/",
+     "date": "2020-08-19",
+     "quote": "The 30/360 basis determines the denominator of an accrual factor (days in the year) as 360"
+    },
+    {
+     "title": "Actual 360",
+     "publisher": "Commercial Loan Direct",
+     "url": "https://commercialloandirect.com/definition/actual-360",
+     "date": "2026-11-08",
+     "quote": "the interest for any given period is determined by using the actual number of days in the month"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$325,000, 10 percent, closing Nov 19, 30-day month",
+     "calc": "illustrative inputs"
+    },
+    {
+     "figure": "12 days",
+     "calc": "30 - 19 + 1 = 12"
+    },
+    {
+     "figure": "$90.28",
+     "calc": "325000*0.10/360 = 90.2778"
+    },
+    {
+     "figure": "$1,083.33",
+     "calc": "325000*0.10/360*12 = 1083.33"
+    },
+    {
+     "figure": "$2,798.61",
+     "calc": "325000*0.10/360*31 = 2798.61"
+    },
+    {
+     "figure": "$2,708.33",
+     "calc": "325000*0.10/12 = 2708.33"
+    },
+    {
+     "figure": "31-day month, 31 days",
+     "calc": "illustrative"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-15T17:27:00-05:00",
+   "topic": "occupancy-vacant-vs-tenanted",
+   "kind": "evergreen",
+   "text": "Vacant or tenanted? The same collateral can follow two different paths after foreclosure.\n\nVacant: there is no tenant lease to work around.\n\nTenanted: one law firm notes a foreclosed property must often be sold subject to the remaining lease term. In residential foreclosures, federal law requires a new owner to give a bona fide tenant 90 days notice before eviction. A commercial lease may even rank ahead of the mortgage.\n\nLenders can review the lease term, rent, deposits and subordination language, and ask for an estoppel. Rules vary by state. Not legal advice.\n\nvaultedonline.com",
+   "alt": "Two comparison cards, Vacant and Tenanted. Vacant: no tenant lease to work around. Tenanted: sale may be subject to the remaining lease term, 90 days notice to a bona fide tenant under federal law, a lease may rank ahead of the mortgage, and lease review covers term, rent, deposits and subordination.",
+   "image": "images/2026-11-15/1727-fb-occupancy-vacant-vs-tenanted.png",
+   "sources": [
+    {
+     "title": "Best Practices: SNDA Fundamentals",
+     "publisher": "Starfield & Smith",
+     "url": "https://starfieldsmith.com/2017/02/best-practices-snda-fundamentals/",
+     "date": "2017-02-22",
+     "quote": "A foreclosed upon property must often be sold subject to the remaining lease term."
+    },
+    {
+     "title": "Best Practices: SNDA Fundamentals (commercial lease rank)",
+     "publisher": "Starfield & Smith",
+     "url": "https://starfieldsmith.com/2017/02/best-practices-snda-fundamentals/",
+     "date": "2017-02-22",
+     "quote": "In many jurisdictions, a commercial tenant's pre-existing leasehold interest may be senior even to a recorded mortgage."
+    },
+    {
+     "title": "A Quick Lesson in Two Vital Legal Documents",
+     "publisher": "Wealth Management (Robert Machson, attorney)",
+     "url": "https://www.wealthmanagement.com/real-estate/a-quick-lesson-in-two-vital-legal-documents",
+     "date": "2003-05-01",
+     "quote": "the status of rent payments and security deposits and any lease defaults."
+    },
+    {
+     "title": "Restoration of the federal Protecting Tenants at Foreclosure Act (PTFA)",
+     "publisher": "National Housing Law Project",
+     "url": "https://www.nhlp.org/wp-content/uploads/2018.08-Restoration-of-the-PTFA-1.pdf",
+     "date": "2026-11-08 (accessed; page undated)",
+     "quote": "the new owner after a foreclosure must provide bona fide tenants at least 90 days' notice prior to eviction."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "no illustrative numbers",
+     "calc": "post uses only the 90-day figure from the cited source"
+    }
+   ],
+   "status": "held",
+   "buffer_id": null
+  }
+ ]
 }
