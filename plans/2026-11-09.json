@@ -131,7 +131,7 @@
           "publisher": "Federal Student Aid (U.S. Department of Education)",
           "url": "https://studentaid.gov/articles/financial-aid-dictionary/",
           "date": "2026-11-08 (accessed; page undated)",
-          "quote": "Interest capitalization occurs when unpaid interest is added to a loan’s principal balance."
+          "quote": "Interest capitalization occurs when unpaid interest is added to a loan\u2019s principal balance."
         }
       ],
       "derived": [
@@ -884,7 +884,7 @@
           "publisher": "ATTOM",
           "url": "https://www.attomdata.com/news/market-trends/foreclosures/q3-2026-vacancy-and-zombie-foreclosure-report/",
           "date": "2026-08-27",
-          "quote": "Out of the country’s 104.6 million residential properties, 259,666 were in the foreclosure process in the third quarter of 2026. About 3.3 percent of those, or 8,482 properties, were “zombies,” meaning the owners had abandoned the properties before the end of their foreclosure proceedings. Overall: 1.3 percent of residential properties in the United States were vacant in the third quarter of the year. That was the same rate as the previous quarter as well as the third quarter of 2025. The states with the highest overall home vacancy rates in the third quarter were Oklahoma (2.4 percent); the lowest vacancy rates were in New Hampshire (0.3 percent)."
+          "quote": "Out of the country\u2019s 104.6 million residential properties, 259,666 were in the foreclosure process in the third quarter of 2026. About 3.3 percent of those, or 8,482 properties, were \u201czombies,\u201d meaning the owners had abandoned the properties before the end of their foreclosure proceedings. Overall: 1.3 percent of residential properties in the United States were vacant in the third quarter of the year. That was the same rate as the previous quarter as well as the third quarter of 2025. The states with the highest overall home vacancy rates in the third quarter were Oklahoma (2.4 percent); the lowest vacancy rates were in New Hampshire (0.3 percent)."
         }
       ],
       "derived": [
@@ -1194,8 +1194,8 @@
           "calc": "illustrative term"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6af5c3cd8c721512231e7bda"
     },
     {
       "channel": "fb",
@@ -1241,8 +1241,8 @@
           "calc": "list numbering of checklist items, not data"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6af5c3cec156c826aef93b55"
     },
     {
       "channel": "fb",
@@ -1269,8 +1269,8 @@
         }
       ],
       "derived": [],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6af5c3cfe7d7941c3fa32899"
     },
     {
       "channel": "fb",
@@ -1333,8 +1333,8 @@
           "calc": "illustrative"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6af5c3cfc156c826aef93bbd"
     },
     {
       "channel": "fb",
