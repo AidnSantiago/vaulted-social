@@ -96,6 +96,8 @@ M = {
     "Illustrative figures only: $120,000 budget, 45% verified = $54,000. Feature live Nov 15, 2026.", 905),
  "A-draws-light": ("light", draws, "NEW IN VAULTED", "DRAWS, EXPLAINED", "Fund only the work", "that is in place", "A request is not a verified percentage complete",
     "Illustrative figures only: $120,000 budget, 45% verified = $54,000. Feature live Nov 15, 2026.", 905),
+ "B-reserve-light": ("light", reserve, "LENDER BASICS + VAULTED", "INTEREST RESERVES", "How many months", "does the reserve cover?", "A worked example, then where it lives in Vaulted",
+    "Illustrative figures only. Arithmetic: 18,000 / 2,400 = 7.5. Definitions vary by loan agreement.", 905),
  "B-reserve-dark": ("dark", reserve, "LENDER BASICS + VAULTED", "INTEREST RESERVES", "How many months", "does the reserve cover?", "A worked example, then where it lives in Vaulted",
     "Illustrative figures only. Arithmetic: 18,000 / 2,400 = 7.5. Definitions vary by loan agreement.", 905),
  "C-clear-dark": ("dark", clear, "INSIDE VAULTED", "CLOSING CONDITIONS", "Clear to close,", "tracked in one place", "From checklist to closing, with borrower documents in the loan",
