@@ -28,8 +28,8 @@
      "calc": "track*3/15 and track*13/15 on a 15 percent axis (graphic only)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44a960a910801c56bdd9"
   },
   {
    "channel": "li",
@@ -68,8 +68,8 @@
      "calc": "quoted from Preqin; no computation"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44bd8e87c256a39ca27e"
   },
   {
    "channel": "fb",
@@ -89,8 +89,8 @@
     }
    ],
    "derived": [],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44a960a910801c56be17"
   },
   {
    "channel": "fb",
@@ -134,8 +134,8 @@
      "calc": "320000*0.10 = 32000"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44aad7e5fee6388a57a5"
   },
   {
    "channel": "fb",
@@ -193,8 +193,8 @@
      "calc": "2623.55 - 2398.76 = 224.79"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44ab06e1675856b367e2"
   },
   {
    "channel": "li",
@@ -253,8 +253,8 @@
      "calc": "20-8 = 12"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44bea869c35e5ba48a90"
   },
   {
    "channel": "fb",
@@ -290,8 +290,8 @@
      "calc": "illustrative scenario, not computed"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44ab06e1675856b36809"
   },
   {
    "channel": "fb",
@@ -345,8 +345,8 @@
      "calc": "175000 - 140000 = 35000, before fees and closing costs"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44ac06e1675856b36830"
   },
   {
    "channel": "fb",
@@ -389,8 +389,8 @@
      "calc": "1288000-1221000 = 67000"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44acd7e5fee6388a5876"
   },
   {
    "channel": "fb",
@@ -415,8 +415,8 @@
      "calc": "illustrative, written by us; no numbers"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44ad60a910801c56be6e"
   },
   {
    "channel": "li",
@@ -452,8 +452,8 @@
      "calc": "len(['states','loan types','amount range','max LTV/LTC','minimum experience']) = 5"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44bed7e5fee6388a5d33"
   },
   {
    "channel": "fb",
@@ -503,8 +503,8 @@
      "calc": "IRS form number, named in the Form 1098 instructions page title"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44aea869c35e5ba485d3"
   },
   {
    "channel": "fb",
@@ -552,8 +552,8 @@
      "calc": "20_000_000*0.0160 = 320000"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44aea869c35e5ba48620"
   },
   {
    "channel": "fb",
@@ -587,7 +587,7 @@
     }
    ],
    "derived": [],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -634,8 +634,8 @@
      "calc": "count of items listed: note, allonge, mortgage details, assignments, payment history, insurance = 6"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44bf60a910801c56c32d"
   },
   {
    "channel": "fb",
@@ -681,7 +681,7 @@
      "calc": "illustrative scenario; a daughter is a lineal descendant under the IRS list"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -726,7 +726,7 @@
      "calc": "340000-315000 = 25000"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -780,7 +780,7 @@
      "calc": "schematic placeholder rows in graphic, illustrative, no values shown"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -832,8 +832,8 @@
      "calc": "6128/15865 = 0.386"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afa44c08e87c256a39ca2fe"
   },
   {
    "channel": "fb",
@@ -893,7 +893,7 @@
      "calc": "none; page undated for Note Servicing Center, accessed 2026-11-15"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -946,7 +946,7 @@
      "calc": "400000-300000 = 100000"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -983,7 +983,7 @@
      "calc": "illustrative reinstatement quote (arrears plus fees and costs), from assignment"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1018,7 +1018,7 @@
     }
    ],
    "derived": [],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1066,7 +1066,7 @@
      "calc": "0.5*7000 = 3500.0"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1099,7 +1099,7 @@
      "calc": "post uses no numbers beyond schedule names; Part I/II labels from sources"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1173,7 +1173,7 @@
      "calc": "months in a year; one twelfth per Nolo"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   }
  ]
