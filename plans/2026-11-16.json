@@ -52,7 +52,7 @@
      "publisher": "ACA Global",
      "url": "https://www.acaglobal.com/?p=7282",
      "date": "2025-01-31",
-     "quote": "Total fund LP cash flow details \u2013 including date, amount, and description for impacts to net"
+     "quote": "Total fund LP cash flow details – including date, amount, and description for impacts to net"
     },
     {
      "title": "Loan Quality Report Jun 2026",
@@ -106,7 +106,7 @@
      "publisher": "Park Place Finance",
      "url": "https://parkplacefinance.com/?p=7743",
      "date": "2026-05-14",
-     "quote": "The underwriting is more involved because the lender is financing its creation; there's no collateral yet. | Funds are released in draws tied to construction milestones and verified by lender inspections. | Typical timeline | 3\u20139 months | 12\u201324 months | construction budgets are harder to lock than renovation budgets"
+     "quote": "The underwriting is more involved because the lender is financing its creation; there's no collateral yet. | Funds are released in draws tied to construction milestones and verified by lender inspections. | Typical timeline | 3–9 months | 12–24 months | construction budgets are harder to lock than renovation budgets"
     },
     {
      "title": "New Construction Loans for Investors: Draws, Terms & What to Expect",
@@ -369,14 +369,14 @@
      "publisher": "U.S. Census Bureau",
      "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
      "date": "2026-10-20",
-     "quote": "Single-family housing starts in September were at a rate of 859,000; this is 4.6 percent (\u00b110.0 percent)* below the revised August figure of 900,000."
+     "quote": "Single-family housing starts in September were at a rate of 859,000; this is 4.6 percent (±10.0 percent)* below the revised August figure of 900,000."
     },
     {
      "title": "New Residential Construction, current release (FOR IMMEDIATE RELEASE: Tuesday, October 20, 2026)",
      "publisher": "U.S. Census Bureau",
      "url": "https://www.census.gov/construction/nrc/current/",
      "date": "2026-10-20",
-     "quote": "Housing starts: 1,221,000 units (seasonally adjusted annual rate), 5.2 percent (\u00b111.8 percent)* below the revised August estimate of 1,288,000 and 7.4 percent (\u00b111.5 percent)* below September 2025's 1,319,000. Building permits: 1,400,000 units."
+     "quote": "Housing starts: 1,221,000 units (seasonally adjusted annual rate), 5.2 percent (±11.8 percent)* below the revised August estimate of 1,288,000 and 7.4 percent (±11.5 percent)* below September 2025's 1,319,000. Building permits: 1,400,000 units."
     }
    ],
    "derived": [
@@ -587,8 +587,8 @@
     }
    ],
    "derived": [],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6afb09c272786171b221e0c7"
   },
   {
    "channel": "li",
@@ -797,14 +797,14 @@
      "publisher": "American Association of Private Lenders (data: Forecasa)",
      "url": "https://aaplonline.com/articles/market-trends/from-new-frontier-to-established-markets",
      "date": "2026-10-28",
-     "quote": "Forecasa identified 15,865 active private lenders in 2025, a 14.5% increase over 2024\u2019s 13,860."
+     "quote": "Forecasa identified 15,865 active private lenders in 2025, a 14.5% increase over 2024’s 13,860."
     },
     {
      "title": "From New Frontier to Established Markets",
      "publisher": "American Association of Private Lenders (data: Forecasa)",
      "url": "https://aaplonline.com/articles/market-trends/from-new-frontier-to-established-markets",
      "date": "2026-10-28",
-     "quote": "6,128 lenders that originated in 2025 had not originated in 2024, representing 39% of the year\u2019s active originator base."
+     "quote": "6,128 lenders that originated in 2025 had not originated in 2024, representing 39% of the year’s active originator base."
     },
     {
      "title": "From New Frontier to Established Markets",
@@ -877,7 +877,7 @@
      "publisher": "Note Servicing Center",
      "url": "https://noteservicingcenter.com/hard-money-lending-your-essential-due-diligence-checklist-for-safe-investments/",
      "date": "2026-11-15",
-     "quote": "Confirm no IRS tax liens, mechanics\u2019 liens, or HOA super-liens are attached"
+     "quote": "Confirm no IRS tax liens, mechanics’ liens, or HOA super-liens are attached"
     },
     {
      "title": "Hard Money Lending: Your Essential Due Diligence Checklist",
@@ -1007,7 +1007,7 @@
      "publisher": "ALTA Land Survey",
      "url": "https://altalandsurvey.com/what-happens-if-an-alta-survey-reveals-an-encroachment/",
      "date": "2026-06-05",
-     "quote": "An encroachment happens when a structure or improvement crosses a property line without legal authorization. Standard title insurance policies exclude matters that a correct survey would reveal. Once an ALTA survey flags an encroachment, the title company lists it as a specific exception. If a building they fund sits partially on a neighbor\u2019s land, their security interest is compromised."
+     "quote": "An encroachment happens when a structure or improvement crosses a property line without legal authorization. Standard title insurance policies exclude matters that a correct survey would reveal. Once an ALTA survey flags an encroachment, the title company lists it as a specific exception. If a building they fund sits partially on a neighbor’s land, their security interest is compromised."
     },
     {
      "title": "Title Policy May not Cover Boundary Disputes",
@@ -1090,7 +1090,7 @@
      "publisher": "American Land Title Association (form hosted by Stewart)",
      "url": "https://assets.stewart.com/en/forms/2021-7/alta-commitment-7-1-21.html",
      "date": "2021-08-10",
-     "quote": "Any defect, lien, encumbrance, adverse claim, or other matter that appears for the first time in the Public Records or is created, attaches, or is disclosed between the Commitment Date and the date on which all of the Schedule B, Part I\u2014Requirements are met."
+     "quote": "Any defect, lien, encumbrance, adverse claim, or other matter that appears for the first time in the Public Records or is created, attaches, or is disclosed between the Commitment Date and the date on which all of the Schedule B, Part I—Requirements are met."
     }
    ],
    "derived": [
