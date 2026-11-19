@@ -983,8 +983,8 @@
           "calc": "illustrative reinstatement quote (arrears plus fees and costs), from assignment"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6afefe27abf4ba608b7671ae"
     },
     {
       "channel": "fb",
@@ -1018,8 +1018,8 @@
         }
       ],
       "derived": [],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6afefe28443a2a9f2fc32064"
     },
     {
       "channel": "fb",
@@ -1066,8 +1066,8 @@
           "calc": "0.5*7000 = 3500.0"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6afefe29fd08883b646c413e"
     },
     {
       "channel": "fb",
@@ -1099,8 +1099,8 @@
           "calc": "post uses no numbers beyond schedule names; Part I/II labels from sources"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6afefe29cac0791c5d8c4e63"
     },
     {
       "channel": "fb",
