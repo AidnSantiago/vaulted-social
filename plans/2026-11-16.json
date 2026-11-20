@@ -1,1180 +1,1180 @@
 {
-  "week_start": "2026-11-16",
-  "posts": [
+ "week_start": "2026-11-16",
+ "posts": [
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-16T08:42:00-05:00",
+   "topic": "attom-zombie-foreclosure-q4-2026",
+   "kind": "data",
+   "text": "A national zombie foreclosure rate of 3 percent sounds small. ATTOM's Q4 2026 report found 8,040 abandoned properties among the 269,195 in the foreclosure process.\n\nNow look local. Zombie properties rose from the prior quarter in 29 states, including Pennsylvania (up 17.2 percent to 252) and Maryland (up 19.2 percent to 180). Baltimore had the highest metro zombie rate, at 13 percent.\n\nLenders can check vacancy and abandonment for the county or metro where the collateral sits, not just the national figure. A 3 percent average can hide a 13 percent market.\n\nvaultedonline.com",
+   "alt": "Light graphic titled Zombie foreclosures: 3 percent, or 13 percent. Two bars compare the U.S. share of foreclosures that are zombies, 3 percent, with Baltimore, 13 percent. Cards: up in 29 states, Pennsylvania up 17.2 percent to 252, Maryland up 19.2 percent to 180.",
+   "image": "images/2026-11-16/0842-fb-attom-zombie-q4.png",
+   "sources": [
     {
-      "channel": "fb",
-      "slot_local": "2026-11-16T08:42:00-05:00",
-      "topic": "attom-zombie-foreclosure-q4-2026",
-      "kind": "data",
-      "text": "A national zombie foreclosure rate of 3 percent sounds small. ATTOM's Q4 2026 report found 8,040 abandoned properties among the 269,195 in the foreclosure process.\n\nNow look local. Zombie properties rose from the prior quarter in 29 states, including Pennsylvania (up 17.2 percent to 252) and Maryland (up 19.2 percent to 180). Baltimore had the highest metro zombie rate, at 13 percent.\n\nLenders can check vacancy and abandonment for the county or metro where the collateral sits, not just the national figure. A 3 percent average can hide a 13 percent market.\n\nvaultedonline.com",
-      "alt": "Light graphic titled Zombie foreclosures: 3 percent, or 13 percent. Two bars compare the U.S. share of foreclosures that are zombies, 3 percent, with Baltimore, 13 percent. Cards: up in 29 states, Pennsylvania up 17.2 percent to 252, Maryland up 19.2 percent to 180.",
-      "image": "images/2026-11-16/0842-fb-attom-zombie-q4.png",
-      "sources": [
-        {
-          "title": "Q4 2026 Vacant Property and Zombie Foreclosure Report",
-          "publisher": "ATTOM",
-          "url": "https://www.attomdata.com/news/market-trends/foreclosures/q4-2026-vacancy-and-zombie-foreclosure-report/",
-          "date": "2026-10-29",
-          "quote": "There were 269,195 properties in the foreclosure process in the fourth quarter, out of 105.1 million total properties. Of those properties in foreclosure, 3 percent, or 8,040 properties, ... The number of zombie properties rose quarter-over-quarter in 29 states. ... Pennsylvania (up 17.2 percent to 252 zombie properties) ... Maryland (up 19.2 percent to 180 zombie properties) ... The metro areas with the highest zombie rates were Baltimore, MD (13 percent)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "3 percent",
-          "calc": "8040/269195*100 = 2.99, matches ATTOM's stated 3 percent"
-        },
-        {
-          "figure": "bar widths",
-          "calc": "track*3/15 and track*13/15 on a 15 percent axis (graphic only)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44a960a910801c56bdd9"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-16T11:34:00-05:00",
-      "topic": "investor-reporting",
-      "kind": "evergreen",
-      "text": "What does a fund investor want to see each month? No single rule answers that, but two public examples show what reports can include.\n\nThe ILPA template, built for private equity funds, asks for fee and expense detail, cash flows and fund level performance. The update asks for 22 partnership expenses, up from nine.\n\nA community loan fund reports Current, 31 to 60, 61 to 90 and over 90 days past due, plus non-accrual and impaired shares.\n\nA lender fund can build its own report from similar pieces: cash flows, fees, aging and non-accrual.",
-      "alt": "Two cards compare public investor reports. The ILPA template for private equity funds lists fee and expense detail, cash flows, net IRR and TVPI, and 22 partnership expenses, up from nine. A community loan fund report lists Current, 31-60, 61-90 and over 90 days past due, plus non-accrual and impaired shares.",
-      "image": "images/2026-11-16/1134-li-investor-reporting.png",
-      "sources": [
-        {
-          "title": "ILPA updates reporting guidelines to improve transparency",
-          "publisher": "Preqin",
-          "url": "https://www.preqin.com/news/ilpa-updates-reporting-guidelines-to-improve-transparency",
-          "date": "2025-01-23",
-          "quote": "In total, GPs will have to report on 22 partnership expenses, up from nine."
-        },
-        {
-          "title": "ILPA's Revised Reporting Template for the Private Equity Industry",
-          "publisher": "ACA Global",
-          "url": "https://www.acaglobal.com/?p=7282",
-          "date": "2025-01-31",
-          "quote": "Total fund LP cash flow details – including date, amount, and description for impacts to net"
-        },
-        {
-          "title": "Loan Quality Report Jun 2026",
-          "publisher": "Community Loan Fund",
-          "url": "https://files.communityloanfund.org/uploads/Investor-Hub-Files/Loan-Quality-Report-Jun-2026.pdf",
-          "date": "2026-06-30",
-          "quote": "Current; 31-60 days past due; 61-90 days past due; >90 days past due; Non-Accrual % of total Portfolio; Impaired % of total Portfolio (row and column labels, As of 6/30/2026)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "22 and nine",
-          "calc": "quoted from Preqin; no computation"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44bd8e87c256a39ca27e"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-16T12:47:00-05:00",
-      "topic": "vaulted-document-requests",
-      "kind": "product",
-      "text": "How many emails does it take to collect one borrower document?\n\nIn Vaulted, the lender opens \"Documents from the borrower\" on the loan page. One click asks for the standard set for the loan type, or the lender adds their own request with a note and due date.\n\nThe borrower sees \"Documents for your lender\" in the portal, with an upload button on each request.\n\nThe lender can download a file, Accept it, or Ask again with a note. Review notes are shown on the request, and emails are sent both ways.\n\nvaultedonline.com",
-      "alt": "Four step cards: lender asks for the standard set or custom documents with a note and due date, borrower uploads in the portal, lender downloads, accepts or asks again with a note, borrower reads review notes on the request. Emails go both ways.",
-      "image": "images/2026-11-16/1247-fb-vaulted-document-requests.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Lender: \"Documents from the borrower\" on the loan page. One click asks for the standard set for the loan type, or the lender adds their own with a note and due date. The lender can download, Accept, or Ask again with a note, and can also attach a file. Borrower: \"Documents for your lender\" in the portal. An upload button on each request. Review notes are shown on the request. Emails: sent both ways."
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6afa44a960a910801c56be17"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-16T17:27:00-05:00",
-      "topic": "new-construction-vs-rehab-loan",
-      "kind": "evergreen",
-      "text": "A rehab loan funds work on a house that already exists. A ground-up loan funds a house that does not exist yet, so the lender is financing something that is not built yet.\n\nDraws are tied to building milestones and lender inspections, and the clock is longer: 3 to 9 months for a flip versus 12 to 24 for a build, per one lender guide.\n\nOverruns scale. A 10 percent overrun is $8,500 on an $85,000 rehab and $32,000 on a $320,000 build (illustrative).\n\nOverruns often fall on the borrower unless a contingency is built in, per one guide.\n\nvaultedonline.com",
-      "alt": "Two comparison cards. Rehab loan, $85,000 budget: finances work on an existing house, 3 to 9 months, a 10 percent overrun is $8,500. Ground-up loan, $320,000 budget: finances a house that does not exist yet, 12 to 24 months, a 10 percent overrun is $32,000.",
-      "image": "images/2026-11-16/1727-fb-new-construction-vs-rehab-loan.png",
-      "sources": [
-        {
-          "title": "Ground-Up Construction vs Fix-and-Flip: Which Is More Profitable?",
-          "publisher": "Park Place Finance",
-          "url": "https://parkplacefinance.com/?p=7743",
-          "date": "2026-05-14",
-          "quote": "The underwriting is more involved because the lender is financing its creation; there's no collateral yet. | Funds are released in draws tied to construction milestones and verified by lender inspections. | Typical timeline | 3–9 months | 12–24 months | construction budgets are harder to lock than renovation budgets"
-        },
-        {
-          "title": "New Construction Loans for Investors: Draws, Terms & What to Expect",
-          "publisher": "Flipper Force",
-          "url": "https://flipperforce.com/how-to-flip-houses/chapter-3-getting-funding-for-your-flip-projects/new-construction-loans-explained",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "it's more structured than a rehab loan's draws because it's tied to defined building milestones. | overruns often come out of your own pocket unless you've built in a contingency."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$85,000 and $320,000",
-          "calc": "illustrative budgets chosen"
-        },
-        {
-          "figure": "10 percent overrun",
-          "calc": "illustrative assumption"
-        },
-        {
-          "figure": "$8,500",
-          "calc": "85000*0.10 = 8500"
-        },
-        {
-          "figure": "$32,000",
-          "calc": "320000*0.10 = 32000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44aad7e5fee6388a57a5"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-17T09:15:00-05:00",
-      "topic": "pmms-nov12-2026",
-      "kind": "data",
-      "text": "Freddie Mac says the 30-year fixed rate averaged 7.11 percent as of November 12, 2026, down from 7.18 percent last week. A year ago it was 6.24 percent.\n\nOn an illustrative $390,000 balance over 30 years, principal and interest is about $2,624 a month at 7.11 percent and $2,399 at 6.24 percent. That is about $225 more every month.\n\nThe survey covers owner-occupied home purchase loans, so investor rates differ and vary by lender. Lenders can still re-run a refinance exit payment at a current rate instead of the closing-day rate.\n\nvaultedonline.com",
-      "alt": "Bar chart of monthly principal and interest on an illustrative $390,000, 30-year loan: $2,399 at 6.24 percent a year ago versus $2,624 at 7.11 percent as of November 12, 2026, about $225 more a month. Freddie Mac survey covers owner-occupied purchases.",
-      "image": "images/2026-11-17/0915-fb-pmms-nov12-2026.png",
-      "sources": [
-        {
-          "title": "Mortgage Rates (PMMS)",
-          "publisher": "Freddie Mac",
-          "url": "https://www.freddiemac.com/pmms",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "The 30-year fixed-rate mortgage averaged 7.11% as of November 12, 2026, down from last week when it averaged 7.18%."
-        },
-        {
-          "title": "Mortgage Rates (PMMS), year-ago",
-          "publisher": "Freddie Mac",
-          "url": "https://www.freddiemac.com/pmms",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "A year ago at this time, the 30-year FRM averaged 6.24%."
-        },
-        {
-          "title": "Mortgage Rates (PMMS), survey scope",
-          "publisher": "Freddie Mac",
-          "url": "https://www.freddiemac.com/pmms",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "home purchase loans on owner occupied 1-unit single-family properties"
-        },
-        {
-          "title": "30-Year Fixed Rate Mortgage Average in the United States (MORTGAGE30US)",
-          "publisher": "Federal Reserve Bank of St. Louis (FRED)",
-          "url": "https://fred.stlouisfed.org/series/mortgage30us",
-          "date": "2026-11-12",
-          "quote": "2026-11-12: 7.11; 2026-11-05: 7.18"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$390,000 loan, 30 years",
-          "calc": "illustrative input chosen by author"
-        },
-        {
-          "figure": "$2,399",
-          "calc": "pm(390000,6.24) = 2398.76"
-        },
-        {
-          "figure": "$2,624",
-          "calc": "pm(390000,7.11) = 2623.55"
-        },
-        {
-          "figure": "$225",
-          "calc": "2623.55 - 2398.76 = 224.79"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44ab06e1675856b367e2"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-17T10:21:00-05:00",
-      "topic": "catastrophe-exposure",
-      "kind": "evergreen",
-      "text": "Twenty loans can look diversified and still be one bet.\n\nPicture 20 loans of $300,000 each, an illustrative book. If 8 sit in one flood-prone county, that is $2,400,000 of $6,000,000, or 40 percent of the book, exposed to a single storm.\n\nRegulated lenders may not close a loan on property in a FEMA special flood hazard area without flood coverage. Other lenders may set their own rules. Most homeowners policies do not cover flood, and NFIP policies typically have a 30 day wait.\n\nLenders can map every loan by flood zone and confirm coverage before closing.",
-      "alt": "Grid of 20 illustrative loans of $300,000 each. Eight gold squares sit in one flood-prone county, twelve blue squares elsewhere. Eight loans equal $2,400,000 of $6,000,000, or 40 percent of the book. Two checks: the FEMA flood map and flood coverage.",
-      "image": "images/2026-11-17/1021-li-catastrophe-exposure.png",
-      "sources": [
-        {
-          "title": "What Is My Flood Risk",
-          "publisher": "FEMA FloodSmart (floodsmart.gov)",
-          "url": "https://www.floodsmart.gov/flood-zones-and-maps/what-is-my-flood-risk",
-          "date": "2026-11-15",
-          "quote": "If you own a property in a high-risk zone and have a government-backed mortgage, you must purchase flood insurance. High-risk flood areas begin with the letters A or V on FEMA flood maps. They are also known as special flood hazard areas (SFHAs). (page undated, accessed 2026-11-15)"
-        },
-        {
-          "title": "Flood Insurance 101",
-          "publisher": "FEMA FloodSmart for agents (agents.floodsmart.gov)",
-          "url": "https://agents.floodsmart.gov/topics/flood-insurance-101",
-          "date": "2026-11-15",
-          "quote": "most homeowners insurance policies do not cover flood damage. Typically, there is a 30-day waiting period between the date of purchase and the effective date. (page undated, accessed 2026-11-15)"
-        },
-        {
-          "title": "V-6 Flood Disaster Protection Act",
-          "publisher": "FDIC Consumer Compliance Examination Manual",
-          "url": "https://www.fdic.gov/consumer-compliance-examination-manual/v-6-flood-disaster-protection-act",
-          "date": "2023-11-01",
-          "quote": "a regulated lending institution may not make, increase, extend, or renew any loan secured by improved real property. (Chapter last updated November 2023; coverage required where property is located or will be located in an SFHA as identified by FEMA.)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "20 loans, $300,000 each (illustrative)",
-          "calc": "illustrative input"
-        },
-        {
-          "figure": "8 loans in one county (illustrative)",
-          "calc": "illustrative input"
-        },
-        {
-          "figure": "$6,000,000",
-          "calc": "20*300000 = 6000000"
-        },
-        {
-          "figure": "$2,400,000",
-          "calc": "8*300000 = 2400000"
-        },
-        {
-          "figure": "40 percent",
-          "calc": "2400000/6000000*100 = 40.0"
-        },
-        {
-          "figure": "12 loans elsewhere (graphic)",
-          "calc": "20-8 = 12"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44bea869c35e5ba48a90"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-17T12:47:00-05:00",
-      "topic": "vaulted-closing-conditions",
-      "kind": "product",
-      "text": "Picture a $275,000 loan set to fund Friday. Then someone asks: did the insurance binder ever come in?\n\nClosing conditions are items a lender wants satisfied before funding. A written checklist can name each item and one owner, so nobody assumes someone else has it.\n\nIn Vaulted, each loan has a checklist with an owner for each item. Moving a loan's stage past an open blocking condition is stopped with a list of what's open, and the lender can choose \"Move anyway\".\n\nAn item with no owner is an item no one is watching.\n\nvaultedonline.com",
-      "alt": "Illustrative closing checklist for a $275,000 loan listing three conditions, each with an owner: title commitment (title company, done), insurance binder (processor, open), payoff letter (borrower, done). Below, text on Vaulted's per-loan checklist and the blocking condition stop.",
-      "image": "images/2026-11-17/1247-fb-vaulted-closing-conditions.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "A per-loan checklist with an owner for each item. A template can be saved for all loans."
-        },
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Moving a loan's stage past an open blocking condition is stopped with a list of what's open, and the lender can choose \"Move anyway\"."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$275,000",
-          "calc": "illustrative loan amount chosen from assignment, no computation"
-        },
-        {
-          "figure": "Friday / three conditions and owners",
-          "calc": "illustrative scenario, not computed"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44ab06e1675856b36809"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-17T17:27:00-05:00",
-      "topic": "transactional-funding",
-      "kind": "evergreen",
-      "text": "A wholesaler has a contract to buy a house for $140,000 and an end buyer lined up at $175,000. The first purchase needs cash before the resale pays anything.\n\nA transactional loan can bridge that gap. Illustrative flow:\n\n1. The lender funds the $140,000 purchase.\n2. The investor resells to the end buyer for $175,000.\n3. Sale proceeds repay the lender, $140,000 plus its fees.\n4. The remaining $35,000, before fees and closing costs, is the investor's.\n\nRepayment can come the same day, and one source says within a week at most. The resale is the repayment source.\n\nvaultedonline.com",
-      "alt": "Four step cards: lender funds a $140,000 purchase, investor resells for $175,000, lender is repaid $140,000 plus fees from the proceeds, investor keeps about $35,000 before fees. A bar splits the $175,000 resale into $140,000 and $35,000.",
-      "image": "images/2026-11-17/1727-fb-transactional-funding.png",
-      "sources": [
-        {
-          "title": "Transactional Funding Explained",
-          "publisher": "NewSilver",
-          "url": "https://newsilver.com/the-lender/transactional-funding/",
-          "date": "2024-04-30",
-          "quote": "The investor then turns around and sells the home to the new buyer and then uses the funds to repay the transactional lender."
-        },
-        {
-          "title": "Transactional Funding Explained",
-          "publisher": "NewSilver",
-          "url": "https://newsilver.com/the-lender/transactional-funding/",
-          "date": "2024-04-30",
-          "quote": "In some cases, it may be repaid the same day or, at most, within a week."
-        },
-        {
-          "title": "Transactional Funding (Extended)",
-          "publisher": "DKC Lending",
-          "url": "https://dkclending.com/?p=3505",
-          "date": "2022-11-02",
-          "quote": "Generally, it is borrowed and repaid the same day but sometimes up to a week."
-        },
-        {
-          "title": "Transactional Funding (Extended)",
-          "publisher": "DKC Lending",
-          "url": "https://dkclending.com/?p=3505",
-          "date": "2022-11-02",
-          "quote": "the sale profits from the end buyer are used to repay the transactional funding loan."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$140,000",
-          "calc": "illustrative purchase price (assigned)"
-        },
-        {
-          "figure": "$175,000",
-          "calc": "illustrative resale price (assigned)"
-        },
-        {
-          "figure": "$35,000",
-          "calc": "175000 - 140000 = 35000, before fees and closing costs"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44ac06e1675856b36830"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-18T08:56:00-05:00",
-      "topic": "census-starts-sep-2026",
-      "kind": "data",
-      "text": "Builders started homes at a seasonally adjusted annual rate of 1,221,000 in September, down 5.2 percent from August, a change within the survey's margin of error (U.S. Census Bureau, released October 20, 2026).\n\nSingle-family starts were 859,000, down 4.6 percent. Permits were 1,400,000, which is 179,000 above total starts.\n\nWhy it matters to a lender: starts hint at how much new supply may reach the market later. A construction borrower planning to sell may compete with that supply, and national figures can differ from a local market.\n\nLenders can pair this with local permit data when underwriting the exit.\n\nvaultedonline.com",
-      "alt": "Bar chart of U.S. housing starts, seasonally adjusted annual rate: 1,319,000 in September 2025, 1,288,000 in August 2026 and 1,221,000 in September 2026, with cards for single-family starts 859,000, permits 1,400,000 and a 5.2 percent monthly drop. Source: U.S. Census Bureau.",
-      "image": "images/2026-11-18/0856-fb-census-starts-sep-2026.png",
-      "sources": [
-        {
-          "title": "New Residential Construction, September 2026 (PDF)",
-          "publisher": "U.S. Census Bureau",
-          "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
-          "date": "2026-10-20",
-          "quote": "Privately-owned housing starts in September were at a seasonally adjusted annual rate of 1,221,000."
-        },
-        {
-          "title": "New Residential Construction, September 2026 (PDF)",
-          "publisher": "U.S. Census Bureau",
-          "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
-          "date": "2026-10-20",
-          "quote": "Single-family housing starts in September were at a rate of 859,000; this is 4.6 percent (±10.0 percent)* below the revised August figure of 900,000."
-        },
-        {
-          "title": "New Residential Construction, current release (FOR IMMEDIATE RELEASE: Tuesday, October 20, 2026)",
-          "publisher": "U.S. Census Bureau",
-          "url": "https://www.census.gov/construction/nrc/current/",
-          "date": "2026-10-20",
-          "quote": "Housing starts: 1,221,000 units (seasonally adjusted annual rate), 5.2 percent (±11.8 percent)* below the revised August estimate of 1,288,000 and 7.4 percent (±11.5 percent)* below September 2025's 1,319,000. Building permits: 1,400,000 units."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "179,000",
-          "calc": "1400000-1221000 = 179000"
-        },
-        {
-          "figure": "67,000",
-          "calc": "1288000-1221000 = 67000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44acd7e5fee6388a5876"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-18T12:47:00-05:00",
-      "topic": "vaulted-internal-loan-notes",
-      "kind": "product",
-      "text": "Months after a call, who remembers what the borrower promised?\n\nServicing context piles up fast. A call about a late payment, a promise to send a renewed insurance policy, a concern about the contractor. If it lives in one person's inbox or memory, the next person who handles the loan starts blind.\n\nVaulted has team-only notes on each loan. A boundary test proves that no borrower or investor code reads them.\n\nLenders can keep that context with the loan, not with whoever took the call.\n\nvaultedonline.com",
-      "alt": "Vaulted graphic titled Servicing context, kept with the loan. A loan page Notes panel marked Team only shows three illustrative notes: a call, a promise and a concern. A panel reads: team-only notes on each loan.",
-      "image": "images/2026-11-18/1247-fb-vaulted-internal-loan-notes.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Team-only notes on each loan. A boundary test proves that no borrower or investor code reads them."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "example notes (call, promise, concern)",
-          "calc": "illustrative, written by us; no numbers"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44ad60a910801c56be6e"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-18T17:09:00-05:00",
-      "topic": "vaulted-lending-guidelines",
-      "kind": "product",
-      "text": "Two inquiries arrive on the same morning. One gets a fast yes because the deal looks familiar. The other gets a slow no because the day was long. Without written criteria, the answer can depend on the day.\n\nIn Vaulted, the owner sets states, loan types, amount range, max LTV or LTC and minimum experience in Settings. Each inquiry card then shows a pass or fail screen against them, and the inquiry email includes a one line verdict.\n\nWrite the criteria down once, and every inquiry gets measured against the same lines.",
-      "alt": "Two cards joined by an arrow. Left, Settings lists states, loan types, amount range, max LTV or LTC and minimum experience. Right, an inquiry card shows a pass or fail line for each of the same five criteria, with a note that the inquiry email has a one line verdict.",
-      "image": "images/2026-11-18/1709-li-vaulted-lending-guidelines.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "The owner sets states, loan types, amount range, max LTV/LTC and minimum experience in Settings."
-        },
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Each inquiry card shows a pass/fail screen against them, and the inquiry email includes a one-line verdict."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "two inquiries",
-          "calc": "illustrative scenario, no data"
-        },
-        {
-          "figure": "five criteria",
-          "calc": "len(['states','loan types','amount range','max LTV/LTC','minimum experience']) = 5"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44bed7e5fee6388a5d33"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-18T17:27:00-05:00",
-      "topic": "tax-forms-interest",
-      "kind": "evergreen",
-      "text": "You received $12,000 in interest on private loans this year. Which IRS forms may be involved?\n\nThree to know. Form 1099-INT: reports interest a business pays you, at $600 or more. Form 1098: filed by someone in a trade or business who receives $600 or more of mortgage interest from an individual. Schedule B: required with over $1,500 of taxable interest or ordinary dividends, among other cases.\n\nThe IRS says you must report all interest even without a 1099-INT.\n\nWhich forms apply varies. Ask your accountant. This is education, not tax advice.\n\nvaultedonline.com",
-      "alt": "Graphic titled Interest received? Three IRS forms to know. Illustrative $12,000 of interest. Cards: Form 1099-INT at $600 or more from a business, Form 1098 at $600 or more of mortgage interest, Schedule B over $1,500. Report interest either way; ask your accountant.",
-      "image": "images/2026-11-18/1727-fb-tax-forms-interest.png",
-      "sources": [
-        {
-          "title": "Topic no. 403, Interest received",
-          "publisher": "IRS (irs.gov)",
-          "url": "https://www.irs.gov/taxtopics/tc403",
-          "date": "2026-10-07",
-          "quote": "Other interest paid to you by a business will be reported to you on Form 1099-INT if it is $600 or more."
-        },
-        {
-          "title": "Instructions for Forms 1099-INT and 1099-OID",
-          "publisher": "IRS (irs.gov)",
-          "url": "https://www.irs.gov/instructions/i1099int",
-          "date": "2026-04-30",
-          "quote": "Also, include interest of $600 or more paid in the course of your trade or business not meeting the above criteria,"
-        },
-        {
-          "title": "Instructions for Form 1098",
-          "publisher": "IRS (irs.gov)",
-          "url": "https://www.irs.gov/instructions/i1098",
-          "date": "2026-04-30",
-          "quote": "File this form if you are engaged in a trade or business and, in the course of such trade or business, you receive from an individual $600 or more of mortgage interest"
-        },
-        {
-          "title": "Publication 550 (2025), Investment Income and Expenses",
-          "publisher": "IRS (irs.gov)",
-          "url": "https://www.irs.gov/publications/p550",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "You had over $1,500 of taxable interest or ordinary dividends. You must report all your interest income even if you do not receive a Form 1099-INT."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$12,000",
-          "calc": "illustrative interest received, chosen by us; 12000 > 1500 and 12000 > 600 is True"
-        },
-        {
-          "figure": "1098",
-          "calc": "IRS form number, named in the Form 1098 instructions page title"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44aea869c35e5ba485d3"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-19T08:25:00-05:00",
-      "topic": "ny-fed-hhdc-q3-2026",
-      "kind": "data",
-      "text": "The New York Fed released its Q3 2026 household debt report on November 10. The flow of mortgage balances into serious delinquency, 90 or more days late, rose from 1.28% a year ago to 1.60%.\n\nThat is 0.32 points, or 25% more. The measure is balances newly 90 days late, divided by balances that were current or under 90 days late the quarter before.\n\nIf a $20,000,000 book moved the same way, 1.28% is $256,000 a year and 1.60% is $320,000. This covers consumer mortgage debt, not private loans, so use it as a backdrop and watch your own aging.\n\nvaultedonline.com",
-      "alt": "Horizontal bar chart of the New York Fed mortgage flow into serious delinquency, 90 or more days late: 1.28% in Q3 2025 and 1.60% in Q3 2026, up 0.32 points or 25%. Illustrative dollars on a $20,000,000 book: $256,000 and $320,000 a year.",
-      "image": "images/2026-11-19/0825-fb-mba-delinquency-q3-2026.png",
-      "sources": [
-        {
-          "title": "Household Debt Increased Moderately; Delinquency Transition Rates Remain Flat",
-          "publisher": "Federal Reserve Bank of New York",
-          "url": "https://www.newyorkfed.org/newsevents/news/research/2026/20261110",
-          "date": "2026-11-10",
-          "quote": "Mortgage Debt | 1.28% | 1.60% (Flow into Serious Delinquency (90 days or more delinquent), Q3 2025 | Q3 2026). Rates represent annualized shares of balances transitioning into delinquency. Flow into serious delinquency is computed as the balances that have newly become at least 90 days late in the reference quarter divided by the balances that were current of less than 90 days past due in the previous quarter."
-        },
-        {
-          "title": "Quarterly Report on Household Debt and Credit, 2026 Q3",
-          "publisher": "Federal Reserve Bank of New York",
-          "url": "https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2026q3.pdf",
-          "date": "2026-11-10",
-          "quote": "For mortgages, the transition rate into serious delinquency worsened but remains modest by historical standards. (Released November 2026; release date per press release Nov 10, 2026)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "0.32 points",
-          "calc": "round(1.60-1.28,2) = 0.32"
-        },
-        {
-          "figure": "25%",
-          "calc": "(1.60/1.28-1)*100 = 25.0"
-        },
-        {
-          "figure": "$20,000,000",
-          "calc": "illustrative book size chosen by author"
-        },
-        {
-          "figure": "$256,000",
-          "calc": "20_000_000*0.0128 = 256000"
-        },
-        {
-          "figure": "$320,000",
-          "calc": "20_000_000*0.0160 = 320000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44aea869c35e5ba48620"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-19T12:47:00-05:00",
-      "topic": "vaulted-year-end-tax-figures",
-      "kind": "product",
-      "text": "Year-end is when an accountant may ask for two lists: interest received on each loan, and distributions paid to each investor.\n\nVaulted has an owner-only Year-end tax page, found under Tools. It shows per-loan interest received, the 1098 figures, and per-investor distributions. There are CSV downloads for the accountant.\n\nIt does not decide which forms are required. That call stays with you and your accountant.\n\nLenders can start gathering both lists before the calendar turns, so nothing is left to piece together in January.\n\nvaultedonline.com",
-      "alt": "Light graphic titled Year-end figures, ready for the accountant. Two cards, per loan interest received (the 1098 figures) and per investor distributions, feed the owner-only Year-end tax page under Tools with CSV downloads. A panel says it does not decide which forms are required.",
-      "image": "images/2026-11-19/1247-fb-vaulted-year-end-tax-figures.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Owner-only `/tax` page (\"Year-end tax\" under Tools)."
-        },
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Per-loan interest received (the 1098 figures) and per-investor distributions."
-        },
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "CSV downloads for the accountant. It doesn't decide which forms are required."
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6afb09c272786171b221e0c7"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-19T15:40:00-05:00",
-      "topic": "note-sale-basics",
-      "kind": "evergreen",
-      "text": "A lender wants to sell a performing loan. What might a buyer want to see in the file?\n\nLoan purchase checklists point to a short list. The original promissory note, not a copy. Any allonge, the instrument that endorses the note to the next holder. The mortgage, with details that match the title policy. Recorded assignments. Payment history. Insurance, and whether coverage is adequate.\n\nA buyer also needs to know if the borrower is in default before taking over.\n\nThis list is not exhaustive. Ask counsel what your deal needs.",
-      "alt": "Six cards listing what a note buyer can review in a loan file: original note, allonge, mortgage details matching the title policy, recorded assignments, payment history, and insurance. A takeaway says sellers can gather these in one package.",
-      "image": "images/2026-11-19/1540-li-note-sale-basics.png",
-      "sources": [
-        {
-          "title": "Loan Purchase Due Diligence Transaction Checklist",
-          "publisher": "hunton.com (Thomson Reuters Practical Law)",
-          "url": "https://hunton.com/media/publication/73121_loan-purchase-due-diligence-transaction-checklist.pdf",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "It is important for the purchaser to take possession of the original promissory note, not a copy."
-        },
-        {
-          "title": "Loan Purchase Due Diligence Transaction Checklist",
-          "publisher": "hunton.com (Thomson Reuters Practical Law)",
-          "url": "https://hunton.com/media/publication/73121_loan-purchase-due-diligence-transaction-checklist.pdf",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "An allonge is an instrument that endorses a promissory note from one note holder to the next. The purchaser should confirm the legal description attached to the mortgage and the recording information for the mortgage exactly match the seller's title policy, and that any assignments of the mortgage (as reflected through any allonges in the file) have been properly recorded."
-        },
-        {
-          "title": "Loan Purchase Due Diligence Transaction Checklist",
-          "publisher": "hunton.com (Thomson Reuters Practical Law)",
-          "url": "https://hunton.com/media/publication/73121_loan-purchase-due-diligence-transaction-checklist.pdf",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "Loan payment history. Insurance policies and whether coverage is adequate"
-        },
-        {
-          "title": "Note Sales Unwrapped",
-          "publisher": "GlobeSt",
-          "url": "https://www.globest.com/amp/2010/10/01/note-sales-unwrapped/",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "Confirming that all the relevant loan documents are included is key. Before you take over, you need to know if the borrower is in default, The loan documents must be transferred properly in writing, through an endorsement on the note or a proper allonge,"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "six items",
-          "calc": "count of items listed: note, allonge, mortgage details, assignments, payment history, insurance = 6"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44bf60a910801c56c32d"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-19T17:27:00-05:00",
-      "topic": "sdira-lending",
-      "kind": "evergreen",
-      "text": "What does federal law say about an IRA lending to the owner's daughter?\n\nFederal law lists \"lending of money or other extension of credit between a plan and a disqualified person\" as a prohibited transaction. The Department of Labor says the term plan includes an IRA. The IRS says disqualified persons include the IRA owner's fiduciary and family: spouse, ancestor, lineal descendant, and any spouse of a lineal descendant.\n\nThe IRS also says a disqualified person who takes part in a prohibited transaction must pay a tax.\n\nGeneral education, not advice. Consult a qualified tax or legal professional first.\n\nvaultedonline.com",
-      "alt": "Diagram: an IRA, which the Department of Labor says is a plan, and a disqualified person (the IRA owner's fiduciary, spouse, ancestor, lineal descendant, spouse of a lineal descendant) joined by a loan or credit arrow marked prohibited, with the IRS tax consequence and a general-education note.",
-      "image": "images/2026-11-19/1727-fb-sdira-lending.png",
-      "sources": [
-        {
-          "title": "26 U.S. Code 4975 - Tax on prohibited transactions",
-          "publisher": "Cornell Legal Information Institute (US Code)",
-          "url": "https://www.law.cornell.edu/uscode/text/26/4975",
-          "date": "2026-11-15",
-          "quote": "lending of money or other extension of credit between a plan and a disqualified person"
-        },
-        {
-          "title": "Retirement topics - Prohibited transactions",
-          "publisher": "IRS",
-          "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-prohibited-transactions",
-          "date": "2026-06-27",
-          "quote": "Disqualified persons include the IRA owner's fiduciary and members of his or her family (spouse, ancestor, lineal descendant, and any spouse of a lineal descendant). If you are a disqualified person who takes part in a prohibited transaction, you must pay a tax."
-        },
-        {
-          "title": "Retirement plan investments FAQs",
-          "publisher": "IRS",
-          "url": "https://www.irs.gov/retirement-plans/retirement-plan-investments-faqs",
-          "date": "2026-04-08",
-          "quote": "Similar rules apply to transactions between an IRA and its owner or beneficiary or between an IRA and a disqualified person."
-        },
-        {
-          "title": "Advisory Opinion 2011-04A",
-          "publisher": "US Department of Labor, EBSA",
-          "url": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/advisory-opinions/2011-04a",
-          "date": "2011-02-03",
-          "quote": "Section 4975(e)(1), in pertinent part, defines the term \"plan\" to include an IRA, described in section 408(a) of the Code."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "daughter example",
-          "calc": "illustrative scenario; a daughter is a lineal descendant under the IRS list"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afc5b222fa84d383f3df610"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-20T08:00:00-05:00",
-      "topic": "balloon-maturity-refi-risk",
-      "kind": "evergreen",
-      "text": "A $340,000 loan comes due in 12 months. The borrower plans to refinance. What if that fails?\n\nThe CFPB defines a balloon payment as \"a large, one-time payment at the end of the loan term,\" and says that if property value or finances decline, the borrower might not be able to refinance.\n\nIllustrative: a new lender refinances up to 75 percent of value. At $480,000, that is $360,000, enough to repay $340,000. If value falls to $420,000, it is $315,000. The gap is $25,000.\n\nLenders can re-check value and the exit plan well before maturity.\n\nvaultedonline.com",
-      "alt": "Two cards compare an illustrative $340,000 balloon due at month 12. At a $480,000 value a 75 percent refinance is $360,000 and covers it. If value falls to $420,000 the refinance is $315,000, leaving a $25,000 gap.",
-      "image": "images/2026-11-20/0800-fb-balloon-maturity-refi-risk.png",
-      "sources": [
-        {
-          "title": "What is a balloon loan?",
-          "publisher": "Consumer Financial Protection Bureau",
-          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-balloon-loan-en-104/",
-          "date": "2026-08-28",
-          "quote": "A balloon payment on a mortgage is a large, one-time payment at the end of the loan term. However, if the value of your property falls, or if your financial condition declines, you might not be able to do so."
-        },
-        {
-          "title": "What Is a Balloon Mortgage?",
-          "publisher": "Experian",
-          "url": "https://www.experian.com/blogs/ask-experian/what-is-balloon-mortgage/",
-          "date": "2025-04-13",
-          "quote": "If you don't have the cash to cover it, you may need to refinance or sell your home to avoid foreclosure."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$340,000 / 12 months / 75 percent / $480,000 / $420,000",
-          "calc": "illustrative inputs chosen by author"
-        },
-        {
-          "figure": "$360,000",
-          "calc": "480000*0.75 = 360000"
-        },
-        {
-          "figure": "$315,000",
-          "calc": "420000*0.75 = 315000"
-        },
-        {
-          "figure": "$25,000",
-          "calc": "340000-315000 = 25000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afc5b23685aa7614ba603ea"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-20T12:47:00-05:00",
-      "topic": "vaulted-term-sheet-new-loan",
-      "kind": "product",
-      "text": "You have a term sheet and need a loan record. How much should the reader fill in for you?\n\nIn Vaulted, the Documents tab has a term sheet reader, and you can start a new loan from a term sheet. The values it finds still arrive unticked. A \"Select all\" checkbox sits beside an \"N of M ticked\" count, so you can see exactly what you have chosen.\n\nThe reader never edits a value. It never turns on \"Use this for all my loans\". It never saves anything.\n\nYou tick, you review, and you save.\n\nvaultedonline.com",
-      "alt": "Graphic titled Term sheet in, you stay in control. A checklist with a Select all checkbox, an N of M ticked count and four unticked rows, beside a card listing what the reader never does: edit a value, turn on Use this for all my loans, save anything.",
-      "image": "images/2026-11-20/1247-fb-vaulted-term-sheet-new-loan.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Start a new loan from a term sheet + new fields (PR #60)."
-        },
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Term sheet reader on the Documents tab (PR #54)."
-        },
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "A \"Select all\" checkbox. ... \"N of M ticked\" count."
-        },
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "What it never does: Edit a value. Turn on \"Use this for all my loans\". Save anything."
-        },
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Values still arrive unticked."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "four checklist rows",
-          "calc": "schematic placeholder rows in graphic, illustrative, no values shown"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afdae0ba509ab209388d42c"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-20T14:00:00-05:00",
-      "topic": "private-lending-market-structure",
-      "kind": "data",
-      "text": "In 2025, Forecasa counted 15,865 active private lenders, up from 13,860 in 2024. Of those, 6,128 had not originated in 2024. That is 39 percent.\n\nMeanwhile the top 10 lenders by unit count captured 24.7 percent of 2025 originations, up from 23.8 percent in 2024. So about 75 percent of originations went to every other lender.\n\nMost volume sits with other lenders, and nearly two in five active lenders are new.\n\nLenders can watch who is entering their market.",
-      "alt": "Two horizontal bars. Top: 15,865 active private lenders in 2025, of which 6,128 new, 39 percent, and 9,737 that also originated in 2024. Bottom: the top 10 lenders captured 24.7 percent of 2025 originations by unit count, 75.3 percent went to all others.",
-      "image": "images/2026-11-20/1400-li-private-lending-market-structure.png",
-      "sources": [
-        {
-          "title": "From New Frontier to Established Markets",
-          "publisher": "American Association of Private Lenders (data: Forecasa)",
-          "url": "https://aaplonline.com/articles/market-trends/from-new-frontier-to-established-markets",
-          "date": "2026-10-28",
-          "quote": "Forecasa identified 15,865 active private lenders in 2025, a 14.5% increase over 2024’s 13,860."
-        },
-        {
-          "title": "From New Frontier to Established Markets",
-          "publisher": "American Association of Private Lenders (data: Forecasa)",
-          "url": "https://aaplonline.com/articles/market-trends/from-new-frontier-to-established-markets",
-          "date": "2026-10-28",
-          "quote": "6,128 lenders that originated in 2025 had not originated in 2024, representing 39% of the year’s active originator base."
-        },
-        {
-          "title": "From New Frontier to Established Markets",
-          "publisher": "American Association of Private Lenders (data: Forecasa)",
-          "url": "https://aaplonline.com/articles/market-trends/from-new-frontier-to-established-markets",
-          "date": "2026-10-28",
-          "quote": "The top 10 private lenders by unit count captured 24.7% of 2025 originations versus 23.8% in 2024"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "9,737",
-          "calc": "15865-6128 = 9737"
-        },
-        {
-          "figure": "39 percent",
-          "calc": "round(6128/15865*100) = 39 (38.6, reported by source as 39)"
-        },
-        {
-          "figure": "75.3 / about 75 percent",
-          "calc": "100-24.7 = 75.3"
-        },
-        {
-          "figure": "nearly two in five",
-          "calc": "6128/15865 = 0.386"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afa44c08e87c256a39ca2fe"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-20T17:27:00-05:00",
-      "topic": "borrower-background-checks-basics",
-      "kind": "evergreen",
-      "text": "A borrower looks great on paper. What can a lender check before closing?\n\nIdentity: government ID can be checked against public records, and the person signing the note can be confirmed.\n\nLitigation: court records can show lawsuits, judgments, bankruptcies and prior foreclosures.\n\nLiens: a lien review can look for IRS tax liens, mechanics' liens or HOA super-liens.\n\nExperience: a project history list can show addresses, purchase prices, sale prices and timelines.\n\nAn undisclosed prior foreclosure is far more useful to know before funding than after. What a lender checks varies by lender and by state.\n\nvaultedonline.com",
-      "alt": "Four checklist cards on borrower checks before closing: identity (government ID against public records), litigation (lawsuits, judgments, bankruptcies, prior foreclosures), liens (IRS tax, mechanics and HOA super-liens), experience (project history list). Checks vary by lender and state.",
-      "image": "images/2026-11-20/1727-fb-borrower-background-checks-basics.png",
-      "sources": [
-        {
-          "title": "Know Your Borrower: Source of Funds and Anti-Money Laundering Checks in Private Lending",
-          "publisher": "LBC Capital",
-          "url": "https://lbccapital.com/know-your-borrower-source-of-funds-and-anti-money-laundering-checks-in-private-lending/",
-          "date": "2026-11-12",
-          "quote": "For an individual borrower, that means checking government ID against public records."
-        },
-        {
-          "title": "Know Your Borrower: Source of Funds and Anti-Money Laundering Checks in Private Lending",
-          "publisher": "LBC Capital",
-          "url": "https://lbccapital.com/know-your-borrower-source-of-funds-and-anti-money-laundering-checks-in-private-lending/",
-          "date": "2026-11-12",
-          "quote": "A search of court records, liens, judgments, bankruptcies, and prior foreclosures tells a lender a lot."
-        },
-        {
-          "title": "Know Your Borrower: Source of Funds and Anti-Money Laundering Checks in Private Lending",
-          "publisher": "LBC Capital",
-          "url": "https://lbccapital.com/know-your-borrower-source-of-funds-and-anti-money-laundering-checks-in-private-lending/",
-          "date": "2026-11-12",
-          "quote": "An undisclosed prior foreclosure is far more useful to know before funding than after."
-        },
-        {
-          "title": "Hard Money Lending: Your Essential Due Diligence Checklist",
-          "publisher": "Note Servicing Center",
-          "url": "https://noteservicingcenter.com/hard-money-lending-your-essential-due-diligence-checklist-for-safe-investments/",
-          "date": "2026-11-15",
-          "quote": "Confirm the person signing the note is who they claim to be."
-        },
-        {
-          "title": "Hard Money Lending: Your Essential Due Diligence Checklist",
-          "publisher": "Note Servicing Center",
-          "url": "https://noteservicingcenter.com/hard-money-lending-your-essential-due-diligence-checklist-for-safe-investments/",
-          "date": "2026-11-15",
-          "quote": "Confirm no IRS tax liens, mechanics’ liens, or HOA super-liens are attached"
-        },
-        {
-          "title": "Hard Money Lending: Your Essential Due Diligence Checklist",
-          "publisher": "Note Servicing Center",
-          "url": "https://noteservicingcenter.com/hard-money-lending-your-essential-due-diligence-checklist-for-safe-investments/",
-          "date": "2026-11-15",
-          "quote": "Request a project history list with addresses, purchase prices, sale prices, and timelines"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "no computed figures",
-          "calc": "none; page undated for Note Servicing Center, accessed 2026-11-15"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afdae0c6c30c3c862872c0e"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-21T09:32:00-05:00",
-      "topic": "cash-out-refi-private-loan-basics",
-      "kind": "evergreen",
-      "text": "A borrower asks to refinance a $400,000 property. Same risk as a rate-term refi? Not once cash leaves the deal.\n\nIllustrative: the payoff is $210,000. A rate-term refinance replaces it, so the new loan is roughly $210,000 before costs, or 52.5% of value. Add $90,000 cash out and the loan is $300,000, or 75%. Equity falls from $190,000 to $100,000.\n\nFannie Mae caps cash back on its limited cash-out refinance at the greater of 1% of the new loan or $2,000.\n\nLenders can size leverage on the new loan, not the old payoff. Terms vary by lender.\n\nvaultedonline.com",
-      "alt": "Two cards compare a rate-term refinance and a cash-out refinance on a $400,000 property with a $210,000 payoff. Rate-term: loan $210,000, 52.5 percent of value, equity $190,000. Cash-out with $90,000 to the borrower: loan $300,000, 75 percent, equity $100,000. Illustrative.",
-      "image": "images/2026-11-21/0932-fb-cash-out-refi-private-loan-basics.png",
-      "sources": [
-        {
-          "title": "B2-1.3-02, Limited Cash-Out Refinance Transactions",
-          "publisher": "Fannie Mae Selling Guide",
-          "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-02/limited-cash-out-refinance-transactions",
-          "date": "2025-10-08",
-          "quote": "does not exceed the greater of 1% of the new refinance loan amount or $2,000;"
-        },
-        {
-          "title": "A look at cash-out refinance mortgages and their borrowers between 2013 to 2023",
-          "publisher": "CFPB Office of Research blog",
-          "url": "https://www.consumerfinance.gov/archive/blog/office-of-research-blog-a-look-at-cash-out-refinance-mortgages-and-their-borrowers-between-2013-to-2023/",
-          "date": "2023-12-18",
-          "quote": "where a homeowner borrows an amount substantially greater than what they owe on their existing mortgage"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$400,000 / $210,000 / $90,000",
-          "calc": "illustrative inputs: value, payoff, cash out"
-        },
-        {
-          "figure": "$300,000",
-          "calc": "210000+90000 = 300000"
-        },
-        {
-          "figure": "52.5%",
-          "calc": "210000/400000*100 = 52.5"
-        },
-        {
-          "figure": "75%",
-          "calc": "300000/400000*100 = 75.0"
-        },
-        {
-          "figure": "$190,000",
-          "calc": "400000-210000 = 190000"
-        },
-        {
-          "figure": "$100,000",
-          "calc": "400000-300000 = 100000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afdae0c275aba8f453e953b"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-21T13:47:00-05:00",
-      "topic": "reinstatement-vs-payoff-basics",
-      "kind": "evergreen",
-      "text": "A borrower gets a default notice on a loan with a $260,000 balance. How much does it take to stop the foreclosure?\n\nIt depends on the route.\n\nReinstatement brings the loan current in one lump sum: missed payments plus late fees and foreclosure costs, such as attorney fees. Suppose the quote is $9,000.\n\nPayoff pays the whole remaining balance plus similar fees and costs. Here, that is $260,000 or more.\n\nWhether a borrower has a right to reinstate varies by state and by the loan documents. Lenders can put each figure in a written quote.\n\nGeneral education, not legal advice.\n\nvaultedonline.com",
-      "alt": "Two comparison cards for an illustrative loan with a $260,000 balance and a default notice. Reinstatement: one lump sum to bring the loan current, illustrative quote $9,000. Payoff: the whole remaining balance plus fees and costs, $260,000 or more. Rights vary by state and loan documents.",
-      "image": "images/2026-11-21/1347-fb-reinstatement-vs-payoff-basics.png",
-      "sources": [
-        {
-          "title": "What's the Difference Between Reinstatement and Payoff in Foreclosure?",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/whats-the-difference-between-reinstatement-payoff-foreclosure.html",
-          "date": "2025-04-01",
-          "quote": "A 'reinstatement' occurs when the borrower brings the delinquent loan current in one lump sum. A 'payoff' occurs when the borrower pays the total amount required to satisfy the loan balance. The quote will include the unpaid principal balance and interest, plus any fees and costs."
-        },
-        {
-          "title": "Reinstatement and Payoff to Prevent Foreclosure",
-          "publisher": "Justia",
-          "url": "https://justia.com/foreclosure/reinstatement-and-payoff",
-          "date": "2026-11-15 (accessed; page undated)",
-          "quote": "Reinstatement involves making a single payment to catch up with everything due on a loan. State law may provide a deadline for reinstatement, or your mortgage or deed of trust may provide a deadline."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$260,000",
-          "calc": "illustrative unpaid loan balance, chosen by author"
-        },
-        {
-          "figure": "$9,000",
-          "calc": "illustrative reinstatement quote (arrears plus fees and costs), from assignment"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afefe27abf4ba608b7671ae"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-21T17:27:00-05:00",
-      "topic": "survey-and-boundary-risk-basics",
-      "kind": "evergreen",
-      "text": "A title policy may not cover a boundary problem.\n\nOne reason is the survey exception. Standard title policies exclude matters that a correct survey would reveal, such as an encroachment, where a structure crosses a property line without legal authorization.\n\nOnce a survey flags one, the title company lists it as a specific exception. And if a building a lender funds sits partly on a neighbor's land, the lender's security interest is compromised.\n\nLenders can read the exceptions on a title commitment and ask whether a survey is needed. Requirements vary by state and by lender. Not legal advice.\n\nvaultedonline.com",
-      "alt": "Three step cards: the title policy excludes matters a correct survey would reveal; a survey flags an encroachment and the title company lists it as a specific exception; the lender weighs a building sitting partly on a neighbor's land. A panel says lenders can ask whether a survey is needed.",
-      "image": "images/2026-11-21/1727-fb-survey-and-boundary-risk-basics.png",
-      "sources": [
-        {
-          "title": "Best Practices: The Survey Exception",
-          "publisher": "Starfield & Smith",
-          "url": "https://starfieldsmith.com/2018/10/best-practices-the-survey-exception/",
-          "date": "2018-10-24",
-          "quote": "Any encroachment, encumbrance, violation, variation, or adverse circumstance affecting the title"
-        },
-        {
-          "title": "What Happens If an ALTA Survey Reveals an Encroachment?",
-          "publisher": "ALTA Land Survey",
-          "url": "https://altalandsurvey.com/what-happens-if-an-alta-survey-reveals-an-encroachment/",
-          "date": "2026-06-05",
-          "quote": "An encroachment happens when a structure or improvement crosses a property line without legal authorization. Standard title insurance policies exclude matters that a correct survey would reveal. Once an ALTA survey flags an encroachment, the title company lists it as a specific exception. If a building they fund sits partially on a neighbor’s land, their security interest is compromised."
-        },
-        {
-          "title": "Title Policy May not Cover Boundary Disputes",
-          "publisher": "FindLaw",
-          "url": "https://corporate.findlaw.com/?p=32232",
-          "date": "2017-07-11",
-          "quote": "The title insurance policy typically purchased by Buyers during escrow generally does not cover boundary defects."
-        }
-      ],
-      "derived": [],
-      "status": "queued",
-      "buffer_id": "6afefe28443a2a9f2fc32064"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-22T10:15:00-05:00",
-      "topic": "borrower-liquidity-requirement",
-      "kind": "evergreen",
-      "text": "A bank statement shows a balance. It does not show where the money came from.\n\nFor conventional purchase loans, Fannie Mae defines a large deposit as a single deposit over 50 percent of monthly qualifying income. If those funds are needed to close, the lender must document an acceptable source. Freddie Mac defines it differently.\n\nIllustrative: on $7,000 a month, the line is $3,500. A $45,000 deposit is well over it.\n\nPrivate lender policies may differ. Lenders may ask for documents showing the source before counting the cash.\n\nvaultedonline.com",
-      "alt": "Bar chart with an illustrative $45,000 single deposit far above a $3,500 line, which is 50 percent of $7,000 monthly income. Cards give the Fannie Mae and Freddie Mac large deposit tests and note that private lender policy varies.",
-      "image": "images/2026-11-22/1015-fb-borrower-liquidity-requirement.png",
-      "sources": [
-        {
-          "title": "B3-4.2-02, Depository Accounts",
-          "publisher": "Fannie Mae Selling Guide",
-          "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-02/depository-accounts",
-          "date": "2022-12-14",
-          "quote": "A large deposit is defined as a single deposit that exceeds 50% of the total monthly qualifying income for the loan."
-        },
-        {
-          "title": "B3-4.2-02, Depository Accounts",
-          "publisher": "Fannie Mae Selling Guide",
-          "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-02/depository-accounts",
-          "date": "2022-12-14",
-          "quote": "If funds from a large deposit are needed to complete the purchase transaction, the lender must document that those funds are from an acceptable source."
-        },
-        {
-          "title": "Funds required for the mortgage transaction 5501.1 (Freddie Mac Guide text)",
-          "publisher": "homebuyer.com reproduction of Freddie Mac Guide",
-          "url": "https://homebuyer.com/guidelines/freddie-mac/funds-required-for-the-mortgage-transaction-5501-1",
-          "date": "2026-02-24",
-          "quote": "For purchase transaction Mortgages, the Seller must document the source of funds for any \"large deposit\""
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$7,000 monthly income (illustrative)",
-          "calc": "chosen input"
-        },
-        {
-          "figure": "$45,000 deposit (illustrative)",
-          "calc": "chosen input"
-        },
-        {
-          "figure": "$3,500",
-          "calc": "0.5*7000 = 3500.0"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afefe29fd08883b646c413e"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-22T13:47:00-05:00",
-      "topic": "title-commitment-reading-basics",
-      "kind": "evergreen",
-      "text": "A title commitment arrives before closing. Where should a lender look?\n\nSchedule A holds the basic facts: effective date, who is insured, amount of insurance, current owner and legal description.\n\nSchedule B, Part I lists requirements to meet before the policy is issued, such as payments or documents that must be completed.\n\nSchedule B, Part II lists exceptions, matters the policy will not cover. In the ALTA form, an exception can cover anything first appearing in the public records after the commitment date.\n\nLenders can check the insured and amount, then read every exception.\n\nvaultedonline.com",
-      "alt": "Three cards explain a title commitment. Schedule A lists the basic facts: effective date, who is insured, amount of insurance, current owner and legal description. Schedule B Part I lists requirements to meet before the policy is issued. Schedule B Part II lists exceptions, matters the policy will not cover.",
-      "image": "images/2026-11-22/1347-fb-title-commitment-reading-basics.png",
-      "sources": [
-        {
-          "title": "Understanding Your Title Commitment",
-          "publisher": "First American Title",
-          "url": "https://www.firstam.com/home-buying-guide/understanding-your-title-commitment/",
-          "date": "2026-11-15",
-          "quote": "The first part of Schedule B lists all the requirements that must be met before your policy will be issued. The second part of Schedule B lists the matters that will be exceptions in your policy, which are things not covered."
-        },
-        {
-          "title": "ALTA Commitment for Title Insurance (7-1-21)",
-          "publisher": "American Land Title Association (form hosted by Stewart)",
-          "url": "https://assets.stewart.com/en/forms/2021-7/alta-commitment-7-1-21.html",
-          "date": "2021-08-10",
-          "quote": "Any defect, lien, encumbrance, adverse claim, or other matter that appears for the first time in the Public Records or is created, attaches, or is disclosed between the Commitment Date and the date on which all of the Schedule B, Part I—Requirements are met."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "no computed figures",
-          "calc": "post uses no numbers beyond schedule names; Part I/II labels from sources"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6afefe29cac0791c5d8c4e63"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-22T17:27:00-05:00",
-      "topic": "tax-and-insurance-escrow-basics",
-      "kind": "evergreen",
-      "text": "A $4,800 tax bill and a $1,800 insurance premium. Who is watching them on your loan?\n\nWith escrow, the borrower usually sends one twelfth of each bill with every payment. $4,800 plus $1,800 is $6,600 a year, so $550 a month: $400 for tax and $150 for insurance. The servicer pays the bills.\n\nWithout escrow, the borrower pays both bills directly. Unpaid property taxes can become a lien on the property, and if a policy lapses a lender may buy its own coverage. Lenders may want proof that both are paid.\n\nTerms vary by lender and by state.\n\nvaultedonline.com",
-      "alt": "Two rows of twelve monthly boxes. With escrow, each month shows $550, one twelfth of $4,800 tax plus $1,800 insurance. Without escrow, the borrower pays $4,800 and $1,800 directly in two lumps. Formula: ($4,800 + $1,800) divided by 12 equals $550. Amounts illustrative.",
-      "image": "images/2026-11-22/1727-fb-tax-and-insurance-escrow-basics.png",
-      "sources": [
-        {
-          "title": "What is escrow?",
-          "publisher": "Consumer Financial Protection Bureau",
-          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-escrow-en-140/",
-          "date": "2024-09-11",
-          "quote": "Your mortgage servicer will manage the escrow account and pay these bills on your behalf."
-        },
-        {
-          "title": "What is escrow?",
-          "publisher": "Consumer Financial Protection Bureau",
-          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-escrow-en-140/",
-          "date": "2024-09-11",
-          "quote": "The money that goes into the account comes from a portion of your monthly mortgage payment."
-        },
-        {
-          "title": "What Is a Mortgage Escrow Account?",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/what-is-a-mortgage-escrow-account.html",
-          "date": "2025-08-04",
-          "quote": "usually at the rate of one-twelfth of the yearly amount that's due."
-        },
-        {
-          "title": "What Is a Mortgage Escrow Account?",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/what-is-a-mortgage-escrow-account.html",
-          "date": "2025-08-04",
-          "quote": "Also, when you don't pay the property taxes, the overdue amount becomes a lien on the property."
-        },
-        {
-          "title": "What Is a Mortgage Escrow Account?",
-          "publisher": "Nolo",
-          "url": "https://www.nolo.com/legal-encyclopedia/what-is-a-mortgage-escrow-account.html",
-          "date": "2025-08-04",
-          "quote": "might buy a \"force-placed\" or \"lender-placed\" insurance policy"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$4,800 and $1,800",
-          "calc": "illustrative annual tax and insurance, chosen by us"
-        },
-        {
-          "figure": "$6,600",
-          "calc": "4800 + 1800 = 6600"
-        },
-        {
-          "figure": "$550",
-          "calc": "6600 / 12 = 550"
-        },
-        {
-          "figure": "$400",
-          "calc": "4800 / 12 = 400"
-        },
-        {
-          "figure": "$150",
-          "calc": "1800 / 12 = 150"
-        },
-        {
-          "figure": "12",
-          "calc": "months in a year; one twelfth per Nolo"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
+     "title": "Q4 2026 Vacant Property and Zombie Foreclosure Report",
+     "publisher": "ATTOM",
+     "url": "https://www.attomdata.com/news/market-trends/foreclosures/q4-2026-vacancy-and-zombie-foreclosure-report/",
+     "date": "2026-10-29",
+     "quote": "There were 269,195 properties in the foreclosure process in the fourth quarter, out of 105.1 million total properties. Of those properties in foreclosure, 3 percent, or 8,040 properties, ... The number of zombie properties rose quarter-over-quarter in 29 states. ... Pennsylvania (up 17.2 percent to 252 zombie properties) ... Maryland (up 19.2 percent to 180 zombie properties) ... The metro areas with the highest zombie rates were Baltimore, MD (13 percent)"
     }
-  ]
+   ],
+   "derived": [
+    {
+     "figure": "3 percent",
+     "calc": "8040/269195*100 = 2.99, matches ATTOM's stated 3 percent"
+    },
+    {
+     "figure": "bar widths",
+     "calc": "track*3/15 and track*13/15 on a 15 percent axis (graphic only)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44a960a910801c56bdd9"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-16T11:34:00-05:00",
+   "topic": "investor-reporting",
+   "kind": "evergreen",
+   "text": "What does a fund investor want to see each month? No single rule answers that, but two public examples show what reports can include.\n\nThe ILPA template, built for private equity funds, asks for fee and expense detail, cash flows and fund level performance. The update asks for 22 partnership expenses, up from nine.\n\nA community loan fund reports Current, 31 to 60, 61 to 90 and over 90 days past due, plus non-accrual and impaired shares.\n\nA lender fund can build its own report from similar pieces: cash flows, fees, aging and non-accrual.",
+   "alt": "Two cards compare public investor reports. The ILPA template for private equity funds lists fee and expense detail, cash flows, net IRR and TVPI, and 22 partnership expenses, up from nine. A community loan fund report lists Current, 31-60, 61-90 and over 90 days past due, plus non-accrual and impaired shares.",
+   "image": "images/2026-11-16/1134-li-investor-reporting.png",
+   "sources": [
+    {
+     "title": "ILPA updates reporting guidelines to improve transparency",
+     "publisher": "Preqin",
+     "url": "https://www.preqin.com/news/ilpa-updates-reporting-guidelines-to-improve-transparency",
+     "date": "2025-01-23",
+     "quote": "In total, GPs will have to report on 22 partnership expenses, up from nine."
+    },
+    {
+     "title": "ILPA's Revised Reporting Template for the Private Equity Industry",
+     "publisher": "ACA Global",
+     "url": "https://www.acaglobal.com/?p=7282",
+     "date": "2025-01-31",
+     "quote": "Total fund LP cash flow details \u2013 including date, amount, and description for impacts to net"
+    },
+    {
+     "title": "Loan Quality Report Jun 2026",
+     "publisher": "Community Loan Fund",
+     "url": "https://files.communityloanfund.org/uploads/Investor-Hub-Files/Loan-Quality-Report-Jun-2026.pdf",
+     "date": "2026-06-30",
+     "quote": "Current; 31-60 days past due; 61-90 days past due; >90 days past due; Non-Accrual % of total Portfolio; Impaired % of total Portfolio (row and column labels, As of 6/30/2026)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "22 and nine",
+     "calc": "quoted from Preqin; no computation"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44bd8e87c256a39ca27e"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-16T12:47:00-05:00",
+   "topic": "vaulted-document-requests",
+   "kind": "product",
+   "text": "How many emails does it take to collect one borrower document?\n\nIn Vaulted, the lender opens \"Documents from the borrower\" on the loan page. One click asks for the standard set for the loan type, or the lender adds their own request with a note and due date.\n\nThe borrower sees \"Documents for your lender\" in the portal, with an upload button on each request.\n\nThe lender can download a file, Accept it, or Ask again with a note. Review notes are shown on the request, and emails are sent both ways.\n\nvaultedonline.com",
+   "alt": "Four step cards: lender asks for the standard set or custom documents with a note and due date, borrower uploads in the portal, lender downloads, accepts or asks again with a note, borrower reads review notes on the request. Emails go both ways.",
+   "image": "images/2026-11-16/1247-fb-vaulted-document-requests.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Lender: \"Documents from the borrower\" on the loan page. One click asks for the standard set for the loan type, or the lender adds their own with a note and due date. The lender can download, Accept, or Ask again with a note, and can also attach a file. Borrower: \"Documents for your lender\" in the portal. An upload button on each request. Review notes are shown on the request. Emails: sent both ways."
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6afa44a960a910801c56be17"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-16T17:27:00-05:00",
+   "topic": "new-construction-vs-rehab-loan",
+   "kind": "evergreen",
+   "text": "A rehab loan funds work on a house that already exists. A ground-up loan funds a house that does not exist yet, so the lender is financing something that is not built yet.\n\nDraws are tied to building milestones and lender inspections, and the clock is longer: 3 to 9 months for a flip versus 12 to 24 for a build, per one lender guide.\n\nOverruns scale. A 10 percent overrun is $8,500 on an $85,000 rehab and $32,000 on a $320,000 build (illustrative).\n\nOverruns often fall on the borrower unless a contingency is built in, per one guide.\n\nvaultedonline.com",
+   "alt": "Two comparison cards. Rehab loan, $85,000 budget: finances work on an existing house, 3 to 9 months, a 10 percent overrun is $8,500. Ground-up loan, $320,000 budget: finances a house that does not exist yet, 12 to 24 months, a 10 percent overrun is $32,000.",
+   "image": "images/2026-11-16/1727-fb-new-construction-vs-rehab-loan.png",
+   "sources": [
+    {
+     "title": "Ground-Up Construction vs Fix-and-Flip: Which Is More Profitable?",
+     "publisher": "Park Place Finance",
+     "url": "https://parkplacefinance.com/?p=7743",
+     "date": "2026-05-14",
+     "quote": "The underwriting is more involved because the lender is financing its creation; there's no collateral yet. | Funds are released in draws tied to construction milestones and verified by lender inspections. | Typical timeline | 3\u20139 months | 12\u201324 months | construction budgets are harder to lock than renovation budgets"
+    },
+    {
+     "title": "New Construction Loans for Investors: Draws, Terms & What to Expect",
+     "publisher": "Flipper Force",
+     "url": "https://flipperforce.com/how-to-flip-houses/chapter-3-getting-funding-for-your-flip-projects/new-construction-loans-explained",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "it's more structured than a rehab loan's draws because it's tied to defined building milestones. | overruns often come out of your own pocket unless you've built in a contingency."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$85,000 and $320,000",
+     "calc": "illustrative budgets chosen"
+    },
+    {
+     "figure": "10 percent overrun",
+     "calc": "illustrative assumption"
+    },
+    {
+     "figure": "$8,500",
+     "calc": "85000*0.10 = 8500"
+    },
+    {
+     "figure": "$32,000",
+     "calc": "320000*0.10 = 32000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44aad7e5fee6388a57a5"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-17T09:15:00-05:00",
+   "topic": "pmms-nov12-2026",
+   "kind": "data",
+   "text": "Freddie Mac says the 30-year fixed rate averaged 7.11 percent as of November 12, 2026, down from 7.18 percent last week. A year ago it was 6.24 percent.\n\nOn an illustrative $390,000 balance over 30 years, principal and interest is about $2,624 a month at 7.11 percent and $2,399 at 6.24 percent. That is about $225 more every month.\n\nThe survey covers owner-occupied home purchase loans, so investor rates differ and vary by lender. Lenders can still re-run a refinance exit payment at a current rate instead of the closing-day rate.\n\nvaultedonline.com",
+   "alt": "Bar chart of monthly principal and interest on an illustrative $390,000, 30-year loan: $2,399 at 6.24 percent a year ago versus $2,624 at 7.11 percent as of November 12, 2026, about $225 more a month. Freddie Mac survey covers owner-occupied purchases.",
+   "image": "images/2026-11-17/0915-fb-pmms-nov12-2026.png",
+   "sources": [
+    {
+     "title": "Mortgage Rates (PMMS)",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "The 30-year fixed-rate mortgage averaged 7.11% as of November 12, 2026, down from last week when it averaged 7.18%."
+    },
+    {
+     "title": "Mortgage Rates (PMMS), year-ago",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "A year ago at this time, the 30-year FRM averaged 6.24%."
+    },
+    {
+     "title": "Mortgage Rates (PMMS), survey scope",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "home purchase loans on owner occupied 1-unit single-family properties"
+    },
+    {
+     "title": "30-Year Fixed Rate Mortgage Average in the United States (MORTGAGE30US)",
+     "publisher": "Federal Reserve Bank of St. Louis (FRED)",
+     "url": "https://fred.stlouisfed.org/series/mortgage30us",
+     "date": "2026-11-12",
+     "quote": "2026-11-12: 7.11; 2026-11-05: 7.18"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$390,000 loan, 30 years",
+     "calc": "illustrative input chosen by author"
+    },
+    {
+     "figure": "$2,399",
+     "calc": "pm(390000,6.24) = 2398.76"
+    },
+    {
+     "figure": "$2,624",
+     "calc": "pm(390000,7.11) = 2623.55"
+    },
+    {
+     "figure": "$225",
+     "calc": "2623.55 - 2398.76 = 224.79"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44ab06e1675856b367e2"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-17T10:21:00-05:00",
+   "topic": "catastrophe-exposure",
+   "kind": "evergreen",
+   "text": "Twenty loans can look diversified and still be one bet.\n\nPicture 20 loans of $300,000 each, an illustrative book. If 8 sit in one flood-prone county, that is $2,400,000 of $6,000,000, or 40 percent of the book, exposed to a single storm.\n\nRegulated lenders may not close a loan on property in a FEMA special flood hazard area without flood coverage. Other lenders may set their own rules. Most homeowners policies do not cover flood, and NFIP policies typically have a 30 day wait.\n\nLenders can map every loan by flood zone and confirm coverage before closing.",
+   "alt": "Grid of 20 illustrative loans of $300,000 each. Eight gold squares sit in one flood-prone county, twelve blue squares elsewhere. Eight loans equal $2,400,000 of $6,000,000, or 40 percent of the book. Two checks: the FEMA flood map and flood coverage.",
+   "image": "images/2026-11-17/1021-li-catastrophe-exposure.png",
+   "sources": [
+    {
+     "title": "What Is My Flood Risk",
+     "publisher": "FEMA FloodSmart (floodsmart.gov)",
+     "url": "https://www.floodsmart.gov/flood-zones-and-maps/what-is-my-flood-risk",
+     "date": "2026-11-15",
+     "quote": "If you own a property in a high-risk zone and have a government-backed mortgage, you must purchase flood insurance. High-risk flood areas begin with the letters A or V on FEMA flood maps. They are also known as special flood hazard areas (SFHAs). (page undated, accessed 2026-11-15)"
+    },
+    {
+     "title": "Flood Insurance 101",
+     "publisher": "FEMA FloodSmart for agents (agents.floodsmart.gov)",
+     "url": "https://agents.floodsmart.gov/topics/flood-insurance-101",
+     "date": "2026-11-15",
+     "quote": "most homeowners insurance policies do not cover flood damage. Typically, there is a 30-day waiting period between the date of purchase and the effective date. (page undated, accessed 2026-11-15)"
+    },
+    {
+     "title": "V-6 Flood Disaster Protection Act",
+     "publisher": "FDIC Consumer Compliance Examination Manual",
+     "url": "https://www.fdic.gov/consumer-compliance-examination-manual/v-6-flood-disaster-protection-act",
+     "date": "2023-11-01",
+     "quote": "a regulated lending institution may not make, increase, extend, or renew any loan secured by improved real property. (Chapter last updated November 2023; coverage required where property is located or will be located in an SFHA as identified by FEMA.)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "20 loans, $300,000 each (illustrative)",
+     "calc": "illustrative input"
+    },
+    {
+     "figure": "8 loans in one county (illustrative)",
+     "calc": "illustrative input"
+    },
+    {
+     "figure": "$6,000,000",
+     "calc": "20*300000 = 6000000"
+    },
+    {
+     "figure": "$2,400,000",
+     "calc": "8*300000 = 2400000"
+    },
+    {
+     "figure": "40 percent",
+     "calc": "2400000/6000000*100 = 40.0"
+    },
+    {
+     "figure": "12 loans elsewhere (graphic)",
+     "calc": "20-8 = 12"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44bea869c35e5ba48a90"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-17T12:47:00-05:00",
+   "topic": "vaulted-closing-conditions",
+   "kind": "product",
+   "text": "Picture a $275,000 loan set to fund Friday. Then someone asks: did the insurance binder ever come in?\n\nClosing conditions are items a lender wants satisfied before funding. A written checklist can name each item and one owner, so nobody assumes someone else has it.\n\nIn Vaulted, each loan has a checklist with an owner for each item. Moving a loan's stage past an open blocking condition is stopped with a list of what's open, and the lender can choose \"Move anyway\".\n\nAn item with no owner is an item no one is watching.\n\nvaultedonline.com",
+   "alt": "Illustrative closing checklist for a $275,000 loan listing three conditions, each with an owner: title commitment (title company, done), insurance binder (processor, open), payoff letter (borrower, done). Below, text on Vaulted's per-loan checklist and the blocking condition stop.",
+   "image": "images/2026-11-17/1247-fb-vaulted-closing-conditions.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "A per-loan checklist with an owner for each item. A template can be saved for all loans."
+    },
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Moving a loan's stage past an open blocking condition is stopped with a list of what's open, and the lender can choose \"Move anyway\"."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$275,000",
+     "calc": "illustrative loan amount chosen from assignment, no computation"
+    },
+    {
+     "figure": "Friday / three conditions and owners",
+     "calc": "illustrative scenario, not computed"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44ab06e1675856b36809"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-17T17:27:00-05:00",
+   "topic": "transactional-funding",
+   "kind": "evergreen",
+   "text": "A wholesaler has a contract to buy a house for $140,000 and an end buyer lined up at $175,000. The first purchase needs cash before the resale pays anything.\n\nA transactional loan can bridge that gap. Illustrative flow:\n\n1. The lender funds the $140,000 purchase.\n2. The investor resells to the end buyer for $175,000.\n3. Sale proceeds repay the lender, $140,000 plus its fees.\n4. The remaining $35,000, before fees and closing costs, is the investor's.\n\nRepayment can come the same day, and one source says within a week at most. The resale is the repayment source.\n\nvaultedonline.com",
+   "alt": "Four step cards: lender funds a $140,000 purchase, investor resells for $175,000, lender is repaid $140,000 plus fees from the proceeds, investor keeps about $35,000 before fees. A bar splits the $175,000 resale into $140,000 and $35,000.",
+   "image": "images/2026-11-17/1727-fb-transactional-funding.png",
+   "sources": [
+    {
+     "title": "Transactional Funding Explained",
+     "publisher": "NewSilver",
+     "url": "https://newsilver.com/the-lender/transactional-funding/",
+     "date": "2024-04-30",
+     "quote": "The investor then turns around and sells the home to the new buyer and then uses the funds to repay the transactional lender."
+    },
+    {
+     "title": "Transactional Funding Explained",
+     "publisher": "NewSilver",
+     "url": "https://newsilver.com/the-lender/transactional-funding/",
+     "date": "2024-04-30",
+     "quote": "In some cases, it may be repaid the same day or, at most, within a week."
+    },
+    {
+     "title": "Transactional Funding (Extended)",
+     "publisher": "DKC Lending",
+     "url": "https://dkclending.com/?p=3505",
+     "date": "2022-11-02",
+     "quote": "Generally, it is borrowed and repaid the same day but sometimes up to a week."
+    },
+    {
+     "title": "Transactional Funding (Extended)",
+     "publisher": "DKC Lending",
+     "url": "https://dkclending.com/?p=3505",
+     "date": "2022-11-02",
+     "quote": "the sale profits from the end buyer are used to repay the transactional funding loan."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$140,000",
+     "calc": "illustrative purchase price (assigned)"
+    },
+    {
+     "figure": "$175,000",
+     "calc": "illustrative resale price (assigned)"
+    },
+    {
+     "figure": "$35,000",
+     "calc": "175000 - 140000 = 35000, before fees and closing costs"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44ac06e1675856b36830"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-18T08:56:00-05:00",
+   "topic": "census-starts-sep-2026",
+   "kind": "data",
+   "text": "Builders started homes at a seasonally adjusted annual rate of 1,221,000 in September, down 5.2 percent from August, a change within the survey's margin of error (U.S. Census Bureau, released October 20, 2026).\n\nSingle-family starts were 859,000, down 4.6 percent. Permits were 1,400,000, which is 179,000 above total starts.\n\nWhy it matters to a lender: starts hint at how much new supply may reach the market later. A construction borrower planning to sell may compete with that supply, and national figures can differ from a local market.\n\nLenders can pair this with local permit data when underwriting the exit.\n\nvaultedonline.com",
+   "alt": "Bar chart of U.S. housing starts, seasonally adjusted annual rate: 1,319,000 in September 2025, 1,288,000 in August 2026 and 1,221,000 in September 2026, with cards for single-family starts 859,000, permits 1,400,000 and a 5.2 percent monthly drop. Source: U.S. Census Bureau.",
+   "image": "images/2026-11-18/0856-fb-census-starts-sep-2026.png",
+   "sources": [
+    {
+     "title": "New Residential Construction, September 2026 (PDF)",
+     "publisher": "U.S. Census Bureau",
+     "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+     "date": "2026-10-20",
+     "quote": "Privately-owned housing starts in September were at a seasonally adjusted annual rate of 1,221,000."
+    },
+    {
+     "title": "New Residential Construction, September 2026 (PDF)",
+     "publisher": "U.S. Census Bureau",
+     "url": "https://www.census.gov/construction/nrc/pdf/newresconst_202609.pdf",
+     "date": "2026-10-20",
+     "quote": "Single-family housing starts in September were at a rate of 859,000; this is 4.6 percent (\u00b110.0 percent)* below the revised August figure of 900,000."
+    },
+    {
+     "title": "New Residential Construction, current release (FOR IMMEDIATE RELEASE: Tuesday, October 20, 2026)",
+     "publisher": "U.S. Census Bureau",
+     "url": "https://www.census.gov/construction/nrc/current/",
+     "date": "2026-10-20",
+     "quote": "Housing starts: 1,221,000 units (seasonally adjusted annual rate), 5.2 percent (\u00b111.8 percent)* below the revised August estimate of 1,288,000 and 7.4 percent (\u00b111.5 percent)* below September 2025's 1,319,000. Building permits: 1,400,000 units."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "179,000",
+     "calc": "1400000-1221000 = 179000"
+    },
+    {
+     "figure": "67,000",
+     "calc": "1288000-1221000 = 67000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44acd7e5fee6388a5876"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-18T12:47:00-05:00",
+   "topic": "vaulted-internal-loan-notes",
+   "kind": "product",
+   "text": "Months after a call, who remembers what the borrower promised?\n\nServicing context piles up fast. A call about a late payment, a promise to send a renewed insurance policy, a concern about the contractor. If it lives in one person's inbox or memory, the next person who handles the loan starts blind.\n\nVaulted has team-only notes on each loan. A boundary test proves that no borrower or investor code reads them.\n\nLenders can keep that context with the loan, not with whoever took the call.\n\nvaultedonline.com",
+   "alt": "Vaulted graphic titled Servicing context, kept with the loan. A loan page Notes panel marked Team only shows three illustrative notes: a call, a promise and a concern. A panel reads: team-only notes on each loan.",
+   "image": "images/2026-11-18/1247-fb-vaulted-internal-loan-notes.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Team-only notes on each loan. A boundary test proves that no borrower or investor code reads them."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "example notes (call, promise, concern)",
+     "calc": "illustrative, written by us; no numbers"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44ad60a910801c56be6e"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-18T17:09:00-05:00",
+   "topic": "vaulted-lending-guidelines",
+   "kind": "product",
+   "text": "Two inquiries arrive on the same morning. One gets a fast yes because the deal looks familiar. The other gets a slow no because the day was long. Without written criteria, the answer can depend on the day.\n\nIn Vaulted, the owner sets states, loan types, amount range, max LTV or LTC and minimum experience in Settings. Each inquiry card then shows a pass or fail screen against them, and the inquiry email includes a one line verdict.\n\nWrite the criteria down once, and every inquiry gets measured against the same lines.",
+   "alt": "Two cards joined by an arrow. Left, Settings lists states, loan types, amount range, max LTV or LTC and minimum experience. Right, an inquiry card shows a pass or fail line for each of the same five criteria, with a note that the inquiry email has a one line verdict.",
+   "image": "images/2026-11-18/1709-li-vaulted-lending-guidelines.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "The owner sets states, loan types, amount range, max LTV/LTC and minimum experience in Settings."
+    },
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Each inquiry card shows a pass/fail screen against them, and the inquiry email includes a one-line verdict."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "two inquiries",
+     "calc": "illustrative scenario, no data"
+    },
+    {
+     "figure": "five criteria",
+     "calc": "len(['states','loan types','amount range','max LTV/LTC','minimum experience']) = 5"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44bed7e5fee6388a5d33"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-18T17:27:00-05:00",
+   "topic": "tax-forms-interest",
+   "kind": "evergreen",
+   "text": "You received $12,000 in interest on private loans this year. Which IRS forms may be involved?\n\nThree to know. Form 1099-INT: reports interest a business pays you, at $600 or more. Form 1098: filed by someone in a trade or business who receives $600 or more of mortgage interest from an individual. Schedule B: required with over $1,500 of taxable interest or ordinary dividends, among other cases.\n\nThe IRS says you must report all interest even without a 1099-INT.\n\nWhich forms apply varies. Ask your accountant. This is education, not tax advice.\n\nvaultedonline.com",
+   "alt": "Graphic titled Interest received? Three IRS forms to know. Illustrative $12,000 of interest. Cards: Form 1099-INT at $600 or more from a business, Form 1098 at $600 or more of mortgage interest, Schedule B over $1,500. Report interest either way; ask your accountant.",
+   "image": "images/2026-11-18/1727-fb-tax-forms-interest.png",
+   "sources": [
+    {
+     "title": "Topic no. 403, Interest received",
+     "publisher": "IRS (irs.gov)",
+     "url": "https://www.irs.gov/taxtopics/tc403",
+     "date": "2026-10-07",
+     "quote": "Other interest paid to you by a business will be reported to you on Form 1099-INT if it is $600 or more."
+    },
+    {
+     "title": "Instructions for Forms 1099-INT and 1099-OID",
+     "publisher": "IRS (irs.gov)",
+     "url": "https://www.irs.gov/instructions/i1099int",
+     "date": "2026-04-30",
+     "quote": "Also, include interest of $600 or more paid in the course of your trade or business not meeting the above criteria,"
+    },
+    {
+     "title": "Instructions for Form 1098",
+     "publisher": "IRS (irs.gov)",
+     "url": "https://www.irs.gov/instructions/i1098",
+     "date": "2026-04-30",
+     "quote": "File this form if you are engaged in a trade or business and, in the course of such trade or business, you receive from an individual $600 or more of mortgage interest"
+    },
+    {
+     "title": "Publication 550 (2025), Investment Income and Expenses",
+     "publisher": "IRS (irs.gov)",
+     "url": "https://www.irs.gov/publications/p550",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "You had over $1,500 of taxable interest or ordinary dividends. You must report all your interest income even if you do not receive a Form 1099-INT."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$12,000",
+     "calc": "illustrative interest received, chosen by us; 12000 > 1500 and 12000 > 600 is True"
+    },
+    {
+     "figure": "1098",
+     "calc": "IRS form number, named in the Form 1098 instructions page title"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44aea869c35e5ba485d3"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-19T08:25:00-05:00",
+   "topic": "ny-fed-hhdc-q3-2026",
+   "kind": "data",
+   "text": "The New York Fed released its Q3 2026 household debt report on November 10. The flow of mortgage balances into serious delinquency, 90 or more days late, rose from 1.28% a year ago to 1.60%.\n\nThat is 0.32 points, or 25% more. The measure is balances newly 90 days late, divided by balances that were current or under 90 days late the quarter before.\n\nIf a $20,000,000 book moved the same way, 1.28% is $256,000 a year and 1.60% is $320,000. This covers consumer mortgage debt, not private loans, so use it as a backdrop and watch your own aging.\n\nvaultedonline.com",
+   "alt": "Horizontal bar chart of the New York Fed mortgage flow into serious delinquency, 90 or more days late: 1.28% in Q3 2025 and 1.60% in Q3 2026, up 0.32 points or 25%. Illustrative dollars on a $20,000,000 book: $256,000 and $320,000 a year.",
+   "image": "images/2026-11-19/0825-fb-mba-delinquency-q3-2026.png",
+   "sources": [
+    {
+     "title": "Household Debt Increased Moderately; Delinquency Transition Rates Remain Flat",
+     "publisher": "Federal Reserve Bank of New York",
+     "url": "https://www.newyorkfed.org/newsevents/news/research/2026/20261110",
+     "date": "2026-11-10",
+     "quote": "Mortgage Debt | 1.28% | 1.60% (Flow into Serious Delinquency (90 days or more delinquent), Q3 2025 | Q3 2026). Rates represent annualized shares of balances transitioning into delinquency. Flow into serious delinquency is computed as the balances that have newly become at least 90 days late in the reference quarter divided by the balances that were current of less than 90 days past due in the previous quarter."
+    },
+    {
+     "title": "Quarterly Report on Household Debt and Credit, 2026 Q3",
+     "publisher": "Federal Reserve Bank of New York",
+     "url": "https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/hhdc_2026q3.pdf",
+     "date": "2026-11-10",
+     "quote": "For mortgages, the transition rate into serious delinquency worsened but remains modest by historical standards. (Released November 2026; release date per press release Nov 10, 2026)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "0.32 points",
+     "calc": "round(1.60-1.28,2) = 0.32"
+    },
+    {
+     "figure": "25%",
+     "calc": "(1.60/1.28-1)*100 = 25.0"
+    },
+    {
+     "figure": "$20,000,000",
+     "calc": "illustrative book size chosen by author"
+    },
+    {
+     "figure": "$256,000",
+     "calc": "20_000_000*0.0128 = 256000"
+    },
+    {
+     "figure": "$320,000",
+     "calc": "20_000_000*0.0160 = 320000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44aea869c35e5ba48620"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-19T12:47:00-05:00",
+   "topic": "vaulted-year-end-tax-figures",
+   "kind": "product",
+   "text": "Year-end is when an accountant may ask for two lists: interest received on each loan, and distributions paid to each investor.\n\nVaulted has an owner-only Year-end tax page, found under Tools. It shows per-loan interest received, the 1098 figures, and per-investor distributions. There are CSV downloads for the accountant.\n\nIt does not decide which forms are required. That call stays with you and your accountant.\n\nLenders can start gathering both lists before the calendar turns, so nothing is left to piece together in January.\n\nvaultedonline.com",
+   "alt": "Light graphic titled Year-end figures, ready for the accountant. Two cards, per loan interest received (the 1098 figures) and per investor distributions, feed the owner-only Year-end tax page under Tools with CSV downloads. A panel says it does not decide which forms are required.",
+   "image": "images/2026-11-19/1247-fb-vaulted-year-end-tax-figures.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Owner-only `/tax` page (\"Year-end tax\" under Tools)."
+    },
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Per-loan interest received (the 1098 figures) and per-investor distributions."
+    },
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "CSV downloads for the accountant. It doesn't decide which forms are required."
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6afb09c272786171b221e0c7"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-19T15:40:00-05:00",
+   "topic": "note-sale-basics",
+   "kind": "evergreen",
+   "text": "A lender wants to sell a performing loan. What might a buyer want to see in the file?\n\nLoan purchase checklists point to a short list. The original promissory note, not a copy. Any allonge, the instrument that endorses the note to the next holder. The mortgage, with details that match the title policy. Recorded assignments. Payment history. Insurance, and whether coverage is adequate.\n\nA buyer also needs to know if the borrower is in default before taking over.\n\nThis list is not exhaustive. Ask counsel what your deal needs.",
+   "alt": "Six cards listing what a note buyer can review in a loan file: original note, allonge, mortgage details matching the title policy, recorded assignments, payment history, and insurance. A takeaway says sellers can gather these in one package.",
+   "image": "images/2026-11-19/1540-li-note-sale-basics.png",
+   "sources": [
+    {
+     "title": "Loan Purchase Due Diligence Transaction Checklist",
+     "publisher": "hunton.com (Thomson Reuters Practical Law)",
+     "url": "https://hunton.com/media/publication/73121_loan-purchase-due-diligence-transaction-checklist.pdf",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "It is important for the purchaser to take possession of the original promissory note, not a copy."
+    },
+    {
+     "title": "Loan Purchase Due Diligence Transaction Checklist",
+     "publisher": "hunton.com (Thomson Reuters Practical Law)",
+     "url": "https://hunton.com/media/publication/73121_loan-purchase-due-diligence-transaction-checklist.pdf",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "An allonge is an instrument that endorses a promissory note from one note holder to the next. The purchaser should confirm the legal description attached to the mortgage and the recording information for the mortgage exactly match the seller's title policy, and that any assignments of the mortgage (as reflected through any allonges in the file) have been properly recorded."
+    },
+    {
+     "title": "Loan Purchase Due Diligence Transaction Checklist",
+     "publisher": "hunton.com (Thomson Reuters Practical Law)",
+     "url": "https://hunton.com/media/publication/73121_loan-purchase-due-diligence-transaction-checklist.pdf",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "Loan payment history. Insurance policies and whether coverage is adequate"
+    },
+    {
+     "title": "Note Sales Unwrapped",
+     "publisher": "GlobeSt",
+     "url": "https://www.globest.com/amp/2010/10/01/note-sales-unwrapped/",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "Confirming that all the relevant loan documents are included is key. Before you take over, you need to know if the borrower is in default, The loan documents must be transferred properly in writing, through an endorsement on the note or a proper allonge,"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "six items",
+     "calc": "count of items listed: note, allonge, mortgage details, assignments, payment history, insurance = 6"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44bf60a910801c56c32d"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-19T17:27:00-05:00",
+   "topic": "sdira-lending",
+   "kind": "evergreen",
+   "text": "What does federal law say about an IRA lending to the owner's daughter?\n\nFederal law lists \"lending of money or other extension of credit between a plan and a disqualified person\" as a prohibited transaction. The Department of Labor says the term plan includes an IRA. The IRS says disqualified persons include the IRA owner's fiduciary and family: spouse, ancestor, lineal descendant, and any spouse of a lineal descendant.\n\nThe IRS also says a disqualified person who takes part in a prohibited transaction must pay a tax.\n\nGeneral education, not advice. Consult a qualified tax or legal professional first.\n\nvaultedonline.com",
+   "alt": "Diagram: an IRA, which the Department of Labor says is a plan, and a disqualified person (the IRA owner's fiduciary, spouse, ancestor, lineal descendant, spouse of a lineal descendant) joined by a loan or credit arrow marked prohibited, with the IRS tax consequence and a general-education note.",
+   "image": "images/2026-11-19/1727-fb-sdira-lending.png",
+   "sources": [
+    {
+     "title": "26 U.S. Code 4975 - Tax on prohibited transactions",
+     "publisher": "Cornell Legal Information Institute (US Code)",
+     "url": "https://www.law.cornell.edu/uscode/text/26/4975",
+     "date": "2026-11-15",
+     "quote": "lending of money or other extension of credit between a plan and a disqualified person"
+    },
+    {
+     "title": "Retirement topics - Prohibited transactions",
+     "publisher": "IRS",
+     "url": "https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-prohibited-transactions",
+     "date": "2026-06-27",
+     "quote": "Disqualified persons include the IRA owner's fiduciary and members of his or her family (spouse, ancestor, lineal descendant, and any spouse of a lineal descendant). If you are a disqualified person who takes part in a prohibited transaction, you must pay a tax."
+    },
+    {
+     "title": "Retirement plan investments FAQs",
+     "publisher": "IRS",
+     "url": "https://www.irs.gov/retirement-plans/retirement-plan-investments-faqs",
+     "date": "2026-04-08",
+     "quote": "Similar rules apply to transactions between an IRA and its owner or beneficiary or between an IRA and a disqualified person."
+    },
+    {
+     "title": "Advisory Opinion 2011-04A",
+     "publisher": "US Department of Labor, EBSA",
+     "url": "https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/advisory-opinions/2011-04a",
+     "date": "2011-02-03",
+     "quote": "Section 4975(e)(1), in pertinent part, defines the term \"plan\" to include an IRA, described in section 408(a) of the Code."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "daughter example",
+     "calc": "illustrative scenario; a daughter is a lineal descendant under the IRS list"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afc5b222fa84d383f3df610"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-20T08:00:00-05:00",
+   "topic": "balloon-maturity-refi-risk",
+   "kind": "evergreen",
+   "text": "A $340,000 loan comes due in 12 months. The borrower plans to refinance. What if that fails?\n\nThe CFPB defines a balloon payment as \"a large, one-time payment at the end of the loan term,\" and says that if property value or finances decline, the borrower might not be able to refinance.\n\nIllustrative: a new lender refinances up to 75 percent of value. At $480,000, that is $360,000, enough to repay $340,000. If value falls to $420,000, it is $315,000. The gap is $25,000.\n\nLenders can re-check value and the exit plan well before maturity.\n\nvaultedonline.com",
+   "alt": "Two cards compare an illustrative $340,000 balloon due at month 12. At a $480,000 value a 75 percent refinance is $360,000 and covers it. If value falls to $420,000 the refinance is $315,000, leaving a $25,000 gap.",
+   "image": "images/2026-11-20/0800-fb-balloon-maturity-refi-risk.png",
+   "sources": [
+    {
+     "title": "What is a balloon loan?",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-balloon-loan-en-104/",
+     "date": "2026-08-28",
+     "quote": "A balloon payment on a mortgage is a large, one-time payment at the end of the loan term. However, if the value of your property falls, or if your financial condition declines, you might not be able to do so."
+    },
+    {
+     "title": "What Is a Balloon Mortgage?",
+     "publisher": "Experian",
+     "url": "https://www.experian.com/blogs/ask-experian/what-is-balloon-mortgage/",
+     "date": "2025-04-13",
+     "quote": "If you don't have the cash to cover it, you may need to refinance or sell your home to avoid foreclosure."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$340,000 / 12 months / 75 percent / $480,000 / $420,000",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "$360,000",
+     "calc": "480000*0.75 = 360000"
+    },
+    {
+     "figure": "$315,000",
+     "calc": "420000*0.75 = 315000"
+    },
+    {
+     "figure": "$25,000",
+     "calc": "340000-315000 = 25000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afc5b23685aa7614ba603ea"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-20T12:47:00-05:00",
+   "topic": "vaulted-term-sheet-new-loan",
+   "kind": "product",
+   "text": "You have a term sheet and need a loan record. How much should the reader fill in for you?\n\nIn Vaulted, the Documents tab has a term sheet reader, and you can start a new loan from a term sheet. The values it finds still arrive unticked. A \"Select all\" checkbox sits beside an \"N of M ticked\" count, so you can see exactly what you have chosen.\n\nThe reader never edits a value. It never turns on \"Use this for all my loans\". It never saves anything.\n\nYou tick, you review, and you save.\n\nvaultedonline.com",
+   "alt": "Graphic titled Term sheet in, you stay in control. A checklist with a Select all checkbox, an N of M ticked count and four unticked rows, beside a card listing what the reader never does: edit a value, turn on Use this for all my loans, save anything.",
+   "image": "images/2026-11-20/1247-fb-vaulted-term-sheet-new-loan.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Start a new loan from a term sheet + new fields (PR #60)."
+    },
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Term sheet reader on the Documents tab (PR #54)."
+    },
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "A \"Select all\" checkbox. ... \"N of M ticked\" count."
+    },
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "What it never does: Edit a value. Turn on \"Use this for all my loans\". Save anything."
+    },
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Values still arrive unticked."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "four checklist rows",
+     "calc": "schematic placeholder rows in graphic, illustrative, no values shown"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afdae0ba509ab209388d42c"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-20T14:00:00-05:00",
+   "topic": "private-lending-market-structure",
+   "kind": "data",
+   "text": "In 2025, Forecasa counted 15,865 active private lenders, up from 13,860 in 2024. Of those, 6,128 had not originated in 2024. That is 39 percent.\n\nMeanwhile the top 10 lenders by unit count captured 24.7 percent of 2025 originations, up from 23.8 percent in 2024. So about 75 percent of originations went to every other lender.\n\nMost volume sits with other lenders, and nearly two in five active lenders are new.\n\nLenders can watch who is entering their market.",
+   "alt": "Two horizontal bars. Top: 15,865 active private lenders in 2025, of which 6,128 new, 39 percent, and 9,737 that also originated in 2024. Bottom: the top 10 lenders captured 24.7 percent of 2025 originations by unit count, 75.3 percent went to all others.",
+   "image": "images/2026-11-20/1400-li-private-lending-market-structure.png",
+   "sources": [
+    {
+     "title": "From New Frontier to Established Markets",
+     "publisher": "American Association of Private Lenders (data: Forecasa)",
+     "url": "https://aaplonline.com/articles/market-trends/from-new-frontier-to-established-markets",
+     "date": "2026-10-28",
+     "quote": "Forecasa identified 15,865 active private lenders in 2025, a 14.5% increase over 2024\u2019s 13,860."
+    },
+    {
+     "title": "From New Frontier to Established Markets",
+     "publisher": "American Association of Private Lenders (data: Forecasa)",
+     "url": "https://aaplonline.com/articles/market-trends/from-new-frontier-to-established-markets",
+     "date": "2026-10-28",
+     "quote": "6,128 lenders that originated in 2025 had not originated in 2024, representing 39% of the year\u2019s active originator base."
+    },
+    {
+     "title": "From New Frontier to Established Markets",
+     "publisher": "American Association of Private Lenders (data: Forecasa)",
+     "url": "https://aaplonline.com/articles/market-trends/from-new-frontier-to-established-markets",
+     "date": "2026-10-28",
+     "quote": "The top 10 private lenders by unit count captured 24.7% of 2025 originations versus 23.8% in 2024"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "9,737",
+     "calc": "15865-6128 = 9737"
+    },
+    {
+     "figure": "39 percent",
+     "calc": "round(6128/15865*100) = 39 (38.6, reported by source as 39)"
+    },
+    {
+     "figure": "75.3 / about 75 percent",
+     "calc": "100-24.7 = 75.3"
+    },
+    {
+     "figure": "nearly two in five",
+     "calc": "6128/15865 = 0.386"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afa44c08e87c256a39ca2fe"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-20T17:27:00-05:00",
+   "topic": "borrower-background-checks-basics",
+   "kind": "evergreen",
+   "text": "A borrower looks great on paper. What can a lender check before closing?\n\nIdentity: government ID can be checked against public records, and the person signing the note can be confirmed.\n\nLitigation: court records can show lawsuits, judgments, bankruptcies and prior foreclosures.\n\nLiens: a lien review can look for IRS tax liens, mechanics' liens or HOA super-liens.\n\nExperience: a project history list can show addresses, purchase prices, sale prices and timelines.\n\nAn undisclosed prior foreclosure is far more useful to know before funding than after. What a lender checks varies by lender and by state.\n\nvaultedonline.com",
+   "alt": "Four checklist cards on borrower checks before closing: identity (government ID against public records), litigation (lawsuits, judgments, bankruptcies, prior foreclosures), liens (IRS tax, mechanics and HOA super-liens), experience (project history list). Checks vary by lender and state.",
+   "image": "images/2026-11-20/1727-fb-borrower-background-checks-basics.png",
+   "sources": [
+    {
+     "title": "Know Your Borrower: Source of Funds and Anti-Money Laundering Checks in Private Lending",
+     "publisher": "LBC Capital",
+     "url": "https://lbccapital.com/know-your-borrower-source-of-funds-and-anti-money-laundering-checks-in-private-lending/",
+     "date": "2026-11-12",
+     "quote": "For an individual borrower, that means checking government ID against public records."
+    },
+    {
+     "title": "Know Your Borrower: Source of Funds and Anti-Money Laundering Checks in Private Lending",
+     "publisher": "LBC Capital",
+     "url": "https://lbccapital.com/know-your-borrower-source-of-funds-and-anti-money-laundering-checks-in-private-lending/",
+     "date": "2026-11-12",
+     "quote": "A search of court records, liens, judgments, bankruptcies, and prior foreclosures tells a lender a lot."
+    },
+    {
+     "title": "Know Your Borrower: Source of Funds and Anti-Money Laundering Checks in Private Lending",
+     "publisher": "LBC Capital",
+     "url": "https://lbccapital.com/know-your-borrower-source-of-funds-and-anti-money-laundering-checks-in-private-lending/",
+     "date": "2026-11-12",
+     "quote": "An undisclosed prior foreclosure is far more useful to know before funding than after."
+    },
+    {
+     "title": "Hard Money Lending: Your Essential Due Diligence Checklist",
+     "publisher": "Note Servicing Center",
+     "url": "https://noteservicingcenter.com/hard-money-lending-your-essential-due-diligence-checklist-for-safe-investments/",
+     "date": "2026-11-15",
+     "quote": "Confirm the person signing the note is who they claim to be."
+    },
+    {
+     "title": "Hard Money Lending: Your Essential Due Diligence Checklist",
+     "publisher": "Note Servicing Center",
+     "url": "https://noteservicingcenter.com/hard-money-lending-your-essential-due-diligence-checklist-for-safe-investments/",
+     "date": "2026-11-15",
+     "quote": "Confirm no IRS tax liens, mechanics\u2019 liens, or HOA super-liens are attached"
+    },
+    {
+     "title": "Hard Money Lending: Your Essential Due Diligence Checklist",
+     "publisher": "Note Servicing Center",
+     "url": "https://noteservicingcenter.com/hard-money-lending-your-essential-due-diligence-checklist-for-safe-investments/",
+     "date": "2026-11-15",
+     "quote": "Request a project history list with addresses, purchase prices, sale prices, and timelines"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "no computed figures",
+     "calc": "none; page undated for Note Servicing Center, accessed 2026-11-15"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afdae0c6c30c3c862872c0e"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-21T09:32:00-05:00",
+   "topic": "cash-out-refi-private-loan-basics",
+   "kind": "evergreen",
+   "text": "A borrower asks to refinance a $400,000 property. Same risk as a rate-term refi? Not once cash leaves the deal.\n\nIllustrative: the payoff is $210,000. A rate-term refinance replaces it, so the new loan is roughly $210,000 before costs, or 52.5% of value. Add $90,000 cash out and the loan is $300,000, or 75%. Equity falls from $190,000 to $100,000.\n\nFannie Mae caps cash back on its limited cash-out refinance at the greater of 1% of the new loan or $2,000.\n\nLenders can size leverage on the new loan, not the old payoff. Terms vary by lender.\n\nvaultedonline.com",
+   "alt": "Two cards compare a rate-term refinance and a cash-out refinance on a $400,000 property with a $210,000 payoff. Rate-term: loan $210,000, 52.5 percent of value, equity $190,000. Cash-out with $90,000 to the borrower: loan $300,000, 75 percent, equity $100,000. Illustrative.",
+   "image": "images/2026-11-21/0932-fb-cash-out-refi-private-loan-basics.png",
+   "sources": [
+    {
+     "title": "B2-1.3-02, Limited Cash-Out Refinance Transactions",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b2-1.3-02/limited-cash-out-refinance-transactions",
+     "date": "2025-10-08",
+     "quote": "does not exceed the greater of 1% of the new refinance loan amount or $2,000;"
+    },
+    {
+     "title": "A look at cash-out refinance mortgages and their borrowers between 2013 to 2023",
+     "publisher": "CFPB Office of Research blog",
+     "url": "https://www.consumerfinance.gov/archive/blog/office-of-research-blog-a-look-at-cash-out-refinance-mortgages-and-their-borrowers-between-2013-to-2023/",
+     "date": "2023-12-18",
+     "quote": "where a homeowner borrows an amount substantially greater than what they owe on their existing mortgage"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$400,000 / $210,000 / $90,000",
+     "calc": "illustrative inputs: value, payoff, cash out"
+    },
+    {
+     "figure": "$300,000",
+     "calc": "210000+90000 = 300000"
+    },
+    {
+     "figure": "52.5%",
+     "calc": "210000/400000*100 = 52.5"
+    },
+    {
+     "figure": "75%",
+     "calc": "300000/400000*100 = 75.0"
+    },
+    {
+     "figure": "$190,000",
+     "calc": "400000-210000 = 190000"
+    },
+    {
+     "figure": "$100,000",
+     "calc": "400000-300000 = 100000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afdae0c275aba8f453e953b"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-21T13:47:00-05:00",
+   "topic": "reinstatement-vs-payoff-basics",
+   "kind": "evergreen",
+   "text": "A borrower gets a default notice on a loan with a $260,000 balance. How much does it take to stop the foreclosure?\n\nIt depends on the route.\n\nReinstatement brings the loan current in one lump sum: missed payments plus late fees and foreclosure costs, such as attorney fees. Suppose the quote is $9,000.\n\nPayoff pays the whole remaining balance plus similar fees and costs. Here, that is $260,000 or more.\n\nWhether a borrower has a right to reinstate varies by state and by the loan documents. Lenders can put each figure in a written quote.\n\nGeneral education, not legal advice.\n\nvaultedonline.com",
+   "alt": "Two comparison cards for an illustrative loan with a $260,000 balance and a default notice. Reinstatement: one lump sum to bring the loan current, illustrative quote $9,000. Payoff: the whole remaining balance plus fees and costs, $260,000 or more. Rights vary by state and loan documents.",
+   "image": "images/2026-11-21/1347-fb-reinstatement-vs-payoff-basics.png",
+   "sources": [
+    {
+     "title": "What's the Difference Between Reinstatement and Payoff in Foreclosure?",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/whats-the-difference-between-reinstatement-payoff-foreclosure.html",
+     "date": "2025-04-01",
+     "quote": "A 'reinstatement' occurs when the borrower brings the delinquent loan current in one lump sum. A 'payoff' occurs when the borrower pays the total amount required to satisfy the loan balance. The quote will include the unpaid principal balance and interest, plus any fees and costs."
+    },
+    {
+     "title": "Reinstatement and Payoff to Prevent Foreclosure",
+     "publisher": "Justia",
+     "url": "https://justia.com/foreclosure/reinstatement-and-payoff",
+     "date": "2026-11-15 (accessed; page undated)",
+     "quote": "Reinstatement involves making a single payment to catch up with everything due on a loan. State law may provide a deadline for reinstatement, or your mortgage or deed of trust may provide a deadline."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$260,000",
+     "calc": "illustrative unpaid loan balance, chosen by author"
+    },
+    {
+     "figure": "$9,000",
+     "calc": "illustrative reinstatement quote (arrears plus fees and costs), from assignment"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afefe27abf4ba608b7671ae"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-21T17:27:00-05:00",
+   "topic": "survey-and-boundary-risk-basics",
+   "kind": "evergreen",
+   "text": "A title policy may not cover a boundary problem.\n\nOne reason is the survey exception. Standard title policies exclude matters that a correct survey would reveal, such as an encroachment, where a structure crosses a property line without legal authorization.\n\nOnce a survey flags one, the title company lists it as a specific exception. And if a building a lender funds sits partly on a neighbor's land, the lender's security interest is compromised.\n\nLenders can read the exceptions on a title commitment and ask whether a survey is needed. Requirements vary by state and by lender. Not legal advice.\n\nvaultedonline.com",
+   "alt": "Three step cards: the title policy excludes matters a correct survey would reveal; a survey flags an encroachment and the title company lists it as a specific exception; the lender weighs a building sitting partly on a neighbor's land. A panel says lenders can ask whether a survey is needed.",
+   "image": "images/2026-11-21/1727-fb-survey-and-boundary-risk-basics.png",
+   "sources": [
+    {
+     "title": "Best Practices: The Survey Exception",
+     "publisher": "Starfield & Smith",
+     "url": "https://starfieldsmith.com/2018/10/best-practices-the-survey-exception/",
+     "date": "2018-10-24",
+     "quote": "Any encroachment, encumbrance, violation, variation, or adverse circumstance affecting the title"
+    },
+    {
+     "title": "What Happens If an ALTA Survey Reveals an Encroachment?",
+     "publisher": "ALTA Land Survey",
+     "url": "https://altalandsurvey.com/what-happens-if-an-alta-survey-reveals-an-encroachment/",
+     "date": "2026-06-05",
+     "quote": "An encroachment happens when a structure or improvement crosses a property line without legal authorization. Standard title insurance policies exclude matters that a correct survey would reveal. Once an ALTA survey flags an encroachment, the title company lists it as a specific exception. If a building they fund sits partially on a neighbor\u2019s land, their security interest is compromised."
+    },
+    {
+     "title": "Title Policy May not Cover Boundary Disputes",
+     "publisher": "FindLaw",
+     "url": "https://corporate.findlaw.com/?p=32232",
+     "date": "2017-07-11",
+     "quote": "The title insurance policy typically purchased by Buyers during escrow generally does not cover boundary defects."
+    }
+   ],
+   "derived": [],
+   "status": "queued",
+   "buffer_id": "6afefe28443a2a9f2fc32064"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-22T10:15:00-05:00",
+   "topic": "borrower-liquidity-requirement",
+   "kind": "evergreen",
+   "text": "A bank statement shows a balance. It does not show where the money came from.\n\nFor conventional purchase loans, Fannie Mae defines a large deposit as a single deposit over 50 percent of monthly qualifying income. If those funds are needed to close, the lender must document an acceptable source. Freddie Mac defines it differently.\n\nIllustrative: on $7,000 a month, the line is $3,500. A $45,000 deposit is well over it.\n\nPrivate lender policies may differ. Lenders may ask for documents showing the source before counting the cash.\n\nvaultedonline.com",
+   "alt": "Bar chart with an illustrative $45,000 single deposit far above a $3,500 line, which is 50 percent of $7,000 monthly income. Cards give the Fannie Mae and Freddie Mac large deposit tests and note that private lender policy varies.",
+   "image": "images/2026-11-22/1015-fb-borrower-liquidity-requirement.png",
+   "sources": [
+    {
+     "title": "B3-4.2-02, Depository Accounts",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-02/depository-accounts",
+     "date": "2022-12-14",
+     "quote": "A large deposit is defined as a single deposit that exceeds 50% of the total monthly qualifying income for the loan."
+    },
+    {
+     "title": "B3-4.2-02, Depository Accounts",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b3-4.2-02/depository-accounts",
+     "date": "2022-12-14",
+     "quote": "If funds from a large deposit are needed to complete the purchase transaction, the lender must document that those funds are from an acceptable source."
+    },
+    {
+     "title": "Funds required for the mortgage transaction 5501.1 (Freddie Mac Guide text)",
+     "publisher": "homebuyer.com reproduction of Freddie Mac Guide",
+     "url": "https://homebuyer.com/guidelines/freddie-mac/funds-required-for-the-mortgage-transaction-5501-1",
+     "date": "2026-02-24",
+     "quote": "For purchase transaction Mortgages, the Seller must document the source of funds for any \"large deposit\""
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$7,000 monthly income (illustrative)",
+     "calc": "chosen input"
+    },
+    {
+     "figure": "$45,000 deposit (illustrative)",
+     "calc": "chosen input"
+    },
+    {
+     "figure": "$3,500",
+     "calc": "0.5*7000 = 3500.0"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afefe29fd08883b646c413e"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-22T13:47:00-05:00",
+   "topic": "title-commitment-reading-basics",
+   "kind": "evergreen",
+   "text": "A title commitment arrives before closing. Where should a lender look?\n\nSchedule A holds the basic facts: effective date, who is insured, amount of insurance, current owner and legal description.\n\nSchedule B, Part I lists requirements to meet before the policy is issued, such as payments or documents that must be completed.\n\nSchedule B, Part II lists exceptions, matters the policy will not cover. In the ALTA form, an exception can cover anything first appearing in the public records after the commitment date.\n\nLenders can check the insured and amount, then read every exception.\n\nvaultedonline.com",
+   "alt": "Three cards explain a title commitment. Schedule A lists the basic facts: effective date, who is insured, amount of insurance, current owner and legal description. Schedule B Part I lists requirements to meet before the policy is issued. Schedule B Part II lists exceptions, matters the policy will not cover.",
+   "image": "images/2026-11-22/1347-fb-title-commitment-reading-basics.png",
+   "sources": [
+    {
+     "title": "Understanding Your Title Commitment",
+     "publisher": "First American Title",
+     "url": "https://www.firstam.com/home-buying-guide/understanding-your-title-commitment/",
+     "date": "2026-11-15",
+     "quote": "The first part of Schedule B lists all the requirements that must be met before your policy will be issued. The second part of Schedule B lists the matters that will be exceptions in your policy, which are things not covered."
+    },
+    {
+     "title": "ALTA Commitment for Title Insurance (7-1-21)",
+     "publisher": "American Land Title Association (form hosted by Stewart)",
+     "url": "https://assets.stewart.com/en/forms/2021-7/alta-commitment-7-1-21.html",
+     "date": "2021-08-10",
+     "quote": "Any defect, lien, encumbrance, adverse claim, or other matter that appears for the first time in the Public Records or is created, attaches, or is disclosed between the Commitment Date and the date on which all of the Schedule B, Part I\u2014Requirements are met."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "no computed figures",
+     "calc": "post uses no numbers beyond schedule names; Part I/II labels from sources"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6afefe29cac0791c5d8c4e63"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-22T17:27:00-05:00",
+   "topic": "tax-and-insurance-escrow-basics",
+   "kind": "evergreen",
+   "text": "A $4,800 tax bill and a $1,800 insurance premium. Who is watching them on your loan?\n\nWith escrow, the borrower usually sends one twelfth of each bill with every payment. $4,800 plus $1,800 is $6,600 a year, so $550 a month: $400 for tax and $150 for insurance. The servicer pays the bills.\n\nWithout escrow, the borrower pays both bills directly. Unpaid property taxes can become a lien on the property, and if a policy lapses a lender may buy its own coverage. Lenders may want proof that both are paid.\n\nTerms vary by lender and by state.\n\nvaultedonline.com",
+   "alt": "Two rows of twelve monthly boxes. With escrow, each month shows $550, one twelfth of $4,800 tax plus $1,800 insurance. Without escrow, the borrower pays $4,800 and $1,800 directly in two lumps. Formula: ($4,800 + $1,800) divided by 12 equals $550. Amounts illustrative.",
+   "image": "images/2026-11-22/1727-fb-tax-and-insurance-escrow-basics.png",
+   "sources": [
+    {
+     "title": "What is escrow?",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-escrow-en-140/",
+     "date": "2024-09-11",
+     "quote": "Your mortgage servicer will manage the escrow account and pay these bills on your behalf."
+    },
+    {
+     "title": "What is escrow?",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-escrow-en-140/",
+     "date": "2024-09-11",
+     "quote": "The money that goes into the account comes from a portion of your monthly mortgage payment."
+    },
+    {
+     "title": "What Is a Mortgage Escrow Account?",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/what-is-a-mortgage-escrow-account.html",
+     "date": "2025-08-04",
+     "quote": "usually at the rate of one-twelfth of the yearly amount that's due."
+    },
+    {
+     "title": "What Is a Mortgage Escrow Account?",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/what-is-a-mortgage-escrow-account.html",
+     "date": "2025-08-04",
+     "quote": "Also, when you don't pay the property taxes, the overdue amount becomes a lien on the property."
+    },
+    {
+     "title": "What Is a Mortgage Escrow Account?",
+     "publisher": "Nolo",
+     "url": "https://www.nolo.com/legal-encyclopedia/what-is-a-mortgage-escrow-account.html",
+     "date": "2025-08-04",
+     "quote": "might buy a \"force-placed\" or \"lender-placed\" insurance policy"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$4,800 and $1,800",
+     "calc": "illustrative annual tax and insurance, chosen by us"
+    },
+    {
+     "figure": "$6,600",
+     "calc": "4800 + 1800 = 6600"
+    },
+    {
+     "figure": "$550",
+     "calc": "6600 / 12 = 550"
+    },
+    {
+     "figure": "$400",
+     "calc": "4800 / 12 = 400"
+    },
+    {
+     "figure": "$150",
+     "calc": "1800 / 12 = 150"
+    },
+    {
+     "figure": "12",
+     "calc": "months in a year; one twelfth per Nolo"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b004fb777e195b72206f6bb"
+  }
+ ]
 }
