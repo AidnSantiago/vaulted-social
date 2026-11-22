@@ -31,8 +31,8 @@
      "calc": "track*v/6.0 on a 6-month axis (graphic only)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c89d864a011050437d0"
   },
   {
    "channel": "li",
@@ -73,8 +73,8 @@
      "calc": "500000*0.98 = 490000"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037cadd864a011050444aa"
   },
   {
    "channel": "fb",
@@ -99,8 +99,8 @@
      "calc": "grouping of the listed questions: person or entity, property, numbers, timeline, experience = 5 (headline no longer prints the count)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c89bf5d5a73b6ce7b5f"
   },
   {
    "channel": "fb",
@@ -140,8 +140,8 @@
      "calc": "43750/175000*100 = 25.0"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c8ac72676f5e96be853"
   },
   {
    "channel": "fb",
@@ -178,8 +178,8 @@
      "calc": "595/215, 2070/1126, 3322/2207 (graphic footnote)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c8acc364169c193d242"
   },
   {
    "channel": "li",
@@ -211,8 +211,8 @@
      "calc": "graphic footnote reference taken from the backlog quote, no arithmetic"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037caec72676f5e96bf87d"
   },
   {
    "channel": "fb",
@@ -237,8 +237,8 @@
      "calc": "graphic footnote reference taken from the backlog quote, no arithmetic"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c8bbf5d5a73b6ce7b9a"
   },
   {
    "channel": "fb",
@@ -292,8 +292,8 @@
      "calc": "count of the listed review steps"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c9dd864a01105043dd2"
   },
   {
    "channel": "fb",
@@ -344,8 +344,8 @@
      "calc": "3044.74-2742.84 = 301.91"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c9dd864a01105043e1f"
   },
   {
    "channel": "fb",
@@ -378,8 +378,8 @@
      "calc": "graphic footnote reference from the backlog heading, no arithmetic"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c9ecc364169c193d779"
   },
   {
    "channel": "li",
@@ -438,8 +438,8 @@
      "calc": "1848/1500 = 1.232"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037caecc364169c193de10"
   },
   {
    "channel": "fb",
@@ -487,8 +487,8 @@
      "calc": "illustrative timeline, 7 months apart (between 4 and 12)"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c9ed864a01105043eb1"
   },
   {
    "channel": "fb",
@@ -569,8 +569,8 @@
      "calc": "round(2650/2850,2) = 0.93"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037c9fd864a01105043f00"
   },
   {
    "channel": "fb",
@@ -613,7 +613,7 @@
      "calc": "count of illustrative schedule items: quarterly statements, annual tax returns, insurance renewal proof"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -660,8 +660,8 @@
      "calc": "quoted regulatory figures, no arithmetic; timeline positions on graphic are -15, 0, +15, +30 days"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037cafd864a01105044542"
   },
   {
    "channel": "fb",
@@ -713,7 +713,7 @@
      "calc": "5175.0-4387.5 = 787.5"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -746,7 +746,7 @@
      "calc": "count of conditions in UCC 3-309(a): entitled when lost / not transfer or seizure / cannot reasonably obtain possession"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -779,7 +779,7 @@
      "calc": "illustrative inputs chosen by author; no arithmetic"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -809,8 +809,8 @@
      "calc": "graphic footnote reference from the backlog heading, no arithmetic"
     }
    ],
-   "status": "planned",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b037cb0d5eabfb8cceb444b"
   },
   {
    "channel": "fb",
@@ -857,7 +857,7 @@
      "calc": "255000 - 215000 = 40000"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -890,7 +890,7 @@
      "calc": "len(body.split()) excluding final line = 92"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -930,7 +930,7 @@
      "calc": "series labels from AAPL quote (ALTA 25, ALTA 17, ALTA 9); no arithmetic, no example amounts used"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -975,7 +975,7 @@
      "calc": "illustrative holding period"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1012,7 +1012,7 @@
      "calc": "len(body.split()) = 99"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1070,7 +1070,7 @@
      "calc": "no illustrative or computed figures used"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   },
   {
@@ -1137,7 +1137,7 @@
      "calc": "first quarter label"
     }
    ],
-   "status": "planned",
+   "status": "held",
    "buffer_id": null
   }
  ]
