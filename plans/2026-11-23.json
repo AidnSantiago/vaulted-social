@@ -613,8 +613,8 @@
      "calc": "count of illustrative schedule items: quarterly statements, annual tax returns, insurance renewal proof"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b044455f3aecf260a9a5cea"
   },
   {
    "channel": "li",
