@@ -713,8 +713,8 @@
      "calc": "5175.0-4387.5 = 787.5"
     }
    ],
-   "status": "held",
-   "buffer_id": null
+   "status": "queued",
+   "buffer_id": "6b0595a0dc114f12a67018e3"
   },
   {
    "channel": "fb",
