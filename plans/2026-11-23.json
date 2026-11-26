@@ -525,14 +525,14 @@
           "publisher": "Ascension Private",
           "url": "https://ascensionprivate.com/dscr-refinance-readiness/",
           "date": "2026-11-22 (accessed; page undated)",
-          "quote": "DSCR = Gross Monthly Rent ÷ Monthly PITIA"
+          "quote": "DSCR = Gross Monthly Rent \u00f7 Monthly PITIA"
         },
         {
           "title": "DSCR Loans Explained: The Investor's Guide",
           "publisher": "HardMoneyHome",
           "url": "https://www.hardmoneyhome.com/blog/dscr-loans-explained-the-investors-guide-to-debt-service-coverage-ratio-loans/",
           "date": "2026-08-21",
-          "quote": "DSCR = monthly rent ÷ monthly PITIA (principal, interest, taxes, insurance, and association dues)."
+          "quote": "DSCR = monthly rent \u00f7 monthly PITIA (principal, interest, taxes, insurance, and association dues)."
         }
       ],
       "derived": [
@@ -677,7 +677,7 @@
           "publisher": "Rocket Mortgage",
           "url": "https://www.rocketmortgage.com/learn/interest-rate-floor",
           "date": "2026-05-01",
-          "quote": "An interest rate floor is the lowest interest rate that your adjustable-rate mortgage can have once its rate begins to adjust. A rate floor places a limit on how low the loan’s rate can drop."
+          "quote": "An interest rate floor is the lowest interest rate that your adjustable-rate mortgage can have once its rate begins to adjust. A rate floor places a limit on how low the loan\u2019s rate can drop."
         },
         {
           "title": "Interest rate floor (glossary)",
@@ -857,8 +857,8 @@
           "calc": "255000 - 215000 = 40000"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6b0838aef0d87308ee4c2ae1"
     },
     {
       "channel": "fb",
@@ -881,7 +881,7 @@
           "publisher": "Point",
           "url": "https://point.com/blog/hard-money-loan-requirements",
           "date": "2025-09-22",
-          "quote": "When it comes to qualifying for a hard money loan, the biggest factor isn't your credit score — it's your skin in the game. The minimum credit score is usually flexible, but a FICO score of 550 or higher is preferred by some lenders. Hard money lenders often require a certain level of experience if the intended use is to rehab distressed properties."
+          "quote": "When it comes to qualifying for a hard money loan, the biggest factor isn't your credit score \u2014 it's your skin in the game. The minimum credit score is usually flexible, but a FICO score of 550 or higher is preferred by some lenders. Hard money lenders often require a certain level of experience if the intended use is to rehab distressed properties."
         }
       ],
       "derived": [
@@ -890,8 +890,8 @@
           "calc": "len(body.split()) excluding final line = 92"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6b0838af97cc1e20801f537e"
     },
     {
       "channel": "fb",
@@ -907,7 +907,7 @@
           "publisher": "Williams Mullen",
           "url": "https://williamsmullen.com/insights/news/legal-news/title-endorsement-basics-0",
           "date": "2024-11-18",
-          "quote": "A title endorsement is an addition to or limitation of title insurance coverage that is attached to a title insurance policy. Without ALTA Endorsement 17-06, a policy does not insure a particular means of access. offers a variety of coverages related to the divestment of mortgage liens, violations of restrictions and encroachments. commonly known as the “Comprehensive Endorsement”"
+          "quote": "A title endorsement is an addition to or limitation of title insurance coverage that is attached to a title insurance policy. Without ALTA Endorsement 17-06, a policy does not insure a particular means of access. offers a variety of coverages related to the divestment of mortgage liens, violations of restrictions and encroachments. commonly known as the \u201cComprehensive Endorsement\u201d"
         },
         {
           "title": "Title Policy Endorsements 101",
@@ -921,7 +921,7 @@
           "publisher": "Old Republic Title",
           "url": "https://media.oldrepublictitle.com/ebook/alta-endorsement-guide/files/basic-html/page2.html",
           "date": "2026-03-01",
-          "quote": "Endorsements are attached to the standard ALTA Owner’s or Loan Policy and are designed to insure risks not covered in the standard policies."
+          "quote": "Endorsements are attached to the standard ALTA Owner\u2019s or Loan Policy and are designed to insure risks not covered in the standard policies."
         }
       ],
       "derived": [
@@ -930,8 +930,8 @@
           "calc": "series labels from AAPL quote (ALTA 25, ALTA 17, ALTA 9); no arithmetic, no example amounts used"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6b0838b097cc1e20801f53a5"
     },
     {
       "channel": "fb",
@@ -975,8 +975,8 @@
           "calc": "illustrative holding period"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6b0838b080ee2e8b667fef17"
     },
     {
       "channel": "fb",
@@ -1012,8 +1012,8 @@
           "calc": "len(body.split()) = 99"
         }
       ],
-      "status": "held",
-      "buffer_id": null
+      "status": "queued",
+      "buffer_id": "6b0838b1e1a214b89bdb3a30"
     },
     {
       "channel": "fb",
