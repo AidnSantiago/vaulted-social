@@ -1,1144 +1,1144 @@
 {
-  "week_start": "2026-11-23",
-  "posts": [
+ "week_start": "2026-11-23",
+ "posts": [
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-23T08:42:00-05:00",
+   "topic": "nar-existing-home-sales-oct-2026",
+   "kind": "data",
+   "text": "Existing-home sales fell 5.5 percent in October to a seasonally adjusted annual rate of 3.75 million, NAR reported on November 12, 2026.\n\nThe median price was up 0.4 percent from a year earlier, to $416,700. But unsold inventory reached 1.59 million units, a 5.1-month supply, up from 4.7 months in September and 4.4 a year earlier. Median time on market was 35 days, up from 33 in September.\n\nNational figures may not match the collateral market. Lenders can check recent comparable sales and days on market near the property before setting exit and ARV assumptions.\n\nvaultedonline.com",
+   "alt": "Light graphic titled Home sales slowed to 3.75M as supply rose to 5.1 months. Bars show months of supply: 4.4 in October 2025, 4.7 in September 2026, 5.1 in October 2026. Cards: median price $416,700, up 0.4 percent; time on market 35 days.",
+   "image": "images/2026-11-23/0842-fb-nar-existing-home-sales-oct-2026.png",
+   "sources": [
     {
-      "channel": "fb",
-      "slot_local": "2026-11-23T08:42:00-05:00",
-      "topic": "nar-existing-home-sales-oct-2026",
-      "kind": "data",
-      "text": "Existing-home sales fell 5.5 percent in October to a seasonally adjusted annual rate of 3.75 million, NAR reported on November 12, 2026.\n\nThe median price was up 0.4 percent from a year earlier, to $416,700. But unsold inventory reached 1.59 million units, a 5.1-month supply, up from 4.7 months in September and 4.4 a year earlier. Median time on market was 35 days, up from 33 in September.\n\nNational figures may not match the collateral market. Lenders can check recent comparable sales and days on market near the property before setting exit and ARV assumptions.\n\nvaultedonline.com",
-      "alt": "Light graphic titled Home sales slowed to 3.75M as supply rose to 5.1 months. Bars show months of supply: 4.4 in October 2025, 4.7 in September 2026, 5.1 in October 2026. Cards: median price $416,700, up 0.4 percent; time on market 35 days.",
-      "image": "images/2026-11-23/0842-fb-nar-existing-home-sales-oct-2026.png",
-      "sources": [
-        {
-          "title": "Existing-home sales decreased 5.5% in October",
-          "publisher": "National Association of Realtors",
-          "url": "https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report",
-          "date": "2026-11-12",
-          "quote": "Existing-home sales decreased 5.5% to a seasonally adjusted annual rate of 3.75 million in October. The median existing-home sales price increased 0.4% to $416,700. Total housing inventory was 1.59 million units, up 1.3% from September and 4.6% from October 2025. Unsold inventory represented a 5.1-month supply, up from 4.7 months in September and 4.4 months in October 2025. The median time on market was 35 days, up from 33 days in September and 34 days in October 2025."
-        },
-        {
-          "title": "October existing home sales sink to 16-year low, rates only partly to blame",
-          "publisher": "RISMedia",
-          "url": "https://www.rismedia.com/2026/11/12/october-existing-home-sales-sink-to-16-year-low-rates-only-partly-to-blame/",
-          "date": "2026-11-12",
-          "quote": "Existing-home sales decreased 5.5% month-over-month to a rate of 3.75 million. Median existing-home sale prices increased more modestly, only crawling up 0.4% year-over-year to $416,700."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "bar widths",
-          "calc": "track*v/6.0 on a 6-month axis (graphic only)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c89d864a011050437d0"
+     "title": "Existing-home sales decreased 5.5% in October",
+     "publisher": "National Association of Realtors",
+     "url": "https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report",
+     "date": "2026-11-12",
+     "quote": "Existing-home sales decreased 5.5% to a seasonally adjusted annual rate of 3.75 million in October. The median existing-home sales price increased 0.4% to $416,700. Total housing inventory was 1.59 million units, up 1.3% from September and 4.6% from October 2025. Unsold inventory represented a 5.1-month supply, up from 4.7 months in September and 4.4 months in October 2025. The median time on market was 35 days, up from 33 days in September and 34 days in October 2025."
     },
     {
-      "channel": "li",
-      "slot_local": "2026-11-23T11:34:00-05:00",
-      "topic": "case-shiller-aug-2026",
-      "kind": "data",
-      "text": "The national Case-Shiller index rose 2.1 percent over the year to August 2026. Chicago rose 6.7 percent. Seattle fell 2.0 percent. That is an 8.7 point spread between two of the 20 cities.\n\nTake a property worth $500,000 a year ago. At the Chicago rate it is about $533,500 now. At the national rate, $510,500. At the Seattle rate, $490,000.\n\nA citywide index does not value one property. Lenders can still compare local trends with the national figure when reviewing collateral values and exit assumptions.",
-      "alt": "Light graphic titled One national number, very different cities. Bars show annual home price change to August 2026: Chicago up 6.7 percent, U.S. National up 2.1 percent, Seattle down 2.0 percent. Cards show an illustrative $500,000 property at each rate: $533,500, $510,500, $490,000.",
-      "image": "images/2026-11-23/1134-li-case-shiller-aug-2026.png",
-      "sources": [
-        {
-          "title": "S&P Cotality Case-Shiller Index Reports Annual Gain in August 2026",
-          "publisher": "S&P Dow Jones Indices",
-          "url": "https://press.spglobal.com/2026-10-27-S-P-COTALITY-CASE-SHILLER-INDEX-REPORTS-ANNUAL-GAIN-IN-AUGUST-2026",
-          "date": "2026-10-27",
-          "quote": "The S&P Cotality Case-Shiller U.S. National Home Price NSA Index posted a 2.1% annual gain for August 2026, Chicago reported the highest annual gain among the 20 cities with a 6.7% increase in August. Seattle posted the lowest return in August, falling 2.0%."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$500,000",
-          "calc": "illustrative property value one year ago"
-        },
-        {
-          "figure": "8.7 point",
-          "calc": "round(6.7-(-2.0),1) = 8.7"
-        },
-        {
-          "figure": "$533,500",
-          "calc": "500000*1.067 = 533500"
-        },
-        {
-          "figure": "$510,500",
-          "calc": "500000*1.021 = 510500"
-        },
-        {
-          "figure": "$490,000",
-          "calc": "500000*0.98 = 490000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037cadd864a011050444aa"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-23T12:47:00-05:00",
-      "topic": "vaulted-apply-page-questions",
-      "kind": "product",
-      "text": "What does a lender need to know before saying yes or no to an inquiry?\n\nThe apply page in Vaulted asks optional questions a lender decides on. Who is applying, a person or an entity, and is there a guarantor? What is the property type and purpose? What are the purchase price, value today, value after repairs and repair budget? Close-by date and exit plan? How many deals in the last 3 years?\n\nThe answers appear on the inquiry card and in the lender email.\n\nA deal can be easier to judge when the basics arrive with it.\n\nvaultedonline.com",
-      "alt": "Card listing the optional apply page questions: who is applying, the property, the numbers, the timeline and the experience, with an arrow to the inquiry card and the lender email where the answers appear.",
-      "image": "images/2026-11-23/1247-fb-vaulted-apply-page-questions.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog, live feature",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Apply page asks the questions a lender decides on. Optional questions added: Person or entity: name, type, guarantor. Property type and purpose. Purchase price, value today, value after repairs and repair budget. Close-by date and exit plan. Deals in the last 3 years. Where answers go: The answers appear on the inquiry card and in the lender email."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "5 question groups",
-          "calc": "grouping of the listed questions: person or entity, property, numbers, timeline, experience = 5 (headline no longer prints the count)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c89bf5d5a73b6ce7b5f"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-23T17:27:00-05:00",
-      "topic": "vacancy-clause-insurance-basics",
-      "kind": "evergreen",
-      "text": "Picture a hypothetical $175,000 rehab loan that closes. The borrower moves out, and the house sits empty during the work. Then a pipe bursts, and the damage is $43,750.\n\nThat is 25 percent of the loan balance. If the policy has a vacancy clause, as many homeowners policies do, the insurer may limit or exclude some losses once the property has been vacant for a stated number of consecutive days. Whether a renovation counts as vacant depends on the policy wording.\n\nLenders can ask for the policy's vacancy wording and whether an endorsement or other coverage fits the project.\n\nvaultedonline.com",
-      "alt": "Bar graphic: a $43,750 water damage claim is 25 percent of an illustrative $175,000 loan. Three cards: a hazard policy may limit or exclude some losses after a stated vacancy period; vandalism, glass and water damage are examples; renovation status depends on policy wording.",
-      "image": "images/2026-11-23/1727-fb-vacancy-clause-insurance-basics.png",
-      "sources": [
-        {
-          "title": "Unoccupied and Vacant Home Insurance: What to Know",
-          "publisher": "NerdWallet",
-          "url": "https://www.nerdwallet.com/article/insurance/unoccupied-vacant-home-insurance",
-          "date": "2026-04-17",
-          "quote": "Many insurance companies will limit coverage for homes that aren't lived in after a certain amount of time, typically 30 or 60 consecutive days. A policy may not pay for damage from the following scenarios if your house is vacant for an extended period: Broken glass; Vandalism; Burst pipes or other water damage."
-        },
-        {
-          "title": "Policy Definitions of Vacancy and Occupancy",
-          "publisher": "PropertyCasualty360 (FC&S, Claims Magazine)",
-          "url": "https://www.propertycasualty360.com/fcs/2021/06/17/policy-definitions-of-vacancy-and-occupancy/",
-          "date": "2021-06-17",
-          "quote": "It bears mention that some older forms use 30 days, so be sure to check your specific policy language. Therefore, a dwelling being renovated can be considered to be vacant."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$175,000",
-          "calc": "illustrative loan amount (assignment)"
-        },
-        {
-          "figure": "$43,750",
-          "calc": "illustrative damage claim (assignment)"
-        },
-        {
-          "figure": "25 percent",
-          "calc": "43750/175000*100 = 25.0"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c8ac72676f5e96be853"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-24T09:15:00-05:00",
-      "topic": "attom-reo-states-h1-2026",
-      "kind": "data",
-      "text": "Repossessions are not rising evenly. In ATTOM's first-half 2026 data, Colorado REOs (properties repossessed by lenders) went from 215 to 595, up 176.7 percent. Florida went from 1,126 to 2,070, up 83.8 percent. Texas went from 2,207 to 3,322, up 50.5 percent.\n\nThese are among states with at least 500 REOs in the first half of 2026. A lender watching only the national trend can miss what is happening where their loans sit.\n\nLenders can compare each state in their portfolio with local data and revisit exit assumptions, such as resale timelines and values.\n\nvaultedonline.com",
-      "alt": "Bar chart of ATTOM first-half REO counts, 2025 vs 2026. Colorado 215 to 595, up 176.7 percent. Florida 1,126 to 2,070, up 83.8 percent. Texas 2,207 to 3,322, up 50.5 percent.",
-      "image": "images/2026-11-24/0915-fb-attom-reo-states-h1-2026.png",
-      "sources": [
-        {
-          "title": "Top 10 U.S. States with the Largest Annual Increases in REOs in the First Half of 2026",
-          "publisher": "ATTOM",
-          "url": "https://www.attomdata.com/news/market-trends/figuresfriday/top-10-u-s-states-with-the-largest-annual-increases-in-reos-in-the-first-half-of-2026/",
-          "date": "2026-07-31",
-          "quote": "Colorado recorded the largest annual increase, with REOs rising 176.7 percent from 215 in the first half of 2025 to 595 in the first half of 2026. Florida followed (up 83.8 percent from 1,126 to 2,070), ... Texas (up 50.5 percent, from 2,207 to 3,322) ... Among states with at least 500 REO properties in the first half of 2026 ... 27,983 U.S. properties were repossessed by lenders (REO)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "176.7 percent",
-          "calc": "round((595/215-1)*100,1)=176.7"
-        },
-        {
-          "figure": "83.8 percent",
-          "calc": "round((2070/1126-1)*100,1)=83.8"
-        },
-        {
-          "figure": "50.5 percent",
-          "calc": "round((3322/2207-1)*100,1)=50.5"
-        },
-        {
-          "figure": "2.767 / 1.838 / 1.505",
-          "calc": "595/215, 2070/1126, 3322/2207 (graphic footnote)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c8acc364169c193d242"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-24T10:21:00-05:00",
-      "topic": "vaulted-dashboard-analytics",
-      "kind": "product",
-      "text": "Interest collected this year is a useful number. By itself it does not show what the loans earn or how much is lent against value.\n\nVaulted dashboard analytics includes a chart of interest collected, plus a rate and an LTV.\n\nThe chart totals the same figure as the Collected This Year tile, so the chart and the headline number agree.\n\nA lender can read what came in, then check the rate and LTV as well. Cash, yield and leverage each answer a different question.",
-      "alt": "Three cards: Interest collected, shown as a chart; Rate, shown as analytics; LTV, shown as analytics. Below them, a bar reads Chart total equals the Collected This Year tile. Takeaway: cash, yield, leverage each answer a different question.",
-      "image": "images/2026-11-24/1021-li-vaulted-dashboard-analytics.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Dashboard analytics (PR #57, Nov 7, deployed `62517a8`): checked live. Both pages show an 11.14% rate and 60.0% LTV, and the chart totals the YTD tile ($99,497.93)."
-        },
-        {
-          "title": "Vaulted product backlog",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "$99,497.93 interest across 18 loans, which matches the dashboard's Collected This Year."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "PR 57, Nov 7 2026",
-          "calc": "graphic footnote reference taken from the backlog quote, no arithmetic"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037caec72676f5e96bf87d"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-24T12:47:00-05:00",
-      "topic": "vaulted-money-to-lend",
-      "kind": "product",
-      "text": "Before funding the next deal, a private lender has two questions to answer. How much money is available to lend? And how are the loans already out there doing?\n\nIn Vaulted, Money to Lend is shown above Portfolio Health. The capital question comes first, and the condition of the existing loans sits right below it.\n\nBoth answers are in view before the next loan is considered. A lender can read what is available to put out, then check the health of what is already out, in that order.\n\nvaultedonline.com",
-      "alt": "Two stacked cards with a down arrow. Card 1, shown first: Money to Lend, the capital question. Card 2, shown below it: Portfolio Health, the condition of the loans already out. Takeaway: capital, then health.",
-      "image": "images/2026-11-24/1247-fb-vaulted-money-to-lend.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Money to Lend above Portfolio Health (PR #59, Nov 7, deployed `f9e9610`)."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "PR 59, Nov 7 2026",
-          "calc": "graphic footnote reference taken from the backlog quote, no arithmetic"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c8bbf5d5a73b6ce7b9a"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-24T17:27:00-05:00",
-      "topic": "loan-extension-request-checklist",
-      "kind": "evergreen",
-      "text": "A borrower asks for more time on a $460,000 loan and offers a 1 percent extension fee, $4,600. Before answering, a lender can review these items, in one sensible order:\n\n1. Value. Current condition and an updated valuation.\n2. Taxes and insurance. Evidence that both are current.\n3. Payment history. Record of performance, plus any delays explained.\n4. Exit plan. A named repayment source, remaining steps and a realistic schedule.\n5. Fee. Last, because $4,600 does not fix weak answers to the first four.\n\nTerms vary by lender.\n\nvaultedonline.com",
-      "alt": "Five numbered check cards for a loan extension request: value, taxes and insurance, payment history, exit plan, and fee. The fee card shows the illustrative math, $460,000 times 1 percent equals $4,600, placed last.",
-      "image": "images/2026-11-24/1727-fb-loan-extension-request-checklist.png",
-      "sources": [
-        {
-          "title": "When Real Estate Loans Need More Time: How Extensions Should Be Evaluated",
-          "publisher": "BiggerPockets (Dan Handford)",
-          "url": "https://www.biggerpockets.com/member-blogs/10864/106843-when-real-estate-loans-need-more-time-how-extensions-should-be-evaluated",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "Current collateral condition and updated value"
-        },
-        {
-          "title": "When Real Estate Loans Need More Time: How Extensions Should Be Evaluated (taxes, insurance)",
-          "publisher": "BiggerPockets (Dan Handford)",
-          "url": "https://www.biggerpockets.com/member-blogs/10864/106843-when-real-estate-loans-need-more-time-how-extensions-should-be-evaluated",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "Evidence of taxes, insurance, and property protection"
-        },
-        {
-          "title": "When Real Estate Loans Need More Time (payment history, repayment path)",
-          "publisher": "BiggerPockets (Dan Handford)",
-          "url": "https://www.biggerpockets.com/member-blogs/10864/106843-when-real-estate-loans-need-more-time-how-extensions-should-be-evaluated",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "The review should also consider payment history, communication quality, execution against the original plan, and obligations outside the specific loan. A credible path to repayment: The lender should identify the expected repayment source, the remaining steps, the responsible parties, and a realistic schedule."
-        },
-        {
-          "title": "SR 23-5: Policy Statement on Prudent Commercial Real Estate Loan Accommodations and Workouts",
-          "publisher": "Federal Reserve Board",
-          "url": "https://WWW.FEDERALRESERVE.GOV/supervisionreg/srletters/SR2305.pdf",
-          "date": "2023-06-30",
-          "quote": "should consider the current project plans and market conditions in a new or updated appraisal or evaluation"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$460,000, 1 percent",
-          "calc": "illustrative inputs chosen for the example"
-        },
-        {
-          "figure": "$4,600",
-          "calc": "460000*1/100 = 4600"
-        },
-        {
-          "figure": "5 checks",
-          "calc": "count of the listed review steps"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c9dd864a01105043dd2"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-25T08:56:00-05:00",
-      "topic": "pmms-nov19-2026",
-      "kind": "data",
-      "text": "Freddie Mac says the 30-year fixed rate averaged 7.28 percent as of November 19, 2026, up from 7.11 percent last week. The 15-year averaged 6.66 percent. A year ago they were 6.26 and 5.54.\n\nIf a borrower assumed last year's 6.26 percent exit rate, that assumption may no longer hold. On an illustrative $445,000, 30-year loan, principal and interest is $2,743 a month at 6.26 percent and $3,045 at 7.28 percent, $302 more.\n\nLenders can re-run the exit payment at a current rate. This survey covers owner-occupied purchase loans and is not a forecast.\n\nvaultedonline.com",
-      "alt": "Freddie Mac weekly averages as of November 19, 2026: 30-year fixed 7.28 percent, up from 7.11 last week and 6.26 a year ago; 15-year 6.66 percent, up from 6.45 and 5.54. Illustrative $445,000 payment: $2,743 at 6.26 percent, $3,045 at 7.28 percent, $302 more a month.",
-      "image": "images/2026-11-25/0856-fb-pmms-nov19-2026.png",
-      "sources": [
-        {
-          "title": "Primary Mortgage Market Survey (30-year)",
-          "publisher": "Freddie Mac",
-          "url": "https://www.freddiemac.com/pmms",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "The 30-year fixed-rate mortgage averaged 7.28% as of November 19, 2026, up from last week when it averaged 7.11%. A year ago at this time, the 30-year FRM averaged 6.26%."
-        },
-        {
-          "title": "Primary Mortgage Market Survey (15-year)",
-          "publisher": "Freddie Mac",
-          "url": "https://www.freddiemac.com/pmms",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "The 15-year fixed-rate mortgage averaged 6.66%, up from last week when it averaged 6.45%. A year ago at this time, the 15-year FRM averaged 5.54%."
-        },
-        {
-          "title": "Primary Mortgage Market Survey (coverage)",
-          "publisher": "Freddie Mac",
-          "url": "https://www.freddiemac.com/pmms",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "(good/excellent credit, 20% loans, home purchase loans on owner occupied 1-unit single-family properties)"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$445,000, 30 years",
-          "calc": "illustrative loan chosen by author"
-        },
-        {
-          "figure": "$2,743",
-          "calc": "445000*(6.26/1200)/(1-(1+6.26/1200)**-360) = 2742.84"
-        },
-        {
-          "figure": "$3,045",
-          "calc": "445000*(7.28/1200)/(1-(1+7.28/1200)**-360) = 3044.74"
-        },
-        {
-          "figure": "$302",
-          "calc": "3044.74-2742.84 = 301.91"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c9dd864a01105043e1f"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-25T12:47:00-05:00",
-      "topic": "vaulted-doc-retention-one-year",
-      "kind": "product",
-      "text": "A borrower uploads a document through Vaulted. How long does it stay?\n\nFiles sent through a document request are kept for one year after upload. A daily scheduled job then deletes them. If an account is closed, all of its uploaded files are deleted.\n\nAccepted file types are PDF, JPEG, PNG, HEIC, DOCX and XLSX, up to 20 MB, checked by their contents.\n\nFor a lender, that is a retention clock to plan around. Files needed past one year can be saved elsewhere first. Record keeping rules vary by state and by lender.\n\nvaultedonline.com",
-      "alt": "Graphic titled Uploaded today, deleted one year later. A timeline runs from a borrower upload to deletion by the daily scheduled job after one year. Cards list accepted file types PDF, JPEG, PNG, HEIC, DOCX and XLSX up to 20 MB, and note that closing an account deletes all uploaded files.",
-      "image": "images/2026-11-25/1247-fb-vaulted-doc-retention-one-year.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog: Document requests, files kept one year (PR #72, Nov 13) - Files",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Checked by their contents: PDF, JPEG, PNG, HEIC, DOCX and XLSX, up to 20 MB. Deleted one year after upload by the daily cron. Closing an account deletes them all."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "one year",
-          "calc": "taken from source quote: deleted one year after upload by the daily cron; no arithmetic"
-        },
-        {
-          "figure": "20 MB",
-          "calc": "taken from source quote: up to 20 MB; no arithmetic"
-        },
-        {
-          "figure": "PR 72, Nov 13 2026",
-          "calc": "graphic footnote reference from the backlog heading, no arithmetic"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c9ecc364169c193d779"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-25T17:09:00-05:00",
-      "topic": "rental-vacancy-q3-2026",
-      "kind": "data",
-      "text": "The Census Bureau put the U.S. rental vacancy rate at 7.6 percent in the third quarter of 2026, up from 7.3 percent in the second quarter and 7.1 percent a year earlier.\n\nWhy it matters for DSCR: one lender source defines it as gross monthly rent divided by the monthly PITIA payment. Take illustrative rent of $2,000 against a $1,500 payment. That is 1.33. Cut rent by 7.6 percent, or $152 a month, and it is 1.23.\n\nA national rate is not a local one. Lenders can test a deal at a market vacancy rate, not only at full rent.",
-      "alt": "Bar chart of the U.S. rental vacancy rate: 7.1 percent in Q3 2025, 7.3 percent in Q2 2026, 7.6 percent in Q3 2026. Below, an illustrative DSCR test: $2,000 rent over $1,500 PITIA is 1.33, and rent cut by 7.6 percent to $1,848 gives 1.23.",
-      "image": "images/2026-11-25/1709-li-rental-vacancy-q3-2026.png",
-      "sources": [
-        {
-          "title": "Quarterly Residential Vacancies and Homeownership, Third Quarter 2026",
-          "publisher": "U.S. Census Bureau",
-          "url": "https://www.census.gov/housing/hvs/files/qtr326/Q326press.pdf",
-          "date": "2026-10-28",
-          "quote": "National vacancy rates in the third quarter 2026 were 7.6 percent for rental housing and 1.2 percent for homeowner housing. The rental vacancy rate was higher than the rate in the third quarter 2025 (7.1 percent) and higher than the rate in the second quarter 2026 (7.3 percent)."
-        },
-        {
-          "title": "DSCR Loan: What It Is and How It Works",
-          "publisher": "LendingTree",
-          "url": "https://www.lendingtree.com/home/mortgage/dscr-loan/",
-          "date": "2026-11-04",
-          "quote": "DSCR is calculated by dividing a property's gross monthly rental income by its monthly housing payment, known as PITIA."
-        },
-        {
-          "title": "Guide to DSCR Ratio & PITIA in Real Estate",
-          "publisher": "Visio Lending",
-          "url": "https://visiolending.com/blog/dscr",
-          "date": "2021-04-20",
-          "quote": "calculated by dividing the monthly rent by the monthly principal, interest, taxes, insurance, and association dues (PITIA)."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$2,000 rent",
-          "calc": "illustrative input"
-        },
-        {
-          "figure": "$1,500 payment",
-          "calc": "illustrative input"
-        },
-        {
-          "figure": "1.33",
-          "calc": "2000/1500 = 1.3333"
-        },
-        {
-          "figure": "$152",
-          "calc": "2000*0.076 = 152.0"
-        },
-        {
-          "figure": "$1,848",
-          "calc": "2000*(1-0.076) = 1848.0"
-        },
-        {
-          "figure": "1.23",
-          "calc": "1848/1500 = 1.232"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037caecc364169c193de10"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-25T17:27:00-05:00",
-      "topic": "appraisal-staleness-basics",
-      "kind": "evergreen",
-      "text": "A lender gets an appraisal in January. The loan closes in August. Is that value still good?\n\nIt varies by lender. For loans sold to Fannie Mae, the Selling Guide calls for an appraisal update when an appraisal is more than four months old but under 12 months. If the update shows a decline, a new appraisal is required. Federal bank guidelines list passage of time and local market volatility as reasons a new appraisal may be necessary.\n\nIllustrative: $425,000 falling 5 percent becomes $403,750.\n\nLenders can set an age limit and ask for an update.\n\nvaultedonline.com",
-      "alt": "Light graphic titled How old is too old for an appraisal. A bar shows 0 to 4 months, 4 to 12 months with an update, and over 12 months under the Fannie Mae benchmark. Illustrative cards: a $425,000 value falls 5 percent to $403,750, a $21,250 gap.",
-      "image": "images/2026-11-25/1727-fb-appraisal-staleness-basics.png",
-      "sources": [
-        {
-          "title": "B4-1.2-04, Appraisal Age and Use Requirements (06/04/2025)",
-          "publisher": "Fannie Mae Selling Guide",
-          "url": "https://selling-guide.fanniemae.com/sel/b4-1.2-04/appraisal-age-and-use-requirements",
-          "date": "2025-06-04",
-          "quote": "When the effective date of the original appraisal report is more than four months but less than 12 months, the appraiser must perform an appraisal update that includes inspecting the exterior of the property. If the appraiser indicates on the Form 1004D that the property value has declined, then the lender must obtain a new appraisal for the property. When an appraisal is obtained, the property must be appraised within the 12 months prior to the date of the note and mortgage."
-        },
-        {
-          "title": "Interagency Appraisal and Evaluation Guidelines, Section XIV, Validity of Appraisals and Evaluations (Federal Register)",
-          "publisher": "Federal Register / FDIC, OCC, Federal Reserve, NCUA",
-          "url": "https://www.govinfo.gov/content/pkg/FR-2010-12-10/html/2010-30913.htm",
-          "date": "2010-12-10",
-          "quote": "A new appraisal or evaluation is necessary if the originally reported market value has changed due to factors such as: Passage of time. Volatility of the local market. Such criteria will vary depending upon the condition of the property and the marketplace, and the nature of the transaction."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$425,000",
-          "calc": "illustrative appraised value chosen by author"
-        },
-        {
-          "figure": "5 percent",
-          "calc": "illustrative decline chosen by author"
-        },
-        {
-          "figure": "$403,750",
-          "calc": "425000*95//100 = 403750"
-        },
-        {
-          "figure": "$21,250",
-          "calc": "425000-403750 = 21250 (graphic only)"
-        },
-        {
-          "figure": "January / August",
-          "calc": "illustrative timeline, 7 months apart (between 4 and 12)"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c9ed864a01105043eb1"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-26T08:25:00-05:00",
-      "topic": "bridge-to-perm-conversion-basics",
-      "kind": "evergreen",
-      "text": "A 12 month bridge loan ends with a payoff. Can the permanent loan cover it?\n\nLenders can test the takeout first. Value: One source says a low appraisal reduces a DSCR loan, capped at 75 percent of appraised value. A hypothetical $430,000 appraisal gives $322,500. A $335,000 payoff leaves a $12,500 gap.\n\nCoverage: DSCR is gross monthly rent divided by monthly PITIA. $2,650 over $2,850 is 0.93. One source says most DSCR lenders require at least 1.00.\n\nLease: One source says a month to month tenant or family member lease does not satisfy most DSCR lenders.\n\nCutoffs vary.\n\nvaultedonline.com",
-      "alt": "Three checks on a bridge loan takeout. Value test: $430,000 appraisal x 75 percent = $322,500, leaving a $12,500 gap against a $335,000 payoff. Coverage test: $2,650 rent / $2,850 PITIA = 0.93, below 1.00. Lease: month to month leases do not satisfy most DSCR lenders. Illustrative.",
-      "image": "images/2026-11-26/0825-fb-bridge-to-perm-conversion-basics.png",
-      "sources": [
-        {
-          "title": "Bridge to DSCR Refinance Playbook",
-          "publisher": "Peersense",
-          "url": "https://peersense.com/learn/bridge-to-dscr-refinance",
-          "date": "2026-05-16",
-          "quote": "Low appraisal reduces DSCR loan amount (capped at 75% of appraised value)."
-        },
-        {
-          "title": "Bridge to DSCR Refinance Playbook",
-          "publisher": "Peersense",
-          "url": "https://peersense.com/learn/bridge-to-dscr-refinance",
-          "date": "2026-05-16",
-          "quote": "Month to month tenant or family member lease doesn't satisfy most DSCR lenders."
-        },
-        {
-          "title": "DSCR Refinance Readiness: Exiting a Bridge Loan",
-          "publisher": "Ascension Private",
-          "url": "https://ascensionprivate.com/dscr-refinance-readiness/",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "Most DSCR lenders require a minimum ratio of 1.00, with 1.20 or higher unlocking better rates and higher LTV."
-        },
-        {
-          "title": "DSCR Refinance Readiness: Exiting a Bridge Loan",
-          "publisher": "Ascension Private",
-          "url": "https://ascensionprivate.com/dscr-refinance-readiness/",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "DSCR = Gross Monthly Rent \u00f7 Monthly PITIA"
-        },
-        {
-          "title": "DSCR Loans Explained: The Investor's Guide",
-          "publisher": "HardMoneyHome",
-          "url": "https://www.hardmoneyhome.com/blog/dscr-loans-explained-the-investors-guide-to-debt-service-coverage-ratio-loans/",
-          "date": "2026-08-21",
-          "quote": "DSCR = monthly rent \u00f7 monthly PITIA (principal, interest, taxes, insurance, and association dues)."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$430,000",
-          "calc": "illustrative appraised value"
-        },
-        {
-          "figure": "$335,000",
-          "calc": "illustrative bridge payoff"
-        },
-        {
-          "figure": "12 month",
-          "calc": "illustrative bridge term"
-        },
-        {
-          "figure": "$322,500",
-          "calc": "430000*0.75 = 322500"
-        },
-        {
-          "figure": "$12,500",
-          "calc": "335000-322500 = 12500"
-        },
-        {
-          "figure": "$2,650",
-          "calc": "illustrative monthly gross rent"
-        },
-        {
-          "figure": "$2,850",
-          "calc": "illustrative monthly PITIA"
-        },
-        {
-          "figure": "0.93",
-          "calc": "round(2650/2850,2) = 0.93"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037c9fd864a01105043f00"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-26T12:47:00-05:00",
-      "topic": "borrower-reporting-covenants-basics",
-      "kind": "evergreen",
-      "text": "Can a lender require a borrower to send documents after closing? A loan agreement can, through a reporting covenant.\n\nLaw firm and bank sources describe affirmative covenants as promises to deliver financial statements, pay taxes and maintain insurance. One bank guide names quarterly financial statements or tax reports.\n\nAn illustrative schedule a lender can write down:\n\nQuarterly statements, due 25 days after quarter end\nAnnual tax returns\nInsurance renewal proof before expiry\n\nA named document and a date make a request checkable. Terms vary by lender.\n\nvaultedonline.com",
-      "alt": "Three cards show an illustrative borrower reporting schedule: quarterly financial statements due 25 days after quarter end, annual tax returns, and proof of insurance renewal before expiry. Takeaway: a named document and a date make a request checkable.",
-      "image": "images/2026-11-26/1247-fb-borrower-reporting-covenants-basics.png",
-      "sources": [
-        {
-          "title": "Negotiating Loan Documents for Borrowers - Part V",
-          "publisher": "Olshan",
-          "url": "https://www.olshanlaw.com/blogs-Securities-Law-Blog,negotiating-loan-documents-for-borrowers-part-v",
-          "date": "2020-06-16",
-          "quote": "Examples of affirmative covenants include promises to deliver financial statements to the lender, pay taxes, maintain insurance"
-        },
-        {
-          "title": "Understanding loan covenants",
-          "publisher": "Truist",
-          "url": "https://truist.com/resources/commercial-corporate-institutional/financing/articles/understanding-loan-covenants",
-          "date": "2026-07-31",
-          "quote": "Qualitative covenants specify information that your company must provide, like quarterly financial statements or tax reports."
-        },
-        {
-          "title": "Negotiating the Loan Agreement",
-          "publisher": "American Bar Association",
-          "url": "https://www.americanbar.org/groups/business_law/resources/business-law-today/2011-may/negotiating-the-loan-agreement/",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "The loan agreement will invariably require quarterly unaudited income statements and balance sheets"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "25 days",
-          "calc": "illustrative due date after quarter end, chosen by author"
-        },
-        {
-          "figure": "3",
-          "calc": "count of illustrative schedule items: quarterly statements, annual tax returns, insurance renewal proof"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b044455f3aecf260a9a5cea"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-26T15:40:00-05:00",
-      "topic": "servicing-transfer-notice-basics",
-      "kind": "evergreen",
-      "text": "A private loan is sold or its servicing moves. What must the borrower be told?\n\nFor covered consumer mortgage loans, Regulation X usually requires the outgoing servicer to give notice at least 15 days before a servicing transfer. The new servicer gives its own within 15 days after. Truth in Lending separately requires a new owner to notify the borrower within 30 days of a sale.\n\nRegulation X exempts business purpose loans, and Truth in Lending generally does too. State rules vary.\n\nConfirm loan purpose first, then check state law and the note with counsel. Not legal advice.",
-      "alt": "Timeline graphic of servicing transfer notices: the outgoing servicer notice at least 15 days before transfer, the new servicer notice within 15 days after, and a new owner notice within 30 days of a sale. A card notes business purpose loans are exempt from Regulation X.",
-      "image": "images/2026-11-26/1540-li-servicing-transfer-notice-basics.png",
-      "sources": [
-        {
-          "title": "12 CFR 1024.33 Mortgage servicing transfers",
-          "publisher": "Consumer Financial Protection Bureau",
-          "url": "https://www.consumerfinance.gov/rules-policy/regulations/1024/33/",
-          "date": "2026-11-22",
-          "quote": "not less than 15 days before the effective date of the transfer"
-        },
-        {
-          "title": "12 CFR 1024.33 Mortgage servicing transfers",
-          "publisher": "Cornell Legal Information Institute",
-          "url": "https://www.law.cornell.edu/cfr/text/12/1024.33",
-          "date": "2026-11-22",
-          "quote": "The transferee servicer shall provide the notice of transfer to the borrower not more than 15 days after the effective date of the transfer."
-        },
-        {
-          "title": "12 CFR 1024.5 Coverage of RESPA",
-          "publisher": "eCFR",
-          "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/subpart-A/section-1024.5",
-          "date": "2026-10-23",
-          "quote": "(2) Business purpose loans. An extension of credit primarily for a business, commercial, or agricultural purpose, as defined by 12 CFR 1026.3(a)(1) of Regulation Z."
-        },
-        {
-          "title": "15 U.S. Code 1641 Liability of assignees",
-          "publisher": "Cornell Legal Information Institute",
-          "url": "https://www.law.cornell.edu/uscode/text/15/1641",
-          "date": "2026-11-22",
-          "quote": "not later than 30 days after the date on which a mortgage loan is sold or otherwise transferred or assigned to a third party, the creditor that is the new owner or assignee of the debt shall notify the borrower in writing of such transfer"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "15 days, 30 days",
-          "calc": "quoted regulatory figures, no arithmetic; timeline positions on graphic are -15, 0, +15, +30 days"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037cafd864a01105044542"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-26T17:27:00-05:00",
-      "topic": "interest-rate-floor-basics",
-      "kind": "evergreen",
-      "text": "A hypothetical $540,000 interest-only loan is priced at prime plus 4 percent, with an 11.5 percent floor. What happens if prime falls?\n\nA rate floor limits how low an adjustable rate can drop. Illustrative primes:\n\nPrime 7.75 percent: rate 11.75 percent.\nPrime 6.75 percent: formula 10.75, floor sets 11.5 percent.\nPrime 5.75 percent: formula 9.75, floor sets 11.5 percent.\n\nAt 11.5 percent, monthly interest is $5,175.00. At the 9.75 percent formula rate it would be $4,387.50. The floor keeps interest $787.50 a month above the formula rate.\n\nLenders can confirm whether a note has a floor.\n\nvaultedonline.com",
-      "alt": "Table of an illustrative $540,000 interest-only loan priced at prime plus 4 percent with an 11.5 percent floor. Prime 7.75 gives 11.75 percent; prime 6.75 and 5.75 give 11.50 percent because the floor applies. Monthly interest is $5,175.00 at the floor versus $4,387.50 at 9.75 percent.",
-      "image": "images/2026-11-26/1727-fb-interest-rate-floor-basics.png",
-      "sources": [
-        {
-          "title": "Interest rate floor: Definition and how it works",
-          "publisher": "Rocket Mortgage",
-          "url": "https://www.rocketmortgage.com/learn/interest-rate-floor",
-          "date": "2026-05-01",
-          "quote": "An interest rate floor is the lowest interest rate that your adjustable-rate mortgage can have once its rate begins to adjust. A rate floor places a limit on how low the loan\u2019s rate can drop."
-        },
-        {
-          "title": "Interest rate floor (glossary)",
-          "publisher": "LendingTree",
-          "url": "https://www.lendingtree.com/glossary/interest-rate-floor/",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "An interest rate floor is the minimum interest rate possible for anadjustable rate mortgage."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$540,000, prime plus 4 percent, 11.5 percent floor, primes 7.75/6.75/5.75",
-          "calc": "illustrative inputs chosen by author"
-        },
-        {
-          "figure": "11.75 / 10.75 / 9.75 percent formula rates",
-          "calc": "[p+4 for p in (7.75,6.75,5.75)] = [11.75,10.75,9.75]"
-        },
-        {
-          "figure": "11.5 percent charged at primes 6.75 and 5.75",
-          "calc": "max(10.75,11.5)=11.5; max(9.75,11.5)=11.5"
-        },
-        {
-          "figure": "$5,175.00",
-          "calc": "540000*0.115/12 = 5175.0"
-        },
-        {
-          "figure": "$4,387.50",
-          "calc": "540000*0.0975/12 = 4387.5"
-        },
-        {
-          "figure": "$787.50",
-          "calc": "5175.0-4387.5 = 787.5"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b0595a0dc114f12a67018e3"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-27T08:00:00-05:00",
-      "topic": "note-custody-original-note-basics",
-      "kind": "evergreen",
-      "text": "Where is the original signed note right now?\n\nThe note is the borrower's written promise to repay. If a lender loses a note it was entitled to enforce, UCC 3-309 may let it enforce anyway, but it must prove the note's terms and its right to enforce. The court must also find the borrower is adequately protected against a claim by someone else.\n\nIn North Carolina, a lost note affidavit can attest to the loss and the terms. Rules vary by state.\n\nLenders can log where each original is held.\n\nvaultedonline.com",
-      "alt": "Three step cards from UCC 3-309 on what a lender without the original note must show: it was entitled to enforce when possession was lost, the loss was not a transfer or lawful seizure, and the note cannot be recovered. It must then prove the note terms and right to enforce.",
-      "image": "images/2026-11-27/0800-fb-note-custody-original-note-basics.png",
-      "sources": [
-        {
-          "title": "UCC 3-309. Enforcement of lost, destroyed, or stolen instrument",
-          "publisher": "Cornell Law School Legal Information Institute",
-          "url": "https://law.cornell.edu/ucc/3/3-309",
-          "date": "2026-11-22 (accessed; page undated)",
-          "quote": "A person seeking enforcement of an instrument under subsection (a) must prove the terms of the instrument and the person's right to enforce the instrument. The court may not enter judgment in favor of the person seeking enforcement unless it finds that the person required to pay the instrument is adequately protected against loss that might occur by reason of a claim by another person to enforce the instrument."
-        },
-        {
-          "title": "Dude, Where's My Note?",
-          "publisher": "UNC School of Government (Meredith Smith)",
-          "url": "https://civil.sog.unc.edu/?p=185",
-          "date": "2018-10-02",
-          "quote": "A person not in possession of the note who is entitled to enforce a lost, stolen or destroyed note pursuant to G.S. 25-3-309"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "3 cards (3-309(a)(1) to (3))",
-          "calc": "count of conditions in UCC 3-309(a): entitled when lost / not transfer or seizure / cannot reasonably obtain possession"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b06e7513b100906e758a5cc"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-27T12:47:00-05:00",
-      "topic": "vaulted-closing-condition-templates",
-      "kind": "product",
-      "text": "Is the insurance binder in? Who is chasing the appraisal? A lender can write the standard closing questions down once, then reuse them.\n\nIn Vaulted, a closing checklist is kept per loan, and each item has an owner. A template can be saved for all loans, so a standard list does not have to be retyped for every new one.\n\nMoving a loan's stage past an open blocking condition is stopped with a list of what is open. The lender can still choose \"Move anyway\".\n\nRequirements vary by lender.\n\nvaultedonline.com",
-      "alt": "Illustrative closing condition template: four conditions with owners (appraisal report, appraiser; entity documents, borrower; insurance binder, insurance agent; title commitment, title company). Notes: a per-loan checklist with an owner for each item, and a template that can be saved for all loans.",
-      "image": "images/2026-11-27/1247-fb-vaulted-closing-condition-templates.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog, Shipped: Closing conditions (#71)",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "A per-loan checklist with an owner for each item. A template can be saved for all loans."
-        },
-        {
-          "title": "Vaulted product backlog, Shipped: Closing conditions (#71)",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Moving a loan's stage past an open blocking condition is stopped with a list of what's open, and the lender can choose \"Move anyway\"."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "four example conditions and owners (appraisal report, entity documents, insurance binder, title commitment)",
-          "calc": "illustrative inputs chosen by author; no arithmetic"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b06e7529bfb1fde5bcba572"
-    },
-    {
-      "channel": "li",
-      "slot_local": "2026-11-27T14:00:00-05:00",
-      "topic": "vaulted-ein-business-only",
-      "kind": "product",
-      "text": "Collecting a tax ID from a borrower sounds routine. It is also the part of a loan file nobody wants spread across email and shared folders.\n\nIn Vaulted, tax IDs are handled narrowly. An EIN is accepted only with an entity type, and an SSN-shaped number is refused. Only the last 4 are shown, and only the owner can see them. Document fields, the term sheet reader and the apply page refuse every tax ID.\n\nLenders can ask where a full tax ID really needs to live, and keep it out of general loan fields.",
-      "alt": "Graphic titled EINs for businesses only, with the last 4 shown. Four cards: an EIN is accepted only with an entity type, SSN-shaped numbers are refused, only the last 4 are shown and only to the owner, and document fields, the term sheet reader and the apply page refuse every tax ID.",
-      "image": "images/2026-11-27/1400-li-vaulted-ein-business-only.png",
-      "sources": [
-        {
-          "title": "Vaulted product backlog: Year-end tax figures, EINs for businesses only (PR #68, Nov 12) - EINs",
-          "publisher": "Vaulted (vaultedonline.com)",
-          "url": "https://vaultedonline.com",
-          "date": "2026-11-15",
-          "quote": "Accepted only with an entity type; SSN-shaped numbers are refused. AES-256-GCM encrypted (`TAX_ID_ENCRYPTION_KEY`), with only the last 4 shown. Owner-only, enforced by a guard test. Document fields, the term-sheet reader and the apply page still refuse every tax ID."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "last 4",
-          "calc": "taken from source quote: only the last 4 shown; no arithmetic"
-        },
-        {
-          "figure": "PR 68, Nov 12 2026",
-          "calc": "graphic footnote reference from the backlog heading, no arithmetic"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b037cb0d5eabfb8cceb444b"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-27T17:27:00-05:00",
-      "topic": "short-sale-basics-lender-view",
-      "kind": "evergreen",
-      "text": "A borrower stops paying. Payoff is $255,000. A buyer offers $215,000. Does the lender say yes?\n\nThat is a short sale: the lender agrees to a sale below the loan balance. The shortfall here is $40,000. Whether the borrower still owes it varies by state and by the lender agreement.\n\nThe alternative is foreclosure. A Federal Reserve Bank of Philadelphia paper found short sales sold for 9.2 to 10.5 percent more on average, and notes longer foreclosure timelines can raise lender costs.\n\nLenders can weigh the offer against the full cost and time of foreclosing.\n\nvaultedonline.com",
-      "alt": "Bar chart of an illustrative short sale: a $255,000 loan payoff versus a $215,000 buyer offer, leaving a $40,000 shortfall. Two cards compare a short sale, which needs lender approval, with foreclosure, which may add carrying costs.",
-      "image": "images/2026-11-27/1727-fb-short-sale-basics-lender-view.png",
-      "sources": [
-        {
-          "title": "What is a short sale?",
-          "publisher": "Consumer Financial Protection Bureau",
-          "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-short-sale-en-290/",
-          "date": "2024-02-02",
-          "quote": "A short sale, which is a type of loss mitigation, is a sale of your home for less than what you owe on your mortgage."
-        },
-        {
-          "title": "What Is a Short Sale and How Does It Work?",
-          "publisher": "Freddie Mac",
-          "url": "https://myhome.freddiemac.com//blog/selling/what-is-a-short-sale-and-how-does-it-work",
-          "date": "2025-10-13",
-          "quote": "A short sale occurs when a homeowner sells their home for an amount less than the full amount owed on the mortgage. The process can only begin with the approval of your mortgage lender. You may be required to pay the difference between that price and the remaining balance on your mortgage."
-        },
-        {
-          "title": "A Shortage of Short Sales: Explaining the Underutilization of a Foreclosure Alternative (WP 19-13)",
-          "publisher": "Federal Reserve Bank of Philadelphia",
-          "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-13.pdf",
-          "date": "2019-02-01",
-          "quote": "homes selling as short sales transact at 9.2% to 10.5% higher prices on average than those that sell after foreclosure. Longer foreclosure timelines increase costs for lenders because they may have to cover missed property taxes, hazard insurance, and homeowner association payments."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$255,000",
-          "calc": "illustrative loan payoff chosen by author"
-        },
-        {
-          "figure": "$215,000",
-          "calc": "illustrative buyer offer chosen by author"
-        },
-        {
-          "figure": "$40,000",
-          "calc": "255000 - 215000 = 40000"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b0838aef0d87308ee4c2ae1"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-28T09:32:00-05:00",
-      "topic": "borrower-credit-score-use-private-lending",
-      "kind": "evergreen",
-      "text": "Does a 550 credit score end a hard money deal?\n\nNot automatically. NerdWallet, on hard money business loans, says requirements are \"largely based on the value of your collateral\" and that lenders do not typically weigh credit score as heavily. Point says the biggest factor is not credit score but skin in the game, and that some lenders prefer a FICO of 550 or higher.\n\nFor rehab loans, Point adds that lenders often require a certain level of experience.\n\nA lender can decide how much collateral, equity, experience and credit each count. That mix varies by lender.\n\nvaultedonline.com",
-      "alt": "Four cards on what hard money guides say lenders weigh: collateral value, skin in the game, experience on rehab loans, and credit score, where a FICO of 550 or higher is preferred by some lenders. Weights vary by lender.",
-      "image": "images/2026-11-28/0932-fb-borrower-credit-score-use-private-lending.png",
-      "sources": [
-        {
-          "title": "Hard Money Business Loans: What They Are and When to Get One",
-          "publisher": "NerdWallet",
-          "url": "https://www.nerdwallet.com/business/loans/learn/hard-money-business-loans",
-          "date": "2026-03-10",
-          "quote": "Hard money business loan requirements are largely based on the value of your collateral. ... they don't typically weigh these factors as heavily when underwriting your application."
-        },
-        {
-          "title": "Hard Money Loan Requirements",
-          "publisher": "Point",
-          "url": "https://point.com/blog/hard-money-loan-requirements",
-          "date": "2025-09-22",
-          "quote": "When it comes to qualifying for a hard money loan, the biggest factor isn't your credit score \u2014 it's your skin in the game. The minimum credit score is usually flexible, but a FICO score of 550 or higher is preferred by some lenders. Hard money lenders often require a certain level of experience if the intended use is to rehab distressed properties."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "word count",
-          "calc": "len(body.split()) excluding final line = 92"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b0838af97cc1e20801f537e"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-28T13:47:00-05:00",
-      "topic": "title-endorsements-basics",
-      "kind": "evergreen",
-      "text": "A title policy covers what it says, and an endorsement changes that. It is an addition to or limitation of coverage attached to the policy.\n\nThree add-ons a lender can ask about:\n\nSurvey: covers a difference between the insured land and a survey. It generally needs an ALTA survey.\n\nAccess: without it, a policy does not insure a particular means of access.\n\nComprehensive: can cover items like restriction violations and encroachments, depending on the version.\n\nAvailability and wording vary by state and title company. Lenders can ask the title company which endorsements fit the property.\n\nvaultedonline.com",
-      "alt": "Graphic titled Title endorsements, add-ons to the base policy. Three rows: Survey (ALTA 25, same as survey), Access (ALTA 17, vehicular and pedestrian access), Comprehensive (ALTA 9 series, restrictions and encroachments). Takeaway: lenders can ask the title company which endorsements fit the property.",
-      "image": "images/2026-11-28/1347-fb-title-endorsements-basics.png",
-      "sources": [
-        {
-          "title": "Title Endorsement Basics",
-          "publisher": "Williams Mullen",
-          "url": "https://williamsmullen.com/insights/news/legal-news/title-endorsement-basics-0",
-          "date": "2024-11-18",
-          "quote": "A title endorsement is an addition to or limitation of title insurance coverage that is attached to a title insurance policy. Without ALTA Endorsement 17-06, a policy does not insure a particular means of access. offers a variety of coverages related to the divestment of mortgage liens, violations of restrictions and encroachments. commonly known as the \u201cComprehensive Endorsement\u201d"
-        },
-        {
-          "title": "Title Policy Endorsements 101",
-          "publisher": "American Association of Private Lenders",
-          "url": "https://aaplonline.com/articles/legal/title-policy-endorsements-101/",
-          "date": "2020-11-06",
-          "quote": "Generally, the lender will be required to obtain an ALTA survey of the property to obtain this endorsement. ALTA 25 endorsements provide coverage for loss or damage due to a difference in the land insured in the policy. These endorsements should be considered when there is concern about access to the property. ALTA 9 is an endorsement that provides coverage for unrecorded covenants, notices, encroachments, or setbacks at the property."
-        },
-        {
-          "title": "ALTA Endorsements Guide",
-          "publisher": "Old Republic Title",
-          "url": "https://media.oldrepublictitle.com/ebook/alta-endorsement-guide/files/basic-html/page2.html",
-          "date": "2026-03-01",
-          "quote": "Endorsements are attached to the standard ALTA Owner\u2019s or Loan Policy and are designed to insure risks not covered in the standard policies."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "ALTA 25 / 17 / 9",
-          "calc": "series labels from AAPL quote (ALTA 25, ALTA 17, ALTA 9); no arithmetic, no example amounts used"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b0838b097cc1e20801f53a5"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-28T17:27:00-05:00",
-      "topic": "reo-holding-cost-basics",
-      "kind": "evergreen",
-      "text": "A lender takes back a property at foreclosure. Now the lender owns the bills.\n\nFederal Reserve guidance for banks on foreclosed property lists property taxes, insurance, utilities kept at a level that preserves the property, and maintenance. FDIC guidance says taxes should be paid in a timely manner to avoid penalties and interest.\n\nIllustrative monthly costs: taxes $540, insurance $310, utilities $180, upkeep $150. That is $1,180 a month, or $7,080 over six months.\n\nLenders can add holding costs to the resale timeline and price.\n\nvaultedonline.com",
-      "alt": "Bar chart of illustrative monthly holding costs on a foreclosed property: property taxes $540, insurance $310, utilities $180, upkeep $150. Totals: $1,180 a month and $7,080 over six months.",
-      "image": "images/2026-11-28/1727-fb-reo-holding-cost-basics.png",
-      "sources": [
-        {
-          "title": "Questions and Answers Related to the Management of Other Real Estate Owned Assets (SR-12-10)",
-          "publisher": "Federal Reserve Board",
-          "url": "https://www.federalreserve.gov/frrs/guidance/qas-for-federal-reserve-regulated-institutions-related-to-the-management-of-other-real-estate-owned-assets.htm",
-          "date": "2026-11-22",
-          "quote": "Adjusting utility services to a level appropriate to preserve the property; ... real estate taxes and insurance would be expensed if the institution is merely holding the property for future sale. (page undated, accessed 2026-11-22; FAQ dated June 28, 2012). Also: Operating expenses include, but are not limited to, legal fees and direct costs incurred for foreclosure, property maintenance, and state and local government assessments."
-        },
-        {
-          "title": "Other Real Estate Owned guidance",
-          "publisher": "FDIC",
-          "url": "https://www.fdic.gov/news/financial-institution-letters/2008/fil08062a.html",
-          "date": "2024-03-24",
-          "quote": "Taxes on ORE should be paid in a timely manner to avoid unnecessary penalties and interest."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "$540, $310, $180, $150",
-          "calc": "illustrative monthly property taxes, insurance, utilities, upkeep chosen by author"
-        },
-        {
-          "figure": "$1,180",
-          "calc": "540+310+180+150 = 1180"
-        },
-        {
-          "figure": "$7,080",
-          "calc": "1180*6 = 7080"
-        },
-        {
-          "figure": "six months",
-          "calc": "illustrative holding period"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b0838b080ee2e8b667fef17"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-29T10:15:00-05:00",
-      "topic": "default-notice-cure-period-basics",
-      "kind": "evergreen",
-      "text": "A borrower misses a payment. Can the lender start remedies right away? Notice and cure requirements may apply first.\n\nA notice of default is a formal written statement that a borrower has not met an obligation. It warns that remedies may follow if the default is not cured.\n\nThe cure period is the window to fix it. Illustrative: 15 days to pay the missed amount. Pay inside it and the default may be cured. Miss it, and remedies may follow.\n\nCure periods vary by transaction and loan documents, and state law may matter. Counsel can review both first.\n\nvaultedonline.com",
-      "alt": "Four step timeline: payment missed, notice of default, an illustrative 15 day cure window, then cured or not cured. Takeaway: cure periods vary by state and by loan documents, so lenders can read both before sending a notice.",
-      "image": "images/2026-11-29/1015-fb-default-notice-cure-period-basics.png",
-      "sources": [
-        {
-          "title": "Notice of default",
-          "publisher": "Cornell Legal Information Institute (Wex)",
-          "url": "https://www.law.cornell.edu/wex/notice_of_default",
-          "date": "2025-09-01",
-          "quote": "It warns that remedies under law or under the contract may follow if the default is not cured."
-        },
-        {
-          "title": "What just happened: a default or an event of default?",
-          "publisher": "Reed Smith",
-          "url": "https://www.reedsmith.com/our-insights/blogs/real-estate-legal-update/102mm62/what-just-happened-a-default-or-an-event-of-default/",
-          "date": "2026-03-06",
-          "quote": "the duration of any applicable cure periods can vary significantly from transaction to transaction. ... additional notice requirements or other conditions precedent may intervene before remedies become available."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "15 days",
-          "calc": "illustrative cure period chosen by author (10 days avoided: used in ledger payoff-statement-per-diem 2026-10-17)"
-        },
-        {
-          "figure": "word count",
-          "calc": "len(body.split()) = 99"
-        }
-      ],
-      "status": "queued",
-      "buffer_id": "6b0838b1e1a214b89bdb3a30"
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-29T13:47:00-05:00",
-      "topic": "lien-search-vs-title-search-basics",
-      "kind": "evergreen",
-      "text": "Three terms that sound alike are different things.\n\nA lien search looks for claims against a property. A title search reviews public records to confirm the legal owner and identify issues. A title commitment is a promise that the title insurance policy will be issued at closing.\n\nOne gap to know about: a traditional title search finds recorded liens only. A municipal lien search can find unrecorded items such as code violations and special assessments.\n\nLenders can ask the title company what was searched, and whether a municipal lien search fits the deal. Scope varies by state and lender.\n\nvaultedonline.com",
-      "alt": "Three cards compare a lien search (looks for legal claims against a property), a title search (reviews public records to confirm the legal owner and identify issues) and a title commitment (a promise a title policy will be issued at closing), plus a note that a traditional title search only locates recorded liens.",
-      "image": "images/2026-11-29/1347-fb-lien-search-vs-title-search-basics.png",
-      "sources": [
-        {
-          "title": "The Difference Between Residential and Commercial Lien Searches",
-          "publisher": "Commercial Partners (CTIC)",
-          "url": "https://commercialpartners.ctic.com/blog/the-difference-between-residential-and-commercial-lien-searches",
-          "date": "2026-03-11",
-          "quote": "Liens are legal claims against an individual or a property to secure a debt that is owed."
-        },
-        {
-          "title": "Property title search: How does it work?",
-          "publisher": "Rocket Mortgage",
-          "url": "https://www.rocketmortgage.com/learn/title-search",
-          "date": "2026-07-17",
-          "quote": "A title search is a review of public records used to confirm a property's legal owner and identify issues"
-        },
-        {
-          "title": "What Is a Title Commitment?",
-          "publisher": "Ownerly",
-          "url": "https://www.ownerly.com/real-estate/what-is-a-title-commitment/",
-          "date": "2021-06-17",
-          "quote": "The title commitment is a promise that the title insurance policy will be issued at closing."
-        },
-        {
-          "title": "Property title search: how to find recorded and unrecorded liens on a house",
-          "publisher": "PropLogix",
-          "url": "https://www.proplogix.com/blog/property-title-search-how-to-find-recorded-and-unrecorded-liens-on-a-house/",
-          "date": "2026-01-20",
-          "quote": "Additionally, this type of search will only tell you about recorded liens."
-        },
-        {
-          "title": "What is a municipal lien search and why do I need it",
-          "publisher": "Wolters Kluwer",
-          "url": "https://www.wolterskluwer.com/en/expert-insights/what-is-a-municipal-lien-search-and-why-do-i-need-it",
-          "date": "2024-05-17",
-          "quote": "goes beyond the traditional title search, which only locates recorded liens on a property."
-        }
-      ],
-      "derived": [
-        {
-          "figure": "word count 99 (excluding final line)",
-          "calc": "len(body.split()) = 99"
-        },
-        {
-          "figure": "no example numbers",
-          "calc": "no illustrative or computed figures used"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
-    },
-    {
-      "channel": "fb",
-      "slot_local": "2026-11-29T17:27:00-05:00",
-      "topic": "year-end-portfolio-review-checklist",
-      "kind": "evergreen",
-      "text": "A lender holds 24 loans. Six mature within 90 days. Would a year-end review catch them?\n\nNCUA examiner guidance for credit unions says systems should \"identify and report maturing loans,\" and that a lender should contact the borrower before maturity. It also lists paid property taxes. Abrigo lists insurance renewal due dates among items to track.\n\nA year-end list:\n\n1. Maturities in the next 90 days: 6 of 24 here\n2. Insurance expirations\n3. Property tax status\n4. Late payers\n5. Extension requests\n\nStarting in December may leave time to call borrowers first. Process varies by lender.\n\nvaultedonline.com",
-      "alt": "Grid of 24 numbered loan tiles with 6 highlighted in gold as maturing in the next 90 days (illustrative), beside five checklist cards: maturities, insurance, property taxes, late payers, extensions.",
-      "image": "images/2026-11-29/1727-fb-year-end-portfolio-review-checklist.png",
-      "sources": [
-        {
-          "title": "Commercial Loan Administration (Examiner's Guide)",
-          "publisher": "NCUA",
-          "url": "https://publishedguides.ncua.gov/examiner/Content/ExaminersGuide/Loans/Commercial&MBL/CommLoanAdmin/Administration.htm",
-          "date": "2021-10-14",
-          "quote": "A credit union's systems should be sufficient to identify and report maturing loans."
-        },
-        {
-          "title": "Commercial Loan Administration (Examiner's Guide)",
-          "publisher": "NCUA",
-          "url": "https://publishedguides.ncua.gov/examiner/Content/ExaminersGuide/Loans/Commercial&MBL/CommLoanAdmin/Administration.htm",
-          "date": "2021-10-14",
-          "quote": "The credit union should contact a borrower before a loan matures to determine the borrower's intentions regarding the loan"
-        },
-        {
-          "title": "Commercial Loan Administration (Examiner's Guide)",
-          "publisher": "NCUA",
-          "url": "https://publishedguides.ncua.gov/examiner/Content/ExaminersGuide/Loans/Commercial&MBL/CommLoanAdmin/Administration.htm",
-          "date": "2021-10-14",
-          "quote": "Paid property taxes to avoid tax liens which, in most jurisdictions, supersede a credit union's lien;"
-        },
-        {
-          "title": "After the Closing: A Recipe for Sound Loan Administration",
-          "publisher": "Abrigo",
-          "url": "https://www.abrigo.com/blog/after-the-closing-a-recipe-for-sound-loan-administration/",
-          "date": "2019-07-03",
-          "quote": "Insurance renewal due dates, file-review deadlines and financial reports that are required by the loan agreement"
-        }
-      ],
-      "derived": [
-        {
-          "figure": "24 loans",
-          "calc": "illustrative input"
-        },
-        {
-          "figure": "6 maturing (Six)",
-          "calc": "illustrative input"
-        },
-        {
-          "figure": "90 days",
-          "calc": "illustrative window for next-maturities list"
-        },
-        {
-          "figure": "18",
-          "calc": "24 - 6 = 18 (not maturing)"
-        },
-        {
-          "figure": "5 lists",
-          "calc": "count of checklist items"
-        },
-        {
-          "figure": "Q1",
-          "calc": "first quarter label"
-        }
-      ],
-      "status": "held",
-      "buffer_id": null
+     "title": "October existing home sales sink to 16-year low, rates only partly to blame",
+     "publisher": "RISMedia",
+     "url": "https://www.rismedia.com/2026/11/12/october-existing-home-sales-sink-to-16-year-low-rates-only-partly-to-blame/",
+     "date": "2026-11-12",
+     "quote": "Existing-home sales decreased 5.5% month-over-month to a rate of 3.75 million. Median existing-home sale prices increased more modestly, only crawling up 0.4% year-over-year to $416,700."
     }
-  ]
+   ],
+   "derived": [
+    {
+     "figure": "bar widths",
+     "calc": "track*v/6.0 on a 6-month axis (graphic only)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c89d864a011050437d0"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-23T11:34:00-05:00",
+   "topic": "case-shiller-aug-2026",
+   "kind": "data",
+   "text": "The national Case-Shiller index rose 2.1 percent over the year to August 2026. Chicago rose 6.7 percent. Seattle fell 2.0 percent. That is an 8.7 point spread between two of the 20 cities.\n\nTake a property worth $500,000 a year ago. At the Chicago rate it is about $533,500 now. At the national rate, $510,500. At the Seattle rate, $490,000.\n\nA citywide index does not value one property. Lenders can still compare local trends with the national figure when reviewing collateral values and exit assumptions.",
+   "alt": "Light graphic titled One national number, very different cities. Bars show annual home price change to August 2026: Chicago up 6.7 percent, U.S. National up 2.1 percent, Seattle down 2.0 percent. Cards show an illustrative $500,000 property at each rate: $533,500, $510,500, $490,000.",
+   "image": "images/2026-11-23/1134-li-case-shiller-aug-2026.png",
+   "sources": [
+    {
+     "title": "S&P Cotality Case-Shiller Index Reports Annual Gain in August 2026",
+     "publisher": "S&P Dow Jones Indices",
+     "url": "https://press.spglobal.com/2026-10-27-S-P-COTALITY-CASE-SHILLER-INDEX-REPORTS-ANNUAL-GAIN-IN-AUGUST-2026",
+     "date": "2026-10-27",
+     "quote": "The S&P Cotality Case-Shiller U.S. National Home Price NSA Index posted a 2.1% annual gain for August 2026, Chicago reported the highest annual gain among the 20 cities with a 6.7% increase in August. Seattle posted the lowest return in August, falling 2.0%."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$500,000",
+     "calc": "illustrative property value one year ago"
+    },
+    {
+     "figure": "8.7 point",
+     "calc": "round(6.7-(-2.0),1) = 8.7"
+    },
+    {
+     "figure": "$533,500",
+     "calc": "500000*1.067 = 533500"
+    },
+    {
+     "figure": "$510,500",
+     "calc": "500000*1.021 = 510500"
+    },
+    {
+     "figure": "$490,000",
+     "calc": "500000*0.98 = 490000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037cadd864a011050444aa"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-23T12:47:00-05:00",
+   "topic": "vaulted-apply-page-questions",
+   "kind": "product",
+   "text": "What does a lender need to know before saying yes or no to an inquiry?\n\nThe apply page in Vaulted asks optional questions a lender decides on. Who is applying, a person or an entity, and is there a guarantor? What is the property type and purpose? What are the purchase price, value today, value after repairs and repair budget? Close-by date and exit plan? How many deals in the last 3 years?\n\nThe answers appear on the inquiry card and in the lender email.\n\nA deal can be easier to judge when the basics arrive with it.\n\nvaultedonline.com",
+   "alt": "Card listing the optional apply page questions: who is applying, the property, the numbers, the timeline and the experience, with an arrow to the inquiry card and the lender email where the answers appear.",
+   "image": "images/2026-11-23/1247-fb-vaulted-apply-page-questions.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog, live feature",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Apply page asks the questions a lender decides on. Optional questions added: Person or entity: name, type, guarantor. Property type and purpose. Purchase price, value today, value after repairs and repair budget. Close-by date and exit plan. Deals in the last 3 years. Where answers go: The answers appear on the inquiry card and in the lender email."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "5 question groups",
+     "calc": "grouping of the listed questions: person or entity, property, numbers, timeline, experience = 5 (headline no longer prints the count)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c89bf5d5a73b6ce7b5f"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-23T17:27:00-05:00",
+   "topic": "vacancy-clause-insurance-basics",
+   "kind": "evergreen",
+   "text": "Picture a hypothetical $175,000 rehab loan that closes. The borrower moves out, and the house sits empty during the work. Then a pipe bursts, and the damage is $43,750.\n\nThat is 25 percent of the loan balance. If the policy has a vacancy clause, as many homeowners policies do, the insurer may limit or exclude some losses once the property has been vacant for a stated number of consecutive days. Whether a renovation counts as vacant depends on the policy wording.\n\nLenders can ask for the policy's vacancy wording and whether an endorsement or other coverage fits the project.\n\nvaultedonline.com",
+   "alt": "Bar graphic: a $43,750 water damage claim is 25 percent of an illustrative $175,000 loan. Three cards: a hazard policy may limit or exclude some losses after a stated vacancy period; vandalism, glass and water damage are examples; renovation status depends on policy wording.",
+   "image": "images/2026-11-23/1727-fb-vacancy-clause-insurance-basics.png",
+   "sources": [
+    {
+     "title": "Unoccupied and Vacant Home Insurance: What to Know",
+     "publisher": "NerdWallet",
+     "url": "https://www.nerdwallet.com/article/insurance/unoccupied-vacant-home-insurance",
+     "date": "2026-04-17",
+     "quote": "Many insurance companies will limit coverage for homes that aren't lived in after a certain amount of time, typically 30 or 60 consecutive days. A policy may not pay for damage from the following scenarios if your house is vacant for an extended period: Broken glass; Vandalism; Burst pipes or other water damage."
+    },
+    {
+     "title": "Policy Definitions of Vacancy and Occupancy",
+     "publisher": "PropertyCasualty360 (FC&S, Claims Magazine)",
+     "url": "https://www.propertycasualty360.com/fcs/2021/06/17/policy-definitions-of-vacancy-and-occupancy/",
+     "date": "2021-06-17",
+     "quote": "It bears mention that some older forms use 30 days, so be sure to check your specific policy language. Therefore, a dwelling being renovated can be considered to be vacant."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$175,000",
+     "calc": "illustrative loan amount (assignment)"
+    },
+    {
+     "figure": "$43,750",
+     "calc": "illustrative damage claim (assignment)"
+    },
+    {
+     "figure": "25 percent",
+     "calc": "43750/175000*100 = 25.0"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c8ac72676f5e96be853"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-24T09:15:00-05:00",
+   "topic": "attom-reo-states-h1-2026",
+   "kind": "data",
+   "text": "Repossessions are not rising evenly. In ATTOM's first-half 2026 data, Colorado REOs (properties repossessed by lenders) went from 215 to 595, up 176.7 percent. Florida went from 1,126 to 2,070, up 83.8 percent. Texas went from 2,207 to 3,322, up 50.5 percent.\n\nThese are among states with at least 500 REOs in the first half of 2026. A lender watching only the national trend can miss what is happening where their loans sit.\n\nLenders can compare each state in their portfolio with local data and revisit exit assumptions, such as resale timelines and values.\n\nvaultedonline.com",
+   "alt": "Bar chart of ATTOM first-half REO counts, 2025 vs 2026. Colorado 215 to 595, up 176.7 percent. Florida 1,126 to 2,070, up 83.8 percent. Texas 2,207 to 3,322, up 50.5 percent.",
+   "image": "images/2026-11-24/0915-fb-attom-reo-states-h1-2026.png",
+   "sources": [
+    {
+     "title": "Top 10 U.S. States with the Largest Annual Increases in REOs in the First Half of 2026",
+     "publisher": "ATTOM",
+     "url": "https://www.attomdata.com/news/market-trends/figuresfriday/top-10-u-s-states-with-the-largest-annual-increases-in-reos-in-the-first-half-of-2026/",
+     "date": "2026-07-31",
+     "quote": "Colorado recorded the largest annual increase, with REOs rising 176.7 percent from 215 in the first half of 2025 to 595 in the first half of 2026. Florida followed (up 83.8 percent from 1,126 to 2,070), ... Texas (up 50.5 percent, from 2,207 to 3,322) ... Among states with at least 500 REO properties in the first half of 2026 ... 27,983 U.S. properties were repossessed by lenders (REO)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "176.7 percent",
+     "calc": "round((595/215-1)*100,1)=176.7"
+    },
+    {
+     "figure": "83.8 percent",
+     "calc": "round((2070/1126-1)*100,1)=83.8"
+    },
+    {
+     "figure": "50.5 percent",
+     "calc": "round((3322/2207-1)*100,1)=50.5"
+    },
+    {
+     "figure": "2.767 / 1.838 / 1.505",
+     "calc": "595/215, 2070/1126, 3322/2207 (graphic footnote)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c8acc364169c193d242"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-24T10:21:00-05:00",
+   "topic": "vaulted-dashboard-analytics",
+   "kind": "product",
+   "text": "Interest collected this year is a useful number. By itself it does not show what the loans earn or how much is lent against value.\n\nVaulted dashboard analytics includes a chart of interest collected, plus a rate and an LTV.\n\nThe chart totals the same figure as the Collected This Year tile, so the chart and the headline number agree.\n\nA lender can read what came in, then check the rate and LTV as well. Cash, yield and leverage each answer a different question.",
+   "alt": "Three cards: Interest collected, shown as a chart; Rate, shown as analytics; LTV, shown as analytics. Below them, a bar reads Chart total equals the Collected This Year tile. Takeaway: cash, yield, leverage each answer a different question.",
+   "image": "images/2026-11-24/1021-li-vaulted-dashboard-analytics.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Dashboard analytics (PR #57, Nov 7, deployed `62517a8`): checked live. Both pages show an 11.14% rate and 60.0% LTV, and the chart totals the YTD tile ($99,497.93)."
+    },
+    {
+     "title": "Vaulted product backlog",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "$99,497.93 interest across 18 loans, which matches the dashboard's Collected This Year."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "PR 57, Nov 7 2026",
+     "calc": "graphic footnote reference taken from the backlog quote, no arithmetic"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037caec72676f5e96bf87d"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-24T12:47:00-05:00",
+   "topic": "vaulted-money-to-lend",
+   "kind": "product",
+   "text": "Before funding the next deal, a private lender has two questions to answer. How much money is available to lend? And how are the loans already out there doing?\n\nIn Vaulted, Money to Lend is shown above Portfolio Health. The capital question comes first, and the condition of the existing loans sits right below it.\n\nBoth answers are in view before the next loan is considered. A lender can read what is available to put out, then check the health of what is already out, in that order.\n\nvaultedonline.com",
+   "alt": "Two stacked cards with a down arrow. Card 1, shown first: Money to Lend, the capital question. Card 2, shown below it: Portfolio Health, the condition of the loans already out. Takeaway: capital, then health.",
+   "image": "images/2026-11-24/1247-fb-vaulted-money-to-lend.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Money to Lend above Portfolio Health (PR #59, Nov 7, deployed `f9e9610`)."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "PR 59, Nov 7 2026",
+     "calc": "graphic footnote reference taken from the backlog quote, no arithmetic"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c8bbf5d5a73b6ce7b9a"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-24T17:27:00-05:00",
+   "topic": "loan-extension-request-checklist",
+   "kind": "evergreen",
+   "text": "A borrower asks for more time on a $460,000 loan and offers a 1 percent extension fee, $4,600. Before answering, a lender can review these items, in one sensible order:\n\n1. Value. Current condition and an updated valuation.\n2. Taxes and insurance. Evidence that both are current.\n3. Payment history. Record of performance, plus any delays explained.\n4. Exit plan. A named repayment source, remaining steps and a realistic schedule.\n5. Fee. Last, because $4,600 does not fix weak answers to the first four.\n\nTerms vary by lender.\n\nvaultedonline.com",
+   "alt": "Five numbered check cards for a loan extension request: value, taxes and insurance, payment history, exit plan, and fee. The fee card shows the illustrative math, $460,000 times 1 percent equals $4,600, placed last.",
+   "image": "images/2026-11-24/1727-fb-loan-extension-request-checklist.png",
+   "sources": [
+    {
+     "title": "When Real Estate Loans Need More Time: How Extensions Should Be Evaluated",
+     "publisher": "BiggerPockets (Dan Handford)",
+     "url": "https://www.biggerpockets.com/member-blogs/10864/106843-when-real-estate-loans-need-more-time-how-extensions-should-be-evaluated",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "Current collateral condition and updated value"
+    },
+    {
+     "title": "When Real Estate Loans Need More Time: How Extensions Should Be Evaluated (taxes, insurance)",
+     "publisher": "BiggerPockets (Dan Handford)",
+     "url": "https://www.biggerpockets.com/member-blogs/10864/106843-when-real-estate-loans-need-more-time-how-extensions-should-be-evaluated",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "Evidence of taxes, insurance, and property protection"
+    },
+    {
+     "title": "When Real Estate Loans Need More Time (payment history, repayment path)",
+     "publisher": "BiggerPockets (Dan Handford)",
+     "url": "https://www.biggerpockets.com/member-blogs/10864/106843-when-real-estate-loans-need-more-time-how-extensions-should-be-evaluated",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "The review should also consider payment history, communication quality, execution against the original plan, and obligations outside the specific loan. A credible path to repayment: The lender should identify the expected repayment source, the remaining steps, the responsible parties, and a realistic schedule."
+    },
+    {
+     "title": "SR 23-5: Policy Statement on Prudent Commercial Real Estate Loan Accommodations and Workouts",
+     "publisher": "Federal Reserve Board",
+     "url": "https://WWW.FEDERALRESERVE.GOV/supervisionreg/srletters/SR2305.pdf",
+     "date": "2023-06-30",
+     "quote": "should consider the current project plans and market conditions in a new or updated appraisal or evaluation"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$460,000, 1 percent",
+     "calc": "illustrative inputs chosen for the example"
+    },
+    {
+     "figure": "$4,600",
+     "calc": "460000*1/100 = 4600"
+    },
+    {
+     "figure": "5 checks",
+     "calc": "count of the listed review steps"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c9dd864a01105043dd2"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-25T08:56:00-05:00",
+   "topic": "pmms-nov19-2026",
+   "kind": "data",
+   "text": "Freddie Mac says the 30-year fixed rate averaged 7.28 percent as of November 19, 2026, up from 7.11 percent last week. The 15-year averaged 6.66 percent. A year ago they were 6.26 and 5.54.\n\nIf a borrower assumed last year's 6.26 percent exit rate, that assumption may no longer hold. On an illustrative $445,000, 30-year loan, principal and interest is $2,743 a month at 6.26 percent and $3,045 at 7.28 percent, $302 more.\n\nLenders can re-run the exit payment at a current rate. This survey covers owner-occupied purchase loans and is not a forecast.\n\nvaultedonline.com",
+   "alt": "Freddie Mac weekly averages as of November 19, 2026: 30-year fixed 7.28 percent, up from 7.11 last week and 6.26 a year ago; 15-year 6.66 percent, up from 6.45 and 5.54. Illustrative $445,000 payment: $2,743 at 6.26 percent, $3,045 at 7.28 percent, $302 more a month.",
+   "image": "images/2026-11-25/0856-fb-pmms-nov19-2026.png",
+   "sources": [
+    {
+     "title": "Primary Mortgage Market Survey (30-year)",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "The 30-year fixed-rate mortgage averaged 7.28% as of November 19, 2026, up from last week when it averaged 7.11%. A year ago at this time, the 30-year FRM averaged 6.26%."
+    },
+    {
+     "title": "Primary Mortgage Market Survey (15-year)",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "The 15-year fixed-rate mortgage averaged 6.66%, up from last week when it averaged 6.45%. A year ago at this time, the 15-year FRM averaged 5.54%."
+    },
+    {
+     "title": "Primary Mortgage Market Survey (coverage)",
+     "publisher": "Freddie Mac",
+     "url": "https://www.freddiemac.com/pmms",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "(good/excellent credit, 20% loans, home purchase loans on owner occupied 1-unit single-family properties)"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$445,000, 30 years",
+     "calc": "illustrative loan chosen by author"
+    },
+    {
+     "figure": "$2,743",
+     "calc": "445000*(6.26/1200)/(1-(1+6.26/1200)**-360) = 2742.84"
+    },
+    {
+     "figure": "$3,045",
+     "calc": "445000*(7.28/1200)/(1-(1+7.28/1200)**-360) = 3044.74"
+    },
+    {
+     "figure": "$302",
+     "calc": "3044.74-2742.84 = 301.91"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c9dd864a01105043e1f"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-25T12:47:00-05:00",
+   "topic": "vaulted-doc-retention-one-year",
+   "kind": "product",
+   "text": "A borrower uploads a document through Vaulted. How long does it stay?\n\nFiles sent through a document request are kept for one year after upload. A daily scheduled job then deletes them. If an account is closed, all of its uploaded files are deleted.\n\nAccepted file types are PDF, JPEG, PNG, HEIC, DOCX and XLSX, up to 20 MB, checked by their contents.\n\nFor a lender, that is a retention clock to plan around. Files needed past one year can be saved elsewhere first. Record keeping rules vary by state and by lender.\n\nvaultedonline.com",
+   "alt": "Graphic titled Uploaded today, deleted one year later. A timeline runs from a borrower upload to deletion by the daily scheduled job after one year. Cards list accepted file types PDF, JPEG, PNG, HEIC, DOCX and XLSX up to 20 MB, and note that closing an account deletes all uploaded files.",
+   "image": "images/2026-11-25/1247-fb-vaulted-doc-retention-one-year.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog: Document requests, files kept one year (PR #72, Nov 13) - Files",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Checked by their contents: PDF, JPEG, PNG, HEIC, DOCX and XLSX, up to 20 MB. Deleted one year after upload by the daily cron. Closing an account deletes them all."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "one year",
+     "calc": "taken from source quote: deleted one year after upload by the daily cron; no arithmetic"
+    },
+    {
+     "figure": "20 MB",
+     "calc": "taken from source quote: up to 20 MB; no arithmetic"
+    },
+    {
+     "figure": "PR 72, Nov 13 2026",
+     "calc": "graphic footnote reference from the backlog heading, no arithmetic"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c9ecc364169c193d779"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-25T17:09:00-05:00",
+   "topic": "rental-vacancy-q3-2026",
+   "kind": "data",
+   "text": "The Census Bureau put the U.S. rental vacancy rate at 7.6 percent in the third quarter of 2026, up from 7.3 percent in the second quarter and 7.1 percent a year earlier.\n\nWhy it matters for DSCR: one lender source defines it as gross monthly rent divided by the monthly PITIA payment. Take illustrative rent of $2,000 against a $1,500 payment. That is 1.33. Cut rent by 7.6 percent, or $152 a month, and it is 1.23.\n\nA national rate is not a local one. Lenders can test a deal at a market vacancy rate, not only at full rent.",
+   "alt": "Bar chart of the U.S. rental vacancy rate: 7.1 percent in Q3 2025, 7.3 percent in Q2 2026, 7.6 percent in Q3 2026. Below, an illustrative DSCR test: $2,000 rent over $1,500 PITIA is 1.33, and rent cut by 7.6 percent to $1,848 gives 1.23.",
+   "image": "images/2026-11-25/1709-li-rental-vacancy-q3-2026.png",
+   "sources": [
+    {
+     "title": "Quarterly Residential Vacancies and Homeownership, Third Quarter 2026",
+     "publisher": "U.S. Census Bureau",
+     "url": "https://www.census.gov/housing/hvs/files/qtr326/Q326press.pdf",
+     "date": "2026-10-28",
+     "quote": "National vacancy rates in the third quarter 2026 were 7.6 percent for rental housing and 1.2 percent for homeowner housing. The rental vacancy rate was higher than the rate in the third quarter 2025 (7.1 percent) and higher than the rate in the second quarter 2026 (7.3 percent)."
+    },
+    {
+     "title": "DSCR Loan: What It Is and How It Works",
+     "publisher": "LendingTree",
+     "url": "https://www.lendingtree.com/home/mortgage/dscr-loan/",
+     "date": "2026-11-04",
+     "quote": "DSCR is calculated by dividing a property's gross monthly rental income by its monthly housing payment, known as PITIA."
+    },
+    {
+     "title": "Guide to DSCR Ratio & PITIA in Real Estate",
+     "publisher": "Visio Lending",
+     "url": "https://visiolending.com/blog/dscr",
+     "date": "2021-04-20",
+     "quote": "calculated by dividing the monthly rent by the monthly principal, interest, taxes, insurance, and association dues (PITIA)."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$2,000 rent",
+     "calc": "illustrative input"
+    },
+    {
+     "figure": "$1,500 payment",
+     "calc": "illustrative input"
+    },
+    {
+     "figure": "1.33",
+     "calc": "2000/1500 = 1.3333"
+    },
+    {
+     "figure": "$152",
+     "calc": "2000*0.076 = 152.0"
+    },
+    {
+     "figure": "$1,848",
+     "calc": "2000*(1-0.076) = 1848.0"
+    },
+    {
+     "figure": "1.23",
+     "calc": "1848/1500 = 1.232"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037caecc364169c193de10"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-25T17:27:00-05:00",
+   "topic": "appraisal-staleness-basics",
+   "kind": "evergreen",
+   "text": "A lender gets an appraisal in January. The loan closes in August. Is that value still good?\n\nIt varies by lender. For loans sold to Fannie Mae, the Selling Guide calls for an appraisal update when an appraisal is more than four months old but under 12 months. If the update shows a decline, a new appraisal is required. Federal bank guidelines list passage of time and local market volatility as reasons a new appraisal may be necessary.\n\nIllustrative: $425,000 falling 5 percent becomes $403,750.\n\nLenders can set an age limit and ask for an update.\n\nvaultedonline.com",
+   "alt": "Light graphic titled How old is too old for an appraisal. A bar shows 0 to 4 months, 4 to 12 months with an update, and over 12 months under the Fannie Mae benchmark. Illustrative cards: a $425,000 value falls 5 percent to $403,750, a $21,250 gap.",
+   "image": "images/2026-11-25/1727-fb-appraisal-staleness-basics.png",
+   "sources": [
+    {
+     "title": "B4-1.2-04, Appraisal Age and Use Requirements (06/04/2025)",
+     "publisher": "Fannie Mae Selling Guide",
+     "url": "https://selling-guide.fanniemae.com/sel/b4-1.2-04/appraisal-age-and-use-requirements",
+     "date": "2025-06-04",
+     "quote": "When the effective date of the original appraisal report is more than four months but less than 12 months, the appraiser must perform an appraisal update that includes inspecting the exterior of the property. If the appraiser indicates on the Form 1004D that the property value has declined, then the lender must obtain a new appraisal for the property. When an appraisal is obtained, the property must be appraised within the 12 months prior to the date of the note and mortgage."
+    },
+    {
+     "title": "Interagency Appraisal and Evaluation Guidelines, Section XIV, Validity of Appraisals and Evaluations (Federal Register)",
+     "publisher": "Federal Register / FDIC, OCC, Federal Reserve, NCUA",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2010-12-10/html/2010-30913.htm",
+     "date": "2010-12-10",
+     "quote": "A new appraisal or evaluation is necessary if the originally reported market value has changed due to factors such as: Passage of time. Volatility of the local market. Such criteria will vary depending upon the condition of the property and the marketplace, and the nature of the transaction."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$425,000",
+     "calc": "illustrative appraised value chosen by author"
+    },
+    {
+     "figure": "5 percent",
+     "calc": "illustrative decline chosen by author"
+    },
+    {
+     "figure": "$403,750",
+     "calc": "425000*95//100 = 403750"
+    },
+    {
+     "figure": "$21,250",
+     "calc": "425000-403750 = 21250 (graphic only)"
+    },
+    {
+     "figure": "January / August",
+     "calc": "illustrative timeline, 7 months apart (between 4 and 12)"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c9ed864a01105043eb1"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-26T08:25:00-05:00",
+   "topic": "bridge-to-perm-conversion-basics",
+   "kind": "evergreen",
+   "text": "A 12 month bridge loan ends with a payoff. Can the permanent loan cover it?\n\nLenders can test the takeout first. Value: One source says a low appraisal reduces a DSCR loan, capped at 75 percent of appraised value. A hypothetical $430,000 appraisal gives $322,500. A $335,000 payoff leaves a $12,500 gap.\n\nCoverage: DSCR is gross monthly rent divided by monthly PITIA. $2,650 over $2,850 is 0.93. One source says most DSCR lenders require at least 1.00.\n\nLease: One source says a month to month tenant or family member lease does not satisfy most DSCR lenders.\n\nCutoffs vary.\n\nvaultedonline.com",
+   "alt": "Three checks on a bridge loan takeout. Value test: $430,000 appraisal x 75 percent = $322,500, leaving a $12,500 gap against a $335,000 payoff. Coverage test: $2,650 rent / $2,850 PITIA = 0.93, below 1.00. Lease: month to month leases do not satisfy most DSCR lenders. Illustrative.",
+   "image": "images/2026-11-26/0825-fb-bridge-to-perm-conversion-basics.png",
+   "sources": [
+    {
+     "title": "Bridge to DSCR Refinance Playbook",
+     "publisher": "Peersense",
+     "url": "https://peersense.com/learn/bridge-to-dscr-refinance",
+     "date": "2026-05-16",
+     "quote": "Low appraisal reduces DSCR loan amount (capped at 75% of appraised value)."
+    },
+    {
+     "title": "Bridge to DSCR Refinance Playbook",
+     "publisher": "Peersense",
+     "url": "https://peersense.com/learn/bridge-to-dscr-refinance",
+     "date": "2026-05-16",
+     "quote": "Month to month tenant or family member lease doesn't satisfy most DSCR lenders."
+    },
+    {
+     "title": "DSCR Refinance Readiness: Exiting a Bridge Loan",
+     "publisher": "Ascension Private",
+     "url": "https://ascensionprivate.com/dscr-refinance-readiness/",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "Most DSCR lenders require a minimum ratio of 1.00, with 1.20 or higher unlocking better rates and higher LTV."
+    },
+    {
+     "title": "DSCR Refinance Readiness: Exiting a Bridge Loan",
+     "publisher": "Ascension Private",
+     "url": "https://ascensionprivate.com/dscr-refinance-readiness/",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "DSCR = Gross Monthly Rent \u00f7 Monthly PITIA"
+    },
+    {
+     "title": "DSCR Loans Explained: The Investor's Guide",
+     "publisher": "HardMoneyHome",
+     "url": "https://www.hardmoneyhome.com/blog/dscr-loans-explained-the-investors-guide-to-debt-service-coverage-ratio-loans/",
+     "date": "2026-08-21",
+     "quote": "DSCR = monthly rent \u00f7 monthly PITIA (principal, interest, taxes, insurance, and association dues)."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$430,000",
+     "calc": "illustrative appraised value"
+    },
+    {
+     "figure": "$335,000",
+     "calc": "illustrative bridge payoff"
+    },
+    {
+     "figure": "12 month",
+     "calc": "illustrative bridge term"
+    },
+    {
+     "figure": "$322,500",
+     "calc": "430000*0.75 = 322500"
+    },
+    {
+     "figure": "$12,500",
+     "calc": "335000-322500 = 12500"
+    },
+    {
+     "figure": "$2,650",
+     "calc": "illustrative monthly gross rent"
+    },
+    {
+     "figure": "$2,850",
+     "calc": "illustrative monthly PITIA"
+    },
+    {
+     "figure": "0.93",
+     "calc": "round(2650/2850,2) = 0.93"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037c9fd864a01105043f00"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-26T12:47:00-05:00",
+   "topic": "borrower-reporting-covenants-basics",
+   "kind": "evergreen",
+   "text": "Can a lender require a borrower to send documents after closing? A loan agreement can, through a reporting covenant.\n\nLaw firm and bank sources describe affirmative covenants as promises to deliver financial statements, pay taxes and maintain insurance. One bank guide names quarterly financial statements or tax reports.\n\nAn illustrative schedule a lender can write down:\n\nQuarterly statements, due 25 days after quarter end\nAnnual tax returns\nInsurance renewal proof before expiry\n\nA named document and a date make a request checkable. Terms vary by lender.\n\nvaultedonline.com",
+   "alt": "Three cards show an illustrative borrower reporting schedule: quarterly financial statements due 25 days after quarter end, annual tax returns, and proof of insurance renewal before expiry. Takeaway: a named document and a date make a request checkable.",
+   "image": "images/2026-11-26/1247-fb-borrower-reporting-covenants-basics.png",
+   "sources": [
+    {
+     "title": "Negotiating Loan Documents for Borrowers - Part V",
+     "publisher": "Olshan",
+     "url": "https://www.olshanlaw.com/blogs-Securities-Law-Blog,negotiating-loan-documents-for-borrowers-part-v",
+     "date": "2020-06-16",
+     "quote": "Examples of affirmative covenants include promises to deliver financial statements to the lender, pay taxes, maintain insurance"
+    },
+    {
+     "title": "Understanding loan covenants",
+     "publisher": "Truist",
+     "url": "https://truist.com/resources/commercial-corporate-institutional/financing/articles/understanding-loan-covenants",
+     "date": "2026-07-31",
+     "quote": "Qualitative covenants specify information that your company must provide, like quarterly financial statements or tax reports."
+    },
+    {
+     "title": "Negotiating the Loan Agreement",
+     "publisher": "American Bar Association",
+     "url": "https://www.americanbar.org/groups/business_law/resources/business-law-today/2011-may/negotiating-the-loan-agreement/",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "The loan agreement will invariably require quarterly unaudited income statements and balance sheets"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "25 days",
+     "calc": "illustrative due date after quarter end, chosen by author"
+    },
+    {
+     "figure": "3",
+     "calc": "count of illustrative schedule items: quarterly statements, annual tax returns, insurance renewal proof"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b044455f3aecf260a9a5cea"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-26T15:40:00-05:00",
+   "topic": "servicing-transfer-notice-basics",
+   "kind": "evergreen",
+   "text": "A private loan is sold or its servicing moves. What must the borrower be told?\n\nFor covered consumer mortgage loans, Regulation X usually requires the outgoing servicer to give notice at least 15 days before a servicing transfer. The new servicer gives its own within 15 days after. Truth in Lending separately requires a new owner to notify the borrower within 30 days of a sale.\n\nRegulation X exempts business purpose loans, and Truth in Lending generally does too. State rules vary.\n\nConfirm loan purpose first, then check state law and the note with counsel. Not legal advice.",
+   "alt": "Timeline graphic of servicing transfer notices: the outgoing servicer notice at least 15 days before transfer, the new servicer notice within 15 days after, and a new owner notice within 30 days of a sale. A card notes business purpose loans are exempt from Regulation X.",
+   "image": "images/2026-11-26/1540-li-servicing-transfer-notice-basics.png",
+   "sources": [
+    {
+     "title": "12 CFR 1024.33 Mortgage servicing transfers",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/rules-policy/regulations/1024/33/",
+     "date": "2026-11-22",
+     "quote": "not less than 15 days before the effective date of the transfer"
+    },
+    {
+     "title": "12 CFR 1024.33 Mortgage servicing transfers",
+     "publisher": "Cornell Legal Information Institute",
+     "url": "https://www.law.cornell.edu/cfr/text/12/1024.33",
+     "date": "2026-11-22",
+     "quote": "The transferee servicer shall provide the notice of transfer to the borrower not more than 15 days after the effective date of the transfer."
+    },
+    {
+     "title": "12 CFR 1024.5 Coverage of RESPA",
+     "publisher": "eCFR",
+     "url": "https://www.ecfr.gov/current/title-12/chapter-X/part-1024/subpart-A/section-1024.5",
+     "date": "2026-10-23",
+     "quote": "(2) Business purpose loans. An extension of credit primarily for a business, commercial, or agricultural purpose, as defined by 12 CFR 1026.3(a)(1) of Regulation Z."
+    },
+    {
+     "title": "15 U.S. Code 1641 Liability of assignees",
+     "publisher": "Cornell Legal Information Institute",
+     "url": "https://www.law.cornell.edu/uscode/text/15/1641",
+     "date": "2026-11-22",
+     "quote": "not later than 30 days after the date on which a mortgage loan is sold or otherwise transferred or assigned to a third party, the creditor that is the new owner or assignee of the debt shall notify the borrower in writing of such transfer"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "15 days, 30 days",
+     "calc": "quoted regulatory figures, no arithmetic; timeline positions on graphic are -15, 0, +15, +30 days"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037cafd864a01105044542"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-26T17:27:00-05:00",
+   "topic": "interest-rate-floor-basics",
+   "kind": "evergreen",
+   "text": "A hypothetical $540,000 interest-only loan is priced at prime plus 4 percent, with an 11.5 percent floor. What happens if prime falls?\n\nA rate floor limits how low an adjustable rate can drop. Illustrative primes:\n\nPrime 7.75 percent: rate 11.75 percent.\nPrime 6.75 percent: formula 10.75, floor sets 11.5 percent.\nPrime 5.75 percent: formula 9.75, floor sets 11.5 percent.\n\nAt 11.5 percent, monthly interest is $5,175.00. At the 9.75 percent formula rate it would be $4,387.50. The floor keeps interest $787.50 a month above the formula rate.\n\nLenders can confirm whether a note has a floor.\n\nvaultedonline.com",
+   "alt": "Table of an illustrative $540,000 interest-only loan priced at prime plus 4 percent with an 11.5 percent floor. Prime 7.75 gives 11.75 percent; prime 6.75 and 5.75 give 11.50 percent because the floor applies. Monthly interest is $5,175.00 at the floor versus $4,387.50 at 9.75 percent.",
+   "image": "images/2026-11-26/1727-fb-interest-rate-floor-basics.png",
+   "sources": [
+    {
+     "title": "Interest rate floor: Definition and how it works",
+     "publisher": "Rocket Mortgage",
+     "url": "https://www.rocketmortgage.com/learn/interest-rate-floor",
+     "date": "2026-05-01",
+     "quote": "An interest rate floor is the lowest interest rate that your adjustable-rate mortgage can have once its rate begins to adjust. A rate floor places a limit on how low the loan\u2019s rate can drop."
+    },
+    {
+     "title": "Interest rate floor (glossary)",
+     "publisher": "LendingTree",
+     "url": "https://www.lendingtree.com/glossary/interest-rate-floor/",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "An interest rate floor is the minimum interest rate possible for anadjustable rate mortgage."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$540,000, prime plus 4 percent, 11.5 percent floor, primes 7.75/6.75/5.75",
+     "calc": "illustrative inputs chosen by author"
+    },
+    {
+     "figure": "11.75 / 10.75 / 9.75 percent formula rates",
+     "calc": "[p+4 for p in (7.75,6.75,5.75)] = [11.75,10.75,9.75]"
+    },
+    {
+     "figure": "11.5 percent charged at primes 6.75 and 5.75",
+     "calc": "max(10.75,11.5)=11.5; max(9.75,11.5)=11.5"
+    },
+    {
+     "figure": "$5,175.00",
+     "calc": "540000*0.115/12 = 5175.0"
+    },
+    {
+     "figure": "$4,387.50",
+     "calc": "540000*0.0975/12 = 4387.5"
+    },
+    {
+     "figure": "$787.50",
+     "calc": "5175.0-4387.5 = 787.5"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b0595a0dc114f12a67018e3"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-27T08:00:00-05:00",
+   "topic": "note-custody-original-note-basics",
+   "kind": "evergreen",
+   "text": "Where is the original signed note right now?\n\nThe note is the borrower's written promise to repay. If a lender loses a note it was entitled to enforce, UCC 3-309 may let it enforce anyway, but it must prove the note's terms and its right to enforce. The court must also find the borrower is adequately protected against a claim by someone else.\n\nIn North Carolina, a lost note affidavit can attest to the loss and the terms. Rules vary by state.\n\nLenders can log where each original is held.\n\nvaultedonline.com",
+   "alt": "Three step cards from UCC 3-309 on what a lender without the original note must show: it was entitled to enforce when possession was lost, the loss was not a transfer or lawful seizure, and the note cannot be recovered. It must then prove the note terms and right to enforce.",
+   "image": "images/2026-11-27/0800-fb-note-custody-original-note-basics.png",
+   "sources": [
+    {
+     "title": "UCC 3-309. Enforcement of lost, destroyed, or stolen instrument",
+     "publisher": "Cornell Law School Legal Information Institute",
+     "url": "https://law.cornell.edu/ucc/3/3-309",
+     "date": "2026-11-22 (accessed; page undated)",
+     "quote": "A person seeking enforcement of an instrument under subsection (a) must prove the terms of the instrument and the person's right to enforce the instrument. The court may not enter judgment in favor of the person seeking enforcement unless it finds that the person required to pay the instrument is adequately protected against loss that might occur by reason of a claim by another person to enforce the instrument."
+    },
+    {
+     "title": "Dude, Where's My Note?",
+     "publisher": "UNC School of Government (Meredith Smith)",
+     "url": "https://civil.sog.unc.edu/?p=185",
+     "date": "2018-10-02",
+     "quote": "A person not in possession of the note who is entitled to enforce a lost, stolen or destroyed note pursuant to G.S. 25-3-309"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "3 cards (3-309(a)(1) to (3))",
+     "calc": "count of conditions in UCC 3-309(a): entitled when lost / not transfer or seizure / cannot reasonably obtain possession"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b06e7513b100906e758a5cc"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-27T12:47:00-05:00",
+   "topic": "vaulted-closing-condition-templates",
+   "kind": "product",
+   "text": "Is the insurance binder in? Who is chasing the appraisal? A lender can write the standard closing questions down once, then reuse them.\n\nIn Vaulted, a closing checklist is kept per loan, and each item has an owner. A template can be saved for all loans, so a standard list does not have to be retyped for every new one.\n\nMoving a loan's stage past an open blocking condition is stopped with a list of what is open. The lender can still choose \"Move anyway\".\n\nRequirements vary by lender.\n\nvaultedonline.com",
+   "alt": "Illustrative closing condition template: four conditions with owners (appraisal report, appraiser; entity documents, borrower; insurance binder, insurance agent; title commitment, title company). Notes: a per-loan checklist with an owner for each item, and a template that can be saved for all loans.",
+   "image": "images/2026-11-27/1247-fb-vaulted-closing-condition-templates.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog, Shipped: Closing conditions (#71)",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "A per-loan checklist with an owner for each item. A template can be saved for all loans."
+    },
+    {
+     "title": "Vaulted product backlog, Shipped: Closing conditions (#71)",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Moving a loan's stage past an open blocking condition is stopped with a list of what's open, and the lender can choose \"Move anyway\"."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "four example conditions and owners (appraisal report, entity documents, insurance binder, title commitment)",
+     "calc": "illustrative inputs chosen by author; no arithmetic"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b06e7529bfb1fde5bcba572"
+  },
+  {
+   "channel": "li",
+   "slot_local": "2026-11-27T14:00:00-05:00",
+   "topic": "vaulted-ein-business-only",
+   "kind": "product",
+   "text": "Collecting a tax ID from a borrower sounds routine. It is also the part of a loan file nobody wants spread across email and shared folders.\n\nIn Vaulted, tax IDs are handled narrowly. An EIN is accepted only with an entity type, and an SSN-shaped number is refused. Only the last 4 are shown, and only the owner can see them. Document fields, the term sheet reader and the apply page refuse every tax ID.\n\nLenders can ask where a full tax ID really needs to live, and keep it out of general loan fields.",
+   "alt": "Graphic titled EINs for businesses only, with the last 4 shown. Four cards: an EIN is accepted only with an entity type, SSN-shaped numbers are refused, only the last 4 are shown and only to the owner, and document fields, the term sheet reader and the apply page refuse every tax ID.",
+   "image": "images/2026-11-27/1400-li-vaulted-ein-business-only.png",
+   "sources": [
+    {
+     "title": "Vaulted product backlog: Year-end tax figures, EINs for businesses only (PR #68, Nov 12) - EINs",
+     "publisher": "Vaulted (vaultedonline.com)",
+     "url": "https://vaultedonline.com",
+     "date": "2026-11-15",
+     "quote": "Accepted only with an entity type; SSN-shaped numbers are refused. AES-256-GCM encrypted (`TAX_ID_ENCRYPTION_KEY`), with only the last 4 shown. Owner-only, enforced by a guard test. Document fields, the term-sheet reader and the apply page still refuse every tax ID."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "last 4",
+     "calc": "taken from source quote: only the last 4 shown; no arithmetic"
+    },
+    {
+     "figure": "PR 68, Nov 12 2026",
+     "calc": "graphic footnote reference from the backlog heading, no arithmetic"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b037cb0d5eabfb8cceb444b"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-27T17:27:00-05:00",
+   "topic": "short-sale-basics-lender-view",
+   "kind": "evergreen",
+   "text": "A borrower stops paying. Payoff is $255,000. A buyer offers $215,000. Does the lender say yes?\n\nThat is a short sale: the lender agrees to a sale below the loan balance. The shortfall here is $40,000. Whether the borrower still owes it varies by state and by the lender agreement.\n\nThe alternative is foreclosure. A Federal Reserve Bank of Philadelphia paper found short sales sold for 9.2 to 10.5 percent more on average, and notes longer foreclosure timelines can raise lender costs.\n\nLenders can weigh the offer against the full cost and time of foreclosing.\n\nvaultedonline.com",
+   "alt": "Bar chart of an illustrative short sale: a $255,000 loan payoff versus a $215,000 buyer offer, leaving a $40,000 shortfall. Two cards compare a short sale, which needs lender approval, with foreclosure, which may add carrying costs.",
+   "image": "images/2026-11-27/1727-fb-short-sale-basics-lender-view.png",
+   "sources": [
+    {
+     "title": "What is a short sale?",
+     "publisher": "Consumer Financial Protection Bureau",
+     "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-short-sale-en-290/",
+     "date": "2024-02-02",
+     "quote": "A short sale, which is a type of loss mitigation, is a sale of your home for less than what you owe on your mortgage."
+    },
+    {
+     "title": "What Is a Short Sale and How Does It Work?",
+     "publisher": "Freddie Mac",
+     "url": "https://myhome.freddiemac.com//blog/selling/what-is-a-short-sale-and-how-does-it-work",
+     "date": "2025-10-13",
+     "quote": "A short sale occurs when a homeowner sells their home for an amount less than the full amount owed on the mortgage. The process can only begin with the approval of your mortgage lender. You may be required to pay the difference between that price and the remaining balance on your mortgage."
+    },
+    {
+     "title": "A Shortage of Short Sales: Explaining the Underutilization of a Foreclosure Alternative (WP 19-13)",
+     "publisher": "Federal Reserve Bank of Philadelphia",
+     "url": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-13.pdf",
+     "date": "2019-02-01",
+     "quote": "homes selling as short sales transact at 9.2% to 10.5% higher prices on average than those that sell after foreclosure. Longer foreclosure timelines increase costs for lenders because they may have to cover missed property taxes, hazard insurance, and homeowner association payments."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$255,000",
+     "calc": "illustrative loan payoff chosen by author"
+    },
+    {
+     "figure": "$215,000",
+     "calc": "illustrative buyer offer chosen by author"
+    },
+    {
+     "figure": "$40,000",
+     "calc": "255000 - 215000 = 40000"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b0838aef0d87308ee4c2ae1"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-28T09:32:00-05:00",
+   "topic": "borrower-credit-score-use-private-lending",
+   "kind": "evergreen",
+   "text": "Does a 550 credit score end a hard money deal?\n\nNot automatically. NerdWallet, on hard money business loans, says requirements are \"largely based on the value of your collateral\" and that lenders do not typically weigh credit score as heavily. Point says the biggest factor is not credit score but skin in the game, and that some lenders prefer a FICO of 550 or higher.\n\nFor rehab loans, Point adds that lenders often require a certain level of experience.\n\nA lender can decide how much collateral, equity, experience and credit each count. That mix varies by lender.\n\nvaultedonline.com",
+   "alt": "Four cards on what hard money guides say lenders weigh: collateral value, skin in the game, experience on rehab loans, and credit score, where a FICO of 550 or higher is preferred by some lenders. Weights vary by lender.",
+   "image": "images/2026-11-28/0932-fb-borrower-credit-score-use-private-lending.png",
+   "sources": [
+    {
+     "title": "Hard Money Business Loans: What They Are and When to Get One",
+     "publisher": "NerdWallet",
+     "url": "https://www.nerdwallet.com/business/loans/learn/hard-money-business-loans",
+     "date": "2026-03-10",
+     "quote": "Hard money business loan requirements are largely based on the value of your collateral. ... they don't typically weigh these factors as heavily when underwriting your application."
+    },
+    {
+     "title": "Hard Money Loan Requirements",
+     "publisher": "Point",
+     "url": "https://point.com/blog/hard-money-loan-requirements",
+     "date": "2025-09-22",
+     "quote": "When it comes to qualifying for a hard money loan, the biggest factor isn't your credit score \u2014 it's your skin in the game. The minimum credit score is usually flexible, but a FICO score of 550 or higher is preferred by some lenders. Hard money lenders often require a certain level of experience if the intended use is to rehab distressed properties."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "word count",
+     "calc": "len(body.split()) excluding final line = 92"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b0838af97cc1e20801f537e"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-28T13:47:00-05:00",
+   "topic": "title-endorsements-basics",
+   "kind": "evergreen",
+   "text": "A title policy covers what it says, and an endorsement changes that. It is an addition to or limitation of coverage attached to the policy.\n\nThree add-ons a lender can ask about:\n\nSurvey: covers a difference between the insured land and a survey. It generally needs an ALTA survey.\n\nAccess: without it, a policy does not insure a particular means of access.\n\nComprehensive: can cover items like restriction violations and encroachments, depending on the version.\n\nAvailability and wording vary by state and title company. Lenders can ask the title company which endorsements fit the property.\n\nvaultedonline.com",
+   "alt": "Graphic titled Title endorsements, add-ons to the base policy. Three rows: Survey (ALTA 25, same as survey), Access (ALTA 17, vehicular and pedestrian access), Comprehensive (ALTA 9 series, restrictions and encroachments). Takeaway: lenders can ask the title company which endorsements fit the property.",
+   "image": "images/2026-11-28/1347-fb-title-endorsements-basics.png",
+   "sources": [
+    {
+     "title": "Title Endorsement Basics",
+     "publisher": "Williams Mullen",
+     "url": "https://williamsmullen.com/insights/news/legal-news/title-endorsement-basics-0",
+     "date": "2024-11-18",
+     "quote": "A title endorsement is an addition to or limitation of title insurance coverage that is attached to a title insurance policy. Without ALTA Endorsement 17-06, a policy does not insure a particular means of access. offers a variety of coverages related to the divestment of mortgage liens, violations of restrictions and encroachments. commonly known as the \u201cComprehensive Endorsement\u201d"
+    },
+    {
+     "title": "Title Policy Endorsements 101",
+     "publisher": "American Association of Private Lenders",
+     "url": "https://aaplonline.com/articles/legal/title-policy-endorsements-101/",
+     "date": "2020-11-06",
+     "quote": "Generally, the lender will be required to obtain an ALTA survey of the property to obtain this endorsement. ALTA 25 endorsements provide coverage for loss or damage due to a difference in the land insured in the policy. These endorsements should be considered when there is concern about access to the property. ALTA 9 is an endorsement that provides coverage for unrecorded covenants, notices, encroachments, or setbacks at the property."
+    },
+    {
+     "title": "ALTA Endorsements Guide",
+     "publisher": "Old Republic Title",
+     "url": "https://media.oldrepublictitle.com/ebook/alta-endorsement-guide/files/basic-html/page2.html",
+     "date": "2026-03-01",
+     "quote": "Endorsements are attached to the standard ALTA Owner\u2019s or Loan Policy and are designed to insure risks not covered in the standard policies."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "ALTA 25 / 17 / 9",
+     "calc": "series labels from AAPL quote (ALTA 25, ALTA 17, ALTA 9); no arithmetic, no example amounts used"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b0838b097cc1e20801f53a5"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-28T17:27:00-05:00",
+   "topic": "reo-holding-cost-basics",
+   "kind": "evergreen",
+   "text": "A lender takes back a property at foreclosure. Now the lender owns the bills.\n\nFederal Reserve guidance for banks on foreclosed property lists property taxes, insurance, utilities kept at a level that preserves the property, and maintenance. FDIC guidance says taxes should be paid in a timely manner to avoid penalties and interest.\n\nIllustrative monthly costs: taxes $540, insurance $310, utilities $180, upkeep $150. That is $1,180 a month, or $7,080 over six months.\n\nLenders can add holding costs to the resale timeline and price.\n\nvaultedonline.com",
+   "alt": "Bar chart of illustrative monthly holding costs on a foreclosed property: property taxes $540, insurance $310, utilities $180, upkeep $150. Totals: $1,180 a month and $7,080 over six months.",
+   "image": "images/2026-11-28/1727-fb-reo-holding-cost-basics.png",
+   "sources": [
+    {
+     "title": "Questions and Answers Related to the Management of Other Real Estate Owned Assets (SR-12-10)",
+     "publisher": "Federal Reserve Board",
+     "url": "https://www.federalreserve.gov/frrs/guidance/qas-for-federal-reserve-regulated-institutions-related-to-the-management-of-other-real-estate-owned-assets.htm",
+     "date": "2026-11-22",
+     "quote": "Adjusting utility services to a level appropriate to preserve the property; ... real estate taxes and insurance would be expensed if the institution is merely holding the property for future sale. (page undated, accessed 2026-11-22; FAQ dated June 28, 2012). Also: Operating expenses include, but are not limited to, legal fees and direct costs incurred for foreclosure, property maintenance, and state and local government assessments."
+    },
+    {
+     "title": "Other Real Estate Owned guidance",
+     "publisher": "FDIC",
+     "url": "https://www.fdic.gov/news/financial-institution-letters/2008/fil08062a.html",
+     "date": "2024-03-24",
+     "quote": "Taxes on ORE should be paid in a timely manner to avoid unnecessary penalties and interest."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "$540, $310, $180, $150",
+     "calc": "illustrative monthly property taxes, insurance, utilities, upkeep chosen by author"
+    },
+    {
+     "figure": "$1,180",
+     "calc": "540+310+180+150 = 1180"
+    },
+    {
+     "figure": "$7,080",
+     "calc": "1180*6 = 7080"
+    },
+    {
+     "figure": "six months",
+     "calc": "illustrative holding period"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b0838b080ee2e8b667fef17"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-29T10:15:00-05:00",
+   "topic": "default-notice-cure-period-basics",
+   "kind": "evergreen",
+   "text": "A borrower misses a payment. Can the lender start remedies right away? Notice and cure requirements may apply first.\n\nA notice of default is a formal written statement that a borrower has not met an obligation. It warns that remedies may follow if the default is not cured.\n\nThe cure period is the window to fix it. Illustrative: 15 days to pay the missed amount. Pay inside it and the default may be cured. Miss it, and remedies may follow.\n\nCure periods vary by transaction and loan documents, and state law may matter. Counsel can review both first.\n\nvaultedonline.com",
+   "alt": "Four step timeline: payment missed, notice of default, an illustrative 15 day cure window, then cured or not cured. Takeaway: cure periods vary by state and by loan documents, so lenders can read both before sending a notice.",
+   "image": "images/2026-11-29/1015-fb-default-notice-cure-period-basics.png",
+   "sources": [
+    {
+     "title": "Notice of default",
+     "publisher": "Cornell Legal Information Institute (Wex)",
+     "url": "https://www.law.cornell.edu/wex/notice_of_default",
+     "date": "2025-09-01",
+     "quote": "It warns that remedies under law or under the contract may follow if the default is not cured."
+    },
+    {
+     "title": "What just happened: a default or an event of default?",
+     "publisher": "Reed Smith",
+     "url": "https://www.reedsmith.com/our-insights/blogs/real-estate-legal-update/102mm62/what-just-happened-a-default-or-an-event-of-default/",
+     "date": "2026-03-06",
+     "quote": "the duration of any applicable cure periods can vary significantly from transaction to transaction. ... additional notice requirements or other conditions precedent may intervene before remedies become available."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "15 days",
+     "calc": "illustrative cure period chosen by author (10 days avoided: used in ledger payoff-statement-per-diem 2026-10-17)"
+    },
+    {
+     "figure": "word count",
+     "calc": "len(body.split()) = 99"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b0838b1e1a214b89bdb3a30"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-29T13:47:00-05:00",
+   "topic": "lien-search-vs-title-search-basics",
+   "kind": "evergreen",
+   "text": "Three terms that sound alike are different things.\n\nA lien search looks for claims against a property. A title search reviews public records to confirm the legal owner and identify issues. A title commitment is a promise that the title insurance policy will be issued at closing.\n\nOne gap to know about: a traditional title search finds recorded liens only. A municipal lien search can find unrecorded items such as code violations and special assessments.\n\nLenders can ask the title company what was searched, and whether a municipal lien search fits the deal. Scope varies by state and lender.\n\nvaultedonline.com",
+   "alt": "Three cards compare a lien search (looks for legal claims against a property), a title search (reviews public records to confirm the legal owner and identify issues) and a title commitment (a promise a title policy will be issued at closing), plus a note that a traditional title search only locates recorded liens.",
+   "image": "images/2026-11-29/1347-fb-lien-search-vs-title-search-basics.png",
+   "sources": [
+    {
+     "title": "The Difference Between Residential and Commercial Lien Searches",
+     "publisher": "Commercial Partners (CTIC)",
+     "url": "https://commercialpartners.ctic.com/blog/the-difference-between-residential-and-commercial-lien-searches",
+     "date": "2026-03-11",
+     "quote": "Liens are legal claims against an individual or a property to secure a debt that is owed."
+    },
+    {
+     "title": "Property title search: How does it work?",
+     "publisher": "Rocket Mortgage",
+     "url": "https://www.rocketmortgage.com/learn/title-search",
+     "date": "2026-07-17",
+     "quote": "A title search is a review of public records used to confirm a property's legal owner and identify issues"
+    },
+    {
+     "title": "What Is a Title Commitment?",
+     "publisher": "Ownerly",
+     "url": "https://www.ownerly.com/real-estate/what-is-a-title-commitment/",
+     "date": "2021-06-17",
+     "quote": "The title commitment is a promise that the title insurance policy will be issued at closing."
+    },
+    {
+     "title": "Property title search: how to find recorded and unrecorded liens on a house",
+     "publisher": "PropLogix",
+     "url": "https://www.proplogix.com/blog/property-title-search-how-to-find-recorded-and-unrecorded-liens-on-a-house/",
+     "date": "2026-01-20",
+     "quote": "Additionally, this type of search will only tell you about recorded liens."
+    },
+    {
+     "title": "What is a municipal lien search and why do I need it",
+     "publisher": "Wolters Kluwer",
+     "url": "https://www.wolterskluwer.com/en/expert-insights/what-is-a-municipal-lien-search-and-why-do-i-need-it",
+     "date": "2024-05-17",
+     "quote": "goes beyond the traditional title search, which only locates recorded liens on a property."
+    }
+   ],
+   "derived": [
+    {
+     "figure": "word count 99 (excluding final line)",
+     "calc": "len(body.split()) = 99"
+    },
+    {
+     "figure": "no example numbers",
+     "calc": "no illustrative or computed figures used"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b098a13015034238d2dc379"
+  },
+  {
+   "channel": "fb",
+   "slot_local": "2026-11-29T17:27:00-05:00",
+   "topic": "year-end-portfolio-review-checklist",
+   "kind": "evergreen",
+   "text": "A lender holds 24 loans. Six mature within 90 days. Would a year-end review catch them?\n\nNCUA examiner guidance for credit unions says systems should \"identify and report maturing loans,\" and that a lender should contact the borrower before maturity. It also lists paid property taxes. Abrigo lists insurance renewal due dates among items to track.\n\nA year-end list:\n\n1. Maturities in the next 90 days: 6 of 24 here\n2. Insurance expirations\n3. Property tax status\n4. Late payers\n5. Extension requests\n\nStarting in December may leave time to call borrowers first. Process varies by lender.\n\nvaultedonline.com",
+   "alt": "Grid of 24 numbered loan tiles with 6 highlighted in gold as maturing in the next 90 days (illustrative), beside five checklist cards: maturities, insurance, property taxes, late payers, extensions.",
+   "image": "images/2026-11-29/1727-fb-year-end-portfolio-review-checklist.png",
+   "sources": [
+    {
+     "title": "Commercial Loan Administration (Examiner's Guide)",
+     "publisher": "NCUA",
+     "url": "https://publishedguides.ncua.gov/examiner/Content/ExaminersGuide/Loans/Commercial&MBL/CommLoanAdmin/Administration.htm",
+     "date": "2021-10-14",
+     "quote": "A credit union's systems should be sufficient to identify and report maturing loans."
+    },
+    {
+     "title": "Commercial Loan Administration (Examiner's Guide)",
+     "publisher": "NCUA",
+     "url": "https://publishedguides.ncua.gov/examiner/Content/ExaminersGuide/Loans/Commercial&MBL/CommLoanAdmin/Administration.htm",
+     "date": "2021-10-14",
+     "quote": "The credit union should contact a borrower before a loan matures to determine the borrower's intentions regarding the loan"
+    },
+    {
+     "title": "Commercial Loan Administration (Examiner's Guide)",
+     "publisher": "NCUA",
+     "url": "https://publishedguides.ncua.gov/examiner/Content/ExaminersGuide/Loans/Commercial&MBL/CommLoanAdmin/Administration.htm",
+     "date": "2021-10-14",
+     "quote": "Paid property taxes to avoid tax liens which, in most jurisdictions, supersede a credit union's lien;"
+    },
+    {
+     "title": "After the Closing: A Recipe for Sound Loan Administration",
+     "publisher": "Abrigo",
+     "url": "https://www.abrigo.com/blog/after-the-closing-a-recipe-for-sound-loan-administration/",
+     "date": "2019-07-03",
+     "quote": "Insurance renewal due dates, file-review deadlines and financial reports that are required by the loan agreement"
+    }
+   ],
+   "derived": [
+    {
+     "figure": "24 loans",
+     "calc": "illustrative input"
+    },
+    {
+     "figure": "6 maturing (Six)",
+     "calc": "illustrative input"
+    },
+    {
+     "figure": "90 days",
+     "calc": "illustrative window for next-maturities list"
+    },
+    {
+     "figure": "18",
+     "calc": "24 - 6 = 18 (not maturing)"
+    },
+    {
+     "figure": "5 lists",
+     "calc": "count of checklist items"
+    },
+    {
+     "figure": "Q1",
+     "calc": "first quarter label"
+    }
+   ],
+   "status": "queued",
+   "buffer_id": "6b098a1332c212878fd3f69b"
+  }
+ ]
 }
